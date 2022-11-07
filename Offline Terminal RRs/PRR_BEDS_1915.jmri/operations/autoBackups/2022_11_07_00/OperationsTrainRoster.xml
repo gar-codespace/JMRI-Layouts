@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xml/XSLT/operations-trains.xsl" type="text/xsl"?>
+<!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-trains.dtd">
+<operations-config>
+  <!--Written by JMRI version 4.23.9ish+jenkins+20210712T0408Z+Rdcfe6623b5 on Thu Jul 15 14:11:04 PDT 2021-->
+  <options>
+    <trainOptions buildMessages="true" buildReport="false" printPreview="true" openFile="false" runFile="false" trainAction="Reset" />
+    <conductorOptions showHyphenName="false" />
+    <rowColorOptions rowColorManual="true" rowColorBuidFailed="" rowColorBuilt="" rowColorTrainEnRoute="" rowColorTerminated="" />
+    <manifestCreator>
+      <directory name="csvManifests" />
+      <runFile name="MC4JMRI.xls" />
+      <commonFile name="CSVFilesFile.txt" />
+    </manifestCreator>
+    <switchlistCreator>
+      <directory name="csvSwitchLists" />
+      <runFile name="MC4JMRI.xls" />
+      <commonFile name="CSVFilesFile.txt" />
+    </switchlistCreator>
+  </options>
+  <trains>
+    <train id="1" name="BEDS Switcher" description="Carfloat Transfers" departHour="00" departMinute="00" builtStartYear="" builtEndYear="" numberEngines="0" engineRoad="" engineModel="" requires="0" cabooseRoad="" buildNormal="false" toTerminal="false" allowLocalMoves="true" allowReturn="false" allowThroughCars="false" serviceAll="true" sendCustomStaging="false" buildConsist="false" built="false" build="true" buildFailed="true" buildFailedMessage="BUILD FAILED could not find destinations for 12 car(s) departing from staging track (Car Float, Float Tracks)&#xA; PRR 061&#xA; PRR 060&#xA; PRR 059&#xA; PRR 058&#xA; PRR 057&#xA; PRR 056&#xA; PRR 055&#xA; PRR 054&#xA; PRR 053&#xA; PRR 052&#xA; PRR 051&#xA; PRR 050" printed="false" modified="false" switchListStatus="" status="Build Failed" TerminationDate="4/09/2021 13:46" RequestedCars="37" statusCode="2" oldStatusCode="2" comment="" showTimes="true">
+      <rowColor name="" resetRowColor="" />
+      <route name="Route 1" id="4" />
+      <types>
+        <carType name="Boxcar" />
+        <carType name="Flatcar" />
+        <carType name="Hopper Gon" />
+        <carType name="Long Gondola" />
+        <carType name="Tankcar" />
+      </types>
+      <scripts>
+        <afterBuild name="settings:OperationsExportAOLocations.py" />
+        <afterBuild name="settings:OperationsExportJsonManifest.py" />
+      </scripts>
+    </train>
+  </trains>
+  <trainScheduleOptions activeId="" />
+  <schedules>
+    <schedule id="1" name="Sunday" trainIds="," />
+    <schedule id="2" name="Monday" trainIds="," />
+    <schedule id="3" name="Tuesday" trainIds="," />
+    <schedule id="4" name="Wednesday" trainIds="," />
+    <schedule id="5" name="Thursday" trainIds="," />
+    <schedule id="6" name="Friday" trainIds="," />
+    <schedule id="7" name="Saturday" trainIds="," />
+  </schedules>
+  <automations />
+</operations-config>

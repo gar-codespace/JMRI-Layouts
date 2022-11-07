@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xml/XSLT/operations-cars.xsl" type="text/xsl"?>
+<!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-cars.dtd">
+<operations-config>
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Mon Nov 07 15:20:11 PST 2022-->
+  <roads>
+    <road name="ES" />
+    <road name="FGEX" />
+    <road name="NCR" />
+    <road name="NYP&amp;N" />
+    <road name="PB&amp;W" />
+    <road name="PRR" />
+    <road name="WJ&amp;S" />
+  </roads>
+  <types>
+    <type name="FM" />
+    <type name="GB" />
+    <type name="RS" />
+    <type name="TM" />
+    <type name="XI" />
+    <type name="XM" />
+  </types>
+  <colors>
+    <color name="Black" />
+    <color name="Blue" />
+    <color name="Brown" />
+    <color name="Gray" />
+    <color name="Green" />
+    <color name="Orange" />
+    <color name="Purple" />
+    <color name="Red" />
+    <color name="Silver" />
+    <color name="Tuscan" />
+    <color name="White" />
+    <color name="Yellow" />
+  </colors>
+  <lengths>
+    <length value="32" />
+    <length value="34" />
+    <length value="36" />
+    <length value="38" />
+    <length value="40" />
+    <length value="42" />
+    <length value="50" />
+    <length value="51" />
+    <length value="52" />
+    <length value="54" />
+    <length value="60" />
+    <length value="70" />
+  </lengths>
+  <owners>
+    <owner name="" />
+  </owners>
+  <loads>
+    <defaults empty="E" load="L" />
+    <load type="TM">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="heating oil" loadType="load" />
+    </load>
+    <load type="XI">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="break bulk" loadType="load" />
+      <carLoad name="coffee sacks" loadType="load" />
+      <carLoad name="perishables" loadType="load" />
+    </load>
+    <load type="RS">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="live oysters" loadType="load" />
+      <carLoad name="produce" loadType="load" />
+    </load>
+    <load type="FM">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="lumber stack" loadType="load" />
+      <carLoad name="machinery" loadType="load" />
+    </load>
+    <load type="GB">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="cobbles" loadType="load" />
+      <carLoad name="lumber stack" loadType="load" />
+      <carLoad name="machinery" loadType="load" />
+    </load>
+    <load type="XM">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="break bulk" loadType="load" />
+      <carLoad name="can oysters" loadType="load" />
+      <carLoad name="coffee sacks" loadType="load" />
+      <carLoad name="perishables" loadType="load" />
+    </load>
+  </loads>
+  <newKernels />
+  <options />
+  <cars>
+    <car id="FGEX11" roadName="FGEX" roadNumber="11" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s7" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="Empty" />
+    <car id="FGEX19" roadName="FGEX" roadNumber="19" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s7" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="Empty" />
+    <car id="FGEX24" roadName="FGEX" roadNumber="24" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="FGEX45" roadName="FGEX" roadNumber="45" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s6" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="live oysters" />
+    <car id="FGEX49" roadName="FGEX" roadNumber="49" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="FGEX50" roadName="FGEX" roadNumber="50" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="FGEX51" roadName="FGEX" roadNumber="51" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="NCR52" roadName="NCR" roadNumber="52" type="GB" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s4" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="Empty" />
+    <car id="NCR53" roadName="NCR" roadNumber="53" type="GB" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s3" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="cobbles" />
+    <car id="NCR63" roadName="NCR" roadNumber="63" type="GB" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s3" moves="0" date="" selected="false" load="scrap metal" />
+    <car id="NCR64" roadName="NCR" roadNumber="64" type="GB" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s3" moves="0" date="" selected="false" load="scrap metal" />
+    <car id="NCR65" roadName="NCR" roadNumber="65" type="GB" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="NYP&amp;N57" roadName="NYP&amp;N" roadNumber="57" type="TM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="heating oil" />
+    <car id="PB&amp;W2" roadName="PB&amp;W" roadNumber="2" type="XI" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="perishables" />
+    <car id="PB&amp;W22" roadName="PB&amp;W" roadNumber="22" type="XI" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="break bulk" />
+    <car id="PB&amp;W38" roadName="PB&amp;W" roadNumber="38" type="XI" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="PB&amp;W44" roadName="PB&amp;W" roadNumber="44" type="XI" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="break bulk" />
+    <car id="PRR29" roadName="PRR" roadNumber="29" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="PRR30" roadName="PRR" roadNumber="30" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="PRR32" roadName="PRR" roadNumber="32" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="PRR34" roadName="PRR" roadNumber="34" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="break bulk" />
+    <car id="PRR35" roadName="PRR" roadNumber="35" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s6" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="can oysters" />
+    <car id="PRR37" roadName="PRR" roadNumber="37" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s5" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="perishables" />
+    <car id="PRR54" roadName="PRR" roadNumber="54" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="break bulk" />
+    <car id="PRR55" roadName="PRR" roadNumber="55" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="1" load="break bulk" />
+    <car id="PRR56" roadName="PRR" roadNumber="56" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s6" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="can oysters" />
+    <car id="PRR58" roadName="PRR" roadNumber="58" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s5" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="perishables" />
+    <car id="PRR59" roadName="PRR" roadNumber="59" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s2" moves="0" date="" selected="false" load="merchandise" />
+    <car id="PRR60" roadName="PRR" roadNumber="60" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s2" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="coffee sacks" />
+    <car id="WJ&amp;S40" roadName="WJ&amp;S" roadNumber="40" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="WJ&amp;S41" roadName="WJ&amp;S" roadNumber="41" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="WJ&amp;S61" roadName="WJ&amp;S" roadNumber="61" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+    <car id="WJ&amp;S62" roadName="WJ&amp;S" roadNumber="62" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" lastRouteId="1" moves="1" date="10/07/2022 16:31:51" selected="false" lastLocationId="2" load="E" />
+  </cars>
+</operations-config>
