@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auxiliary-configuration xmlns="http://www.netbeans.org/ns/auxiliary-configuration/1">
+    <classPreferences xmlns="http://jmri.org/xml/schema/auxiliary-configuration/class-preferences-4-3-5.xsd">
+        <preferences xmlns="" class="jmri.jmrit.beantable.SignalMastTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.LogixTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.TurnoutTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.LRouteTableAction"/>
+        <preferences xmlns="" class="jmri.managers.JmriUserPreferencesManager"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.SensorTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.SignalHeadTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.BlockTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.AudioTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.SignalGroupTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.LightTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.TransitTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.ReporterTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.RouteTableAction"/>
+        <preferences xmlns="" class="jmri.jmrit.beantable.MemoryTableAction"/>
+    </classPreferences>
+    <settings xmlns="http://jmri.org/xml/schema/auxiliary-configuration/settings-4-3-5.xsd">
+        <setting xmlns="">apps.gui3.dp3.DecoderPro3Window.hideGroups</setting>
+    </settings>
+    <tableDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/table-details-4-3-5.xsd">
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:5:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:23:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:13:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:33:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:31:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:21:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:7:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:36:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:26:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:11:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:17:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:27:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:1:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:34:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.routes.RouteEditFrame:Edit Route:table">
+            <columns>
+                <column hidden="false" name="Delete" order="16" width="80"/>
+                <column hidden="false" name="Comment" order="13" width="70"/>
+                <column hidden="false" name="Down" order="15" width="70"/>
+                <column hidden="true" name="Time" order="8" width="65"/>
+                <column hidden="false" name="Grade" order="10" width="50"/>
+                <column hidden="false" name="Train Direction" order="2" width="95"/>
+                <column hidden="false" name="Max Length" order="9" width="75"/>
+                <column hidden="false" name="Pick ups?" order="5" width="65"/>
+                <column hidden="false" name="Moves" order="3" width="50"/>
+                <column hidden="false" name="Random" order="4" width="65"/>
+                <column hidden="false" name="X" order="11" width="35"/>
+                <column hidden="false" name="Y" order="12" width="35"/>
+                <column hidden="false" name="ID" order="0" width="40"/>
+                <column hidden="false" name="Set outs?" order="6" width="65"/>
+                <column hidden="false" name="Up" order="14" width="60"/>
+                <column hidden="false" name="Wait" order="7" width="65"/>
+                <column hidden="false" name="Location" order="1" width="150"/>
+            </columns>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:1:table">
+            <columns>
+                <column hidden="false" name="Destination" order="13" width="190"/>
+                <column hidden="true" name="RWE Load" order="6" width="75"/>
+                <column hidden="true" name="Owner" order="21" width="50"/>
+                <column hidden="false" name="Set" order="27" width="65"/>
+                <column hidden="true" name="Built" order="20" width="50"/>
+                <column hidden="true" name="Reported Date" order="12" width="140"/>
+                <column hidden="false" name="Edit" order="28" width="70"/>
+                <column hidden="true" name="RWL Location" order="16" width="190"/>
+                <column hidden="true" name="Home Division" order="17" width="190"/>
+                <column hidden="false" name="Moves" order="19" width="50"/>
+                <column hidden="false" name="Number" order="2" width="60"/>
+                <column hidden="true" name="Pick up" order="25" width="100"/>
+                <column hidden="false" name="Kernel" order="9" width="65"/>
+                <column hidden="false" name="Load" order="5" width="75"/>
+                <column hidden="false" name="Road" order="1" width="60"/>
+                <column hidden="true" name="Color" order="8" width="75"/>
+                <column hidden="true" name="Final Destination" order="14" width="190"/>
+                <column hidden="true" name="RWL Load" order="7" width="75"/>
+                <column hidden="true" name="ID Tag" order="23" width="100"/>
+                <column hidden="true" name="Last Moved" order="26" width="100"/>
+                <column hidden="false" name="Type" order="3" width="65"/>
+                <column hidden="false" name="Len" order="4" width="35"/>
+                <column hidden="true" name="RWE Location" order="15" width="190"/>
+                <column hidden="false" name="Select" order="0" width="60"/>
+                <column hidden="true" name="Value" order="22" width="50"/>
+                <column hidden="true" name="Reported Location" order="11" width="190"/>
+                <column hidden="true" name="Wait" order="24" width="50"/>
+                <column hidden="false" name="Train" order="18" width="65"/>
+                <column hidden="false" name="Location" order="10" width="190"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:4:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:9:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.locations.LocationsTableFrame:Locations:table">
+            <columns>
+                <column hidden="false" name="Cars" order="7" width="60"/>
+                <column hidden="false" name="Action" order="13" width="107"/>
+                <column hidden="false" name="Set outs" order="10" width="60"/>
+                <column hidden="false" name="Locos" order="8" width="60"/>
+                <column hidden="false" name="Num" order="3" width="40"/>
+                <column hidden="false" name="Pick ups" order="9" width="60"/>
+                <column hidden="false" name="Edit" order="14" width="80"/>
+                <column hidden="false" name="Name" order="1" width="200"/>
+                <column hidden="true" name="Reporters" order="12" width="75"/>
+                <column hidden="false" name="Length" order="4" width="60"/>
+                <column hidden="false" name="Used" order="5" width="60"/>
+                <column hidden="false" name="Rolling Stock" order="6" width="84"/>
+                <column hidden="true" name="Division" order="11" width="160"/>
+                <column hidden="false" name="ID" order="0" width="40"/>
+                <column hidden="false" name="Track" order="2" width="101"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="Location:table">
+            <columns>
+                <column hidden="false" name="Cars" order="6" width="60"/>
+                <column hidden="true" name="Order" order="19" width="50"/>
+                <column hidden="false" name="Load" order="12" width="50"/>
+                <column hidden="false" name="Dest" order="15" width="50"/>
+                <column hidden="false" name="Set outs" order="9" width="60"/>
+                <column hidden="false" name="Locos" order="7" width="60"/>
+                <column hidden="false" name="Road" order="11" width="50"/>
+                <column hidden="false" name="Pick ups" order="8" width="60"/>
+                <column hidden="false" name="Edit" order="21" width="80"/>
+                <column hidden="false" name="Spur Name" order="1" width="200"/>
+                <column hidden="true" name="Planned" order="17" width="70"/>
+                <column hidden="true" name="Reporters" order="20" width="70"/>
+                <column hidden="true" name="Moves" order="5" width="60"/>
+                <column hidden="false" name="Length" order="2" width="50"/>
+                <column hidden="false" name="Used" order="3" width="50"/>
+                <column hidden="false" name="Schedule" order="10" width="90"/>
+                <column hidden="true" name="Pool" order="16" width="70"/>
+                <column hidden="false" name="ID" order="0" width="40"/>
+                <column hidden="true" name="Ship" order="13" width="50"/>
+                <column hidden="true" name="Alternate Track" order="18" width="120"/>
+                <column hidden="false" name="Restrictions" order="14" width="90"/>
+                <column hidden="false" name="Reserved" order="4" width="65"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:24:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:14:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:29:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:19:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:table">
+            <columns>
+                <column hidden="false" name="Destination" order="13" width="190"/>
+                <column hidden="true" name="RWE Load" order="6" width="75"/>
+                <column hidden="true" name="Owner" order="21" width="50"/>
+                <column hidden="false" name="Set" order="27" width="65"/>
+                <column hidden="true" name="Built" order="20" width="50"/>
+                <column hidden="true" name="Reported Date" order="12" width="140"/>
+                <column hidden="false" name="Edit" order="28" width="70"/>
+                <column hidden="true" name="RWL Location" order="16" width="190"/>
+                <column hidden="true" name="Home Division" order="17" width="190"/>
+                <column hidden="false" name="Moves" order="19" width="50"/>
+                <column hidden="false" name="Number" order="2" width="60"/>
+                <column hidden="true" name="Pick up" order="25" width="100"/>
+                <column hidden="false" name="Kernel" order="9" width="65"/>
+                <column hidden="false" name="Load" order="5" width="75"/>
+                <column hidden="false" name="Road" order="1" width="60"/>
+                <column hidden="true" name="Color" order="8" width="75"/>
+                <column hidden="true" name="Final Destination" order="14" width="190"/>
+                <column hidden="true" name="RWL Load" order="7" width="75"/>
+                <column hidden="true" name="ID Tag" order="23" width="100"/>
+                <column hidden="true" name="Last Moved" order="26" width="100"/>
+                <column hidden="false" name="Type" order="3" width="65"/>
+                <column hidden="false" name="Len" order="4" width="35"/>
+                <column hidden="true" name="RWE Location" order="15" width="190"/>
+                <column hidden="false" name="Select" order="0" width="60"/>
+                <column hidden="true" name="Value" order="22" width="50"/>
+                <column hidden="true" name="Reported Location" order="11" width="190"/>
+                <column hidden="true" name="Wait" order="24" width="50"/>
+                <column hidden="false" name="Train" order="18" width="65"/>
+                <column hidden="false" name="Location" order="10" width="190"/>
+            </columns>
+            <sortOrder>
+                <sortKey column="1" sortOrder="DESCENDING"/>
+            </sortOrder>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame:Locomotives:table">
+            <columns>
+                <column hidden="false" name="Destination" order="10" width="190"/>
+                <column hidden="true" name="Owner" order="14" width="50"/>
+                <column hidden="false" name="Set" order="19" width="65"/>
+                <column hidden="false" name="Road" order="0" width="60"/>
+                <column hidden="true" name="Built" order="13" width="50"/>
+                <column hidden="false" name="HP" order="3" width="50"/>
+                <column hidden="true" name="Reported Date" order="9" width="140"/>
+                <column hidden="true" name="ID Tag" order="16" width="100"/>
+                <column hidden="false" name="Edit" order="20" width="70"/>
+                <column hidden="true" name="Last Moved" order="17" width="130"/>
+                <column hidden="true" name="DCC Address" order="18" width="50"/>
+                <column hidden="false" name="Type" order="4" width="179"/>
+                <column hidden="false" name="Moves" order="12" width="50"/>
+                <column hidden="false" name="Number" order="1" width="60"/>
+                <column hidden="false" name="Len" order="5" width="57"/>
+                <column hidden="false" name="Consist" order="6" width="75"/>
+                <column hidden="false" name="Model" order="2" width="161"/>
+                <column hidden="true" name="Value" order="15" width="50"/>
+                <column hidden="true" name="Reported Location" order="8" width="190"/>
+                <column hidden="false" name="Train" order="11" width="65"/>
+                <column hidden="false" name="Location" order="7" width="190"/>
+            </columns>
+            <sortOrder>
+                <sortKey column="1" sortOrder="ASCENDING"/>
+                <sortKey column="4" sortOrder="ASCENDING"/>
+                <sortKey column="7" sortOrder="ASCENDING"/>
+            </sortOrder>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:12:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:6:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:22:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:32:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:16:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:2:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:8:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:10:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:20:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:30:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:3:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:15:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:25:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:35:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:18:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame:table">
+            <columns>
+                <column hidden="false" name="Delete" order="16" width="70"/>
+                <column hidden="false" name="Destination" order="8" width="130"/>
+                <column hidden="false" name="Hits" order="12" width="45"/>
+                <column hidden="false" name="Down" order="15" width="70"/>
+                <column hidden="false" name="Pickup" order="10" width="90"/>
+                <column hidden="false" name="Road" order="5" width="90"/>
+                <column hidden="true" name="Count" order="11" width="45"/>
+                <column hidden="false" name="Type" order="2" width="90"/>
+                <column hidden="false" name="Random" order="3" width="60"/>
+                <column hidden="false" name="Receive" order="6" width="90"/>
+                <column hidden="false" name="ID" order="0" width="35"/>
+                <column hidden="false" name="Delivery" order="4" width="90"/>
+                <column hidden="false" name="Ship" order="7" width="90"/>
+                <column hidden="false" name="Up" order="14" width="60"/>
+                <column hidden="false" name="Wait" order="13" width="40"/>
+                <column hidden="false" name="Current" order="1" width="50"/>
+                <column hidden="false" name="Track" order="9" width="130"/>
+            </columns>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:28:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame:1:table">
+            <columns>
+                <column hidden="false" name="Delete" order="16" width="70"/>
+                <column hidden="false" name="Destination" order="8" width="130"/>
+                <column hidden="false" name="Hits" order="12" width="45"/>
+                <column hidden="false" name="Down" order="15" width="70"/>
+                <column hidden="false" name="Pickup" order="10" width="90"/>
+                <column hidden="false" name="Road" order="5" width="90"/>
+                <column hidden="true" name="Count" order="11" width="45"/>
+                <column hidden="false" name="Type" order="2" width="90"/>
+                <column hidden="false" name="Random" order="3" width="60"/>
+                <column hidden="false" name="Receive" order="6" width="90"/>
+                <column hidden="false" name="ID" order="0" width="35"/>
+                <column hidden="false" name="Delivery" order="4" width="90"/>
+                <column hidden="false" name="Ship" order="7" width="90"/>
+                <column hidden="false" name="Up" order="14" width="60"/>
+                <column hidden="false" name="Wait" order="13" width="40"/>
+                <column hidden="false" name="Current" order="1" width="50"/>
+                <column hidden="false" name="Track" order="9" width="130"/>
+            </columns>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:2:table">
+            <columns>
+                <column hidden="false" name="Destination" order="13" width="190"/>
+                <column hidden="true" name="RWE Load" order="6" width="75"/>
+                <column hidden="true" name="Owner" order="21" width="50"/>
+                <column hidden="false" name="Set" order="27" width="65"/>
+                <column hidden="true" name="Built" order="20" width="50"/>
+                <column hidden="true" name="Reported Date" order="12" width="140"/>
+                <column hidden="false" name="Edit" order="28" width="70"/>
+                <column hidden="true" name="RWL Location" order="16" width="190"/>
+                <column hidden="true" name="Home Division" order="17" width="190"/>
+                <column hidden="false" name="Moves" order="19" width="50"/>
+                <column hidden="false" name="Number" order="1" width="60"/>
+                <column hidden="true" name="Pick up" order="25" width="100"/>
+                <column hidden="false" name="Kernel" order="9" width="65"/>
+                <column hidden="false" name="Load" order="5" width="75"/>
+                <column hidden="false" name="Road" order="2" width="60"/>
+                <column hidden="true" name="Color" order="8" width="75"/>
+                <column hidden="true" name="Final Destination" order="14" width="190"/>
+                <column hidden="true" name="RWL Load" order="7" width="75"/>
+                <column hidden="true" name="ID Tag" order="23" width="100"/>
+                <column hidden="true" name="Last Moved" order="26" width="100"/>
+                <column hidden="false" name="Type" order="3" width="65"/>
+                <column hidden="false" name="Len" order="4" width="35"/>
+                <column hidden="true" name="RWE Location" order="15" width="190"/>
+                <column hidden="false" name="Select" order="0" width="60"/>
+                <column hidden="true" name="Value" order="22" width="50"/>
+                <column hidden="true" name="Reported Location" order="11" width="190"/>
+                <column hidden="true" name="Wait" order="24" width="50"/>
+                <column hidden="false" name="Train" order="18" width="65"/>
+                <column hidden="false" name="Location" order="10" width="190"/>
+            </columns>
+            <sortOrder/>
+        </table>
+    </tableDetails>
+    <windowDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/window-details-4-3-5.xsd">
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:9" height="598.0" locX="279.0" locY="279.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainsTableSetColorFrame" height="440.0" locX="342.0" locY="484.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame:5" height="250.0" locX="2149.0" locY="507.0" width="400.0"/>
+        <window xmlns="" class="Consolle Sistema JMRI" height="439.0" locX="1509.0" locY="555.0" width="879.0"/>
+        <window xmlns="" class="Script Output" height="294.0" locX="939.0" locY="338.0" width="734.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location:1" height="796.0" locX="103.0" locY="417.0" width="1272.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars" height="933.0" locX="1285.0" locY="228.0" width="1189.0"/>
+        <window xmlns="" class="apps.gui3.dp3.DecoderPro3Window:DecoderPro" height="600.0" locX="0.0" locY="0.0" width="1024.0">
+            <properties>
+                <property>
+                    <key>selectedProgrammer</key>
+                    <value class="java.lang.String">edit</value>
+                </property>
+            </properties>
+        </window>
+        <window xmlns="" class="jmri.jmrit.operations.locations.YardmasterByTrackFrame:Yardmaster by Track" height="500.0" locX="31.0" locY="31.0" width="500.0"/>
+        <window xmlns="" class="JMRI System Konsol" height="1053.0" locX="1357.0" locY="340.0" width="1179.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.LocationsByCarTypeFrame" height="493.0" locX="0.0" locY="0.0" width="325.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:23" height="598.0" locX="713.0" locY="713.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car:2" height="533.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:20" height="598.0" locX="620.0" locY="620.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:8" height="598.0" locX="248.0" locY="248.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.divisions.DivisionEditFrame:Add Division" height="200.0" locX="1382.0" locY="630.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
+        <window xmlns="" class="Pattern Scripts:3" height="223.0" locX="0.0" locY="0.0" width="909.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:24" height="598.0" locX="744.0" locY="744.0" width="813.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Préférences" height="1410.0" locX="0.0" locY="0.0" width="961.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainSwitchListEditFrame:Switch Lists by Location" height="556.0" locX="0.0" locY="0.0" width="514.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:12" height="598.0" locX="372.0" locY="372.0" width="813.0"/>
+        <window xmlns="" class="Lokale JMRI Fahrregler" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.routes.RouteEditFrame:Edit Route" height="634.0" locX="0.0" locY="0.0" width="1002.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:1" height="1337.0" locX="31.0" locY="31.0" width="1189.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.ShowTrainsServingLocationFrame" height="508.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:5" height="598.0" locX="155.0" locY="155.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:6" height="598.0" locX="186.0" locY="186.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.TrackCopyFrame" height="400.0" locX="0.0" locY="0.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.InterchangeEditFrame:Add C/I Track:1" height="631.0" locX="31.0" locY="31.0" width="576.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.tools.CarAttributeEditFrame" height="250.0" locX="1385.0" locY="573.0" width="400.0"/>
+        <window xmlns="" class="PanelPro" height="287.0" locX="1912.0" locY="16.0" width="560.0"/>
+        <window xmlns="" class="jmri.jmrit.automat.monitor.AutomatTableFrame:1" height="487.0" locX="0.0" locY="0.0" width="468.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Edit Train" height="601.0" locX="152.0" locY="442.0" width="1058.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:28" locX="837.0" locY="812.0"/>
+        <window xmlns="" class="jmri.jmrit.automat.monitor.AutomatTableFrame" height="487.0" locX="457.0" locY="565.0" width="468.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.TrackLoadEditFrame:Edit Track Load Options" height="400.0" locX="0.0" locY="0.0" width="600.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:25" height="598.0" locX="775.0" locY="775.0" width="813.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Preferenze" height="1379.0" locX="31.0" locY="0.0" width="914.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame:4" height="250.0" locX="1809.0" locY="485.0" width="400.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Indstillinger" height="1379.0" locX="31.0" locY="0.0" width="908.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:14" height="598.0" locX="434.0" locY="434.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:4" height="598.0" locX="124.0" locY="124.0" width="813.0"/>
+        <window xmlns="" class="Print Preview: Easton Haulerî" height="712.0" locX="793.0" locY="290.0" width="840.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainCopyFrame" height="200.0" locX="0.0" locY="0.0" width="400.0"/>
+        <window xmlns="" class="Print Preview: Train Build Report Northton Hauler" height="892.0" locX="1401.0" locY="368.0" width="660.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.TrackRoadEditFrame:Edit Track Road Options" height="400.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.OptionFrame:Options" height="841.0" locX="156.0" locY="269.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame" height="492.0" locX="31.0" locY="31.0" width="1401.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationsTableFrame:Locations" height="430.0" locX="1309.0" locY="395.0" width="1063.0"/>
+        <window xmlns="" class="JMRI System Console" height="699.0" locX="1246.0" locY="691.0" width="1311.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:2" height="615.0" locX="93.0" locY="93.0" width="1189.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.YardmasterFrame:Yardmaster" height="500.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.YardEditFrame:Add Yard Track" height="600.0" locX="16.0" locY="642.0" width="1211.0"/>
+        <window xmlns="" class="Beschikbare JMRI Rijregelaars" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location" height="883.0" locX="104.0" locY="612.0" width="1160.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsSetFrame:Set Car" height="640.0" locX="1354.0" locY="333.0" width="500.0"/>
+        <window xmlns="" class="Pattern Scripts:1" height="200.0" locX="36.0" locY="84.0" width="926.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car:1" height="533.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.PrintOptionFrame:Manifest Print Options" height="777.0" locX="1345.0" locY="185.0" width="1081.0"/>
+        <window xmlns="" class="Pattern Scripts:2" height="200.0" locX="31.0" locY="31.0" width="1034.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:27" height="573.0" locX="837.0" locY="812.0" width="813.0"/>
+        <window xmlns="" class="JMRI Systemkonsole" height="574.0" locX="1468.0" locY="552.0" width="1026.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.routes.RoutesTableFrame:Routes" height="537.0" locX="0.0" locY="0.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.SpurEditFrame:Add Spur Track" height="600.0" locX="1312.0" locY="579.0" width="1230.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.YardEditFrame:Add Yard Track:1" height="600.0" locX="62.0" locY="62.0" width="516.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Modifier le Train" height="601.0" locX="31.0" locY="31.0" width="729.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:21" height="598.0" locX="651.0" locY="651.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame:Locomotives" height="1000.0" locX="1227.0" locY="295.0" width="1312.0"/>
+        <window xmlns="" class="Print Preview: Train Build Report Easton Haulerî" height="892.0" locX="31.0" locY="31.0" width="660.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car:4" height="533.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="Régulateurs JMRI locaux" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EngineEditFrame:Add Locomotive" height="736.0" locX="2010.0" locY="462.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.SpurEditFrame:Add Spur Track:1" height="600.0" locX="0.0" locY="0.0" width="1309.0"/>
+        <window xmlns="" class="JMRI Uitvoervenster" height="829.0" locX="1698.0" locY="443.0" width="841.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:3" height="598.0" locX="93.0" locY="93.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="1059.0" locY="90.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.StagingEditFrame:Add Staging Track" height="644.0" locX="224.0" locY="391.0" width="1181.0"/>
+        <window xmlns="" class="Pattern Scripts" height="202.0" locX="67.0" locY="24.0" width="806.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car" height="703.0" locX="1335.0" locY="347.0" width="500.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Voreinstellungen" height="1379.0" locX="31.0" locY="0.0" width="934.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame:2" height="250.0" locX="2149.0" locY="507.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame:1" height="250.0" locX="2149.0" locY="507.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:16" height="598.0" locX="496.0" locY="496.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:19" height="598.0" locX="589.0" locY="589.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame" height="250.0" locX="2060.0" locY="705.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:22" height="598.0" locX="682.0" locY="682.0" width="813.0"/>
+        <window xmlns="" class="Lokale JMRI kørekontroller" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame" height="913.0" locX="104.0" locY="175.0" width="1355.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.PrintOptionFrame:Options d'Impression du Manifeste" height="777.0" locX="31.0" locY="31.0" width="1081.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:10" height="598.0" locX="310.0" locY="310.0" width="813.0"/>
+        <window xmlns="" class="Console Système JMRI" height="893.0" locX="1473.0" locY="499.0" width="1072.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:17" height="598.0" locX="527.0" locY="527.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.tools.ChangeTrackFrame:Change Track Type" height="200.0" locX="0.0" locY="0.0" width="400.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Preferences" height="632.0" locX="1402.0" locY="416.0" width="999.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:15" height="598.0" locX="465.0" locY="465.0" width="813.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Voorkeuren" height="1410.0" locX="0.0" locY="0.0" width="924.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Edit Train:1" height="600.0" locX="0.0" locY="0.0" width="729.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:26" height="598.0" locX="806.0" locY="806.0" width="813.0"/>
+        <window xmlns="" class="Print Preview: Build Northton Hauler" height="712.0" locX="0.0" locY="0.0" width="840.0"/>
+        <window xmlns="" class="Palmari Locali JMRI" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarSetFrame:Set Car" height="640.0" locX="62.0" locY="62.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.InterchangeEditFrame:Add C/I Track" height="739.0" locX="0.0" locY="0.0" width="995.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.schedules.SchedulesTableFrame:Schedules" height="537.0" locX="0.0" locY="0.0" width="1025.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame:1" height="626.0" locX="0.0" locY="0.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EngineSetFrame:Set Locomotive" height="500.0" locX="0.0" locY="0.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:18" height="598.0" locX="558.0" locY="558.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainScriptFrame:Scripts" height="327.0" locX="152.0" locY="442.0" width="643.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:7" height="598.0" locX="217.0" locY="217.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:1" height="598.0" locX="31.0" locY="31.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:2" height="598.0" locX="62.0" locY="62.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.BuildReportOptionFrame:Build Report Options" height="500.0" locX="143.0" locY="192.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.tools.EngineAttributeEditFrame:3" height="250.0" locX="2149.0" locY="507.0" width="400.0"/>
+        <window xmlns="" class="jmri.util.swing.JmriPanel" height="1410.0" locX="0.0" locY="0.0" width="466.0"/>
+        <window xmlns="" class="Local JMRI throttles" height="239.0" locX="0.0" locY="0.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:11" height="598.0" locX="341.0" locY="341.0" width="813.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame:13" height="598.0" locX="403.0" locY="403.0" width="813.0"/>
+    </windowDetails>
+</auxiliary-configuration>
