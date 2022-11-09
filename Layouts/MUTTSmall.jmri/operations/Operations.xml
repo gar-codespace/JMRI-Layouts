@@ -2,9 +2,9 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Mon Nov 07 15:20:01 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 12:56:22 PST 2022-->
   <operations>
-    <setup comment="" />
+    <setup comment="South Pier District" />
     <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="" />
     <pickupEngFormat prefix=" [ ] Pick up" setting="Road,Number,Model,Consist,Destination," />
     <dropEngFormat prefix=" [ ] Set out" setting="Road,Number,Model,Consist,Destination," />

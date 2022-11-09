@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-cars.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-cars.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Nov 03 16:42:40 PDT 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 09:02:27 PST 2022-->
   <roads>
     <road name="ACL" />
     <road name="AT&amp;SF" />
@@ -70,15 +70,20 @@
       <carLoad name="chemicals" loadType="load" />
       <carLoad name="heating oil" loadType="load" />
     </load>
+    <load type="H">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="coal" loadType="load" />
+    </load>
     <load type="TV">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
       <carLoad name="vinegar" loadType="load" />
     </load>
-    <load type="H">
+    <load type="R">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="coal" loadType="load" />
+      <carLoad name="Produce" loadType="load" />
     </load>
     <load type="G">
       <carLoad name="Empty" loadType="empty" />
@@ -86,11 +91,6 @@
       <carLoad name="Lumber" loadType="load" />
       <carLoad name="lumber stack" loadType="load" />
       <carLoad name="sand" loadType="load" />
-    </load>
-    <load type="R">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="Produce" loadType="load" />
     </load>
     <load type="F">
       <carLoad name="Empty" loadType="empty" />

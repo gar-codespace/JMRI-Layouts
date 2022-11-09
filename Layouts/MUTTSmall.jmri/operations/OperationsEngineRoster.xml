@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Oct 07 15:55:42 PDT 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 12:56:22 PST 2022-->
   <models>
     <model name="0-4-0t" />
   </models>
@@ -40,8 +40,10 @@
     <length value="85" />
     <length value="90" />
   </lengths>
-  <newConsists />
+  <newConsists>
+    <consist name="66" />
+  </newConsists>
   <engines>
-    <engine id="ES66" roadName="ES" roadNumber="66" type="ES" length="40" color="Black" weight="2" moves="0" date="" selected="false" outOfService="true" model="0-4-0t" hp="" bUnit="false" />
+    <engine id="CNJ806" roadName="CNJ" roadNumber="806" type="ES" length="40" color="Black" weight="2" locationId="3" secLocationId="3s1" moves="0" date="" selected="false" model="0-4-0t" hp="" bUnit="false" />
   </engines>
 </operations-config>

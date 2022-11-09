@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-routes.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-routes.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Wed Nov 02 22:28:21 PDT 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 07:23:18 PST 2022-->
   <routes>
     <route id="12" name="All Routs" comment="">
       <location id="12r1" name="&lt;location deleted&gt;" locationId="7" sequenceId="1" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="66" randomControl="Off" pickups="yes" drops="no" wait="0" departTime="" order="0" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
@@ -18,16 +18,16 @@
     </route>
     <route id="14" name="Salem Creek" comment="">
       <location id="14r13" name="Salem" locationId="5" sequenceId="2" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="no" wait="0" departTime="" order="1" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="14r14" name="South Bend Spur" locationId="2" sequenceId="3" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="15" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="2" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="14r14" name="South Bend Spur" locationId="2" sequenceId="3" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="20" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="2" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
       <location id="14r15" name="Unknown" locationId="3" sequenceId="4" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="5" randomControl="Off" pickups="no" drops="no" wait="0" departTime="" order="3" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="14r16" name="South Bend Spur" locationId="2" sequenceId="5" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="15" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="4" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="14r16" name="South Bend Spur" locationId="2" sequenceId="5" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="20" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="4" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
       <location id="14r17" name="Salem" locationId="5" sequenceId="6" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="no" drops="yes" wait="0" departTime="" order="5" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
     </route>
     <route id="15" name="Fenwick Creek" comment="">
       <location id="15r16" name="Salem" locationId="5" sequenceId="1" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="no" wait="0" departTime="" order="1" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="15r18" name="Fenwick Creek" locationId="4" sequenceId="2" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="2" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="15r20" name="Unknown" locationId="3" sequenceId="3" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="5" randomControl="Off" pickups="no" drops="no" wait="0" departTime="" order="3" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="15r19" name="Fenwick Creek" locationId="4" sequenceId="4" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="4" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="15r18" name="Fenwick Creek" locationId="4" sequenceId="2" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="15" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="2" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="15r20" name="Unknown" locationId="3" sequenceId="3" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="1" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="3" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="15r19" name="Fenwick Creek" locationId="4" sequenceId="4" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="15" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="4" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
       <location id="15r17" name="Salem" locationId="5" sequenceId="5" trainDirection="2" maxTrainLength="2000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="no" drops="yes" wait="0" departTime="" order="5" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
     </route>
     <route id="16" name="Salem Township" comment="">

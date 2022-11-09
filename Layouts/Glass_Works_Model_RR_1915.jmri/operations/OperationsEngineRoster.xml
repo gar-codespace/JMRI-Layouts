@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Nov 03 16:42:40 PDT 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 07:06:18 PST 2022-->
   <models>
     <model name="B6s" />
   </models>

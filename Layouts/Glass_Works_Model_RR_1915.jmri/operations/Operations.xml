@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 07 22:56:39 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Nov 08 07:15:37 PST 2022-->
   <operations>
     <setup comment="Model railroad version of WJ&amp;S Glass Works Branch;;;;;" />
     <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="3" trainLength="2000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="" />
@@ -26,7 +26,7 @@
     <manifestFormat value="0" />
     <manifestFileOptions manifestSave="false" />
     <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="true" allowLocalYard="false" stagingRestrictionEnabled="true" stagingTrackAvail="true" allowReturnStaging="true" promptStagingEnabled="false" promptToStagingEnabled="false" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="true" />
-    <buildReport level="7" routerLevel="3" useEditor="false" indent="true" alwaysPreview="false" fontSize="10" />
+    <buildReport level="3" routerLevel="3" useEditor="true" indent="true" alwaysPreview="false" fontSize="10" />
     <router carRoutingEnabled="true" carRoutingViaYards="false" carRoutingViaStaging="false" forwardToYard="true" onlyActiveTrains="true" checkCarDestination="false" />
     <logger carLogger="false" engineLogger="false" trainLogger="false" />
     <owner name="" />
