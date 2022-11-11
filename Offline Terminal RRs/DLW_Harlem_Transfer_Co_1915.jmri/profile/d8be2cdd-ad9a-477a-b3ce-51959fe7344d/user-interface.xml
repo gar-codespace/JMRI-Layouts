@@ -17,12 +17,58 @@
         <preferences xmlns="" class="jmri.jmrit.beantable.RouteTableAction"/>
         <preferences xmlns="" class="jmri.jmrit.beantable.MemoryTableAction"/>
     </classPreferences>
-    <tableDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/table-details-4-3-5.xsd"/>
+    <tableDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/table-details-4-3-5.xsd">
+        <table xmlns="" name="jmri.jmrit.operations.trains.TrainsTableFrame:table">
+            <columns>
+                <column hidden="false" name="Status" order="14" width="120"/>
+                <column hidden="true" name="Load" order="8" width="50"/>
+                <column hidden="true" name="Owner" order="9" width="50"/>
+                <column hidden="false" name="Action" order="15" width="90"/>
+                <column hidden="false" name="Description" order="5" width="140"/>
+                <column hidden="true" name="Built" order="6" width="50"/>
+                <column hidden="true" name="Road" order="7" width="50"/>
+                <column hidden="false" name="Departs" order="11" width="120"/>
+                <column hidden="false" name="Time" order="1" width="50"/>
+                <column hidden="false" name="Edit" order="16" width="70"/>
+                <column hidden="false" name="Name" order="4" width="100"/>
+                <column hidden="false" name="Function" order="3" width="72"/>
+                <column hidden="false" name="Build" order="2" width="50"/>
+                <column hidden="true" name="ID" order="0" width="50"/>
+                <column hidden="false" name="Terminates" order="12" width="120"/>
+                <column hidden="false" name="Current" order="13" width="120"/>
+                <column hidden="false" name="Route" order="10" width="120"/>
+            </columns>
+            <sortOrder/>
+        </table>
+        <table xmlns="" name="jmri.jmrit.operations.locations.LocationsTableFrame:Locations:table">
+            <columns>
+                <column hidden="false" name="Cars" order="7" width="60"/>
+                <column hidden="false" name="Action" order="13" width="95"/>
+                <column hidden="false" name="Set outs" order="10" width="60"/>
+                <column hidden="false" name="Locos" order="8" width="60"/>
+                <column hidden="false" name="Num" order="3" width="40"/>
+                <column hidden="false" name="Pick ups" order="9" width="60"/>
+                <column hidden="false" name="Edit" order="14" width="80"/>
+                <column hidden="false" name="Name" order="1" width="200"/>
+                <column hidden="true" name="Reporters" order="12" width="75"/>
+                <column hidden="false" name="Length" order="4" width="60"/>
+                <column hidden="false" name="Used" order="5" width="60"/>
+                <column hidden="false" name="Rolling Stock" order="6" width="80"/>
+                <column hidden="true" name="Division" order="11" width="160"/>
+                <column hidden="false" name="ID" order="0" width="40"/>
+                <column hidden="false" name="Track" order="2" width="89"/>
+            </columns>
+            <sortOrder/>
+        </table>
+    </tableDetails>
     <windowDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/window-details-4-3-5.xsd">
-        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Preferences" height="1410.0" locX="0.0" locY="0.0" width="912.0"/>
-        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
-        <window xmlns="" class="JMRI System Console" height="439.0" locX="1629.0" locY="911.0" width="879.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="0.0" locY="0.0" width="700.0"/>
         <window xmlns="" class="PanelPro" height="286.0" locX="2054.0" locY="27.0" width="462.0"/>
+        <window xmlns="" class="JMRI System Console" height="684.0" locX="1629.0" locY="666.0" width="879.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationsTableFrame:Locations" height="537.0" locX="31.0" locY="31.0" width="1174.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location" height="893.0" locX="62.0" locY="62.0" width="1004.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame" height="310.0" locX="23.0" locY="337.0" width="1248.0"/>
+        <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Preferences" height="1410.0" locX="0.0" locY="0.0" width="912.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="0.0" locY="0.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
     </windowDetails>
 </auxiliary-configuration>
