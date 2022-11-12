@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <warrantPreferences>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 07 22:49:53 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Nov 11 20:21:12 PST 2022-->
   <layoutParams layoutScale="87.1" searchDepth="20">
     <shutdown>PROMPT</shutdown>
-    <Trace>false</Trace>
-    <SpeedAssistance>0.02</SpeedAssistance>
   </layoutParams>
   <speedMapParams>
     <stepIncrements timeIncrement="750" rampIncrement="0.04" throttleScale="0.9" />
