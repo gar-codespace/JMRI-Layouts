@@ -2,11 +2,11 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Nov 10 11:07:08 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 21 15:06:50 PST 2022-->
   <operations>
-    <railRoad name="Brooklyn Eastern District Station" />
+    <railRoad name="Pennsylvania Railroad - Eastern Divion&#xA;Brooklyn Eastern District Station&#xA;Williamsburg, Brooklyn, New York" />
     <setup comment="Williamsburg, Brooklyn New York" />
-    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="2000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="RFID" lengthUnit="Feet" yearModeled="" />
+    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="2000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="RFID" lengthUnit="Feet" yearModeled="1914" />
     <pickupEngFormat prefix=" [ ] Pick-up" setting="Road,Number,Model,Consist,Destination," />
     <dropEngFormat prefix=" [ ] Set out" setting="Road,Number,Model,Consist,Destination," />
     <pickupCarFormat prefix=" [ ] Pick-up" setting="Road,Number,Type,Load Type,Load,Destination," />
@@ -26,9 +26,9 @@
     <manifest printLocComments="false" printRouteComments="false" printLoadsEmpties="false" printTimetable="false" use12hrFormat="false" printValid="false" sortByTrack="true" printPageHeader="true" printHeaders="false" truncate="false" useDepartureTime="false" useEditor="true" printCabooseLoad="false" printPassengerLoad="false" hazardousMsg="(Hazardous)" />
     <manifestFormat value="0" />
     <manifestFileOptions manifestSave="false" />
-    <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="true" allowLocalYard="false" stagingRestrictionEnabled="true" stagingTrackAvail="true" allowReturnStaging="false" promptStagingEnabled="false" promptToStagingEnabled="false" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="false" />
+    <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="true" allowLocalYard="false" stagingRestrictionEnabled="false" stagingTrackAvail="true" allowReturnStaging="false" promptStagingEnabled="false" promptToStagingEnabled="false" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="false" />
     <buildReport level="7" routerLevel="3" useEditor="false" indent="true" alwaysPreview="false" fontSize="10" />
-    <router carRoutingEnabled="true" carRoutingViaYards="true" carRoutingViaStaging="false" forwardToYard="true" onlyActiveTrains="true" checkCarDestination="true" />
+    <router carRoutingEnabled="true" carRoutingViaYards="true" carRoutingViaStaging="false" forwardToYard="true" onlyActiveTrains="true" checkCarDestination="false" />
     <logger carLogger="false" engineLogger="false" trainLogger="false" />
     <owner name="" />
     <iconColor north="White" south="White" east="White" west="White" local="White" terminate="White" />

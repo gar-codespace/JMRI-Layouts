@@ -2,10 +2,12 @@
 <?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Nov 11 19:50:08 PST 2022-->
-  <divisions />
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 21 15:12:21 PST 2022-->
+  <divisions>
+    <division id="1" name="Eastern Divion" comment="" />
+  </divisions>
   <locations>
-    <location id="1" name="North 4th St" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="1" name="North 4th St" divisionId="1" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="Boxcar" />
         <carType name="FM" />
@@ -20,18 +22,18 @@
         <carType name="XM" />
         <locoType name="ES" />
       </types>
-      <track id="1s1" name="Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="C" scheduleId="80" itemId="80c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="1s1" name="Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="C" scheduleId="89" itemId="89c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="GA" />
         </types>
       </track>
-      <track id="1s2" name="Freight Station" trackType="Spur" locType="Siding" dir="15" length="484" moves="0" schedule="F" scheduleId="81" itemId="81c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="1s2" name="Freight Station" trackType="Spur" locType="Siding" dir="15" length="484" moves="77" schedule="F" scheduleId="90" itemId="90c2" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="XM" />
         </types>
       </track>
-      <track id="1s3" name="Team Tracks" trackType="Spur" locType="Siding" dir="15" length="2200" moves="0" schedule="T" scheduleId="79" itemId="79c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="1s3" name="Team Tracks" trackType="Spur" locType="Siding" dir="15" length="2200" moves="260" schedule="T" scheduleId="88" itemId="88c3" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="GA" />
@@ -42,7 +44,7 @@
         </types>
       </track>
     </location>
-    <location id="2" name="Pier Float" ops="2" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="2" name="Pier Float" divisionId="1" ops="2" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="Boxcar" />
         <carType name="FM" />
@@ -57,7 +59,7 @@
         <carType name="XM" />
         <locoType name="ES" />
       </types>
-      <track id="2s1" name="Float Tracks" trackType="Staging" locType="Staging" dir="15" length="792" moves="0" loadOptions="26">
+      <track id="2s1" name="Float Tracks" trackType="Staging" locType="Staging" dir="15" length="750" moves="103" loadOptions="26">
         <types>
           <carType name="Boxcar" />
           <carType name="FM" />
@@ -74,7 +76,7 @@
         </types>
       </track>
     </location>
-    <location id="3" name="Unknown" ops="1" dir="0" switchList="true" comment="" switchListComment="">
+    <location id="3" name="Unreported" ops="1" dir="0" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="Boxcar" />
         <carType name="FM" />
@@ -108,24 +110,24 @@
     </location>
   </locations>
   <schedules>
-    <schedule id="79" name="T" comment="">
-      <item id="79c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="goods" comment="" hits="0" />
-      <item id="79c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="merchandise" ship="Empty" comment="" hits="0" />
-      <item id="79c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Produce" ship="Empty" comment="" hits="0" />
-      <item id="79c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="0" />
-      <item id="79c5" sequenceId="5" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="lumber stack" ship="Empty" comment="" hits="0" />
-      <item id="79c6" sequenceId="6" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="lumber stack" ship="Empty" comment="" hits="0" />
-      <item id="79c7" sequenceId="7" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
-      <item id="79c8" sequenceId="8" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="TG" road="" load="fuel oil" ship="Empty" comment="" hits="0" />
-      <item id="79c9" sequenceId="9" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal" ship="Empty" comment="" hits="0" />
+    <schedule id="88" name="T" comment="">
+      <item id="88c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="goods" comment="" hits="40" />
+      <item id="88c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="merchandise" ship="Empty" comment="" hits="16" />
+      <item id="88c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Produce" ship="Empty" comment="" hits="10" />
+      <item id="88c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="8" />
+      <item id="88c5" sequenceId="5" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="lumber stack" ship="Empty" comment="" hits="0" />
+      <item id="88c6" sequenceId="6" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="lumber stack" ship="Empty" comment="" hits="24" />
+      <item id="88c7" sequenceId="7" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+      <item id="88c8" sequenceId="8" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="TG" road="" load="fuel oil" ship="Empty" comment="" hits="0" />
+      <item id="88c9" sequenceId="9" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal" ship="Empty" comment="" hits="32" />
     </schedule>
-    <schedule id="80" name="C" comment="">
-      <item id="80c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="machinery" ship="Empty" comment="" hits="0" />
-      <item id="80c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="machinery" ship="Empty" comment="" hits="0" />
+    <schedule id="89" name="C" comment="">
+      <item id="89c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="machinery" ship="Empty" comment="" hits="0" />
+      <item id="89c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GA" road="" load="machinery" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="81" name="F" comment="">
-      <item id="81c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="lcl" ship="Empty" comment="" hits="0" />
-      <item id="81c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="lcl" comment="" hits="0" />
+    <schedule id="90" name="F" comment="">
+      <item id="90c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="lcl" ship="Empty" comment="" hits="0" />
+      <item id="90c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="lcl" comment="" hits="77" />
     </schedule>
   </schedules>
 </operations-config>
