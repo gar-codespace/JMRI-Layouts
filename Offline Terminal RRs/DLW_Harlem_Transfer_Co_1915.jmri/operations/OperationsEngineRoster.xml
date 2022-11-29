@@ -2,11 +2,13 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Nov 25 22:45:13 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Sun Nov 27 14:52:14 PST 2022-->
   <models>
     <model name="0-4-0t" />
+    <model name="diesel" />
   </models>
   <types>
+    <type name="EQDK" />
     <type name="ES" />
   </types>
   <lengths>
