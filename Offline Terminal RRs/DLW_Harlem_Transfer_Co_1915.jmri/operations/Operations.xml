@@ -2,9 +2,15 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
+<<<<<<< HEAD
   <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Dec 01 13:07:35 PST 2022-->
   <operations>
     <railRoad name="DL&amp;W Railroad - Harlem Division&#xA;Harlem Transfer Co.&#xA;Mott Haven, the Bronx, New York" />
+=======
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Tue Nov 29 22:28:32 PST 2022-->
+  <operations>
+    <railRoad name="DL&amp;W RR - Harlem Division&#xA;Harlem Transfer Co.&#xA;Mott Haven, the Bronx, New York" />
+>>>>>>> 4a0695c8bfce70a6f6d55f47454a9549b5d7b241
     <setup comment="" />
     <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1915" />
     <pickupEngFormat prefix=" [ ] Pick up" setting="Road,Number,Model,Consist,Destination," />

@@ -2,7 +2,11 @@
 <?xml-stylesheet href="/xml/XSLT/operations-trains.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-trains.dtd">
 <operations-config>
+<<<<<<< HEAD
   <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Dec 01 13:08:50 PST 2022-->
+=======
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Mon Nov 28 02:40:23 PST 2022-->
+>>>>>>> 4a0695c8bfce70a6f6d55f47454a9549b5d7b241
   <options>
     <trainOptions buildMessages="true" buildReport="false" printPreview="true" openFile="false" runFile="false" trainAction="Reset" />
     <conductorOptions showHyphenName="false" />
