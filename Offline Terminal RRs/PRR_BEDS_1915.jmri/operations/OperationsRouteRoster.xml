@@ -2,12 +2,12 @@
 <?xml-stylesheet href="/xml/XSLT/operations-routes.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-routes.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 21 15:11:09 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 02 22:46:22 PST 2022-->
   <routes>
     <route id="1" name="Float Switch" comment="">
-      <location id="1r3" name="Pier Float" locationId="2" sequenceId="1" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="20" randomControl="Off" pickups="yes" drops="no" wait="0" departTime="" order="1" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="1r2" name="North 4th St" locationId="1" sequenceId="2" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="45" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="2" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
-      <location id="1r4" name="Pier Float" locationId="2" sequenceId="3" trainDirection="1" maxTrainLength="2000" grade="0.0" maxCarMoves="20" randomControl="Off" pickups="no" drops="yes" wait="0" departTime="" order="3" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="1r1" name="Pier Float" locationId="2" sequenceId="1" trainDirection="1" maxTrainLength="1000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="no" wait="0" departTime="" order="0" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="1r3" name="North 4th St" locationId="1" sequenceId="2" trainDirection="1" maxTrainLength="1000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="yes" drops="yes" wait="0" departTime="" order="0" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
+      <location id="1r2" name="Pier Float" locationId="2" sequenceId="3" trainDirection="1" maxTrainLength="1000" grade="0.0" maxCarMoves="50" randomControl="Off" pickups="no" drops="yes" wait="0" departTime="" order="0" trainIconX="0" trainIconY="0" commentColor="black" comment="" />
     </route>
   </routes>
 </operations-config>

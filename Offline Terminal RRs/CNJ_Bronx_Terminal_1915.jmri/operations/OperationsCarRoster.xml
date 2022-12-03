@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-cars.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-cars.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 02 22:52:04 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 02 20:21:39 PST 2022-->
   <roads>
     <road name="ACL" />
     <road name="AT&amp;SF" />
@@ -83,9 +83,13 @@
       <carLoad name="Load" loadType="load" />
       <carLoad name="heating oil" loadType="load" />
     </load>
-    <load type="M">
+    <load type="GA">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
+      <carLoad name="bricks" loadType="load" />
+      <carLoad name="steel beams" loadType="load" />
+      <carLoad name="stone" loadType="load" />
+      <carLoad name="tarp" loadType="load" />
     </load>
     <load type="XM">
       <carLoad name="Empty" loadType="empty" />
@@ -97,13 +101,9 @@
       <carLoad name="lcl" loadType="load" />
       <carLoad name="merchandise" loadType="load" />
     </load>
-    <load type="GA">
+    <load type="M">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="bricks" loadType="load" />
-      <carLoad name="steel beams" loadType="load" />
-      <carLoad name="stone" loadType="load" />
-      <carLoad name="tarp" loadType="load" />
     </load>
   </loads>
   <newKernels />
@@ -113,13 +113,13 @@
     <car id="ACL3059" roadName="ACL" roadNumber="3059" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
     <car id="ACL7621" roadName="ACL" roadNumber="7621" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" />
     <car id="AT&amp;SF3050" roadName="AT&amp;SF" roadNumber="3050" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s7" moves="0" date="" selected="false" load="steel beams" />
-    <car id="AT&amp;SF5241" roadName="AT&amp;SF" roadNumber="5241" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" scheduleId="13c1" />
+    <car id="AT&amp;SF5241" roadName="AT&amp;SF" roadNumber="5241" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" />
     <car id="AT&amp;SF5639" roadName="AT&amp;SF" roadNumber="5639" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="merchandise" />
     <car id="AT&amp;SF6123" roadName="AT&amp;SF" roadNumber="6123" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
     <car id="AT&amp;SF7691" roadName="AT&amp;SF" roadNumber="7691" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="merchandise" />
     <car id="B&amp;A3531" roadName="B&amp;A" roadNumber="3531" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="merchandise" />
     <car id="B&amp;A9619" roadName="B&amp;A" roadNumber="9619" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="B&amp;O2812" roadName="B&amp;O" roadNumber="2812" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" scheduleId="13c1" />
+    <car id="B&amp;O2812" roadName="B&amp;O" roadNumber="2812" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" />
     <car id="B&amp;O3492" roadName="B&amp;O" roadNumber="3492" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
     <car id="B&amp;O4366" roadName="B&amp;O" roadNumber="4366" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="coal" />
     <car id="B&amp;O4604" roadName="B&amp;O" roadNumber="4604" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" />
@@ -144,7 +144,7 @@
     <car id="ER7338" roadName="ER" roadNumber="7338" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s5" moves="0" date="" selected="false" load="Empty" />
     <car id="LV1048" roadName="LV" roadNumber="1048" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s5" moves="0" date="" selected="false" load="Empty" />
     <car id="LV1771" roadName="LV" roadNumber="1771" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s5" moves="0" date="" selected="false" load="Empty" />
-    <car id="LV1789" roadName="LV" roadNumber="1789" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" scheduleId="13c1" />
+    <car id="LV1789" roadName="LV" roadNumber="1789" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="Empty" />
     <car id="LV3153" roadName="LV" roadNumber="3153" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="merchandise" />
     <car id="LV5032" roadName="LV" roadNumber="5032" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" load="Empty" />
     <car id="LV8472" roadName="LV" roadNumber="8472" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
