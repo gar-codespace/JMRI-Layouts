@@ -2,16 +2,16 @@
 <?xml-stylesheet href="/xml/XSLT/operations-cars.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-cars.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Sun Dec 04 18:59:09 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Dec 12 06:56:17 PST 2022-->
   <roads>
     <road name="ACL" />
     <road name="AT&amp;SF" />
     <road name="B&amp;A" />
     <road name="B&amp;O" />
     <road name="CNJ" />
-    <road name="CNJMW" />
     <road name="DL&amp;W" />
     <road name="ER" />
+    <road name="ET" />
     <road name="FGEX" />
     <road name="HKH" />
     <road name="LV" />
@@ -19,25 +19,21 @@
     <road name="NYC" />
     <road name="NYNH&amp;H" />
     <road name="P&amp;R" />
-    <road name="PFEX" />
-    <road name="PGCC" />
     <road name="PRR" />
-    <road name="SFRD" />
     <road name="SP" />
-    <road name="TCX" />
-    <road name="TELX" />
     <road name="UTLX" />
-    <road name="WCC" />
     <road name="WJ&amp;S" />
   </roads>
   <types>
-    <type name="FM" />
-    <type name="GA" />
-    <type name="HK" />
-    <type name="M" />
-    <type name="RS" />
-    <type name="TG" />
-    <type name="XM" />
+    <type name="F" />
+    <type name="G" />
+    <type name="H" />
+    <type name="N" />
+    <type name="RH" />
+    <type name="Rf" />
+    <type name="TO" />
+    <type name="TV" />
+    <type name="X" />
   </types>
   <colors>
     <color name="Black" />
@@ -72,119 +68,156 @@
   </owners>
   <loads>
     <defaults empty="E" load="L" />
-    <load type="HK">
+    <load type="Rf">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="produce" loadType="load" />
+    </load>
+    <load type="TV">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+    </load>
+    <load type="X">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="foodstuffs" loadType="load" />
+      <carLoad name="glassware" loadType="load" />
+      <carLoad name="goods" loadType="load" />
+      <carLoad name="lcl" loadType="load" />
+      <carLoad name="merchandise" loadType="load" />
+      <carLoad name="wire" loadType="load" />
+    </load>
+    <load type="RH">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+    </load>
+    <load type="TO">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="fuel" loadType="load" />
+      <carLoad name="vinegar" loadType="load" />
+    </load>
+    <load type="N">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+    </load>
+    <load type="H">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
       <carLoad name="coal" loadType="load" />
     </load>
-    <load type="RS">
+    <load type="G">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="Produce" loadType="load" />
-    </load>
-    <load type="FM">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="Tarp" loadType="load" />
-      <carLoad name="lumber stack" loadType="load" />
+      <carLoad name="barrels" loadType="load" />
       <carLoad name="machinery" loadType="load" />
+      <carLoad name="material" loadType="load" />
+      <carLoad name="sand" loadType="load" />
+      <carLoad name="scrap metal" loadType="load" />
     </load>
-    <load type="TG">
+    <load type="F">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="fuel oil" loadType="load" />
-    </load>
-    <load type="GA">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="Tarp3" loadType="load" />
-      <carLoad name="lumber stack" loadType="load" />
       <carLoad name="machinery" loadType="load" />
-    </load>
-    <load type="XM">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="goods" loadType="load" />
-      <carLoad name="lcl" loadType="load" />
-      <carLoad name="merchandise" loadType="load" />
-    </load>
-    <load type="M">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
+      <carLoad name="material" loadType="load" />
+      <carLoad name="tarp" loadType="load" />
     </load>
   </loads>
   <newKernels />
   <options />
   <cars>
-    <car id="ACL9075" roadName="ACL" roadNumber="9075" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="AT&amp;SF6695" roadName="AT&amp;SF" roadNumber="6695" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="B&amp;A0298" roadName="B&amp;A" roadNumber="0298" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="B&amp;A1097" roadName="B&amp;A" roadNumber="1097" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="B&amp;A9815" roadName="B&amp;A" roadNumber="9815" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="B&amp;O1444" roadName="B&amp;O" roadNumber="1444" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="B&amp;O4786" roadName="B&amp;O" roadNumber="4786" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="B&amp;O5408" roadName="B&amp;O" roadNumber="5408" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="B&amp;O6319" roadName="B&amp;O" roadNumber="6319" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ1657" roadName="CNJ" roadNumber="1657" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="CNJ3352" roadName="CNJ" roadNumber="3352" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ3450" roadName="CNJ" roadNumber="3450" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="CNJ4424" roadName="CNJ" roadNumber="4424" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ4520" roadName="CNJ" roadNumber="4520" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="CNJ5854" roadName="CNJ" roadNumber="5854" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ7173" roadName="CNJ" roadNumber="7173" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ7887" roadName="CNJ" roadNumber="7887" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ8705" roadName="CNJ" roadNumber="8705" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="CNJ9508" roadName="CNJ" roadNumber="9508" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="DL&amp;W0224" roadName="DL&amp;W" roadNumber="0224" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="ER2138" roadName="ER" roadNumber="2138" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="ER3512" roadName="ER" roadNumber="3512" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="ER5756" roadName="ER" roadNumber="5756" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="ER5935" roadName="ER" roadNumber="5935" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="ER9640" roadName="ER" roadNumber="9640" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX0013" roadName="FGEX" roadNumber="0013" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX0877" roadName="FGEX" roadNumber="0877" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX1370" roadName="FGEX" roadNumber="1370" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX2395" roadName="FGEX" roadNumber="2395" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX6868" roadName="FGEX" roadNumber="6868" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX7875" roadName="FGEX" roadNumber="7875" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="FGEX9506" roadName="FGEX" roadNumber="9506" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="FGEX9669" roadName="FGEX" roadNumber="9669" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="HKH1953" roadName="HKH" roadNumber="1953" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="LV0814" roadName="LV" roadNumber="0814" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="LV1781" roadName="LV" roadNumber="1781" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="LV7785" roadName="LV" roadNumber="7785" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="M&amp;P0530" roadName="M&amp;P" roadNumber="0530" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="M&amp;P3995" roadName="M&amp;P" roadNumber="3995" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="M&amp;P4095" roadName="M&amp;P" roadNumber="4095" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="M&amp;P4374" roadName="M&amp;P" roadNumber="4374" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="M&amp;P7277" roadName="M&amp;P" roadNumber="7277" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYC1653" roadName="NYC" roadNumber="1653" type="FM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYC8038" roadName="NYC" roadNumber="8038" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYC9526" roadName="NYC" roadNumber="9526" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYNH&amp;H1016" roadName="NYNH&amp;H" roadNumber="1016" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="NYNH&amp;H1433" roadName="NYNH&amp;H" roadNumber="1433" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYNH&amp;H5015" roadName="NYNH&amp;H" roadNumber="5015" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" moves="0" date="" selected="false" load="Empty" />
-    <car id="NYNH&amp;H9488" roadName="NYNH&amp;H" roadNumber="9488" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="P&amp;R4925" roadName="P&amp;R" roadNumber="4925" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="P&amp;R5481" roadName="P&amp;R" roadNumber="5481" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="P&amp;R7852" roadName="P&amp;R" roadNumber="7852" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="PFEX4401" roadName="PFEX" roadNumber="4401" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="PGCC1248" roadName="PGCC" roadNumber="1248" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="PGCC3950" roadName="PGCC" roadNumber="3950" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="PGCC7366" roadName="PGCC" roadNumber="7366" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="PGCC9316" roadName="PGCC" roadNumber="9316" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="PRR0353" roadName="PRR" roadNumber="0353" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="PRR2731" roadName="PRR" roadNumber="2731" type="TG" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="PRR7851" roadName="PRR" roadNumber="7851" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="lcl" />
-    <car id="PRR7941" roadName="PRR" roadNumber="7941" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="SFRD1736" roadName="SFRD" roadNumber="1736" type="RS" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="SP4496" roadName="SP" roadNumber="4496" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="SP5167" roadName="SP" roadNumber="5167" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="SP6408" roadName="SP" roadNumber="6408" type="GA" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="UTLX7679" roadName="UTLX" roadNumber="7679" type="TG" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="WCC9545" roadName="WCC" roadNumber="9545" type="HK" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="WJ&amp;S1927" roadName="WJ&amp;S" roadNumber="1927" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
-    <car id="WJ&amp;S7187" roadName="WJ&amp;S" roadNumber="7187" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
-    <car id="WJ&amp;S9104" roadName="WJ&amp;S" roadNumber="9104" type="XM" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s1" moves="0" date="" selected="false" load="E" />
+    <car id="ACL3449" roadName="ACL" roadNumber="3449" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s1" moves="0" date="" selected="false" load="Empty" />
+    <car id="ACL5780" roadName="ACL" roadNumber="5780" type="F" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="AT&amp;SF0554" roadName="AT&amp;SF" roadNumber="0554" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="AT&amp;SF0775" roadName="AT&amp;SF" roadNumber="0775" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="AT&amp;SF2235" roadName="AT&amp;SF" roadNumber="2235" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s7" moves="0" date="" selected="false" load="Empty" />
+    <car id="AT&amp;SF3882" roadName="AT&amp;SF" roadNumber="3882" type="F" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="B&amp;A0949" roadName="B&amp;A" roadNumber="0949" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s3" moves="0" date="" selected="false" load="glassware" />
+    <car id="B&amp;A1700" roadName="B&amp;A" roadNumber="1700" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="B&amp;A2202" roadName="B&amp;A" roadNumber="2202" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="B&amp;A5982" roadName="B&amp;A" roadNumber="5982" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="B&amp;O0008" roadName="B&amp;O" roadNumber="0008" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s1" moves="0" date="" selected="false" load="Empty" />
+    <car id="B&amp;O1568" roadName="B&amp;O" roadNumber="1568" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s9" moves="0" date="" selected="false" load="lcl" />
+    <car id="B&amp;O5357" roadName="B&amp;O" roadNumber="5357" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="B&amp;O5656" roadName="B&amp;O" roadNumber="5656" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" moves="0" date="" selected="false" load="foodstuffs" />
+    <car id="CNJ3018" roadName="CNJ" roadNumber="3018" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s4" moves="0" date="" selected="false" load="Empty" />
+    <car id="CNJ4230" roadName="CNJ" roadNumber="4230" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="CNJ5327" roadName="CNJ" roadNumber="5327" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="DL&amp;W4944" roadName="DL&amp;W" roadNumber="4944" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s11" moves="0" date="" selected="false" load="Empty" />
+    <car id="DL&amp;W8032" roadName="DL&amp;W" roadNumber="8032" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="ER4555" roadName="ER" roadNumber="4555" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="ER7090" roadName="ER" roadNumber="7090" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="ER7213" roadName="ER" roadNumber="7213" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="ER8837" roadName="ER" roadNumber="8837" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s9" moves="0" date="" selected="false" load="glassware" />
+    <car id="ER9764" roadName="ER" roadNumber="9764" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="FGEX1497" roadName="FGEX" roadNumber="1497" type="Rf" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
+    <car id="FGEX1967" roadName="FGEX" roadNumber="1967" type="Rf" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" load="Empty" />
+    <car id="FGEX5722" roadName="FGEX" roadNumber="5722" type="Rf" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="HKH2773" roadName="HKH" roadNumber="2773" type="TV" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="HKH2787" roadName="HKH" roadNumber="2787" type="RH" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="HKH2907" roadName="HKH" roadNumber="2907" type="RH" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="HKH3059" roadName="HKH" roadNumber="3059" type="TV" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="HKH3275" roadName="HKH" roadNumber="3275" type="RH" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="LV5053" roadName="LV" roadNumber="5053" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" load="Empty" />
+    <car id="LV5647" roadName="LV" roadNumber="5647" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s8" moves="0" date="" selected="false" load="Empty" />
+    <car id="LV5812" roadName="LV" roadNumber="5812" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s9" moves="0" date="" selected="false" load="lcl" />
+    <car id="LV9389" roadName="LV" roadNumber="9389" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s11" moves="0" date="" selected="false" load="Empty" />
+    <car id="LV9655" roadName="LV" roadNumber="9655" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s5" moves="0" date="" selected="false" load="scrap metal" />
+    <car id="M&amp;P0238" roadName="M&amp;P" roadNumber="0238" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s2" moves="0" date="" selected="false" load="Empty" />
+    <car id="M&amp;P3884" roadName="M&amp;P" roadNumber="3884" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s8" moves="0" date="" selected="false" load="Empty" />
+    <car id="M&amp;P6493" roadName="M&amp;P" roadNumber="6493" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="M&amp;P7900" roadName="M&amp;P" roadNumber="7900" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="M&amp;P9015" roadName="M&amp;P" roadNumber="9015" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s4" moves="0" date="" selected="false" load="Empty" />
+    <car id="NYC1399" roadName="NYC" roadNumber="1399" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="NYC2711" roadName="NYC" roadNumber="2711" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s3" moves="0" date="" selected="false" load="Empty" />
+    <car id="NYC3372" roadName="NYC" roadNumber="3372" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="NYC6542" roadName="NYC" roadNumber="6542" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s9" moves="0" date="" selected="false" load="lcl" />
+    <car id="NYC7611" roadName="NYC" roadNumber="7611" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s1" moves="0" date="" selected="false" load="Empty" />
+    <car id="NYC7726" roadName="NYC" roadNumber="7726" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="NYC7826" roadName="NYC" roadNumber="7826" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="NYNH&amp;H0117" roadName="NYNH&amp;H" roadNumber="0117" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="NYNH&amp;H1963" roadName="NYNH&amp;H" roadNumber="1963" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s8" moves="0" date="" selected="false" load="Empty" />
+    <car id="NYNH&amp;H5821" roadName="NYNH&amp;H" roadNumber="5821" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="NYNH&amp;H8238" roadName="NYNH&amp;H" roadNumber="8238" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="P&amp;R0589" roadName="P&amp;R" roadNumber="0589" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="P&amp;R0614" roadName="P&amp;R" roadNumber="0614" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s6" moves="0" date="" selected="false" load="Empty" />
+    <car id="P&amp;R6907" roadName="P&amp;R" roadNumber="6907" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="PRR0266" roadName="PRR" roadNumber="0266" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s10" moves="0" date="" selected="false" load="Empty" />
+    <car id="PRR3219" roadName="PRR" roadNumber="3219" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="PRR3275" roadName="PRR" roadNumber="3275" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="PRR7857" roadName="PRR" roadNumber="7857" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s7" moves="0" date="" selected="false" load="Empty" />
+    <car id="PRR9264" roadName="PRR" roadNumber="9264" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s7" moves="0" date="" selected="false" load="Empty" />
+    <car id="PRR9500" roadName="PRR" roadNumber="9500" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="SP0692" roadName="SP" roadNumber="0692" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s9" moves="0" date="" selected="false" load="glassware" />
+    <car id="SP2013" roadName="SP" roadNumber="2013" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s7" moves="0" date="" selected="false" load="Empty" />
+    <car id="SP3336" roadName="SP" roadNumber="3336" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="SP8221" roadName="SP" roadNumber="8221" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s9" moves="0" date="" selected="false" load="glassware" />
+    <car id="UTLX0354" roadName="UTLX" roadNumber="0354" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="UTLX1411" roadName="UTLX" roadNumber="1411" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="UTLX5496" roadName="UTLX" roadNumber="5496" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s6" moves="0" date="" selected="false" load="Empty" />
+    <car id="UTLX6041" roadName="UTLX" roadNumber="6041" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="UTLX6480" roadName="UTLX" roadNumber="6480" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="UTLX9780" roadName="UTLX" roadNumber="9780" type="TO" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S0095" roadName="WJ&amp;S" roadNumber="0095" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s8" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S0116" roadName="WJ&amp;S" roadNumber="0116" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s2" moves="0" date="" selected="false" load="glassware" />
+    <car id="WJ&amp;S1140" roadName="WJ&amp;S" roadNumber="1140" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s3" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S1572" roadName="WJ&amp;S" roadNumber="1572" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s4" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S1719" roadName="WJ&amp;S" roadNumber="1719" type="F" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s4" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S2197" roadName="WJ&amp;S" roadNumber="2197" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s9" moves="0" date="" selected="false" load="glassware" />
+    <car id="WJ&amp;S2503" roadName="WJ&amp;S" roadNumber="2503" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="WJ&amp;S3207" roadName="WJ&amp;S" roadNumber="3207" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S3627" roadName="WJ&amp;S" roadNumber="3627" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s6" moves="0" date="" selected="false" load="glassware" />
+    <car id="WJ&amp;S3781" roadName="WJ&amp;S" roadNumber="3781" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S4000" roadName="WJ&amp;S" roadNumber="4000" type="G" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="WJ&amp;S5454" roadName="WJ&amp;S" roadNumber="5454" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s2" moves="0" date="" selected="false" load="glassware" />
+    <car id="WJ&amp;S6008" roadName="WJ&amp;S" roadNumber="6008" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s1" moves="0" date="" selected="false" load="foodstuffs" />
+    <car id="WJ&amp;S6807" roadName="WJ&amp;S" roadNumber="6807" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="1" secLocationId="1s5" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S689" roadName="WJ&amp;S" roadNumber="689" type="N" length="40" color="Red" weight="2" weightTons="36" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" caboose="true" load="unloadable" />
+    <car id="WJ&amp;S7027" roadName="WJ&amp;S" roadNumber="7027" type="F" length="40" color="Red" weight="2" weightTons="40" locationId="3" secLocationId="3s3" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S7908" roadName="WJ&amp;S" roadNumber="7908" type="H" length="40" color="Red" weight="2" weightTons="40" locationId="4" secLocationId="4s1" moves="0" date="" selected="false" load="Empty" />
+    <car id="WJ&amp;S7980" roadName="WJ&amp;S" roadNumber="7980" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="5" secLocationId="5s1" moves="0" date="" selected="false" load="E" />
+    <car id="WJ&amp;S8364" roadName="WJ&amp;S" roadNumber="8364" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s7" moves="0" date="" selected="false" load="foodstuffs" />
+    <car id="WJ&amp;S9455" roadName="WJ&amp;S" roadNumber="9455" type="X" length="40" color="Red" weight="2" weightTons="40" locationId="2" secLocationId="2s3" moves="0" date="" selected="false" load="foodstuffs" />
+    <car id="WJ&amp;S965" roadName="WJ&amp;S" roadNumber="965" type="N" length="40" color="Red" weight="2" weightTons="36" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" caboose="true" load="unloadable" />
   </cars>
 </operations-config>

@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Nov 21 15:13:23 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 09 11:15:37 PST 2022-->
   <operations>
     <setup comment="Model railroad version of WJ&amp;S Glass Works Branch;;;;;" />
     <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="3" trainLength="2000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="" />

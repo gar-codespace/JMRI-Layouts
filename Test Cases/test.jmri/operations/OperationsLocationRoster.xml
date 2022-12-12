@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
+<!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
+<operations-config>
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 09 15:51:43 PST 2022-->
+  <divisions>
+    <division id="2" name="Atlantic" comment="" />
+    <division id="1" name="Unknown" comment="" />
+  </divisions>
+  <locations>
+    <location id="1" name="Township" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="1s1" name="Bottling &amp; Packing" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s2" name="Can House" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s3" name="Kitchen" trackType="Spur" locType="Siding" dir="15" length="176" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s4" name="Vinegar" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s5" name="Coal Gas" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s6" name="Packing" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s7" name="Sand House" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s8" name="Sand Storage" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="1s9" name=" Ware House" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+    </location>
+    <location id="2" name="Terminal" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="2s1" name="Ramp" trackType="Spur" locType="Siding" dir="15" length="132" moves="0" schedule="SR" scheduleId="2" itemId="2c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="G" />
+          <carType name="F" />
+        </types>
+      </track>
+      <track id="2s10" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="264" moves="0" schedule="SGD" scheduleId="6" itemId="6c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="X" />
+        </types>
+      </track>
+      <track id="2s2" name="JF Ayers" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="JFA" scheduleId="8" itemId="8c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+      </track>
+      <track id="2s3" name="Luke F Smith" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="LFS" scheduleId="4" itemId="4c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+      </track>
+      <track id="2s4" name="SB&amp;I Material" trackType="Spur" locType="Siding" dir="15" length="132" moves="0" schedule="SBIM" scheduleId="7" itemId="7c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="G" />
+          <carType name="F" />
+        </types>
+      </track>
+      <track id="2s5" name="SB&amp;I Scrap" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="SBIS" scheduleId="1" itemId="1c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="G" />
+        </types>
+      </track>
+      <track id="2s6" name="SB&amp;I Ware House" trackType="Spur" locType="Siding" dir="15" length="176" moves="0" schedule="SBIW" scheduleId="9" itemId="9c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+      </track>
+      <track id="2s7" name="Smith Canning" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="SC" scheduleId="3" itemId="3c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+      </track>
+      <track id="2s8" name="Coal Bin" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="2s9" name="Salem Freight House" trackType="Spur" locType="Siding" dir="15" length="176" moves="0" schedule="SDFH" scheduleId="5" itemId="5c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+      </track>
+    </location>
+    <location id="3" name="Salem Creek" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="3s1" name="Ware House" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s10" name="Box Shop" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s11" name="Sand House" trackType="Spur" locType="Siding" dir="15" length="176" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s2" name="Ware Shed" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s3" name="S&amp;PSNCo" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s4" name="WH Harris" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s5" name="Coal Bin" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s6" name="Chemical Rack" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s7" name="Shipping" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s8" name="Bonham &amp; Young" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="3s9" name="FH Lloyd" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+    </location>
+    <location id="4" name="Fenwick Creek" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="4s1" name="Salem Gas Light" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s2" name="Ware Shed" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s3" name="Glassware" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s4" name="Electric Co of NJ" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s5" name="Fuel Oil" trackType="Spur" locType="Siding" dir="15" length="176" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s6" name="Glass Storage" trackType="Spur" locType="Siding" dir="15" length="176" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s7" name="Coal Trestle" trackType="Spur" locType="Siding" dir="15" length="176" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s8" name="Sand Storage" trackType="Spur" locType="Siding" dir="15" length="88" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+      <track id="4s9" name="Ware House" trackType="Spur" locType="Siding" dir="15" length="132" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+    </location>
+    <location id="5" name="Salem" divisionId="2" ops="2" dir="15" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="5s1" name="Terminal" trackType="Staging" locType="Staging" dir="15" length="3168" moves="0" loadOptions="26">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+    </location>
+    <location id="6" name="Unreported" divisionId="1" ops="1" dir="0" switchList="true" comment="" switchListComment="">
+      <types>
+        <carType name="F" />
+        <carType name="G" />
+        <carType name="H" />
+        <carType name="N" />
+        <carType name="RH" />
+        <carType name="Rf" />
+        <carType name="TO" />
+        <carType name="TV" />
+        <carType name="X" />
+        <locoType name="ES" />
+      </types>
+      <track id="6s1" name="~" trackType="Yard" locType="Yard" dir="15" length="4400" moves="0">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+          <carType name="H" />
+          <carType name="N" />
+          <carType name="RH" />
+          <carType name="Rf" />
+          <carType name="TO" />
+          <carType name="TV" />
+          <carType name="X" />
+          <locoType name="ES" />
+        </types>
+      </track>
+    </location>
+  </locations>
+  <schedules>
+    <schedule id="1" name="SBIS" comment="">
+      <item id="1c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="G" road="" load="Empty" ship="scrap metal" comment="" hits="0" />
+    </schedule>
+    <schedule id="2" name="SR" comment="">
+      <item id="2c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="F" road="" load="machinery" ship="Empty" comment="" hits="0" />
+      <item id="2c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="G" road="" load="machinery" ship="Empty" comment="" hits="0" />
+    </schedule>
+    <schedule id="3" name="SC" comment="">
+      <item id="3c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="Empty" ship="goods" comment="" hits="0" />
+    </schedule>
+    <schedule id="4" name="LFS" comment="">
+      <item id="4c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="Empty" ship="goods" comment="" hits="0" />
+    </schedule>
+    <schedule id="5" name="SDFH" comment="">
+      <item id="5c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="lcl" ship="Empty" comment="" hits="0" />
+      <item id="5c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="Empty" ship="lcl" comment="" hits="0" />
+    </schedule>
+    <schedule id="6" name="SGD" comment="">
+      <item id="6c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="merchandise" ship="Empty" comment="" hits="0" />
+      <item id="6c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="Empty" ship="merchandise" comment="" hits="0" />
+      <item id="6c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="G" road="" load="barrels" ship="Empty" comment="" hits="0" />
+      <item id="6c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="F" road="" load="tarp" ship="Empty" comment="" hits="0" />
+    </schedule>
+    <schedule id="7" name="SBIM" comment="">
+      <item id="7c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="F" road="" load="material" ship="Empty" comment="" hits="0" />
+      <item id="7c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="G" road="" load="material" ship="Empty" comment="" hits="0" />
+    </schedule>
+    <schedule id="8" name="JFA" comment="">
+      <item id="8c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="merchandise" ship="Empty" comment="" hits="0" />
+    </schedule>
+    <schedule id="9" name="SBIW" comment="">
+      <item id="9c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="X" road="" load="goods" ship="Empty" comment="" hits="0" />
+    </schedule>
+  </schedules>
+</operations-config>
