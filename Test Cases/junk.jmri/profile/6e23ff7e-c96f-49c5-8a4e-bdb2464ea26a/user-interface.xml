@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auxiliary-configuration xmlns="http://www.netbeans.org/ns/auxiliary-configuration/1">
+    <windowDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/window-details-4-3-5.xsd">
+        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="31.0" locY="31.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
+        <window xmlns="" class="PanelPro" height="286.0" locX="1346.0" locY="43.0" width="462.0"/>
+        <window xmlns="" class="JMRI System Console" height="439.0" locX="1022.0" locY="553.0" width="879.0"/>
+    </windowDetails>
+</auxiliary-configuration>
