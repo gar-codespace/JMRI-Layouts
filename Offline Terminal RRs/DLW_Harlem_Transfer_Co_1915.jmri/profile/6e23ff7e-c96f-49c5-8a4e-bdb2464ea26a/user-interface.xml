@@ -171,7 +171,7 @@
         <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location" height="840.0" locX="62.0" locY="62.0" width="976.0"/>
         <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Edit Train" height="600.0" locX="311.0" locY="148.0" width="600.0"/>
         <window xmlns="" class="jmri.jmrit.operations.setup.BuildReportOptionFrame:Build Report Options" height="500.0" locX="31.0" locY="31.0" width="500.0"/>
-        <window xmlns="" class="JMRI System Console" height="588.0" locX="1068.0" locY="451.0" width="848.0"/>
+        <window xmlns="" class="JMRI System Console" height="681.0" locX="1068.0" locY="358.0" width="848.0"/>
         <window xmlns="" class="jmri.jmrit.operations.setup.OptionFrame:Options" height="841.0" locX="31.0" locY="31.0" width="500.0"/>
         <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame:Locomotives" height="615.0" locX="31.0" locY="31.0" width="823.0"/>
         <window xmlns="" class="Script Output" height="294.0" locX="31.0" locY="31.0" width="531.0"/>
