@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-trains.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-trains.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 16 08:53:15 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 16 21:49:30 PST 2022-->
   <options>
     <trainOptions buildMessages="true" buildReport="false" printPreview="true" openFile="false" runFile="false" trainAction="Reset" />
     <conductorOptions showHyphenName="false" />
@@ -19,7 +19,7 @@
     </switchlistCreator>
   </options>
   <trains>
-    <train id="1" name="Float Switch" description="Pier float switcher" departHour="00" departMinute="00" builtStartYear="" builtEndYear="" numberEngines="0" engineRoad="" engineModel="" requires="0" cabooseRoad="" buildNormal="false" toTerminal="false" allowLocalMoves="true" allowReturn="false" allowThroughCars="true" serviceAll="false" sendCustomStaging="false" buildConsist="false" built="false" build="true" buildFailed="false" buildFailedMessage="" printed="false" modified="false" switchListStatus="" status="Train reset" TerminationDate="" RequestedCars="72" statusCode="0" oldStatusCode="65535" comment="" showTimes="true">
+    <train id="1" name="Float Switch" description="Set industry from pier float" departHour="00" departMinute="00" builtStartYear="" builtEndYear="" numberEngines="0" engineRoad="" engineModel="" requires="0" cabooseRoad="" buildNormal="false" toTerminal="false" allowLocalMoves="true" allowReturn="false" allowThroughCars="true" serviceAll="false" sendCustomStaging="false" buildConsist="false" built="false" build="true" buildFailed="false" buildFailedMessage="" printed="false" modified="false" switchListStatus="" status="Train reset" TerminationDate="" RequestedCars="72" statusCode="0" oldStatusCode="65535" comment="" showTimes="true">
       <rowColor name="" resetRowColor="" />
       <route name="Float Switch" id="1" />
       <types>
@@ -30,19 +30,6 @@
         <carType name="TG" />
         <carType name="XM" />
         <locoType name="ES" />
-      </types>
-    </train>
-    <train id="4" name="h" description="Pier float switcher" departHour="00" departMinute="00" builtStartYear="" builtEndYear="" numberEngines="0" engineRoad="" engineModel="" requires="0" cabooseRoad="" buildNormal="false" toTerminal="false" allowLocalMoves="true" allowReturn="false" allowThroughCars="true" serviceAll="false" sendCustomStaging="false" buildConsist="false" built="false" build="true" buildFailed="false" buildFailedMessage="" printed="false" modified="false" switchListStatus="" status="" TerminationDate="" RequestedCars="0" statusCode="65535" oldStatusCode="65535" comment="" showTimes="true">
-      <rowColor name="" resetRowColor="" />
-      <route name="Float Switch" id="1" />
-      <types>
-        <locoType name="ES" />
-        <carType name="FM" />
-        <carType name="GA" />
-        <carType name="HK" />
-        <carType name="M" />
-        <carType name="TG" />
-        <carType name="XM" />
       </types>
     </train>
   </trains>
