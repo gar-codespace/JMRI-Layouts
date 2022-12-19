@@ -2,11 +2,11 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 16 20:36:58 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Mon Dec 19 07:26:32 PST 2022-->
   <operations>
-    <railRoad name="West Jersey &amp; Seashore RR&#xA;Salem &amp; Glass Works Branch&#xA;Salem, New Jersey" />
+    <railRoad name="DL&amp;W Harlem Transfer Co 1915" />
     <setup comment="" />
-    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1917" />
+    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1915" />
     <pickupEngFormat prefix=" [ ] Pick up" setting="Road,Number,Model,Consist,Destination," />
     <dropEngFormat prefix=" [ ] Set out" setting="Road,Number,Model,Consist,Destination," />
     <pickupCarFormat prefix=" [ ] Pick up" setting="Road,Number,Type,Load Type,Load,Destination," />
@@ -27,7 +27,7 @@
     <manifestFormat value="0" />
     <manifestFileOptions manifestSave="false" />
     <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="false" allowLocalYard="false" stagingRestrictionEnabled="true" stagingTrackAvail="true" allowReturnStaging="false" promptStagingEnabled="false" promptToStagingEnabled="false" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="false" />
-    <buildReport level="1" routerLevel="3" useEditor="false" indent="true" alwaysPreview="false" fontSize="10" />
+    <buildReport level="3" routerLevel="3" useEditor="false" indent="true" alwaysPreview="false" fontSize="10" />
     <router carRoutingEnabled="true" carRoutingViaYards="true" carRoutingViaStaging="false" forwardToYard="true" onlyActiveTrains="false" checkCarDestination="false" />
     <logger carLogger="false" engineLogger="false" trainLogger="false" />
     <owner name="" />
