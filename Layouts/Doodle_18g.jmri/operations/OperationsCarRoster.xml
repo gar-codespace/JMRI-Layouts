@@ -2,21 +2,19 @@
 <?xml-stylesheet href="/xml/XSLT/operations-cars.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-cars.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Sun Dec 25 15:49:48 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 23 10:28:16 PST 2022-->
   <roads>
     <road name="ACL" />
     <road name="AT&amp;SF" />
     <road name="B&amp;A" />
     <road name="B&amp;O" />
     <road name="CNJ" />
-    <road name="CNJMW" />
     <road name="DL&amp;W" />
     <road name="EEI" />
     <road name="ER" />
     <road name="ESS" />
     <road name="ET" />
     <road name="FGEX" />
-    <road name="HKH" />
     <road name="LV" />
     <road name="M&amp;P" />
     <road name="NYC" />
@@ -30,37 +28,24 @@
     <road name="SP" />
     <road name="TCX" />
     <road name="TELX" />
-    <road name="UTLX" />
     <road name="WCC" />
     <road name="WJ&amp;S" />
   </roads>
   <types>
     <type name="B" />
     <type name="BX" />
-    <type name="F" />
     <type name="FM" />
-    <type name="G" />
-    <type name="GA" />
     <type name="GB" />
-    <type name="H" />
     <type name="HK" />
     <type name="HT" />
-    <type name="M" />
     <type name="MA" />
-    <type name="N" />
     <type name="NE" />
     <type name="NM" />
     <type name="PB" />
     <type name="PC" />
     <type name="RB" />
-    <type name="RH" />
     <type name="RS" />
-    <type name="Rf" />
-    <type name="TG" />
     <type name="TM" />
-    <type name="TO" />
-    <type name="TV" />
-    <type name="X" />
     <type name="XM" />
   </types>
   <colors>
@@ -96,30 +81,26 @@
   </owners>
   <loads>
     <defaults empty="E" load="L" />
-    <load type="NE">
+    <load type="XM">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-    </load>
-    <load type="TG">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="heating oil" loadType="load" />
-    </load>
-    <load type="X">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="foodstuffs" loadType="load" />
-      <carLoad name="glassware" loadType="load" />
+      <carLoad name="express" loadType="load" />
       <carLoad name="goods" loadType="load" />
-      <carLoad name="lcl" loadType="load" />
       <carLoad name="merchandise" loadType="load" />
-      <carLoad name="wire" loadType="load" />
     </load>
-    <load type="RS">
+    <load type="B">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="iced" loadType="load" />
-      <carLoad name="produce" loadType="load" />
+      <carLoad name="express" loadType="load" />
+    </load>
+    <load type="BX">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
+      <carLoad name="express" loadType="load" />
+    </load>
+    <load type="PC">
+      <carLoad name="Empty" loadType="empty" />
+      <carLoad name="Load" loadType="load" />
     </load>
     <load type="FM">
       <carLoad name="Empty" loadType="empty" />
@@ -128,74 +109,23 @@
       <carLoad name="Tarp3" loadType="load" />
       <carLoad name="lumber stack" loadType="load" />
     </load>
-    <load type="XM">
+    <load type="PB">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="express" loadType="load" />
-      <carLoad name="goods" loadType="load" />
-      <carLoad name="merchandise" loadType="load" />
-    </load>
-    <load type="N">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-    </load>
-    <load type="M">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-    </load>
-    <load type="RH">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-    </load>
-    <load type="H">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="coal" loadType="load" />
-    </load>
-    <load type="G">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="barrels" loadType="load" />
-      <carLoad name="machinery" loadType="load" />
-      <carLoad name="material" loadType="load" />
-      <carLoad name="sand" loadType="load" />
-      <carLoad name="scrap metal" loadType="load" />
-    </load>
-    <load type="F">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="machinery" loadType="load" />
-      <carLoad name="material" loadType="load" />
-      <carLoad name="tarp" loadType="load" />
-    </load>
-    <load type="RB">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="iced" loadType="load" />
-      <carLoad name="produce" loadType="load" />
-    </load>
-    <load type="BX">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="express" loadType="load" />
-    </load>
-    <load type="B">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="express" loadType="load" />
     </load>
     <load type="HT">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
     </load>
-    <load type="Rf">
+    <load type="MA">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="produce" loadType="load" />
+      <carLoad name="mail" loadType="load" />
     </load>
-    <load type="TV">
+    <load type="TM">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
+      <carLoad name="fuel" loadType="load" />
     </load>
     <load type="GB">
       <carLoad name="Empty" loadType="empty" />
@@ -206,46 +136,30 @@
       <carLoad name="cinders" loadType="load" />
       <carLoad name="sand" loadType="load" />
     </load>
-    <load type="GA">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="bricks" loadType="load" />
-      <carLoad name="steel beams" loadType="load" />
-      <carLoad name="stone" loadType="load" />
-      <carLoad name="tarp" loadType="load" />
-    </load>
-    <load type="PC">
+    <load type="NM">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
     </load>
-    <load type="PB">
+    <load type="RB">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-    </load>
-    <load type="MA">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="mail" loadType="load" />
-    </load>
-    <load type="TO">
-      <carLoad name="Empty" loadType="empty" />
-      <carLoad name="Load" loadType="load" />
-      <carLoad name="fuel" loadType="load" />
-      <carLoad name="vinegar" loadType="load" />
+      <carLoad name="iced" loadType="load" />
+      <carLoad name="produce" loadType="load" />
     </load>
     <load type="HK">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
       <carLoad name="coal2" loadType="load" />
     </load>
-    <load type="NM">
+    <load type="RS">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
+      <carLoad name="iced" loadType="load" />
+      <carLoad name="produce" loadType="load" />
     </load>
-    <load type="TM">
+    <load type="NE">
       <carLoad name="Empty" loadType="empty" />
       <carLoad name="Load" loadType="load" />
-      <carLoad name="fuel" loadType="load" />
     </load>
   </loads>
   <newKernels>

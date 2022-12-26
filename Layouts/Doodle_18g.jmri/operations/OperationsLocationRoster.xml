@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Sun Dec 25 15:49:48 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 23 10:28:16 PST 2022-->
   <divisions>
     <division id="3" name="Easton" comment="" />
     <division id="4" name="Northton" comment="" />
@@ -11,34 +11,22 @@
     <division id="2" name="Weston" comment="" />
   </divisions>
   <locations>
-    <location id="1" name="Northton" ops="2" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="1" name="Northton" divisionId="4" ops="2" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -50,30 +38,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -86,30 +62,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -122,30 +86,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -158,30 +110,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -191,34 +131,22 @@
         </types>
       </track>
     </location>
-    <location id="2" name="City" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="2" name="City" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -226,7 +154,7 @@
         <locoType name="ES" />
         <locoType name="ESS" />
       </types>
-      <track id="2s1" name="Ice 1" trackType="Spur" locType="Siding" dir="15" length="704" moves="0" schedule="CI1" scheduleId="111" itemId="111c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s1" name="Ice 1" trackType="Spur" locType="Siding" dir="15" length="704" moves="0" schedule="CI1" scheduleId="231" itemId="231c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="RS" />
           <carType name="RB" />
@@ -236,30 +164,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -272,30 +188,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -308,30 +212,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -344,30 +236,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -380,30 +260,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -416,30 +284,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -452,30 +308,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -488,30 +332,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -524,30 +356,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -557,34 +377,22 @@
         </types>
       </track>
     </location>
-    <location id="3" name="Downtown" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="3" name="Downtown" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -592,20 +400,20 @@
         <locoType name="ES" />
         <locoType name="ESS" />
       </types>
-      <track id="3s1" name="Express - X1" trackType="Spur" locType="Siding" dir="15" length="308" moves="0" schedule="DX1" scheduleId="113" itemId="113c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s1" name="Express - X1" trackType="Spur" locType="Siding" dir="15" length="308" moves="0" schedule="DX1" scheduleId="233" itemId="233c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="BX" />
           <carType name="B" />
         </types>
       </track>
-      <track id="3s10" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="440" moves="0" schedule="DGD" scheduleId="114" itemId="114c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s10" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="440" moves="0" schedule="DGD" scheduleId="234" itemId="234c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="XM" />
           <carType name="GB" />
         </types>
       </track>
-      <track id="3s11" name="Express - X2" trackType="Spur" locType="Siding" dir="15" length="352" moves="0" schedule="DX2" scheduleId="112" itemId="112c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s11" name="Express - X2" trackType="Spur" locType="Siding" dir="15" length="352" moves="0" schedule="DX2" scheduleId="232" itemId="232c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="B" />
           <carType name="MA" />
@@ -616,30 +424,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -652,30 +448,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -684,7 +468,7 @@
           <locoType name="ESS" />
         </types>
       </track>
-      <track id="3s4" name="Express - X3" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DX3" scheduleId="117" itemId="117c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s4" name="Express - X3" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DX3" scheduleId="237" itemId="237c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="B" />
         </types>
@@ -693,30 +477,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -725,56 +497,44 @@
           <locoType name="ESS" />
         </types>
       </track>
-      <track id="3s6" name="Ash" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DA" scheduleId="128" itemId="128c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s6" name="Ash" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DA" scheduleId="248" itemId="248c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="GB" />
         </types>
       </track>
-      <track id="3s7" name="Coal" trackType="Spur" locType="Siding" dir="15" length="220" moves="0" schedule="DC" scheduleId="129" itemId="129c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s7" name="Coal" trackType="Spur" locType="Siding" dir="15" length="220" moves="0" schedule="DC" scheduleId="249" itemId="249c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="HK" />
         </types>
       </track>
-      <track id="3s8" name="Gantry Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="DG" scheduleId="120" itemId="120c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s8" name="Gantry Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="DG" scheduleId="240" itemId="240c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="GB" />
           <carType name="FM" />
         </types>
       </track>
-      <track id="3s9" name="Sand" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DS" scheduleId="131" itemId="131c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="3s9" name="Sand" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="DS" scheduleId="251" itemId="251c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="GB" />
         </types>
       </track>
     </location>
-    <location id="4" name="Park" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="4" name="Park" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -782,73 +542,61 @@
         <locoType name="ES" />
         <locoType name="ESS" />
       </types>
-      <track id="4s1" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PC" scheduleId="125" itemId="125c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s1" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PC" scheduleId="245" itemId="245c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="HK" />
         </types>
       </track>
-      <track id="4s2" name="Freight House" trackType="Spur" locType="Siding" dir="15" length="572" moves="0" schedule="PFH" scheduleId="126" itemId="126c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s2" name="Freight House" trackType="Spur" locType="Siding" dir="15" length="572" moves="0" schedule="PFH" scheduleId="246" itemId="246c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="XM" />
         </types>
       </track>
-      <track id="4s3" name="Lumber" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PL" scheduleId="122" itemId="122c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s3" name="Lumber" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PL" scheduleId="242" itemId="242c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="GB" />
         </types>
       </track>
-      <track id="4s4" name="Fuel Oil" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PFO" scheduleId="124" itemId="124c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s4" name="Fuel Oil" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PFO" scheduleId="244" itemId="244c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="TM" />
         </types>
       </track>
-      <track id="4s5" name="Power House" trackType="Spur" locType="Siding" dir="15" length="220" moves="0" schedule="PPH" scheduleId="123" itemId="123c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s5" name="Power House" trackType="Spur" locType="Siding" dir="15" length="220" moves="0" schedule="PPH" scheduleId="243" itemId="243c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="HK" />
         </types>
       </track>
-      <track id="4s6" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PGD" scheduleId="115" itemId="115c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s6" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="PGD" scheduleId="235" itemId="235c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="XM" />
           <carType name="GB" />
         </types>
       </track>
-      <track id="4s7" name="Depot" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="PD" scheduleId="130" itemId="130c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="4s7" name="Depot" trackType="Spur" locType="Siding" dir="15" length="44" moves="0" schedule="PD" scheduleId="250" itemId="250c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="XM" />
         </types>
       </track>
     </location>
-    <location id="5" name="Crest" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="5" name="Crest" divisionId="5" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -860,30 +608,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -893,34 +629,22 @@
         </types>
       </track>
     </location>
-    <location id="6" name="Weston" ops="2" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="6" name="Weston" divisionId="2" ops="2" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -932,30 +656,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -968,30 +680,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1001,34 +701,22 @@
         </types>
       </track>
     </location>
-    <location id="7" name="Valley" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="7" name="Valley" divisionId="5" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1040,30 +728,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1072,17 +748,17 @@
           <locoType name="ESS" />
         </types>
       </track>
-      <track id="7s2" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VC" scheduleId="118" itemId="118c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="7s2" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VC" scheduleId="238" itemId="238c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="HK" />
         </types>
       </track>
-      <track id="7s3" name="Depot" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VD" scheduleId="127" itemId="127c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="7s3" name="Depot" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VD" scheduleId="247" itemId="247c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="XM" />
         </types>
       </track>
-      <track id="7s4" name="Produce" trackType="Spur" locType="Siding" dir="15" length="704" moves="0" schedule="VP" scheduleId="116" itemId="116c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="7s4" name="Produce" trackType="Spur" locType="Siding" dir="15" length="704" moves="0" schedule="VP" scheduleId="236" itemId="236c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="RS" />
           <carType name="RB" />
@@ -1092,30 +768,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1124,7 +788,7 @@
           <locoType name="ESS" />
         </types>
       </track>
-      <track id="7s6" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VGD" scheduleId="119" itemId="119c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="7s6" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="VGD" scheduleId="239" itemId="239c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="FM" />
           <carType name="XM" />
@@ -1132,34 +796,22 @@
         </types>
       </track>
     </location>
-    <location id="8" name="Train Service" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="8" name="Train Service" divisionId="2" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1171,30 +823,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1207,30 +847,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1243,30 +871,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1279,30 +895,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1315,30 +919,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1351,30 +943,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1387,30 +967,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1423,30 +991,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1459,30 +1015,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1495,30 +1039,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1531,30 +1063,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1564,34 +1084,22 @@
         </types>
       </track>
     </location>
-    <location id="9" name="Easton" ops="2" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="9" name="Easton" divisionId="3" ops="2" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1603,30 +1111,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1639,30 +1135,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1672,34 +1156,22 @@
         </types>
       </track>
     </location>
-    <location id="10" name="Unreported" ops="1" dir="0" switchList="true" comment="" switchListComment="">
+    <location id="10" name="Unreported" divisionId="1" ops="1" dir="0" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1711,30 +1183,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1744,34 +1204,22 @@
         </types>
       </track>
     </location>
-    <location id="11" name="Junction" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="11" name="Junction" divisionId="5" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1779,17 +1227,17 @@
         <locoType name="ES" />
         <locoType name="ESS" />
       </types>
-      <track id="11s1" name="Depot" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="JD" scheduleId="133" itemId="133c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="11s1" name="Depot" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="JD" scheduleId="253" itemId="253c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="XM" />
         </types>
       </track>
-      <track id="11s2" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="JC" scheduleId="132" itemId="132c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="11s2" name="Coal" trackType="Spur" locType="Siding" dir="15" length="88" moves="0" schedule="JC" scheduleId="252" itemId="252c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="HK" />
         </types>
       </track>
-      <track id="11s3" name="Steel Products" trackType="Spur" locType="Siding" dir="15" length="176" moves="0" schedule="JSP" scheduleId="121" itemId="121c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="11s3" name="Steel Products" trackType="Spur" locType="Siding" dir="15" length="176" moves="0" schedule="JSP" scheduleId="241" itemId="241c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="GB" />
           <carType name="FM" />
@@ -1797,34 +1245,22 @@
         </types>
       </track>
     </location>
-    <location id="12" name="Midway" ops="1" dir="15" switchList="true" comment="" switchListComment="">
+    <location id="12" name="Midway" divisionId="5" ops="1" dir="15" switchList="true" comment="" switchListComment="">
       <types>
         <carType name="B" />
         <carType name="BX" />
-        <carType name="F" />
         <carType name="FM" />
-        <carType name="G" />
-        <carType name="GA" />
         <carType name="GB" />
-        <carType name="H" />
         <carType name="HK" />
         <carType name="HT" />
-        <carType name="M" />
         <carType name="MA" />
-        <carType name="N" />
         <carType name="NE" />
         <carType name="NM" />
         <carType name="PB" />
         <carType name="PC" />
         <carType name="RB" />
-        <carType name="RH" />
         <carType name="RS" />
-        <carType name="Rf" />
-        <carType name="TG" />
         <carType name="TM" />
-        <carType name="TO" />
-        <carType name="TV" />
-        <carType name="X" />
         <carType name="XM" />
         <locoType name="ED" />
         <locoType name="EE" />
@@ -1836,30 +1272,18 @@
         <types>
           <carType name="B" />
           <carType name="BX" />
-          <carType name="F" />
           <carType name="FM" />
-          <carType name="G" />
-          <carType name="GA" />
           <carType name="GB" />
-          <carType name="H" />
           <carType name="HK" />
           <carType name="HT" />
-          <carType name="M" />
           <carType name="MA" />
-          <carType name="N" />
           <carType name="NE" />
           <carType name="NM" />
           <carType name="PB" />
           <carType name="PC" />
           <carType name="RB" />
-          <carType name="RH" />
           <carType name="RS" />
-          <carType name="Rf" />
-          <carType name="TG" />
           <carType name="TM" />
-          <carType name="TO" />
-          <carType name="TV" />
-          <carType name="X" />
           <carType name="XM" />
           <locoType name="ED" />
           <locoType name="EE" />
@@ -1871,98 +1295,98 @@
     </location>
   </locations>
   <schedules>
-    <schedule id="111" name="CI1" comment="">
-      <item id="111c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="Empty" ship="iced" comment="" hits="0" />
-      <item id="111c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Empty" ship="iced" comment="" hits="0" />
+    <schedule id="231" name="CI1" comment="">
+      <item id="231c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="Empty" ship="iced" comment="" hits="0" />
+      <item id="231c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Empty" ship="iced" comment="" hits="0" />
     </schedule>
-    <schedule id="112" name="DX2" comment="">
-      <item id="112c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="Empty" ship="express" comment="" hits="0" />
-      <item id="112c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="MA" road="" load="mail" ship="Empty" comment="" hits="0" />
-      <item id="112c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="MA" road="" load="Empty" ship="mail" comment="" hits="0" />
-      <item id="112c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
-      <item id="112c5" sequenceId="5" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
-      <item id="112c6" sequenceId="6" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="232" name="DX2" comment="">
+      <item id="232c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="Empty" ship="express" comment="" hits="0" />
+      <item id="232c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="MA" road="" load="mail" ship="Empty" comment="" hits="0" />
+      <item id="232c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="MA" road="" load="Empty" ship="mail" comment="" hits="0" />
+      <item id="232c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
+      <item id="232c5" sequenceId="5" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
+      <item id="232c6" sequenceId="6" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="113" name="DX1" comment="">
-      <item id="113c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
-      <item id="113c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
-      <item id="113c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="Empty" ship="express" comment="" hits="0" />
-      <item id="113c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="233" name="DX1" comment="">
+      <item id="233c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
+      <item id="233c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
+      <item id="233c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="Empty" ship="express" comment="" hits="0" />
+      <item id="233c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="BX" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="114" name="DGD" comment="">
-      <item id="114c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
-      <item id="114c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
-      <item id="114c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="0" />
+    <schedule id="234" name="DGD" comment="">
+      <item id="234c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+      <item id="234c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
+      <item id="234c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="115" name="PGD" comment="">
-      <item id="115c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp" ship="Empty" comment="" hits="0" />
-      <item id="115c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
-      <item id="115c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+    <schedule id="235" name="PGD" comment="">
+      <item id="235c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp" ship="Empty" comment="" hits="0" />
+      <item id="235c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
+      <item id="235c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="116" name="VP" comment="">
-      <item id="116c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="Empty" ship="produce" comment="" hits="0" />
-      <item id="116c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Empty" ship="produce" comment="" hits="0" />
-      <item id="116c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="iced" ship="Empty" comment="" hits="0" />
-      <item id="116c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="iced" ship="Empty" comment="" hits="0" />
+    <schedule id="236" name="VP" comment="">
+      <item id="236c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="Empty" ship="produce" comment="" hits="0" />
+      <item id="236c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="Empty" ship="produce" comment="" hits="0" />
+      <item id="236c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RB" road="" load="iced" ship="Empty" comment="" hits="0" />
+      <item id="236c4" sequenceId="4" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="RS" road="" load="iced" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="117" name="DX3" comment="">
-      <item id="117c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
-      <item id="117c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="237" name="DX3" comment="">
+      <item id="237c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="Empty" ship="express" comment="" hits="0" />
+      <item id="237c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="B" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="118" name="VC" comment="">
-      <item id="118c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
+    <schedule id="238" name="VC" comment="">
+      <item id="238c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="119" name="VGD" comment="">
-      <item id="119c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
-      <item id="119c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
-      <item id="119c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="0" />
+    <schedule id="239" name="VGD" comment="">
+      <item id="239c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+      <item id="239c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
+      <item id="239c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="120" name="DG" comment="">
-      <item id="120c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
-      <item id="120c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+    <schedule id="240" name="DG" comment="">
+      <item id="240c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
+      <item id="240c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Tarp3" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="121" name="JSP" comment="">
-      <item id="121c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="merchandise" comment="" hits="0" />
-      <item id="121c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Empty" ship="Tarp" comment="" hits="0" />
-      <item id="121c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Empty" ship="Tarp3" comment="" hits="0" />
+    <schedule id="241" name="JSP" comment="">
+      <item id="241c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="merchandise" comment="" hits="0" />
+      <item id="241c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="Empty" ship="Tarp" comment="" hits="0" />
+      <item id="241c3" sequenceId="3" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Empty" ship="Tarp3" comment="" hits="0" />
     </schedule>
-    <schedule id="122" name="PL" comment="">
-      <item id="122c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Milled timber" ship="Empty" comment="" hits="0" />
-      <item id="122c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="lumber stack" ship="Empty" comment="" hits="0" />
+    <schedule id="242" name="PL" comment="">
+      <item id="242c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Milled timber" ship="Empty" comment="" hits="0" />
+      <item id="242c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="FM" road="" load="lumber stack" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="123" name="PPH" comment="">
-      <item id="123c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
+    <schedule id="243" name="PPH" comment="">
+      <item id="243c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="124" name="PFO" comment="">
-      <item id="124c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="TM" road="" load="fuel" ship="Empty" comment="" hits="0" />
+    <schedule id="244" name="PFO" comment="">
+      <item id="244c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="TM" road="" load="fuel" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="125" name="PC" comment="">
-      <item id="125c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
+    <schedule id="245" name="PC" comment="">
+      <item id="245c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="126" name="PFH" comment="">
-      <item id="126c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="merchandise" comment="" hits="0" />
-      <item id="126c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
+    <schedule id="246" name="PFH" comment="">
+      <item id="246c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="Empty" ship="merchandise" comment="" hits="0" />
+      <item id="246c2" sequenceId="2" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="goods" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="127" name="VD" comment="">
-      <item id="127c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="247" name="VD" comment="">
+      <item id="247c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="128" name="DA" comment="">
-      <item id="128c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Empty" ship="cinders" comment="" hits="0" />
+    <schedule id="248" name="DA" comment="">
+      <item id="248c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="Empty" ship="cinders" comment="" hits="0" />
     </schedule>
-    <schedule id="129" name="DC" comment="">
-      <item id="129c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
+    <schedule id="249" name="DC" comment="">
+      <item id="249c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="130" name="PD" comment="">
-      <item id="130c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="250" name="PD" comment="">
+      <item id="250c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="131" name="DS" comment="">
-      <item id="131c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="sand" ship="Empty" comment="" hits="0" />
+    <schedule id="251" name="DS" comment="">
+      <item id="251c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="GB" road="" load="sand" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="132" name="JC" comment="">
-      <item id="132c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
+    <schedule id="252" name="JC" comment="">
+      <item id="252c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="HK" road="" load="coal2" ship="Empty" comment="" hits="0" />
     </schedule>
-    <schedule id="133" name="JD" comment="">
-      <item id="133c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
+    <schedule id="253" name="JD" comment="">
+      <item id="253c1" sequenceId="1" random="" trainScheduleId="" pickupTrainScheduleId="" count="1" wait="0" type="XM" road="" load="express" ship="Empty" comment="" hits="0" />
     </schedule>
   </schedules>
 </operations-config>

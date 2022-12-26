@@ -2,9 +2,8 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Sun Dec 25 15:49:48 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 23 10:28:16 PST 2022-->
   <models>
-    <model name="0-4-0t" />
     <model name="0-6-0 prr" />
     <model name="2-10-0 prr" />
     <model name="2-10-4 j1a " />
@@ -14,8 +13,6 @@
     <model name="4-4-4-4 t1 " />
     <model name="4-6-2 k4 pr" />
     <model name="4-6-2 k4s s" />
-    <model name="A4" />
-    <model name="B6s" />
     <model name="PRR MP54e1" />
     <model name="f 3a sal" />
     <model name="f 3b sal" />
