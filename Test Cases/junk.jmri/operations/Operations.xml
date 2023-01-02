@@ -2,8 +2,9 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Wed Dec 28 11:46:35 PST 2022-->
+  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 30 20:10:13 PST 2022-->
   <operations>
+    <railRoad name="Pennsylvania Railroad&#xA;Allegheny Region&#xA;Western Pennsylvania" />
     <setup comment="" />
     <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="true" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1938" />
     <pickupEngFormat prefix=" [ ] Pick up" setting="Road,Number,Model,Consist,Destination," />
