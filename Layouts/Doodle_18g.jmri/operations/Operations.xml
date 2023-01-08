@@ -2,11 +2,11 @@
 <?xml-stylesheet href="/xml/XSLT/operations-config.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-config.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.25.4+R6bcb9ac1fa on Fri Dec 30 11:29:28 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Sun Jan 08 09:01:42 PST 2023-->
   <operations>
-    <railRoad name="Doodle 18g" />
+    <railRoad name="Pennsylvania Railroad&#xA;Allegheny Region&#xA;Western Pennsylvania" />
     <setup comment="" />
-    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="1000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1938" />
+    <settings mainMenu="true" closeOnSave="true" autoSave="true" autoBackup="false" trainDirection="15" trainLength="3000" maxEngines="6" hpt="1" scale="6" carTypes="ARR Codes" switchTime="3" travelTime="4" showValue="false" valueLabel="Value" showRfid="false" rfidLabel="ID Tag" lengthUnit="Feet" yearModeled="1938" />
     <pickupEngFormat prefix=" [ ] Pick up" setting="Road,Number,Model,Consist,Destination," />
     <dropEngFormat prefix=" [ ] Set out" setting="Road,Number,Model,Consist,Destination," />
     <pickupCarFormat prefix=" [ ] Pick up" setting="Road,Number,Type,Load Type,Load,Destination," />
@@ -26,14 +26,14 @@
     <manifest printLocComments="false" printRouteComments="false" printLoadsEmpties="false" printTimetable="false" use12hrFormat="false" printValid="true" sortByTrack="false" printPageHeader="true" printHeaders="false" truncate="false" useDepartureTime="false" useEditor="true" printCabooseLoad="false" printPassengerLoad="false" hazardousMsg="(Hazardous)" />
     <manifestFormat value="0" />
     <manifestFileOptions manifestSave="false" />
-    <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="false" allowLocalYard="false" stagingRestrictionEnabled="true" stagingTrackAvail="true" allowReturnStaging="false" promptStagingEnabled="false" promptToStagingEnabled="false" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="false" />
-    <buildReport level="7" routerLevel="3" useEditor="false" indent="true" alwaysPreview="false" fontSize="10" />
+    <buildOptions aggressive="true" numberPasses="2" allowLocalInterchange="false" allowLocalSpur="false" allowLocalYard="false" stagingRestrictionEnabled="true" stagingTrackAvail="true" allowReturnStaging="false" promptStagingEnabled="true" promptToStagingEnabled="true" stagingTryNormal="false" generateCsvManifest="false" generateCsvSwitchList="false" />
+    <buildReport level="7" routerLevel="3" useEditor="true" indent="true" alwaysPreview="false" fontSize="10" />
     <router carRoutingEnabled="true" carRoutingViaYards="true" carRoutingViaStaging="false" forwardToYard="true" onlyActiveTrains="false" checkCarDestination="false" />
     <logger carLogger="false" engineLogger="false" trainLogger="false" />
     <owner name="" />
     <iconColor north="White" south="White" east="White" west="White" local="White" terminate="White" />
     <comments misplacedCars="The following cars are currently misplaced, please contact the dispatcher if found" />
-    <display showTrackMoves="false" />
+    <display showTrackMoves="true" />
     <CATS exactLocationName="true" />
   </operations>
   <manifestHeaderTextStrings />
