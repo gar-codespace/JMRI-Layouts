@@ -2,8 +2,9 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 03 13:15:20 PST 2023-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 10:42:53 PST 2023-->
   <models>
+    <model name="A4" />
     <model name="B6s" />
   </models>
   <types>
@@ -41,5 +42,7 @@
     <length value="90" />
   </lengths>
   <newConsists />
-  <engines />
+  <engines>
+    <engine id="WJ&amp;S928" roadName="WJ&amp;S" roadNumber="928" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" model="B6s" hp="" bUnit="false" />
+  </engines>
 </operations-config>

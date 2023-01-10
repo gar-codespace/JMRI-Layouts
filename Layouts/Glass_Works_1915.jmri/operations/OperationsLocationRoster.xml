@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Dec 12 13:26:56 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 10:41:51 PST 2023-->
   <divisions>
     <division id="2" name="Atlantic" comment="" />
     <division id="1" name="Unknown" comment="" />
@@ -44,8 +44,8 @@
       </track>
       <track id="1s3" name="Kitchen" trackType="Spur" locType="Siding" dir="15" length="176" moves="8" schedule="HK" scheduleId="176" itemId="176c2" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="X" />
           <carType name="Rf" />
+          <carType name="X" />
         </types>
       </track>
       <track id="1s4" name="Vinegar" trackType="Spur" locType="Siding" dir="15" length="88" moves="4" schedule="HV" scheduleId="179" itemId="179c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
@@ -92,23 +92,10 @@
         <carType name="TV" />
         <carType name="X" />
       </types>
-      <track id="2s1" name="Ramp" trackType="Spur" locType="Siding" dir="15" length="132" moves="54" dropOption="trains" pickupOption="trains" schedule="SR" scheduleId="178" itemId="178c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
-        <types>
-          <carType name="G" />
-          <carType name="F" />
-        </types>
-        <dropIds>
-          <dropId id="1" />
-        </dropIds>
-        <pickupIds>
-          <pickupId id="1" />
-        </pickupIds>
-      </track>
-      <track id="2s10" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="264" moves="81" dropOption="trains" pickupOption="trains" schedule="SGD" scheduleId="187" itemId="187c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s1" name="Ramp" trackType="Spur" locType="Siding" dir="15" length="132" moves="56" dropOption="trains" pickupOption="trains" schedule="SR" scheduleId="178" itemId="178c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="F" />
           <carType name="G" />
-          <carType name="X" />
         </types>
         <dropIds>
           <dropId id="1" />
@@ -117,32 +104,11 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s2" name="JF Ayers" trackType="Spur" locType="Siding" dir="15" length="88" moves="74" dropOption="trains" pickupOption="trains" schedule="JFA" scheduleId="189" itemId="189c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s10" name="General Delivery" trackType="Spur" locType="Siding" dir="15" length="264" moves="84" dropOption="trains" pickupOption="trains" schedule="SGD" scheduleId="187" itemId="187c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="X" />
-        </types>
-        <dropIds>
-          <dropId id="1" />
-        </dropIds>
-        <pickupIds>
-          <pickupId id="1" />
-        </pickupIds>
-      </track>
-      <track id="2s3" name="Luke F Smith" trackType="Spur" locType="Siding" dir="15" length="44" moves="37" dropOption="trains" pickupOption="trains" schedule="LFS" scheduleId="181" itemId="181c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
-        <types>
-          <carType name="X" />
-        </types>
-        <dropIds>
-          <dropId id="1" />
-        </dropIds>
-        <pickupIds>
-          <pickupId id="1" />
-        </pickupIds>
-      </track>
-      <track id="2s4" name="SB&amp;I Material" trackType="Spur" locType="Siding" dir="15" length="132" moves="53" dropOption="trains" pickupOption="trains" schedule="SBIM" scheduleId="188" itemId="188c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
-        <types>
-          <carType name="G" />
           <carType name="F" />
+          <carType name="G" />
+          <carType name="X" />
         </types>
         <dropIds>
           <dropId id="1" />
@@ -151,7 +117,41 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s5" name="SB&amp;I Scrap" trackType="Spur" locType="Siding" dir="15" length="88" moves="53" dropOption="trains" pickupOption="trains" schedule="SBIS" scheduleId="177" itemId="177c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s2" name="JF Ayers" trackType="Spur" locType="Siding" dir="15" length="88" moves="76" dropOption="trains" pickupOption="trains" schedule="JFA" scheduleId="189" itemId="189c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+        <dropIds>
+          <dropId id="1" />
+        </dropIds>
+        <pickupIds>
+          <pickupId id="1" />
+        </pickupIds>
+      </track>
+      <track id="2s3" name="Luke F Smith" trackType="Spur" locType="Siding" dir="15" length="44" moves="38" dropOption="trains" pickupOption="trains" schedule="LFS" scheduleId="181" itemId="181c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="X" />
+        </types>
+        <dropIds>
+          <dropId id="1" />
+        </dropIds>
+        <pickupIds>
+          <pickupId id="1" />
+        </pickupIds>
+      </track>
+      <track id="2s4" name="SB&amp;I Material" trackType="Spur" locType="Siding" dir="15" length="132" moves="54" dropOption="trains" pickupOption="trains" schedule="SBIM" scheduleId="188" itemId="188c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+        <types>
+          <carType name="F" />
+          <carType name="G" />
+        </types>
+        <dropIds>
+          <dropId id="1" />
+        </dropIds>
+        <pickupIds>
+          <pickupId id="1" />
+        </pickupIds>
+      </track>
+      <track id="2s5" name="SB&amp;I Scrap" trackType="Spur" locType="Siding" dir="15" length="88" moves="55" dropOption="trains" pickupOption="trains" schedule="SBIS" scheduleId="177" itemId="177c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="G" />
         </types>
@@ -162,7 +162,7 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s6" name="SB&amp;I Ware House" trackType="Spur" locType="Siding" dir="15" length="176" moves="82" dropOption="trains" pickupOption="trains" schedule="SBIW" scheduleId="175" itemId="175c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s6" name="SB&amp;I Ware House" trackType="Spur" locType="Siding" dir="15" length="176" moves="84" dropOption="trains" pickupOption="trains" schedule="SBIW" scheduleId="175" itemId="175c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="X" />
         </types>
@@ -173,7 +173,7 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s7" name="Smith Canning" trackType="Spur" locType="Siding" dir="15" length="44" moves="19" dropOption="trains" pickupOption="trains" schedule="SC" scheduleId="180" itemId="180c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s7" name="Smith Canning" trackType="Spur" locType="Siding" dir="15" length="44" moves="20" dropOption="trains" pickupOption="trains" schedule="SC" scheduleId="180" itemId="180c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="X" />
         </types>
@@ -184,7 +184,7 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s8" name="Coal Bin" trackType="Spur" locType="Siding" dir="15" length="88" moves="74" dropOption="trains" pickupOption="trains" schedule="SCB" scheduleId="182" itemId="182c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s8" name="Coal Bin" trackType="Spur" locType="Siding" dir="15" length="88" moves="76" dropOption="trains" pickupOption="trains" schedule="SCB" scheduleId="182" itemId="182c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="H" />
         </types>
@@ -195,7 +195,7 @@
           <pickupId id="1" />
         </pickupIds>
       </track>
-      <track id="2s9" name="Salem Freight House" trackType="Spur" locType="Siding" dir="15" length="176" moves="82" dropOption="trains" pickupOption="trains" schedule="SDFH" scheduleId="186" itemId="186c2" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
+      <track id="2s9" name="Salem Freight House" trackType="Spur" locType="Siding" dir="15" length="176" moves="84" dropOption="trains" pickupOption="trains" schedule="SDFH" scheduleId="186" itemId="186c2" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
           <carType name="X" />
         </types>
@@ -514,7 +514,7 @@
         <carType name="TV" />
         <carType name="X" />
       </types>
-      <track id="5s1" name="Terminal" trackType="Staging" locType="Staging" dir="15" length="2684" moves="1328" loadOptions="26">
+      <track id="5s1" name="Terminal" trackType="Staging" locType="Staging" dir="15" length="2684" moves="1355" loadOptions="26">
         <types>
           <carType name="F" />
           <carType name="G" />

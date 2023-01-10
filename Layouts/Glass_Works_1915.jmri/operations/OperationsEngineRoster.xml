@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Mon Dec 12 13:09:29 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 10:41:51 PST 2023-->
   <models>
     <model name="A4" />
     <model name="B6s" />
@@ -43,7 +43,7 @@
   </lengths>
   <newConsists />
   <engines>
-    <engine id="WJ&amp;S658" roadName="WJ&amp;S" roadNumber="658" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" model="B6s" hp="" bUnit="false" />
-    <engine id="WJ&amp;S983" roadName="WJ&amp;S" roadNumber="983" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" model="A4" hp="" bUnit="false" />
+    <engine id="WJ&amp;S314" roadName="WJ&amp;S" roadNumber="314" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" model="B6s" hp="" bUnit="false" />
+    <engine id="WJ&amp;S788" roadName="WJ&amp;S" roadNumber="788" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s1" moves="0" date="" selected="false" model="A4" hp="" bUnit="false" />
   </engines>
 </operations-config>

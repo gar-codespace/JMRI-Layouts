@@ -30,11 +30,11 @@
                 <column hidden="true" name="RWL Location" order="16" width="190"/>
                 <column hidden="true" name="Home Division" order="17" width="190"/>
                 <column hidden="false" name="Moves" order="19" width="50"/>
-                <column hidden="false" name="Number" order="1" width="60"/>
+                <column hidden="false" name="Number" order="2" width="60"/>
                 <column hidden="true" name="Pick up" order="25" width="100"/>
                 <column hidden="false" name="Kernel" order="9" width="65"/>
                 <column hidden="false" name="Load" order="5" width="75"/>
-                <column hidden="false" name="Road" order="2" width="60"/>
+                <column hidden="false" name="Road" order="1" width="60"/>
                 <column hidden="true" name="Color" order="8" width="75"/>
                 <column hidden="true" name="Final Destination" order="14" width="190"/>
                 <column hidden="true" name="RWL Load" order="7" width="75"/>
@@ -235,40 +235,40 @@
     </tableDetails>
     <windowDetails xmlns="http://jmri.org/xml/schema/auxiliary-configuration/window-details-4-3-5.xsd">
         <window xmlns="" class="jmri.jmrit.operations.locations.StagingEditFrame:Add Staging Track" height="600.0" locX="1321.0" locY="447.0" width="679.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.TrainLoadOptionsFrame:Train Load Options" height="400.0" locX="1098.0" locY="120.0" width="600.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.PrintMoreOptionFrame:More Print Options" height="400.0" locX="62.0" locY="62.0" width="300.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.YardEditFrame:Add Yard Track" height="600.0" locX="1521.0" locY="433.0" width="516.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.InterchangeEditFrame:Add C/I Track" height="600.0" locX="566.0" locY="147.0" width="516.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Edit Train" height="746.0" locX="1512.0" locY="146.0" width="729.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.routes.RouteEditFrame:Edit Route" height="634.0" locX="1127.0" locY="374.0" width="1324.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.OptionFrame:Options" height="841.0" locX="31.0" locY="31.0" width="500.0"/>
-        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
-        <window xmlns="" class="PanelPro" height="287.0" locX="2044.0" locY="26.0" width="452.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.LocationsTableFrame:Locations" height="537.0" locX="-4.0" locY="539.0" width="1235.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainManifestOptionFrame:Options" height="250.0" locX="31.0" locY="31.0" width="400.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car" height="533.0" locX="31.0" locY="31.0" width="500.0"/>
-        <window xmlns="" class="Print Preview: Train Build Report Produce Hauler" height="892.0" locX="1425.0" locY="346.0" width="660.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.StagingEditFrame:Add Staging Track:1" height="600.0" locX="62.0" locY="62.0" width="679.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="31.0" locY="31.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarEditFrame:Add Car" height="793.0" locX="1405.0" locY="307.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditBuildOptionsFrame:Train Build Options" height="600.0" locX="969.0" locY="323.0" width="600.0"/>
         <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EngineSetFrame:Set Locomotive" height="500.0" locX="62.0" locY="62.0" width="500.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:1" height="615.0" locX="31.0" locY="31.0" width="1189.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsSetFrame:Set Car" height="640.0" locX="31.0" locY="31.0" width="500.0"/>
-        <window xmlns="" class="Local JMRI throttles" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame:Locomotives" height="615.0" locX="1238.0" locY="222.0" width="1210.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location:1" height="939.0" locX="31.0" locY="31.0" width="1178.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.BuildReportOptionFrame:Build Report Options" height="500.0" locX="62.0" locY="62.0" width="500.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EngineEditFrame:Add Locomotive" height="533.0" locX="62.0" locY="62.0" width="500.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainScriptFrame:Scripts" height="350.0" locX="1512.0" locY="146.0" width="500.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location" height="939.0" locX="-16.0" locY="298.0" width="1090.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.InterchangeEditFrame:Add C/I Track" height="600.0" locX="566.0" locY="147.0" width="516.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.PrintOptionFrame:Manifest Print Options" height="777.0" locX="31.0" locY="31.0" width="1081.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationsTableFrame:Locations" height="537.0" locX="-4.0" locY="539.0" width="1235.0"/>
         <window xmlns="" class="jmri.jmrit.operations.locations.SpurEditFrame:Add Spur Track" height="600.0" locX="869.0" locY="400.0" width="516.0"/>
         <window xmlns="" class="apps.gui3.tabbedpreferences.TabbedPreferencesFrame:Preferences" height="1410.0" locX="0.0" locY="0.0" width="912.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditBuildOptionsFrame:Train Build Options" height="600.0" locX="969.0" locY="323.0" width="600.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame" height="939.0" locX="19.0" locY="424.0" width="1301.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.setup.PrintOptionFrame:Manifest Print Options" height="777.0" locX="31.0" locY="31.0" width="1081.0"/>
-        <window xmlns="" class="JMRI System Console" height="587.0" locX="1681.0" locY="695.0" width="878.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame" height="626.0" locX="31.0" locY="31.0" width="1338.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.tools.CarLoadEditFrame" height="500.0" locX="281.0" locY="297.0" width="324.0"/>
-        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars" height="615.0" locX="62.0" locY="62.0" width="1189.0"/>
         <window xmlns="" class="jmri.jmrit.operations.trains.TrainConductorFrame" height="500.0" locX="31.0" locY="31.0" width="500.0"/>
+        <window xmlns="" class="Local JMRI throttles" height="239.0" locX="31.0" locY="31.0" width="336.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainManifestOptionFrame:Options" height="250.0" locX="31.0" locY="31.0" width="400.0"/>
+        <window xmlns="" class="jmri.jmrit.roster.Roster"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.schedules.ScheduleEditFrame" height="626.0" locX="31.0" locY="31.0" width="1338.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsSetFrame:Set Car" height="640.0" locX="31.0" locY="31.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame:Locomotives" height="615.0" locX="1238.0" locY="222.0" width="1210.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.routes.RouteEditFrame:Edit Route" height="634.0" locX="1127.0" locY="374.0" width="1324.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainLoadOptionsFrame:Train Load Options" height="400.0" locX="1098.0" locY="120.0" width="600.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.BuildReportOptionFrame:Build Report Options" height="500.0" locX="62.0" locY="62.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars:1" height="615.0" locX="31.0" locY="31.0" width="1189.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.OptionFrame:Options" height="841.0" locX="31.0" locY="31.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.tools.CarLoadEditFrame" height="500.0" locX="281.0" locY="297.0" width="324.0"/>
+        <window xmlns="" class="JMRI System Console" height="587.0" locX="1681.0" locY="695.0" width="878.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.StagingEditFrame:Add Staging Track:1" height="600.0" locX="62.0" locY="62.0" width="679.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location" height="939.0" locX="312.0" locY="271.0" width="1090.0"/>
+        <window xmlns="" class="Print Preview: Train Build Report Produce Hauler" height="892.0" locX="1425.0" locY="346.0" width="660.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.tools.TrainScriptFrame:Scripts" height="350.0" locX="1512.0" locY="146.0" width="500.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.YardEditFrame:Add Yard Track" height="600.0" locX="1521.0" locY="433.0" width="516.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.locations.LocationEditFrame:Edit Location:1" height="939.0" locX="31.0" locY="31.0" width="1178.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.PrintMoreOptionFrame:More Print Options" height="400.0" locX="62.0" locY="62.0" width="300.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainsTableFrame" height="939.0" locX="19.0" locY="424.0" width="1301.0"/>
+        <window xmlns="" class="PanelPro" height="287.0" locX="2044.0" locY="26.0" width="452.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.trains.TrainEditFrame:Edit Train" height="746.0" locX="1512.0" locY="146.0" width="729.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.setup.OperationsSettingsFrame:OperationsPro Settings" height="622.0" locX="31.0" locY="31.0" width="700.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.cars.CarsTableFrame:Cars" height="615.0" locX="62.0" locY="62.0" width="1189.0"/>
+        <window xmlns="" class="jmri.jmrit.operations.rollingstock.engines.EngineEditFrame:Add Locomotive" height="533.0" locX="62.0" locY="62.0" width="500.0"/>
     </windowDetails>
 </auxiliary-configuration>

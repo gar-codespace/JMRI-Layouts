@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Fri Dec 16 23:39:35 PST 2022-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 10:37:30 PST 2023-->
   <divisions>
     <division id="2" name="Harlem Division" comment="" />
     <division id="1" name="Unknown" comment="" />
@@ -40,23 +40,23 @@
       </track>
       <track id="1s5" name="Railroad Avenue" trackType="Spur" locType="Siding" dir="15" length="616" moves="1104" schedule="R" scheduleId="37" itemId="37c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="GA" />
           <carType name="FM" />
+          <carType name="GA" />
         </types>
       </track>
       <track id="1s6" name="Team Tracks" trackType="Spur" locType="Siding" dir="15" length="2640" moves="3732" schedule="T" scheduleId="36" itemId="36c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="GA" />
           <carType name="FM" />
-          <carType name="TG" />
+          <carType name="GA" />
           <carType name="HK" />
+          <carType name="TG" />
           <carType name="XM" />
         </types>
       </track>
       <track id="1s7" name="Overhead Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="368" schedule="O" scheduleId="42" itemId="42c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="GA" />
           <carType name="FM" />
+          <carType name="GA" />
         </types>
       </track>
       <track id="1s8" name="Engine Shed" trackType="Spur" locType="Siding" dir="15" length="44" moves="0">
