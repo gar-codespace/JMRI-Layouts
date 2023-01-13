@@ -1,0 +1,550 @@
+1- Build Report for train (Float Switch) built on 11/9/22 6:59 AM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+1- Mott Haven, the Bronx
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 2 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- The option to restrict staging to the same car types, roads, and loads as the train 
+5- being built is enabled 
+5- Make departure track available after train is built
+5-  
+5- Car routing options:
+5- Car routing via yards is enabled
+5- Use all Trains when Routing
+5-  
+5- Enabled build options for train (Float Switch):
+5- Allow local moves if car has a custom load or FD
+5-  
+5- Disabled build options for train (Float Switch):
+5- Use normal mode when building this train
+5- Send all car pick ups to terminal (Harlem River)
+5- Allow cars to return to staging
+5- Service all cars with a final destination (FD)
+5- Send cars with custom loads to staging
+5- Build loco consist from single locos
+5-  
+3- Train (Float Switch) route (Float Switch):
+3- 1r1 Staging (Harlem River) request 50 pick ups, maximum train length 1,000 feet
+3- 1r3 Location (Bronx Terminal) is skipped by train (Float Switch), maximum train 
+3- length 1,000 feet 
+3- 1r2 Staging (Harlem River) requests 50 set outs
+1- Route (Float Switch) requests 50 cars and 100 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+7- Exclude loco (CNJ 743) type (ES) is not serviced by this train
+3-  
+1- Train terminates into staging at (Harlem River), there are 1 tracks
+1- Train will return to staging (Harlem River) reuse departure track
+3-  
+1- Train will depart staging (Harlem River), there are 1 tracks
+3- Staging track (Car Float) has 0 loco(s) and 17 cars
+7- Train (Float Switch) can depart from staging track (Car Float)
+7- Done assigning locomotives from staging
+3-  
+5-  
+5- Train (Float Switch) services car types:
+5- FM, GA, HK, M, RS, TG, XM
+7-  
+7- Remove cars not serviced by this train:
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Harlem River, Car Float) with 17 cars
+7- Staging car (WJ&S 7881) type (FM) load (E)
+7- Staging car (PRR 4633) type (TG) load (E)
+7- Staging car (PRR 9799) type (TG) load (E)
+7- Staging car (FGEX 4045) type (RS) load (E)
+7- Staging car (SP 0210) type (XM) load (E)
+7- Staging car (PRR 4876) type (FM) load (E)
+7- Staging car (SFRD 4492) type (RS) load (E)
+7- Staging car (TELX 1810) type (TG) load (E)
+7- Staging car (HKH 7690) type (RS) load (E)
+7- Staging car (WCC 6592) type (HK) load (E)
+7- Staging car (PRR 9283) type (XM) load (E)
+7- Staging car (FGEX 9878) type (RS) load (E)
+7- Staging car (FGEX 4372) type (RS) load (E)
+7- Staging car (DL&W 1434) type (GA) load (E)
+7- Staging car (FGEX 2269) type (RS) load (E)
+7- Staging car (CNJ 3802) type (GA) load (E)
+7- Staging car (P&R 0366) type (FM) load (E)
+5-  
+1- Found 89 cars for train (Float Switch)
+7- Cars available from staging (Harlem River):
+7- Car (WJ&S 7881) type (FM) at (Harlem River, Car Float) 0 moves
+7- Car (PRR 4633) type (TG) at (Harlem River, Car Float) 0 moves
+7- Car (PRR 9799) type (TG) at (Harlem River, Car Float) 0 moves
+7- Car (FGEX 4045) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (SP 0210) type (XM) at (Harlem River, Car Float) 0 moves
+7- Car (PRR 4876) type (FM) at (Harlem River, Car Float) 0 moves
+7- Car (SFRD 4492) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (TELX 1810) type (TG) at (Harlem River, Car Float) 0 moves
+7- Car (HKH 7690) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (WCC 6592) type (HK) at (Harlem River, Car Float) 0 moves
+7- Car (PRR 9283) type (XM) at (Harlem River, Car Float) 0 moves
+7- Car (FGEX 9878) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (FGEX 4372) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (DL&W 1434) type (GA) at (Harlem River, Car Float) 0 moves
+7- Car (FGEX 2269) type (RS) at (Harlem River, Car Float) 0 moves
+7- Car (CNJ 3802) type (GA) at (Harlem River, Car Float) 0 moves
+7- Car (P&R 0366) type (FM) at (Harlem River, Car Float) 0 moves
+7-  
+7- Cars at location (Bronx Terminal):
+7- Car (WJ&S 0229) type (FM) at (Bronx Terminal, Yard) 0 moves
+7- Car (P&R 4750) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (AT&SF 2678) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (NYNH&H 3928) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (ACL 9091) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (P&R 9460) type (HK) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (FGEX 3056) type (RS) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (P&R 5062) type (FM) at (Bronx Terminal, Gantry) 0 moves
+7- Car (P&R 7002) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (HKH 9208) type (RS) at (Bronx Terminal, Yard) 0 moves
+7- Car (B&A 1528) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (PRR 2921) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (ER 3459) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (WJ&S 7229) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (SP 1184) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (PRR 4721) type (XM) at (Bronx Terminal, Yard) 0 moves
+7- Car (TELX 5799) type (TG) at (Bronx Terminal, Yard) 0 moves
+7- Car (PFEX 4885) type (RS) at (Bronx Terminal, Yard) 0 moves
+7- Car (P&R 7832) type (HK) at (Bronx Terminal, Yard) 0 moves
+7- Car (LV 0355) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (ER 0537) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (PRR 3384) type (HK) at (Bronx Terminal, Yard) 0 moves
+7- Car (NYNH&H 1703) type (XM) at (Bronx Terminal, Yard) 0 moves
+7- Car (PRR 2519) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (WCC 1042) type (HK) at (Bronx Terminal, Yard) 0 moves
+7- Car (PRR 2418) type (GA) at (Bronx Terminal, Gantry) 0 moves
+7- Car (WJ&S 2162) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (SFRD 4626) type (RS) at (Bronx Terminal, Yard) 0 moves
+7- Car (M&P 0672) type (FM) at (Bronx Terminal, Gantry) 0 moves
+7- Car (P&R 7399) type (HK) at (Bronx Terminal, Yard) 0 moves
+7- Car (PRR 0602) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (PRR 2372) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (AT&SF 3644) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (FGEX 0410) type (RS) at (Bronx Terminal, Yard) 0 moves
+7- Car (P&R 6526) type (HK) at (Bronx Terminal, Yard) 0 moves
+7- Car (B&O 7335) type (HK) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (NYNH&H 5402) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (CNJ 9987) type (XM) at (Bronx Terminal, Freight House) 0 moves
+7- Car (TELX 0709) type (TG) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (M&P 6908) type (GA) at (Bronx Terminal, Yard) 0 moves
+7- Car (FGEX 2705) type (RS) at (Bronx Terminal, Yard) 0 moves
+7- Car (WCC 4421) type (HK) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (AT&SF 6441) type (XM) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (B&O 8291) type (HK) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (TELX 4411) type (TG) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (UTLX 0457) type (TG) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (B&A 3160) type (XM) at (Bronx Terminal, Yard) 0 moves
+7- Car (SP 3152) type (GA) at (Bronx Terminal, Yard) 0 moves
+7- Car (ACL 2883) type (GA) at (Bronx Terminal, Team Tracks) 0 moves
+7- Car (M&P 7278) type (XM) at (Bronx Terminal, Yard) 0 moves
+7- ********** Only the first 50 cars are shown for (Bronx Terminal) **********
+7-  
+7- Sort cars on FIFO and LIFO tracks:
+7-  
+5- Train does not require caboose when departing (Harlem River)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (50) for train (Float Switch) the number available (89) building train!
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+3- Departing staging in aggressive mode, find destinations from (Harlem River) in next 
+3- pass 
+1- Route location (Harlem River) id 1r1 requests 0 pick ups, 50/50 moves are available
+5-  
+1- Success 0/0 cars at location (Harlem River) assigned to train (Float Switch)
+1- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+1- Route location (Harlem River) id 1r2 no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Harlem River) id 1r1 requests 50 pick ups, 50/50 moves are available
+5-  
+5- Staging track (Car Float) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5-  
+5- Generate load for (WJ&S 7881) type (FM) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Gantry) custom load (steel beams)
+7- Train (Float Switch) can't transport car (WJ&S 7881) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Gantry) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (WJ&S 7881) with load (steel beams) to (Bronx Terminal, Gantry)
+7- Try spur (Bronx Terminal, Team Tracks) custom load (Tarp)
+7- Train (Float Switch) can't transport car (WJ&S 7881) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (WJ&S 7881) with load (Tarp) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (WJ&S 7881)
+5- Find destinations for (WJ&S 7881) type (FM) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (WJ&S 7881) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (WJ&S 7881)
+5-  
+1- Warning car (WJ&S 7881) departing staging without a destination
+7-  
+5- Generate load for (PRR 4633) type (TG) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (fuel oil)
+7- Train (Float Switch) can't transport car (PRR 4633) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 4633) with load (fuel oil) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (PRR 4633)
+5- Find destinations for (PRR 4633) type (TG) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (PRR 4633) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (PRR 4633)
+5-  
+1- Warning car (PRR 4633) departing staging without a destination
+7-  
+5- Generate load for (PRR 9799) type (TG) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (fuel oil)
+7- Train (Float Switch) can't transport car (PRR 9799) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 9799) with load (fuel oil) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (PRR 9799)
+5- Find destinations for (PRR 9799) type (TG) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (PRR 9799) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (PRR 9799)
+5-  
+1- Warning car (PRR 9799) departing staging without a destination
+7-  
+5- Generate load for (FGEX 4045) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (FGEX 4045) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (FGEX 4045) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 4045)
+5- Find destinations for (FGEX 4045) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (FGEX 4045) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (FGEX 4045)
+5-  
+1- Warning car (FGEX 4045) departing staging without a destination
+7-  
+5- Generate load for (SP 0210) type (XM) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Freight House) custom load (lcl)
+7- Train (Float Switch) can't transport car (SP 0210) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Freight House) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (SP 0210) with load (lcl) to (Bronx Terminal, Freight House)
+7- Try spur (Bronx Terminal, Team Tracks) custom load (Empty)
+7- Train (Float Switch) can't transport car (SP 0210) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (SP 0210) with load (Empty) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (SP 0210)
+5- Find destinations for (SP 0210) type (XM) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (SP 0210) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (SP 0210)
+5-  
+1- Warning car (SP 0210) departing staging without a destination
+7-  
+5- Generate load for (PRR 4876) type (FM) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Gantry) custom load (steel beams)
+7- Train (Float Switch) can't transport car (PRR 4876) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Gantry) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 4876) with load (steel beams) to (Bronx Terminal, Gantry)
+7- Try spur (Bronx Terminal, Team Tracks) custom load (Tarp)
+7- Train (Float Switch) can't transport car (PRR 4876) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 4876) with load (Tarp) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (PRR 4876)
+5- Find destinations for (PRR 4876) type (FM) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (PRR 4876) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (PRR 4876)
+5-  
+1- Warning car (PRR 4876) departing staging without a destination
+7-  
+5- Generate load for (SFRD 4492) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (SFRD 4492) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (SFRD 4492) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (SFRD 4492)
+5- Find destinations for (SFRD 4492) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (SFRD 4492) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (SFRD 4492)
+5-  
+1- Warning car (SFRD 4492) departing staging without a destination
+7-  
+5- Generate load for (TELX 1810) type (TG) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (fuel oil)
+7- Train (Float Switch) can't transport car (TELX 1810) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (TELX 1810) with load (fuel oil) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (TELX 1810)
+5- Find destinations for (TELX 1810) type (TG) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (TELX 1810) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (TELX 1810)
+5-  
+1- Warning car (TELX 1810) departing staging without a destination
+7-  
+5- Generate load for (HKH 7690) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (HKH 7690) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (HKH 7690) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (HKH 7690)
+5- Find destinations for (HKH 7690) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (HKH 7690) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (HKH 7690)
+5-  
+1- Warning car (HKH 7690) departing staging without a destination
+7-  
+5- Generate load for (WCC 6592) type (HK) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (coal)
+7- Train (Float Switch) can't transport car (WCC 6592) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (WCC 6592) with load (coal) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (WCC 6592)
+5- Find destinations for (WCC 6592) type (HK) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (WCC 6592) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (WCC 6592)
+5-  
+1- Warning car (WCC 6592) departing staging without a destination
+7-  
+5- Generate load for (PRR 9283) type (XM) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Freight House) custom load (Empty)
+7- Train (Float Switch) can't transport car (PRR 9283) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Freight House) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 9283) with load (Empty) to (Bronx Terminal, Freight House)
+7- Try spur (Bronx Terminal, Team Tracks) custom load (Empty)
+7- Train (Float Switch) can't transport car (PRR 9283) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (PRR 9283) with load (Empty) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (PRR 9283)
+5- Find destinations for (PRR 9283) type (XM) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (PRR 9283) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (PRR 9283)
+5-  
+1- Warning car (PRR 9283) departing staging without a destination
+7-  
+5- Generate load for (FGEX 9878) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (FGEX 9878) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (FGEX 9878) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 9878)
+5- Find destinations for (FGEX 9878) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (FGEX 9878) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (FGEX 9878)
+5-  
+1- Warning car (FGEX 9878) departing staging without a destination
+7-  
+5- Generate load for (FGEX 4372) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (FGEX 4372) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (FGEX 4372) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 4372)
+5- Find destinations for (FGEX 4372) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (FGEX 4372) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (FGEX 4372)
+5-  
+1- Warning car (FGEX 4372) departing staging without a destination
+7-  
+5- Generate load for (DL&W 1434) type (GA) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Gantry) custom load (steel beams)
+7- Train (Float Switch) can't transport car (DL&W 1434) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Gantry) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (DL&W 1434) with load (steel beams) to (Bronx Terminal, Gantry)
+7- Could not find a route to a spur that needs a custom load for car (DL&W 1434)
+5- Find destinations for (DL&W 1434) type (GA) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (DL&W 1434) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (DL&W 1434)
+5-  
+1- Warning car (DL&W 1434) departing staging without a destination
+7-  
+5- Generate load for (FGEX 2269) type (RS) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Team Tracks) custom load (produce)
+7- Train (Float Switch) can't transport car (FGEX 2269) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (FGEX 2269) with load (produce) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 2269)
+5- Find destinations for (FGEX 2269) type (RS) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (FGEX 2269) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (FGEX 2269)
+5-  
+1- Warning car (FGEX 2269) departing staging without a destination
+7-  
+5- Generate load for (CNJ 3802) type (GA) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Gantry) custom load (steel beams)
+7- Train (Float Switch) can't transport car (CNJ 3802) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Gantry) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (CNJ 3802) with load (steel beams) to (Bronx Terminal, Gantry)
+7- Could not find a route to a spur that needs a custom load for car (CNJ 3802)
+5- Find destinations for (CNJ 3802) type (GA) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (CNJ 3802) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (CNJ 3802)
+5-  
+1- Warning car (CNJ 3802) departing staging without a destination
+7-  
+5- Generate load for (P&R 0366) type (FM) load (E) at (Harlem River, Car Float) 
+5- destination () 
+7- Try spur (Bronx Terminal, Gantry) custom load (steel beams)
+7- Train (Float Switch) can't transport car (P&R 0366) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Gantry) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (P&R 0366) with load (steel beams) to (Bronx Terminal, Gantry)
+7- Try spur (Bronx Terminal, Team Tracks) custom load (Tarp)
+7- Train (Float Switch) can't transport car (P&R 0366) out of staging (Harlem River) 
+7- directly to (Bronx Terminal, Team Tracks) 
+7- Could not find an interim C/I or yard track that can service car from location 
+7- (Harlem River) 
+7- Can't route car (P&R 0366) with load (Tarp) to (Bronx Terminal, Team Tracks)
+7- Could not find a route to a spur that needs a custom load for car (P&R 0366)
+5- Find destinations for (P&R 0366) type (FM) empty (E) at (Harlem River, Car Float)
+7- Searching location (Bronx Terminal) route id 1r3 for possible destination
+5- Route location (Bronx Terminal) id 1r3 is skipped by train (Float Switch)
+7- Searching location (Harlem River) route id 1r2 for possible destination
+7- Car (P&R 0366) location is equal to destination (Harlem River) skipping this 
+7- destination 
+5- Did not assign a destination for car (P&R 0366)
+5-  
+1- Warning car (P&R 0366) departing staging without a destination
+7-  
+1- BUILD FAILED could not find destinations for 17 car(s) departing from staging track 
+1- (Harlem River, Car Float) 
+1-  WJ&S 7881
+1-  PRR 4633
+1-  PRR 9799
+1-  FGEX 4045
+1-  SP 0210
+1-  PRR 4876
+1-  SFRD 4492
+1-  TELX 1810
+1-  HKH 7690
+1-  WCC 6592
+1-  PRR 9283
+1-  FGEX 9878
+1-  FGEX 4372
+1-  DL&W 1434
+1-  FGEX 2269
+1-  CNJ 3802
+1-  P&R 0366
+1- Build failed for train (Float Switch)

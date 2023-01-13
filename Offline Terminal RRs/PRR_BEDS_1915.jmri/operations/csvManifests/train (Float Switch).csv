@@ -1,0 +1,99 @@
+Operator,Description,Parameters
+RN,Railroad Name,PRR BEDS 1914
+TN,Train Name,Float Switch
+TM,Train Manifest Description,
+PRNTR,Printer Name,
+VT,Valid,1/10/1914 10:45
+LN,Location Name,Pier Float
+DT,Departure Time,00:00
+PC,Pick up car,CNJ,6820,FM,40,machinery,Red,Pier Float,Float Tracks,North 4th St,Crane,,,,,,,,,,,,,0,,,load
+PC,Pick up car,PL,5177,GA,40,machinery,Red,Pier Float,Float Tracks,North 4th St,Crane,,,,,,,,,,,,,0,,,load
+PC,Pick up car,PL,9774,XM,40,merchandise,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,FGEX,0420,RS,40,Produce,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,NYC,0823,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,NYNH&H,5964,XM,40,merchandise,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,MDX,0730,RS,40,Produce,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,PRR,9818,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PRR,6325,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,DL&W,3995,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PL,7441,GA,40,lumber stack,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,PGCC,4987,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,ACL,3405,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PGCC,1976,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,ER,8024,GA,40,lumber stack,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,CNJ,6475,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PGCC,6550,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+TD,Train Departs,Pier Float,East
+TL,Train Length Empties Cars,748,0,17
+TW,Train Weight,680
+LN,Location Name,North 4th St
+AT,Arrival Time,00:04
+EDT,Estimated Departure Time,02:16
+PC,Pick up car,PL,3950,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,WJ&S,2279,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ACL,4434,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ACL,4177,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,AT&SF,5288,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PL,1471,GA,40,Empty,Red,North 4th St,Crane,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,P&R,9600,FM,40,Empty,Red,North 4th St,Crane,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PL,2291,XM,40,lcl,Red,North 4th St,Freight Station,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,PRR,1431,TG,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,FGEX,9442,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,P&R,7741,FM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,B&O,6144,GA,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,WJ&S,1455,GA,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,MDX,3236,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,B&O,0226,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PL,9032,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,CNJ,4885,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,WJ&S,2497,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,FGEX,8711,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,M&P,2398,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,FGEX,5281,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,DL&W,5836,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,CNJ,6820,FM,40,machinery,Red,Pier Float,Float Tracks,North 4th St,Crane,,,,,,,,,,,,,0,,,load
+SC,Set out car,PL,5177,GA,40,machinery,Red,Pier Float,Float Tracks,North 4th St,Crane,,,,,,,,,,,,,0,,,load
+SC,Set out car,PL,3950,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+SC,Set out car,WJ&S,2279,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ACL,4434,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ACL,4177,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+SC,Set out car,AT&SF,5288,XM,40,Empty,Red,North 4th St,Team Tracks,North 4th St,Freight Station,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PL,9774,XM,40,merchandise,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,FGEX,0420,RS,40,Produce,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,NYC,0823,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,NYNH&H,5964,XM,40,merchandise,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,MDX,0730,RS,40,Produce,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,PRR,9818,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PRR,6325,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,DL&W,3995,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PL,7441,GA,40,lumber stack,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,PGCC,4987,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,ACL,3405,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PGCC,1976,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,ER,8024,GA,40,lumber stack,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,CNJ,6475,XM,40,Empty,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PGCC,6550,HK,40,coal,Red,Pier Float,Float Tracks,North 4th St,Team Tracks,,,,,,,,,,,,,0,,,load
+TD,Train Departs,North 4th St,East
+TL,Train Length Empties Cars,748,0,17
+TW,Train Weight,680
+LN,Location Name,Pier Float
+AT,Arrival Time,02:20
+EDT,Estimated Departure Time,03:11
+SC,Set out car,PL,1471,GA,40,Empty,Red,North 4th St,Crane,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,P&R,9600,FM,40,Empty,Red,North 4th St,Crane,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PL,2291,XM,40,lcl,Red,North 4th St,Freight Station,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,PRR,1431,TG,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,FGEX,9442,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,P&R,7741,FM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,B&O,6144,GA,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,WJ&S,1455,GA,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,MDX,3236,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,B&O,0226,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PL,9032,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,CNJ,4885,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,WJ&S,2497,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,FGEX,8711,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,M&P,2398,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,FGEX,5281,RS,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,DL&W,5836,XM,40,Empty,Red,North 4th St,Team Tracks,Pier Float,Float Tracks,,,,,,,,,,,,,0,,,empty
+TT,Train Terminates,Pier Float

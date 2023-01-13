@@ -1,0 +1,32 @@
+2022-11-02 16:39:32,369 - OPS.Main.Controller - DEBUG - Initialize log file - DEBUG level test message
+2022-11-02 16:39:32,391 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2022-11-02 16:39:32,391 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2022-11-02 16:39:32,392 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2022-11-02 16:39:32,394 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2022-11-02 16:39:32,395 - OPS.OB.Bundle - DEBUG - getAllTextBundles
+2022-11-02 16:39:32,421 - OPS.OE.PSE - INFO - Stub location already exists
+2022-11-02 16:39:32,427 - OPS.OE.PSE - DEBUG - CreateStubFile.writeStubFile
+2022-11-02 16:39:32,467 - OPS.OE.PSE - INFO - Destination folders check OK
+2022-11-02 16:39:32,476 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2022-11-02 16:39:32,476 - OPS.OE.PSE - INFO - Stub location already exists
+2022-11-02 16:39:32,480 - OPS.OE.PSE - DEBUG - CreateStubFile.writeStubFile
+2022-11-02 16:39:32,773 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-11-02 16:39:32,773 - OPS.Main.Controller - INFO - Main script run time (sec): 0.416
+2022-11-02 16:39:34,655 - OPS.Main.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Pattern Scripts,when=1667432374656,modifiers=Button1] on psButton
+2022-11-02 16:39:34,890 - OPS.PT.View - DEBUG - makeSubroutinePanel
+2022-11-02 16:39:34,905 - OPS.PT.Controller - INFO - pattern tracks panel completed
+2022-11-02 16:39:34,905 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2022-11-02 16:39:34,905 - OPS.Main.Model - INFO - PatternTracksSubroutine subroutine added to control panel
+2022-11-02 16:39:34,905 - OPS.o2o.View - DEBUG - makeSubroutinePanel
+2022-11-02 16:39:34,905 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2022-11-02 16:39:34,905 - OPS.Main.Model - INFO - o2oSubroutine subroutine added to control panel
+2022-11-02 16:39:34,921 - OPS.Main.View - DEBUG - makePatternScriptsWindow
+2022-11-02 16:39:36,490 - OPS.o2o.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=New JMRI Railroad,when=1667432376490,modifiers=Button1] on newJmriRailroad
+2022-11-02 16:39:36,490 - OPS.o2o.ModelImport - DEBUG - getTpReportFiles
+2022-11-02 16:39:36,490 - OPS.o2o.ModelImport - INFO - TrainPlayer Locations file OK
+2022-11-02 16:39:36,506 - OPS.o2o.ModelImport - INFO - TrainPlayer Industries file OK
+2022-11-02 16:39:36,506 - OPS.o2o.ModelImport - INFO - TrainPlayer Inventory file OK
+2022-11-02 16:39:36,506 - OPS.o2o.ModelImport - CRITICAL - Error: Industries file formatting error.
+2022-11-02 16:39:36,536 - OPS.o2o.ModelImport - CRITICAL - Error: TrainPlayer export issue.
+2022-11-02 16:39:36,536 - OPS.o2o.Controller - CRITICAL - TrainPlayer railroad not imported
+2022-11-02 16:39:38,641 - OPS.Main.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=View Log File,when=1667432378642,modifiers=Button1] on logItemSelected

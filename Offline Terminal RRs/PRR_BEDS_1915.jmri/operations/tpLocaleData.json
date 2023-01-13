@@ -1,0 +1,42 @@
+{
+  "locations": {
+    "North 4th St": [
+      "1", 
+      "3", 
+      "4"
+    ], 
+    "Pier Float": [
+      "5"
+    ], 
+    "Unreported": [
+      "00"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "North 4th St", 
+      "Crane", 
+      "industry"
+    ], 
+    "3": [
+      "North 4th St", 
+      "Freight Station", 
+      "industry"
+    ], 
+    "4": [
+      "North 4th St", 
+      "Team Tracks", 
+      "industry"
+    ], 
+    "5": [
+      "Pier Float", 
+      "Float Tracks", 
+      "staging"
+    ]
+  }
+}

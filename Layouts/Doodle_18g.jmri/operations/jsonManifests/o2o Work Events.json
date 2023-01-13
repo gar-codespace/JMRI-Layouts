@@ -1,0 +1,20 @@
+{
+  "date": "Valid Jan 07, 1938, 11:24", 
+  "division": "", 
+  "locations": [
+    {
+      "locationName": "City", 
+      "tracks": [
+        {
+          "cars": [], 
+          "locos": []
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "Pennsylvania Railroad\nAllegheny Region\nWestern Pennsylvania", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

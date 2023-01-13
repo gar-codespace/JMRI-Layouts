@@ -1,0 +1,8 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+7173,CNJ,XM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:04:35
+7173,CNJ,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:37
+7173,CNJ,XM,merchandise,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:40
+7173,CNJ,XM,Empty,North 4th St,Freight Station,,,Float Switch,2,2023/01/04 14:04:46
+7173,CNJ,XM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:56
+7173,CNJ,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:58
+7173,CNJ,XM,merchandise,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:14:01

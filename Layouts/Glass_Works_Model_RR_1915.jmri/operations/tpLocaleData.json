@@ -1,0 +1,184 @@
+{
+  "locations": {
+    "Fenwick Creek": [
+      "10", 
+      "11", 
+      "12", 
+      "17", 
+      "5", 
+      "8", 
+      "9"
+    ], 
+    "Salem": [
+      "1"
+    ], 
+    "Salem Township": [
+      "13", 
+      "14", 
+      "15", 
+      "16", 
+      "18", 
+      "2", 
+      "3", 
+      "4", 
+      "6"
+    ], 
+    "South Bend Spur": [
+      "22", 
+      "23", 
+      "25", 
+      "26", 
+      "27", 
+      "28", 
+      "19", 
+      "7", 
+      "20", 
+      "21"
+    ], 
+    "Unreported": [
+      "00"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "Salem", 
+      "Yard", 
+      "staging"
+    ], 
+    "10": [
+      "Fenwick Creek", 
+      "Salem 4 Ware Shed", 
+      "industry"
+    ], 
+    "11": [
+      "Fenwick Creek", 
+      "Electric Co NJ", 
+      "industry"
+    ], 
+    "12": [
+      "Fenwick Creek", 
+      "Fenwick Oil", 
+      "industry"
+    ], 
+    "13": [
+      "Salem Township", 
+      "Heinz Bottling", 
+      "industry"
+    ], 
+    "14": [
+      "Salem Township", 
+      "Heinz Can House", 
+      "industry"
+    ], 
+    "15": [
+      "Salem Township", 
+      "Heinz Ketchen", 
+      "industry"
+    ], 
+    "16": [
+      "Salem Township", 
+      "Heinz Vinegar", 
+      "industry"
+    ], 
+    "17": [
+      "Fenwick Creek", 
+      "Salem Gas Light", 
+      "industry"
+    ], 
+    "18": [
+      "Salem Township", 
+      "Salem 3 Sand Storage", 
+      "industry"
+    ], 
+    "19": [
+      "South Bend Spur", 
+      "FH Lloyd", 
+      "industry"
+    ], 
+    "2": [
+      "Salem Township", 
+      "Salem 3 Coal Gas", 
+      "industry"
+    ], 
+    "20": [
+      "South Bend Spur", 
+      "WH Harris", 
+      "industry"
+    ], 
+    "21": [
+      "South Bend Spur", 
+      "Gaynor Shop", 
+      "industry"
+    ], 
+    "22": [
+      "South Bend Spur", 
+      "Am Oilcloth Shipping", 
+      "industry"
+    ], 
+    "23": [
+      "South Bend Spur", 
+      "Gaynor Coal", 
+      "industry"
+    ], 
+    "25": [
+      "South Bend Spur", 
+      "Gaynor Sand", 
+      "industry"
+    ], 
+    "26": [
+      "South Bend Spur", 
+      "Gaynor Ware House", 
+      "industry"
+    ], 
+    "27": [
+      "South Bend Spur", 
+      "Gaynor Ware Shed", 
+      "industry"
+    ], 
+    "28": [
+      "South Bend Spur", 
+      "S&PSNCo Dock", 
+      "industry"
+    ], 
+    "3": [
+      "Salem Township", 
+      "Salem 3 Packing", 
+      "industry"
+    ], 
+    "4": [
+      "Salem Township", 
+      "Salem 3 Sand House", 
+      "industry"
+    ], 
+    "5": [
+      "Fenwick Creek", 
+      "Salem 3 Merch Storage", 
+      "industry"
+    ], 
+    "6": [
+      "Salem Township", 
+      "Salem 3 Ware House", 
+      "industry"
+    ], 
+    "7": [
+      "South Bend Spur", 
+      "Am Oilcloth Chem", 
+      "industry"
+    ], 
+    "8": [
+      "Fenwick Creek", 
+      "Salem 4 Sand Storage", 
+      "industry"
+    ], 
+    "9": [
+      "Fenwick Creek", 
+      "Salem 4 Ware House", 
+      "industry"
+    ]
+  }
+}

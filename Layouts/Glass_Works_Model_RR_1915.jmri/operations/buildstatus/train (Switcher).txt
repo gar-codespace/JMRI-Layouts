@@ -1,0 +1,2140 @@
+1- Build Report for train (Switcher) built on 11/16/15 11:19 AM
+1- JMRI version r27674
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+5-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Car routing via yards is enabled
+5- WARNING only selected trains used for routing:
+7- Train (Switcher) 
+5- Track destination restrictions when routing is enabled
+5- Allow local moves if car has a custom load or FD
+5- Service all cars with a final destination (FD)
+1-  
+3- Train (Switcher) route (Route 1):
+3- Location (Staging Yard) requests 15 pick ups, maximum train length 575 feet
+3- Location (Salem Gass Light Co.) requests 10 moves, maximum train length 575 feet
+3- Location (Salem Glass Works 4th St.) requests 10 moves, maximum train length 575 feet
+3- Location (Salem Glass Works 3rd St.) requests 10 moves, maximum train length 575 feet
+3- Location (H.J. Heinz & Co. No.12) requests 10 moves, maximum train length 575 feet
+3- Location (F.H.Lloyd) requests 10 moves, maximum train length 575 feet
+3- Location (W.H. Harris Jr.) requests 10 moves, maximum train length 575 feet
+3- Location (Gayner Glass Works) requests 10 moves, maximum train length 575 feet
+3- Location (American Oilcloth Co.) requests 10 moves, maximum train length 575 feet
+3- Location (American Oilcloth Co.) requests 10 moves, maximum train length 575 feet
+3- Location (S&PSNCo.) requests 10 moves, maximum train length 575 feet
+3- Location (Salem Glass Works 3rd St.) requests 10 moves, maximum train length 575 feet
+3- Location (Electric Co. of NJ) requests 10 moves, maximum train length 575 feet
+3- Location (Staging Yard) requests 15 set outs, maximum train length 575 feet
+1- Route (Route 1) requests 75 cars and 150 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Staging Yard), there are 1 tracks
+1- Train will return to staging (Staging Yard) reuse departure track
+3-  
+1- Train will depart staging (Staging Yard), there are 1 tracks
+3- Staging track (StagingTracks) has 0 loco(s) and 57 cars
+7- Train (Switcher) can depart from staging track (StagingTracks)
+7- Done assigning locomotives from staging
+5-  
+5- Train (Switcher) services car types:
+5- Refrigerator, Boxcar, Flatcar, Hopper Gon, Long Gondola, Tankcar
+7-  
+7- Remove cars not serviced by this train:
+1- ERROR Exclude rs (PRR X3) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR X37) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR H3) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR X22) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR X14) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR X45) at location (Staging Yard) no track assignment
+1- ERROR Exclude rs (PRR F2) at location (Staging Yard) no track assignment
+5-  
+5- Departing staging (Staging Yard, StagingTracks) with 57 cars
+7- Staging car (PRR X4) type (Boxcar) load (E)
+7- Staging car (PRR X2) type (Boxcar) load (E)
+7- Staging car (PRR X1) type (Boxcar) load (E)
+7- Staging car (PRR X39) type (Boxcar) load (E)
+7- Staging car (PRR X38) type (Boxcar) load (E)
+7- Staging car (PRR X36) type (Boxcar) load (E)
+7- Staging car (PRR X35) type (Boxcar) load (E)
+7- Staging car (PRR X34) type (Boxcar) load (E)
+7- Staging car (PRR X33) type (Boxcar) load (E)
+7- Staging car (PRR X32) type (Boxcar) load (E)
+7- Staging car (PRR X31) type (Boxcar) load (E)
+7- Staging car (PRR X30) type (Boxcar) load (E)
+7- Staging car (PRR H5) type (Hopper Gon) load (E)
+7- Staging car (PRR H4) type (Hopper Gon) load (E)
+7- Staging car (PRR H2) type (Hopper Gon) load (E)
+7- Staging car (PRR H1) type (Hopper Gon) load (E)
+7- Staging car (PRR RS56) type (Refrigerator) load (E)
+7- Staging car (PRR RS55) type (Refrigerator) load (E)
+7- Staging car (PRR RS53) type (Refrigerator) load (E)
+7- Staging car (PRR RS52) type (Refrigerator) load (E)
+7- Staging car (PRR T1) type (Tankcar) load (E)
+7- Staging car (PRR X29) type (Boxcar) load (E)
+7- Staging car (PRR X28) type (Boxcar) load (E)
+7- Staging car (PRR X27) type (Boxcar) load (E)
+7- Staging car (PRR X26) type (Boxcar) load (E)
+7- Staging car (PRR X25) type (Boxcar) load (E)
+7- Staging car (PRR X24) type (Boxcar) load (E)
+7- Staging car (PRR X23) type (Boxcar) load (E)
+7- Staging car (PRR X21) type (Boxcar) load (E)
+7- Staging car (PRR X20) type (Boxcar) load (E)
+7- Staging car (PRR G6) type (Long Gondola) load (E)
+7- Staging car (PRR G5) type (Long Gondola) load (E)
+7- Staging car (PRR G4) type (Long Gondola) load (E)
+7- Staging car (PRR G3) type (Long Gondola) load (E)
+7- Staging car (PRR G2) type (Long Gondola) load (E)
+7- Staging car (PRR X19) type (Boxcar) load (E)
+7- Staging car (PRR X18) type (Boxcar) load (E)
+7- Staging car (PRR X17) type (Boxcar) load (E)
+7- Staging car (PRR X16) type (Boxcar) load (E)
+7- Staging car (PRR X47) type (Boxcar) load (E)
+7- Staging car (PRR X15) type (Boxcar) load (E)
+7- Staging car (PRR X46) type (Boxcar) load (E)
+7- Staging car (PRR X13) type (Boxcar) load (E)
+7- Staging car (PRR X44) type (Boxcar) load (E)
+7- Staging car (PRR X12) type (Boxcar) load (E)
+7- Staging car (PRR X43) type (Boxcar) load (E)
+7- Staging car (PRR X11) type (Boxcar) load (E)
+7- Staging car (PRR X42) type (Boxcar) load (E)
+7- Staging car (PRR X10) type (Boxcar) load (E)
+7- Staging car (PRR X41) type (Boxcar) load (E)
+7- Staging car (PRR X40) type (Boxcar) load (E)
+7- Staging car (PRR F1) type (Flatcar) load (E)
+7- Staging car (PRR X9) type (Boxcar) load (E)
+7- Staging car (PRR X8) type (Boxcar) load (E)
+7- Staging car (PRR X7) type (Boxcar) load (E)
+7- Staging car (PRR X6) type (Boxcar) load (E)
+7- Staging car (PRR X5) type (Boxcar) load (E)
+5-  
+1- Found 57 cars for train (Switcher)
+7- Car (PRR X4) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X2) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X1) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X39) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X38) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X36) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X35) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X34) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X33) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X32) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X31) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X30) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR H5) type (Hopper Gon) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR H4) type (Hopper Gon) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR H2) type (Hopper Gon) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR H1) type (Hopper Gon) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR RS56) type (Refrigerator) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR RS55) type (Refrigerator) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR RS53) type (Refrigerator) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR RS52) type (Refrigerator) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR T1) type (Tankcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X29) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X28) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X27) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X26) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X25) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X24) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X23) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X21) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X20) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR G6) type (Long Gondola) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR G5) type (Long Gondola) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR G4) type (Long Gondola) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR G3) type (Long Gondola) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR G2) type (Long Gondola) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X19) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X18) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X17) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X16) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X47) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X15) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X46) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X13) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X44) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X12) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X43) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X11) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X42) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X10) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X41) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X40) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR F1) type (Flatcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X9) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X8) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X7) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X6) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+7- Car (PRR X5) type (Boxcar) at (Staging Yard, StagingTracks) 0 moves
+5-  
+5- Train does not require caboose when departing (Staging Yard)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (75) for train (Switcher) the number available (57) building train!
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups.
+3- Departing staging in aggressive mode, find destinations from (Staging Yard) in next 
+3- pass 
+1- Route location (Staging Yard) id (4r1) requests 0 pick ups, 28/15 moves are available
+5-  
+1- Partial 0/28 cars at location (Staging Yard) assigned to train (Switcher)
+1- Route location (Salem Gass Light Co.) id (4r12) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (Salem Gass Light Co.) assigned to train (Switcher)
+1- Route location (Salem Glass Works 4th St.) id (4r14) requests 5 pick ups, 5/10 moves 
+1- are available 
+5-  
+1- Partial 0/5 cars at location (Salem Glass Works 4th St.) assigned to train (Switcher)
+1- Route location (Salem Glass Works 3rd St.) id (4r13) requests 5 pick ups, 5/10 moves 
+1- are available 
+5-  
+1- Partial 0/5 cars at location (Salem Glass Works 3rd St.) assigned to train (Switcher)
+1- Route location (H.J. Heinz & Co. No.12) id (4r10) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (H.J. Heinz & Co. No.12) assigned to train (Switcher)
+1- Route location (F.H.Lloyd) id (4r8) requests 5 pick ups, 5/10 moves are available
+5-  
+1- Partial 0/5 cars at location (F.H.Lloyd) assigned to train (Switcher)
+1- Route location (W.H. Harris Jr.) id (4r15) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (W.H. Harris Jr.) assigned to train (Switcher)
+1- Route location (Gayner Glass Works) id (4r9) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (Gayner Glass Works) assigned to train (Switcher)
+1- Route location (American Oilcloth Co.) id (4r5) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (American Oilcloth Co.) assigned to train (Switcher)
+1- Route location (American Oilcloth Co.) id (4r16) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (American Oilcloth Co.) assigned to train (Switcher)
+1- Route location (S&PSNCo.) id (4r11) requests 5 pick ups, 5/10 moves are available
+5-  
+1- Partial 0/5 cars at location (S&PSNCo.) assigned to train (Switcher)
+1- Route location (Salem Glass Works 3rd St.) id (4r17) requests 5 pick ups, 5/10 moves 
+1- are available 
+5-  
+1- Partial 0/5 cars at location (Salem Glass Works 3rd St.) assigned to train (Switcher)
+1- Route location (Electric Co. of NJ) id (4r7) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+1- Partial 0/5 cars at location (Electric Co. of NJ) assigned to train (Switcher)
+1- Route (Route 1) id (4r2) no pick ups at location (Staging Yard)
+7-  
+3- Multiple pass build (Aggressive Mode), begin final pass.
+1- Route location (Staging Yard) id (4r1) requests 57 pick ups, 57/15 moves are available
+5-  
+5- Generate load for (PRR X4) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X4) to (F.H.Lloyd, Flour Mill)
+5- Car (PRR X4) custom load (Flour) final destination (F.H.Lloyd, Flour Mill)
+7- Car (PRR X4) has assigned destination (F.H.Lloyd, Flour Mill)
+3- Car (PRR X4) assigned to train, destination (F.H.Lloyd, Flour Mill)
+3-  
+5- Generate load for (PRR X2) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X2) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X2) due to rolling stock length 40 feet
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X2)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X2) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X2) to (H.J. Heinz & Co. No.12, Can House)
+5- Car (PRR X2) custom load (Manifest) final destination (H.J. Heinz & Co. No.12, Can 
+5- House) 
+7- Car (PRR X2) has assigned destination (H.J. Heinz & Co. No.12, Can House)
+3- Car (PRR X2) assigned to train, destination (H.J. Heinz & Co. No.12, Can House)
+3-  
+5- Generate load for (PRR X1) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X1) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X1) due to rolling stock length 40 feet
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X1)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X1) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X1) to (H.J. Heinz & Co. No.12, Can House)
+5- Car (PRR X1) custom load (Manifest) final destination (H.J. Heinz & Co. No.12, Can 
+5- House) 
+7- Car (PRR X1) has assigned destination (H.J. Heinz & Co. No.12, Can House)
+3- Car (PRR X1) assigned to train, destination (H.J. Heinz & Co. No.12, Can House)
+3-  
+5- Generate load for (PRR X39) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X39) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X39) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X39)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X39) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X39) to (H.J. Heinz & Co. No.12, Can House)
+5- Car (PRR X39) custom load (Manifest) final destination (H.J. Heinz & Co. No.12, Can 
+5- House) 
+7- Car (PRR X39) has assigned destination (H.J. Heinz & Co. No.12, Can House)
+3- Car (PRR X39) assigned to train, destination (H.J. Heinz & Co. No.12, Can House)
+3-  
+5- Generate load for (PRR X38) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X38) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X38) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X38)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X38) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X38) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X38) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X38)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X38) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X38)
+1- BUILD FAILED car (PRR X38) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X36) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X36) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X36) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X36)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X36) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X36) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X36) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X36)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X36) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X36)
+1- BUILD FAILED car (PRR X36) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X35) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X35) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X35) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X35)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X35) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X35) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X35) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X35)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X35) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X35)
+1- BUILD FAILED car (PRR X35) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X34) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X34) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X34) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X34)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X34) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X34) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X34) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X34)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X34) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X34)
+1- BUILD FAILED car (PRR X34) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X33) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X33) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X33) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X33)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X33) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X33) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X33) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X33)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X33) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X33)
+1- BUILD FAILED car (PRR X33) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X32) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X32) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X32) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X32)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X32) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X32) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X32) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X32)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X32) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X32)
+1- BUILD FAILED car (PRR X32) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X31) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X31) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X31) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X31)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X31) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X31) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X31) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X31)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X31) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X31)
+1- BUILD FAILED car (PRR X31) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X30) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X30) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X30) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X30)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X30) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X30) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X30) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X30)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X30) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X30)
+1- BUILD FAILED car (PRR X30) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR H5) type (Hopper Gon) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (Salem Gass Light Co., Coal) load (Coal)
+7- Train (Switcher) can transport car (PRR H5) to (Salem Gass Light Co., Coal)
+5- Car (PRR H5) custom load (Coal) final destination (Salem Gass Light Co., Coal)
+7- Car (PRR H5) has assigned destination (Salem Gass Light Co., Coal)
+3- Car (PRR H5) assigned to train, destination (Salem Gass Light Co., Coal)
+3-  
+5- Generate load for (PRR H4) type (Hopper Gon) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (Electric Co. of NJ, Coal) load (Coal)
+7- Train (Switcher) can transport car (PRR H4) to (Electric Co. of NJ, Coal)
+5- Car (PRR H4) custom load (Coal) final destination (Electric Co. of NJ, Coal)
+7- Car (PRR H4) has assigned destination (Electric Co. of NJ, Coal)
+3- Car (PRR H4) assigned to train, destination (Electric Co. of NJ, Coal)
+3-  
+5- Generate load for (PRR H2) type (Hopper Gon) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (Salem Glass Works 3rd St., Power House) load (Coal)
+7- Train (Switcher) can transport car (PRR H2) to (Salem Glass Works 3rd St., Power House)
+5- Car (PRR H2) custom load (Coal) final destination (Salem Glass Works 3rd St., Power 
+5- House) 
+7- Car (PRR H2) has assigned destination (Salem Glass Works 3rd St., Power House)
+3- Car (PRR H2) assigned to train, destination (Salem Glass Works 3rd St., Power House)
+3-  
+5- Generate load for (PRR H1) type (Hopper Gon) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (Salem Gass Light Co., Coal) load (Coal)
+7- Train (Switcher) can transport car (PRR H1) to (Salem Gass Light Co., Coal)
+5- Car (PRR H1) custom load (Coal) final destination (Salem Gass Light Co., Coal)
+7- Car (PRR H1) has assigned destination (Salem Gass Light Co., Coal)
+3- Car (PRR H1) assigned to train, destination (Salem Gass Light Co., Coal)
+3-  
+5- Generate load for (PRR RS56) type (Refrigerator) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Switcher) can transport car (PRR RS56) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS56) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS56) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS56) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS55) type (Refrigerator) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Switcher) can transport car (PRR RS55) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS55) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS55) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS55) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS53) type (Refrigerator) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Switcher) can transport car (PRR RS53) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS53) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS53) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS53) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS52) type (Refrigerator) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Switcher) can transport car (PRR RS52) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS52) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS52) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS52) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR T1) type (Tankcar) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (American Oilcloth Co., Chemical Racks) load (Chemicals)
+7- Train (Switcher) can transport car (PRR T1) to (American Oilcloth Co., Chemical Racks)
+5- Car (PRR T1) custom load (Chemicals) final destination (American Oilcloth Co., 
+5- Chemical Racks) 
+7- Car (PRR T1) has assigned destination (American Oilcloth Co., Chemical Racks)
+3- Car (PRR T1) assigned to train, destination (American Oilcloth Co., Chemical Racks)
+3-  
+5- Generate load for (PRR X29) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X29) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X29) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X29)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X29) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X29) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X29) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X29)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X29) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X29)
+1- BUILD FAILED car (PRR X29) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X28) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X28) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X28) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X28)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X28) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X28) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X28) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X28)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X28) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X28)
+1- BUILD FAILED car (PRR X28) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X27) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X27) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X27) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X27)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X27) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X27) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X27) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X27)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X27) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X27)
+1- BUILD FAILED car (PRR X27) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X26) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X26) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X26) due to rolling stock length 40 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X26)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X26) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X26) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X26) due to rolling stock 
+7- length 40 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X26)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X26) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X26)
+1- BUILD FAILED car (PRR X26) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X25) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X25) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X25) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X25)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X25) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X25) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X25) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X25)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X25) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X25)
+1- BUILD FAILED car (PRR X25) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X24) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X24) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X24) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X24)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X24) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X24) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X24) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X24)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X24) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X24)
+1- BUILD FAILED car (PRR X24) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X23) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X23) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X23) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X23)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X23) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X23) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X23) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X23)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X23) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X23)
+1- BUILD FAILED car (PRR X23) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X21) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X21) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X21) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X21)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X21) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X21) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X21) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X21)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X21) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X21)
+1- BUILD FAILED car (PRR X21) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X20) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can transport car (PRR X20) to (F.H.Lloyd, Flour Mill)
+7- Can't use spur (F.H.Lloyd, Flour Mill) for (PRR X20) due to rolling stock length 44 
+7- feet 
+7- Track (Flour Mill) full, searching for a yard at destination (F.H.Lloyd)
+7- Could not find a yard at (F.H.Lloyd) for car (PRR X20)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X20) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can transport car (PRR X20) to (H.J. Heinz & Co. No.12, Can House)
+7- Can't use spur (H.J. Heinz & Co. No.12, Can House) for (PRR X20) due to rolling stock 
+7- length 44 feet 
+7- Track (Can House) full, searching for a yard at destination (H.J. Heinz & Co. No.12)
+7- Could not find a yard at (H.J. Heinz & Co. No.12) for car (PRR X20)
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X20) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X20)
+1- BUILD FAILED car (PRR X20) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR G6) type (Long Gondola) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Switcher) can transport car (PRR G6) to (Salem Glass Works 3rd St., Sand House 
+7- 1) 
+5- Car (PRR G6) custom load (Sand) final destination (Salem Glass Works 3rd St., Sand 
+5- House 1) 
+7- Car (PRR G6) has assigned destination (Salem Glass Works 3rd St., Sand House 1)
+3- Car (PRR G6) assigned to train, destination (Salem Glass Works 3rd St., Sand House 1)
+3-  
+5- Generate load for (PRR G5) type (Long Gondola) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 2) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G5) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Try spur (W.H. Harris Jr., Boar Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (W.H. Harris Jr., Boar Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (W.H. Harris Jr.) 
+7- Can't route car (PRR G5) with load (Lumber) to (W.H. Harris Jr., Boar Shop)
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Sand House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G5) with load (Sand) to (Gayner Glass Works, Sand House)
+7- Try spur (Gayner Glass Works, Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G5) with load (Lumber) to (Gayner Glass Works, Shop)
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 4th St., Sand Storage) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 4th St.) 
+7- Can't route car (PRR G5) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Switcher) can't transport car (PRR G5) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 1) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G5) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Could not find a route to a spur that needs a custom load for car (PRR G5)
+1- BUILD FAILED car (PRR G5) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR G4) type (Long Gondola) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 2) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G4) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Try spur (W.H. Harris Jr., Boar Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (W.H. Harris Jr., Boar Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (W.H. Harris Jr.) 
+7- Can't route car (PRR G4) with load (Lumber) to (W.H. Harris Jr., Boar Shop)
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Sand House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G4) with load (Sand) to (Gayner Glass Works, Sand House)
+7- Try spur (Gayner Glass Works, Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G4) with load (Lumber) to (Gayner Glass Works, Shop)
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 4th St., Sand Storage) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 4th St.) 
+7- Can't route car (PRR G4) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Switcher) can't transport car (PRR G4) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 1) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G4) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G4) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Could not find a route to a spur that needs a custom load for car (PRR G4)
+1- BUILD FAILED car (PRR G4) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR G3) type (Long Gondola) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 2) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G3) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Try spur (W.H. Harris Jr., Boar Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (W.H. Harris Jr., Boar Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (W.H. Harris Jr.) 
+7- Can't route car (PRR G3) with load (Lumber) to (W.H. Harris Jr., Boar Shop)
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Sand House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G3) with load (Sand) to (Gayner Glass Works, Sand House)
+7- Try spur (Gayner Glass Works, Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G3) with load (Lumber) to (Gayner Glass Works, Shop)
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 4th St., Sand Storage) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 4th St.) 
+7- Can't route car (PRR G3) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Switcher) can't transport car (PRR G3) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 1) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G3) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G3) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Could not find a route to a spur that needs a custom load for car (PRR G3)
+1- BUILD FAILED car (PRR G3) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR G2) type (Long Gondola) load (E) at (Staging Yard, 
+5- StagingTracks) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 2) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Try spur (W.H. Harris Jr., Boar Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (W.H. Harris Jr., Boar Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (W.H. Harris Jr.) 
+7- Can't route car (PRR G2) with load (Lumber) to (W.H. Harris Jr., Boar Shop)
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Sand House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G2) with load (Sand) to (Gayner Glass Works, Sand House)
+7- Try spur (Gayner Glass Works, Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR G2) with load (Lumber) to (Gayner Glass Works, Shop)
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 4th St., Sand Storage) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 4th St.) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Switcher) can't transport car (PRR G2) out of staging (Staging Yard) directly 
+7- to (Salem Glass Works 3rd St., Sand House 1) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR G2) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Salem Glass Works 3rd St.) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Could not find a route to a spur that needs a custom load for car (PRR G2)
+1- BUILD FAILED car (PRR G2) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X19) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X19) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X19) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X19) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X19) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X19) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X19) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X19)
+1- BUILD FAILED car (PRR X19) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X18) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X18) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X18) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X18) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X18) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X18) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X18) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X18)
+1- BUILD FAILED car (PRR X18) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X17) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X17) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X17) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X17) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X17) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X17) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X17) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X17)
+1- BUILD FAILED car (PRR X17) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X16) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X16) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X16) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X16) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X16) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X16) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X16) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X16)
+1- BUILD FAILED car (PRR X16) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X47) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X47) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X47) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X47) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X47) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X47) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X47) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X47)
+1- BUILD FAILED car (PRR X47) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X15) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X15) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X15) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X15) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X15) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X15) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X15) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X15)
+1- BUILD FAILED car (PRR X15) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X46) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X46) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X46) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X46) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X46) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X46) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X46) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X46)
+1- BUILD FAILED car (PRR X46) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X13) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X13) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X13) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X13) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X13) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X13) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X13) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X13)
+1- BUILD FAILED car (PRR X13) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X44) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X44) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X44) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X44) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X44) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X44) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X44) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X44)
+1- BUILD FAILED car (PRR X44) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X12) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X12) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X12) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X12) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X12) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X12) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X12) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X12)
+1- BUILD FAILED car (PRR X12) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X43) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X43) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X43) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X43) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X43) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X43) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X43) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X43)
+1- BUILD FAILED car (PRR X43) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X11) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X11) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X11) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X11) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X11) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X11) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X11) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X11)
+1- BUILD FAILED car (PRR X11) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X42) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X42) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X42) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X42) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X42) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X42) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X42) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X42)
+1- BUILD FAILED car (PRR X42) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X10) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X10) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X10) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X10) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X10) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X10) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X10) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X10)
+1- BUILD FAILED car (PRR X10) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X41) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X41) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X41) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X41) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X41) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X41) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X41) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X41)
+1- BUILD FAILED car (PRR X41) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X40) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X40) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X40) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X40) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X40) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X40) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X40) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X40)
+1- BUILD FAILED car (PRR X40) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR F1) type (Flatcar) load (E) at (Staging Yard, StagingTracks)
+7- Try spur (W.H. Harris Jr., Boar Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR F1) out of staging (Staging Yard) directly 
+7- to (W.H. Harris Jr., Boar Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR F1) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (W.H. Harris Jr.) 
+7- Can't route car (PRR F1) with load (Lumber) to (W.H. Harris Jr., Boar Shop)
+7- Try spur (Gayner Glass Works, Shop) load (Lumber)
+7- Train (Switcher) can't transport car (PRR F1) out of staging (Staging Yard) directly 
+7- to (Gayner Glass Works, Shop) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR F1) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (Gayner Glass Works) 
+7- Can't route car (PRR F1) with load (Lumber) to (Gayner Glass Works, Shop)
+7- Could not find a route to a spur that needs a custom load for car (PRR F1)
+1- BUILD FAILED car (PRR F1) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X9) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X9) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X9) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X9) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X9) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X9) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X9) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X9)
+1- BUILD FAILED car (PRR X9) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X8) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X8) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X8) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X8) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X8) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X8) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X8) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X8)
+1- BUILD FAILED car (PRR X8) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X7) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X7) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X7) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X7) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X7) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X7) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X7) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X7)
+1- BUILD FAILED car (PRR X7) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X6) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X6) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X6) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X6) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X6) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X6) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X6) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X6)
+1- BUILD FAILED car (PRR X6) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+5- Generate load for (PRR X5) type (Boxcar) load (E) at (Staging Yard, StagingTracks)
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (H.J. Heinz & 
+7- Co. No.12, Bottling & Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (American 
+7- Oilcloth Co., Shipping) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Gayner Glass 
+7- Works, Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware House) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 4th St., Ware Shed) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Packing) 
+7- Departure track (StagingTracks) can't ship load (Empty) to destination (Salem Glass 
+7- Works 3rd St., Ware House) 
+7- Try spur (F.H.Lloyd, Flour Mill) load (Flour)
+7- Train (Switcher) can't transport car (PRR X5) out of staging (Staging Yard) directly 
+7- to (F.H.Lloyd, Flour Mill) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (F.H.Lloyd) 
+7- Can't route car (PRR X5) with load (Flour) to (F.H.Lloyd, Flour Mill)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Switcher) can't transport car (PRR X5) out of staging (Staging Yard) directly 
+7- to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Switcher) would exceed route (Route 1) id (4r1) maximum train length (575) feet 
+7- when departing (Staging Yard) with car (PRR X5) 
+7- Could not find an interim class/interchange or yard track that can service car to 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X5) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Could not find a route to a spur that needs a custom load for car (PRR X5)
+1- BUILD FAILED car (PRR X5) departing staging with a load (E) that is restricted by 
+1- track (StagingTracks) 
+5-  
+1- BUILD FAILED could not find destinations for 43 car(s) departing from staging track 
+1- (Staging Yard, StagingTracks) 
+1-  PRR X38
+1-  PRR X36
+1-  PRR X35
+1-  PRR X34
+1-  PRR X33
+1-  PRR X32
+1-  PRR X31
+1-  PRR X30
+1-  PRR X29
+1-  PRR X28
+1-  PRR X27
+1-  PRR X26
+1-  PRR X25
+1-  PRR X24
+1-  PRR X23
+1-  PRR X21
+1-  PRR X20
+1-  PRR G5
+1-  PRR G4
+1-  PRR G3
+1- Build failed for train (Switcher)

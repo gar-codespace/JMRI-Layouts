@@ -1,0 +1,38 @@
+West Jersey & Seashore RR
+Salem & Glass Works Branch
+Salem, New Jersey
+
+Work Location: Fenwick Creek
+Valid Dec 12, 1915, 13:09
+
+Pattern Report for Tracks
+
+Track: Electric Co of NJ
+[  ] CNJ   3018    H      E Empty  Any Line    
+[  ] WJ&S  1572    H      E Empty  Any Line    
+Total Cars: 2 Track Length: 132 Eqpt. Length: 88 Available: 44
+
+Track Totals for Cars:
+ Any Line - 2
+
+Track: Fuel Oil
+[  ] UTLX  6480    TO     E Empty  Any Line    
+[  ] UTLX  9780    TO     E Empty  Any Line    
+Total Cars: 2 Track Length: 176 Eqpt. Length: 88 Available: 88
+
+Track Totals for Cars:
+ Any Line - 2
+
+Track: Glass Storage
+[  ] ER    4555    X      L glassw Any Line    
+[  ] NYC   1399    X      L glassw Any Line    
+[  ] NYC   7826    X      L glassw Any Line    
+[  ] PRR   9500    X      L glassw Any Line    
+Total Cars: 4 Track Length: 176 Eqpt. Length: 176 Available: 0
+
+Track Totals for Cars:
+ Any Line - 4
+
+
+Report Totals for Cars:
+ Any Line - 8

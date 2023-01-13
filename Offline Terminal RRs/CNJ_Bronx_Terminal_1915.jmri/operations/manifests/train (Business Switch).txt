@@ -1,0 +1,30 @@
+CNJ Bronx Terminal 1915
+ 
+Manifest for train (Business Switch)
+Valid Time 11/15/2022 12:34
+ 
+Scheduled work at Bronx Terminal, departure time 00:00
+ [ ] Move P&R 4750 XM empty Empty
+ [ ] Move AT&SF 2678 XM empty Empty
+ [ ] Move ER 0537 XM empty Empty
+ [ ] Move NYC 5679 XM empty Empty
+ [ ] Move AT&SF 7634 XM empty Empty
+ [ ] Move PRR 7100 XM empty Empty
+ [ ] Move NYC 2312 XM empty Empty
+ [ ] Move LV 0355 XM empty Empty
+ [ ] Move NYNH&H 6062 XM empty Empty
+ [ ] Move DL&W 4699 XM empty Empty
+ [ ] Move CNJ 2706 XM empty Empty
+ [ ] Move P&R 0754 XM empty Empty
+ [ ] Move AT&SF 4816 XM empty Empty
+ [ ] Move PRR 4721 XM empty Empty
+ [ ] Move NYNH&H 1703 XM empty Empty
+ [ ] Move B&A 3160 XM empty Empty
+ [ ] Move M&P 7278 XM empty Empty
+ [ ] Move CNJ 9969 XM empty Empty
+ [ ] Move NYC 9190 FM load steel beams
+ [ ] Move PRR 2519 XM empty Empty
+ [ ] Move ACL 2883 GA empty Empty
+ [ ] Move TCX 0140 TG empty Empty
+ [ ] Move WJ&S 1190 XM empty Empty
+Train terminates in Bronx Terminal

@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+9104,WJ&S,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+9104,WJ&S,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+9104,WJ&S,XM,goods,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+9104,WJ&S,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+9104,WJ&S,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+9104,WJ&S,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52

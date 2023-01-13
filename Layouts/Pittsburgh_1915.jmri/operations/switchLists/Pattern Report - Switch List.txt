@@ -1,0 +1,11 @@
+O2O Pittsburgh 1915
+Local Switch Job
+Pattern Report - Switch List
+Comment: Switch List for One Track
+Valid time: Thu Apr 07 2022 03:17 PM PST
+
+Location: AS&WCo
+Track: Slag Pile
+[Bessemer]      PRR   40290   Gs     Slag   *No Waybill                    *Via Staging          
+[Bessemer]      PRR   40985   Gs     Slag   *No Waybill                    *Via Staging          
+

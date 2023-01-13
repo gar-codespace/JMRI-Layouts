@@ -1,0 +1,850 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "South Bend Switcher",
+  "description" : "",
+  "locations" : [ {
+    "name" : "Salem Yard",
+    "id" : "10r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s4" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 478,
+      "unit" : "Feet"
+    },
+    "weight" : 275,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRX34",
+        "number" : "X34",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX32",
+        "number" : "X32",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT3",
+        "number" : "T3",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT1",
+        "number" : "T1",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX26",
+        "number" : "X26",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG15",
+        "number" : "G15",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX46",
+        "number" : "X46",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG11",
+        "number" : "G11",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG10",
+        "number" : "G10",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRF2",
+        "number" : "F2",
+        "road" : "PRR",
+        "type" : "Flatcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRF1",
+        "number" : "F1",
+        "road" : "PRR",
+        "type" : "Flatcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ ],
+      "total" : 12,
+      "loads" : 0,
+      "empties" : 12
+    }
+  }, {
+    "name" : "Salem Ready Tracks",
+    "id" : "10r2",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "00:40",
+    "location" : {
+      "comment" : "",
+      "id" : "18"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem Ready Tracks",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRX34",
+        "number" : "X34",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX32",
+        "number" : "X32",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT3",
+        "number" : "T3",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT1",
+        "number" : "T1",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX26",
+        "number" : "X26",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG15",
+        "number" : "G15",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX46",
+        "number" : "X46",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG11",
+        "number" : "G11",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG10",
+        "number" : "G10",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRF2",
+        "number" : "F2",
+        "road" : "PRR",
+        "type" : "Flatcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRF1",
+        "number" : "F1",
+        "road" : "PRR",
+        "type" : "Flatcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "10r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Ready Tracks",
+          "id" : "18",
+          "route" : "10r2",
+          "track" : {
+            "name" : "South Bend",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ]
+    }
+  } ],
+  "date" : "2020-04-03T18:12:13Z"
+}

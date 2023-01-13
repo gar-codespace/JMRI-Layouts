@@ -1,0 +1,147 @@
+ Build Report for train (Fenwick Flyer) built on 11/8/22 7:10 AM 
+ JMRI version 4.26+R381c8dfc32 
+  Build report detail level: Normal 
+ 
+ Model railroad version of WJ&S Glass Works Branch;;;;; 
+ 
+  Train (Fenwick Flyer) route (Fenwick Creek): 
+  15r16 Staging (Salem) request 50 pick ups, maximum train length 2,000 feet 
+  15r18 Location (Fenwick Creek) requests 50 moves, maximum train length 2,000 feet 
+  15r20 Location (Unknown) requests 1 moves, maximum train length 2,000 feet 
+  15r19 Location (Fenwick Creek) requests 50 moves, maximum train length 2,000 feet 
+  15r17 Staging (Salem) requests 50 set outs 
+ Route (Fenwick Creek) requests 100 cars and 201 moves 
+ 
+ Train requirements: 
+ Train does not require any locomotives 
+ 
+  
+ Train terminates into staging at (Salem), there are 1 tracks 
+ Train will return to staging (Salem) reuse departure track 
+  
+ Train will depart staging (Salem), there are 1 tracks 
+  Staging track (Yard) has 0 loco(s) and 24 cars 
+  
+ Found 45 cars for train (Fenwick Flyer) 
+  
+  Requested cars (100) for train (Fenwick Flyer) the number available (44) building 
+  train! 
+  
+  Multiple pass build (Aggressive Mode), begin pass 50% pick ups 
+  
+  Warning! Option to allow cars to return to staging enabled, program must assume that 
+  all cars in staging (Salem) can return to the same departure track (Yard). 
+  
+  Departing staging in aggressive mode, find destinations from (Salem) in next pass 
+ Route location (Salem) id 15r16 requests 0 pick ups, 50/50 moves are available 
+ Success 0/0 cars at location (Salem) assigned to train (Fenwick Flyer) 
+ Route location (Fenwick Creek) id 15r18 requests 25 pick ups, 50/50 moves are 
+ available 
+  Car (B&O 9766) assigned to train, destination (Salem, Yard) 
+  
+  Car (DL&W 7099) assigned to train, destination (Salem, Yard) 
+  
+  Car (B&O 7951) assigned to train, destination (Fenwick Creek, Salem 4 Ware Shed) 
+  
+  Car (CNJ 0796) assigned to train, destination (Salem, Yard) 
+  
+  Car (SP 4555) assigned to train, destination (Salem, Yard) 
+  
+  Car (SP 7753) assigned to train, destination (Salem, Yard) 
+  
+  Car (P&R 5776) assigned to train, destination (Salem, Yard) 
+  
+  Car (P&R 8284) assigned to train, destination (Salem, Yard) 
+  
+  Car (NYC 9972) assigned to train, destination (Salem, Yard) 
+  
+  Car (SP 7549) assigned to train, destination (Salem, Yard) 
+  
+  Car (WJ&S 5144) assigned to train, destination (Salem, Yard) 
+  
+ Partial 11/25 cars at location (Fenwick Creek) assigned to train (Fenwick Flyer) 
+ Location (Unknown) cannot be serviced by Eastbound train 
+ Route location (Fenwick Creek) id 15r19 requests 25 pick ups, 49/50 moves are 
+ available 
+  Car (NYC 1063) assigned to train, destination (Salem, Yard) 
+  
+  Car (ACL 8380) assigned to train, destination (Salem, Yard) 
+  
+  Car (PRR 8838) assigned to train, destination (Salem, Yard) 
+  
+  Car (NYNH&H 2816) assigned to train, destination (Salem, Yard) 
+  
+  Car (B&A 8913) assigned to train, destination (Salem, Yard) 
+  
+  Car (P&R 8636) assigned to train, destination (Salem, Yard) 
+  
+  Car (PRR 6024) assigned to train, destination (Salem, Yard) 
+  
+  Car (M&P 7281) assigned to train, destination (Fenwick Creek, Salem 4 Ware House) 
+  
+  Car (DL&W 0694) assigned to train, destination (Fenwick Creek, Salem 4 Ware House) 
+  
+ Partial 9/25 cars at location (Fenwick Creek) assigned to train (Fenwick Flyer) 
+ Route location (Salem) id 15r17 no pick ups 
+  
+  Multiple pass build (Aggressive Mode), begin final pass 
+ Route location (Salem) id 15r16 requests 50 pick ups, 50/50 moves are available 
+  Car (WJ&S 1090) assigned to train, destination (Fenwick Creek, Salem 4 Ware Shed) 
+  
+  Car (LV 4868) assigned to train, destination (Fenwick Creek, Salem 3 Merch Storage) 
+  
+  Car (AT&SF 6513) assigned to train, destination (Fenwick Creek, Salem 4 Sand Storage) 
+  
+  Car (AT&SF 4700) assigned to train, destination (Fenwick Creek, Salem Gas Light) 
+  
+  Car (ACL 3300) assigned to train, destination (Salem, Yard) 
+  
+  Car (ER 7553) assigned to train, destination (Fenwick Creek, Salem 4 Ware Shed) 
+  
+  Car (ER 4841) assigned to train, destination (Fenwick Creek, Salem 3 Merch Storage) 
+  
+  Car (B&A 2320) assigned to train, destination (Salem, Yard) 
+  
+  Car (SP 7876) assigned to train, destination (Salem, Yard) 
+  
+  Car (SP 7385) assigned to train, destination (Fenwick Creek, Salem 3 Merch Storage) 
+  
+  Car (ER 0930) assigned to train, destination (Salem, Yard) 
+  
+  Car (WJ&S 6966) assigned to train, destination (Salem, Yard) 
+  
+  Car (DL&W 7274) assigned to train, destination (Salem, Yard) 
+  
+  Car (M&P 6336) assigned to train, destination (Fenwick Creek, Electric Co NJ) 
+  
+  Car (NYNH&H 8387) assigned to train, destination (Fenwick Creek, Salem 4 Sand Storage) 
+  
+  Car (CNJ 3094) assigned to train, destination (Fenwick Creek, Fenwick Oil) 
+  
+  Car (P&R 2028) assigned to train, destination (Salem, Yard) 
+  
+  Car (ER 4387) assigned to train, destination (Fenwick Creek, Fenwick Oil) 
+  
+  Car (CNJ 3907) assigned to train, destination (Salem, Yard) 
+  
+  Car (DL&W 1592) assigned to train, destination (Salem, Yard) 
+  
+  Car (DL&W 7996) assigned to train, destination (Fenwick Creek, Salem Gas Light) 
+  
+  Car (LV 0817) assigned to train, destination (Salem, Yard) 
+  
+  Car (P&R 5560) assigned to train, destination (Fenwick Creek, Electric Co NJ) 
+  
+  Car (LV 0186) assigned to train, destination (Salem, Yard) 
+  
+ Partial 24/50 cars at location (Salem) assigned to train (Fenwick Flyer) 
+ Route location (Fenwick Creek) id 15r18 requests 32 pick ups, 32/50 moves are 
+ available 
+ Partial 0/32 cars at location (Fenwick Creek) assigned to train (Fenwick Flyer) 
+ Location (Unknown) cannot be serviced by Eastbound train 
+ Route location (Fenwick Creek) id 15r19 requests 34 pick ups, 34/50 moves are 
+ available 
+ Partial 0/34 cars at location (Fenwick Creek) assigned to train (Fenwick Flyer) 
+ Route location (Salem) id 15r17 no pick ups 
+ Partial 44/100 cars 
+ Build report for train (Fenwick Flyer) has 1 warnings 

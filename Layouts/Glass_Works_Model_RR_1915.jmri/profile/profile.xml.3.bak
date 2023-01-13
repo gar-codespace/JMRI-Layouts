@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auxiliary-configuration xmlns="http://www.netbeans.org/ns/auxiliary-configuration/1">
+    <connections xmlns="http://jmri.org/xml/schema/auxiliary-configuration/connections-2-9-6.xsd"/>
+    <startup xmlns="http://jmri.org/xml/schema/auxiliary-configuration/startup-4-3-5.xsd">
+        <perform xmlns="" class="jmri.util.startup.configurexml.PerformScriptModelXml" name="settings:OperationsTrainWindow.py" type="ScriptFile"/>
+        <perform xmlns="" class="apps.startup.configurexml.ScriptButtonModelXml" name="Synchronize Locations" type="Button">
+            <property name="script" value="settings:OperationsSynchronizeLocations.py"/>
+        </perform>
+        <perform xmlns="" class="apps.startup.configurexml.ScriptButtonModelXml" name="Synchronize Cars" type="Button">
+            <property name="script" value="settings:OperationsSynchronizeCars.py"/>
+        </perform>
+    </startup>
+</auxiliary-configuration>

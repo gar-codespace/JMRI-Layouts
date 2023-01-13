@@ -1,0 +1,14 @@
+Operator,Description,Parameters
+RT,Report Type,
+RN,Railroad Name,"Pennsylvania Railroad
+Brooklyn Eastern District Station
+Williamsburg, Brooklyn, New York"
+LN,Location Name,North 4th St
+PRNTR,Printer Name,
+YPC,Yard Pattern Comment,
+VT,Valid,Valid Jan 10, 1914, 07:52
+TN,Track name,Crane
+Set_To,Road,Number,Type,Model,Length,Weight,Consist,Owner,Track,Location,Destination,Comment
+Set_To,Road,Number,Type,Length,Weight,Load,Load_Type,Hazardous,Color,Kernel,Kernel_Size,Owner,Track,Location,Destination,Dest&Track,Final_Dest,FD&Track,Comment,Drop_Comment,Pickup_Comment,RWE
+[Crane]           ,P&R,9600,FM,40,40,Empty,E,False,Red,,0,,Crane,North 4th St,No Waybill,,Any Line,,,,,
+[Crane]           ,PL,1471,GA,40,40,Empty,E,False,Red,,0,,Crane,North 4th St,No Waybill,,Any Line,,,,,

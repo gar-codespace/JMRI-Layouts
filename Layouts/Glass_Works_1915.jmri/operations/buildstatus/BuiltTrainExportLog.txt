@@ -1,0 +1,21 @@
+2022-12-12 13:25:40,697 - TP.StandAlone - INFO - Initialize log file - INFO level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - DEBUG - Initialize log file - DEBUG level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - WARNING - Initialize log file - WARNING level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - INFO - Initialize log file - INFO level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - ERROR - Initialize log file - ERROR level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - WARNING - Initialize log file - WARNING level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2022-12-12 13:25:40,713 - TP.StandAlone - ERROR - Initialize log file - ERROR level test message
+2022-12-12 13:25:40,713 - TP.o2oWorkEventsBuilder - DEBUG - ModelWorkEvents.jmriManifestConversion
+2022-12-12 13:25:40,713 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2022-12-12 13:25:40,713 - TP.o2oWorkEventsBuilder - DEBUG - ModelWorkEvents.jmriManifestConversion
+2022-12-12 13:25:40,743 - TP.o2oWorkEventsBuilder - INFO - Export JMRI manifest to TrainPlayer: Town Job
+2022-12-12 13:25:40,743 - TP.o2oWorkEventsBuilder - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-12 13:25:40,743 - TP.o2oWorkEventsBuilder - INFO - Manifest export (sec): 0.047
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Export JMRI manifest to TrainPlayer: Town Job
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Manifest export (sec): 0.047
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Export JMRI manifest to TrainPlayer: Town Job
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-12 13:25:40,759 - TP.o2oWorkEventsBuilder - INFO - Manifest export (sec): 0.047
+xport (sec): 0.047

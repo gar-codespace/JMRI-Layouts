@@ -1,0 +1,3436 @@
+{
+  "railroad" : "o2o - Glass Works Model - 1915;;;;;",
+  "userName" : "South Bend Flyer",
+  "description" : "Switch Along Salem Creek",
+  "locations" : [ {
+    "userName" : "Salem",
+    "name" : "14r13",
+    "departureTime" : "02:00",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "5s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1056,
+      "unit" : "Feet"
+    },
+    "weight" : 717,
+    "cars" : {
+      "add" : [ {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "load" : "flour",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Coal",
+            "name" : "2s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Coal",
+            "name" : "2s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Shop",
+            "name" : "2s10"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "WH Harris",
+            "name" : "2s9"
+          }
+        },
+        "load" : "Lumber",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "load" : "chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "load" : "chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 24,
+      "loads" : 15,
+      "empties" : 9
+    }
+  }, {
+    "userName" : "South Bend Spur",
+    "name" : "14r14",
+    "arrivalTime" : "02:04",
+    "expectedDepartureTime" : "03:01",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "2s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s2" : {
+        "remove" : "",
+        "comment" : ""
+      },
+      "2s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s10" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s9" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 924,
+      "unit" : "Feet"
+    },
+    "weight" : 597,
+    "cars" : {
+      "add" : [ {
+        "name" : "WJ&S6732",
+        "number" : "6732",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Am Oilcloth Shipping",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O5748",
+        "number" : "5748",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1635",
+        "number" : "1635",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Am Oilcloth Shipping",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ4345",
+        "number" : "4345",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9229",
+        "number" : "9229",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4041",
+        "number" : "4041",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Shop",
+            "name" : "2s10"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R3991",
+        "number" : "3991",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4992",
+        "number" : "4992",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "WH Harris",
+            "name" : "2s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "WJ&S6732",
+        "number" : "6732",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Am Oilcloth Shipping",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "load" : "flour",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Coal",
+            "name" : "2s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Coal",
+            "name" : "2s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Shop",
+            "name" : "2s10"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O5748",
+        "number" : "5748",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "FH Lloyd",
+            "name" : "2s7"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "WH Harris",
+            "name" : "2s9"
+          }
+        },
+        "load" : "Lumber",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 21,
+      "loads" : 12,
+      "empties" : 9
+    }
+  }, {
+    "userName" : "Unknown",
+    "name" : "14r15",
+    "arrivalTime" : "03:05",
+    "expectedDepartureTime" : "03:05",
+    "location" : {
+      "comment" : "",
+      "name" : "3"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : { },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 924,
+      "unit" : "Feet"
+    },
+    "weight" : 597,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 21,
+      "loads" : 12,
+      "empties" : 9
+    }
+  }, {
+    "userName" : "South Bend Spur",
+    "name" : "14r16",
+    "arrivalTime" : "03:09",
+    "expectedDepartureTime" : "03:39",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "2s8" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "2s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 836,
+      "unit" : "Feet"
+    },
+    "weight" : 517,
+    "cars" : {
+      "add" : [ {
+        "name" : "B&A6192",
+        "number" : "6192",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R4787",
+        "number" : "4787",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV7443",
+        "number" : "7443",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Lumber",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV9693",
+        "number" : "9693",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "load" : "chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "load" : "chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 19,
+      "loads" : 10,
+      "empties" : 9
+    }
+  }, {
+    "userName" : "Salem",
+    "name" : "14r17",
+    "arrivalTime" : "03:43",
+    "expectedDepartureTime" : "04:40",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r13",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A6192",
+        "number" : "6192",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "Am Oilcloth Chem",
+            "name" : "2s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1635",
+        "number" : "1635",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Am Oilcloth Shipping",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ4345",
+        "number" : "4345",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9229",
+        "number" : "9229",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Sand",
+            "name" : "2s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4041",
+        "number" : "4041",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Shop",
+            "name" : "2s10"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R3991",
+        "number" : "3991",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "Gaynor Ware House",
+            "name" : "2s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R4787",
+        "number" : "4787",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV7443",
+        "number" : "7443",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Lumber",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV9693",
+        "number" : "9693",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r16",
+          "track" : {
+            "userName" : "S&PSNCo Dock",
+            "name" : "2s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4992",
+        "number" : "4992",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "South Bend Spur",
+          "name" : "2",
+          "route" : "14r14",
+          "track" : {
+            "userName" : "WH Harris",
+            "name" : "2s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "14r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "2022-11-08T15:26:23.397+0000"
+}

@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+1016,NYNH&H,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:02:59
+1016,NYNH&H,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:31
+1016,NYNH&H,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:35
+1016,NYNH&H,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:52
+1016,NYNH&H,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:53
+1016,NYNH&H,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:13:56

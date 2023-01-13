@@ -1,0 +1,9 @@
+2022-12-16 21:24:40,578 - TP.StandAlone - DEBUG - Initialize log file - DEBUG level test message
+2022-12-16 21:24:40,578 - TP.StandAlone - INFO - Initialize log file - INFO level test message
+2022-12-16 21:24:40,578 - TP.StandAlone - WARNING - Initialize log file - WARNING level test message
+2022-12-16 21:24:40,578 - TP.StandAlone - ERROR - Initialize log file - ERROR level test message
+2022-12-16 21:24:40,578 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2022-12-16 21:24:40,578 - TP.o2oWorkEventsBuilder - DEBUG - ModelWorkEvents.jmriManifestConversion
+2022-12-16 21:24:40,608 - TP.o2oWorkEventsBuilder - INFO - Export JMRI manifest to TrainPlayer: Float Switch
+2022-12-16 21:24:40,608 - TP.o2oWorkEventsBuilder - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-16 21:24:40,608 - TP.o2oWorkEventsBuilder - INFO - Manifest export (sec): 0.031

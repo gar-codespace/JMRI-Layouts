@@ -1,0 +1,81 @@
+{
+  "date": "Valid Jan 10, 1914, 07:52", 
+  "division": "Harlem Division", 
+  "locations": [
+    {
+      "locationName": "North 4th St", 
+      "tracks": [
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "No Waybill", 
+              "FD&Track": "", 
+              "Final Dest": "Any Line", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "E", 
+              "Location": "North 4th St", 
+              "Number": "9600", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "P&R", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Crane", 
+              "Type": "FM", 
+              "Weight": "40"
+            }, 
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "No Waybill", 
+              "FD&Track": "", 
+              "Final Dest": "Any Line", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "E", 
+              "Location": "North 4th St", 
+              "Number": "1471", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "PL", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Crane", 
+              "Type": "GA", 
+              "Weight": "40"
+            }
+          ], 
+          "length": 88, 
+          "locos": [], 
+          "trackName": "Crane"
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "Pennsylvania Railroad\nBrooklyn Eastern District Station\nWilliamsburg, Brooklyn, New York", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

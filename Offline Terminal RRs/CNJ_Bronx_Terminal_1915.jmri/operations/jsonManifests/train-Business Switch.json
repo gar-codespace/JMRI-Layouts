@@ -1,0 +1,2095 @@
+{
+  "railroad" : "CNJ Bronx Terminal 1915",
+  "userName" : "Business Switch",
+  "description" : "",
+  "locations" : [ {
+    "userName" : "Bronx Terminal",
+    "name" : "2r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Bronx Terminal",
+    "cars" : {
+      "add" : [ {
+        "name" : "P&R4750",
+        "number" : "4750",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF2678",
+        "number" : "2678",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0537",
+        "number" : "0537",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC5679",
+        "number" : "5679",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF7634",
+        "number" : "7634",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR7100",
+        "number" : "7100",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC2312",
+        "number" : "2312",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0355",
+        "number" : "0355",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H6062",
+        "number" : "6062",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W4699",
+        "number" : "4699",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ2706",
+        "number" : "2706",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R0754",
+        "number" : "0754",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4816",
+        "number" : "4816",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4721",
+        "number" : "4721",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H1703",
+        "number" : "1703",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A3160",
+        "number" : "3160",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P7278",
+        "number" : "7278",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9969",
+        "number" : "9969",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9190",
+        "number" : "9190",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Gantry",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "steel beams",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2519",
+        "number" : "2519",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL2883",
+        "number" : "2883",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX0140",
+        "number" : "0140",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1190",
+        "number" : "1190",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "P&R4750",
+        "number" : "4750",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF2678",
+        "number" : "2678",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0537",
+        "number" : "0537",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC5679",
+        "number" : "5679",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF7634",
+        "number" : "7634",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR7100",
+        "number" : "7100",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC2312",
+        "number" : "2312",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0355",
+        "number" : "0355",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H6062",
+        "number" : "6062",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W4699",
+        "number" : "4699",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ2706",
+        "number" : "2706",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R0754",
+        "number" : "0754",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4816",
+        "number" : "4816",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4721",
+        "number" : "4721",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H1703",
+        "number" : "1703",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A3160",
+        "number" : "3160",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P7278",
+        "number" : "7278",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9969",
+        "number" : "9969",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9190",
+        "number" : "9190",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Gantry",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "steel beams",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2519",
+        "number" : "2519",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL2883",
+        "number" : "2883",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX0140",
+        "number" : "0140",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1190",
+        "number" : "1190",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Bronx Terminal",
+          "name" : "1",
+          "route" : "2r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "2022-11-15T20:34:44.476+0000"
+}

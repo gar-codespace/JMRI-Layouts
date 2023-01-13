@@ -1,0 +1,3770 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "userName" : "Glass Works Flyer",
+  "description" : "Switch Salem Glass Works",
+  "locations" : [ {
+    "userName" : "Salem Yard 1",
+    "name" : "16r1",
+    "departureTime" : "01:00",
+    "location" : {
+      "comment" : "",
+      "name" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s6" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1066,
+      "unit" : "Feet"
+    },
+    "weight" : 1453,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRRX41",
+        "number" : "X41",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "load" : "Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "load" : "Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS55",
+        "number" : "RS55",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS17",
+        "number" : "RS17",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT5",
+        "number" : "T5",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Vinegar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Vinegar",
+            "name" : "19s2"
+          }
+        },
+        "load" : "Vinegar",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH5",
+        "number" : "H5",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG8",
+        "number" : "G8",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG11",
+        "number" : "G11",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX08",
+        "number" : "X08",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX47",
+        "number" : "X47",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG15",
+        "number" : "G15",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Sand House",
+            "name" : "19s6"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX36",
+        "number" : "X36",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX43",
+        "number" : "X43",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH6",
+        "number" : "H6",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS25",
+        "number" : "RS25",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT6",
+        "number" : "T6",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Tankcar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS53",
+        "number" : "RS53",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS52",
+        "number" : "RS52",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT3",
+        "number" : "T3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Tankcar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG3",
+        "number" : "G3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Break Bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG13",
+        "number" : "G13",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG12",
+        "number" : "G12",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRF3",
+        "number" : "F3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Flatcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Manifest",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRF1",
+        "number" : "F1",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Flatcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS04",
+        "number" : "RS04",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 26,
+      "loads" : 18,
+      "empties" : 8
+    }
+  }, {
+    "userName" : "Glass Works Branch",
+    "name" : "16r5",
+    "arrivalTime" : "01:04",
+    "expectedDepartureTime" : "02:34",
+    "location" : {
+      "comment" : "",
+      "name" : "19"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "19s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s8" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s9" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1060,
+      "unit" : "Feet"
+    },
+    "weight" : 1162,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRRX04",
+        "number" : "X04",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX18",
+        "number" : "X18",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX03",
+        "number" : "X03",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX45",
+        "number" : "X45",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS56",
+        "number" : "RS56",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS41",
+        "number" : "RS41",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT2",
+        "number" : "T2",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Vinegar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Vinegar",
+            "name" : "19s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH4",
+        "number" : "H4",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG10",
+        "number" : "G10",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "PRRX04",
+        "number" : "X04",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX41",
+        "number" : "X41",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "load" : "Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "load" : "Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS55",
+        "number" : "RS55",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS17",
+        "number" : "RS17",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT5",
+        "number" : "T5",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Vinegar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Vinegar",
+            "name" : "19s2"
+          }
+        },
+        "load" : "Vinegar",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH5",
+        "number" : "H5",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG8",
+        "number" : "G8",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG11",
+        "number" : "G11",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 26,
+      "loads" : 12,
+      "empties" : 14
+    }
+  }, {
+    "userName" : "Glass Works Branch",
+    "name" : "16r6",
+    "arrivalTime" : "02:04",
+    "expectedDepartureTime" : "02:34",
+    "location" : {
+      "comment" : "",
+      "name" : "19"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "19s5" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "19s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 976,
+      "unit" : "Feet"
+    },
+    "weight" : 1210,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRRX24",
+        "number" : "X24",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG2",
+        "number" : "G2",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Sand House",
+            "name" : "19s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX11",
+        "number" : "X11",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "PRRX08",
+        "number" : "X08",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX47",
+        "number" : "X47",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG15",
+        "number" : "G15",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Sand House",
+            "name" : "19s6"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX18",
+        "number" : "X18",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Can House",
+            "name" : "19s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX36",
+        "number" : "X36",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX43",
+        "number" : "X43",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 24,
+      "loads" : 14,
+      "empties" : 10
+    }
+  }, {
+    "userName" : "Salem Yard 2",
+    "name" : "16r11",
+    "arrivalTime" : "02:38",
+    "expectedDepartureTime" : "03:50",
+    "location" : {
+      "comment" : "",
+      "name" : "23"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem Yard 2",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "PRRX03",
+        "number" : "X03",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX45",
+        "number" : "X45",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Bottling",
+            "name" : "19s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS56",
+        "number" : "RS56",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS41",
+        "number" : "RS41",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Kitchen",
+            "name" : "19s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT2",
+        "number" : "T2",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Vinegar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : " Heinz - Vinegar",
+            "name" : "19s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH4",
+        "number" : "H4",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Coal Gas",
+            "name" : "19s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX24",
+        "number" : "X24",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Packing",
+            "name" : "19s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG2",
+        "number" : "G2",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Sand House",
+            "name" : "19s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG10",
+        "number" : "G10",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r5",
+          "track" : {
+            "userName" : "SGW 3rd - Sand Storage",
+            "name" : "19s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRX11",
+        "number" : "X11",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Glass Works Branch",
+          "name" : "19",
+          "route" : "16r6",
+          "track" : {
+            "userName" : "SGW 3rd - Ware House",
+            "name" : "19s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRH6",
+        "number" : "H6",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Hopper Gon",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS25",
+        "number" : "RS25",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT6",
+        "number" : "T6",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Tankcar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Chemicals",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS53",
+        "number" : "RS53",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS52",
+        "number" : "RS52",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRT3",
+        "number" : "T3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Tankcar",
+        "carSubType" : null,
+        "length" : 34,
+        "weight" : 3.3,
+        "weightTons" : 66.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG3",
+        "number" : "G3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Break Bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG13",
+        "number" : "G13",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRG12",
+        "number" : "G12",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Long Gondola",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRF3",
+        "number" : "F3",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Flatcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Manifest",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRF1",
+        "number" : "F1",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Flatcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 69.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRRS04",
+        "number" : "RS04",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Refrigerator",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 75.0,
+        "color" : "Yellow",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Yard 1",
+          "name" : "7",
+          "route" : "16r1",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "7s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Yard 2",
+          "name" : "23",
+          "route" : "16r11",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "23s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "2020-04-20T16:06:07.648+0000"
+}

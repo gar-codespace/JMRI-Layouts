@@ -1,0 +1,1406 @@
+1- Build Report for train (Glass Works Flyer) built on 4/20/20 9:06 AM
+1- JMRI version 4.18+R37ad3d0
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 4 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- Make departure track available after train is built
+5- Prompt for Departure Track from Staging
+5- Prompt for Arrival Track into Staging
+5-  
+5- Car routing options:
+5- Car routing via yards is enabled
+5- Car routing through staging is enabled
+5-  
+5- Specific build options for train (Glass Works Flyer):
+5- Allow local moves if car has a custom load or FD
+5- Allow cars to travel from origin to terminal
+1-  
+3- Train (Glass Works Flyer) route (Glass Works):
+3- 16r1 Staging (Salem Yard 1) request 66 pick ups, maximum train length 2,000 feet
+3- 16r5 Location (Glass Works Branch) requests 22 moves, maximum train length 2,000 feet
+3- 16r6 Location (Glass Works Branch) requests 22 moves, maximum train length 2,000 feet
+3- 16r11 Staging (Salem Yard 2) requests 50 set outs
+1- Route (Glass Works) requests 80 cars and 160 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Salem Yard 2), there are 1 tracks
+7- Train (Glass Works Flyer) can terminate to staging track (Yard)
+1- Staging track (Yard) is available at destination (Salem Yard 2)
+3-  
+1- Train will depart staging (Salem Yard 1), there are 1 tracks
+3- Staging track (Yard) has 0 loco(s) and 26 cars
+7- Train (Glass Works Flyer) can depart from staging track (Yard)
+7- Done assigning locomotives from staging
+5-  
+5- Train (Glass Works Flyer) services car types:
+5- Boxcar, Flatcar, Hopper Gon, Long Gondola, Refrigerator, Tankcar, Vinegar
+7-  
+7- Remove cars not serviced by this train:
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Salem Yard 1, Yard) with 26 cars
+7- Staging car (PRR X15) type (Boxcar) load (E)
+7- Staging car (PRR X12) type (Boxcar) load (E)
+7- Staging car (PRR X41) type (Boxcar) load (E)
+7- Staging car (PRR X43) type (Boxcar) load (E)
+7- Staging car (PRR F1) type (Flatcar) load (E)
+7- Staging car (PRR X36) type (Boxcar) load (E)
+7- Staging car (PRR H5) type (Hopper Gon) load (E)
+7- Staging car (PRR G8) type (Long Gondola) load (E)
+7- Staging car (PRR X08) type (Boxcar) load (E)
+7- Staging car (PRR G11) type (Long Gondola) load (E)
+7- Staging car (PRR RS53) type (Refrigerator) load (E)
+7- Staging car (PRR RS52) type (Refrigerator) load (E)
+7- Staging car (PRR RS04) type (Refrigerator) load (E)
+7- Staging car (PRR G13) type (Long Gondola) load (E)
+7- Staging car (PRR X47) type (Boxcar) load (E)
+7- Staging car (PRR T6) type (Tankcar) load (E)
+7- Staging car (PRR T3) type (Tankcar) load (E)
+7- Staging car (PRR RS25) type (Refrigerator) load (E)
+7- Staging car (PRR F3) type (Flatcar) load (E)
+7- Staging car (PRR G15) type (Long Gondola) load (E)
+7- Staging car (PRR H6) type (Hopper Gon) load (E)
+7- Staging car (PRR G12) type (Long Gondola) load (E)
+7- Staging car (PRR RS55) type (Refrigerator) load (E)
+7- Staging car (PRR T5) type (Vinegar) load (E)
+7- Staging car (PRR RS17) type (Refrigerator) load (E)
+7- Staging car (PRR G3) type (Long Gondola) load (E)
+5-  
+1- Found 40 cars for train (Glass Works Flyer)
+7- Cars available from staging (Salem Yard 1):
+7- Car (PRR X15) type (Boxcar) at (Salem Yard 1, Yard) 5 moves
+7- Car (PRR X12) type (Boxcar) at (Salem Yard 1, Yard) 5 moves
+7- Car (PRR X41) type (Boxcar) at (Salem Yard 1, Yard) 5 moves
+7- Car (PRR X43) type (Boxcar) at (Salem Yard 1, Yard) 7 moves
+7- Car (PRR F1) type (Flatcar) at (Salem Yard 1, Yard) 8 moves
+7- Car (PRR X36) type (Boxcar) at (Salem Yard 1, Yard) 9 moves
+7- Car (PRR H5) type (Hopper Gon) at (Salem Yard 1, Yard) 9 moves
+7- Car (PRR G8) type (Long Gondola) at (Salem Yard 1, Yard) 9 moves
+7- Car (PRR X08) type (Boxcar) at (Salem Yard 1, Yard) 10 moves
+7- Car (PRR G11) type (Long Gondola) at (Salem Yard 1, Yard) 10 moves
+7- Car (PRR RS53) type (Refrigerator) at (Salem Yard 1, Yard) 12 moves
+7- Car (PRR RS52) type (Refrigerator) at (Salem Yard 1, Yard) 12 moves
+7- Car (PRR RS04) type (Refrigerator) at (Salem Yard 1, Yard) 12 moves
+7- Car (PRR G13) type (Long Gondola) at (Salem Yard 1, Yard) 13 moves
+7- Car (PRR X47) type (Boxcar) at (Salem Yard 1, Yard) 13 moves
+7- Car (PRR T6) type (Tankcar) at (Salem Yard 1, Yard) 16 moves
+7- Car (PRR T3) type (Tankcar) at (Salem Yard 1, Yard) 16 moves
+7- Car (PRR RS25) type (Refrigerator) at (Salem Yard 1, Yard) 24 moves
+7- Car (PRR F3) type (Flatcar) at (Salem Yard 1, Yard) 25 moves
+7- Car (PRR G15) type (Long Gondola) at (Salem Yard 1, Yard) 27 moves
+7- Car (PRR H6) type (Hopper Gon) at (Salem Yard 1, Yard) 28 moves
+7- Car (PRR G12) type (Long Gondola) at (Salem Yard 1, Yard) 28 moves
+7- Car (PRR RS55) type (Refrigerator) at (Salem Yard 1, Yard) 29 moves
+7- Car (PRR T5) type (Vinegar) at (Salem Yard 1, Yard) 29 moves
+7- Car (PRR RS17) type (Refrigerator) at (Salem Yard 1, Yard) 29 moves
+7- Car (PRR G3) type (Long Gondola) at (Salem Yard 1, Yard) 30 moves
+7-  
+7- Cars at location (Glass Works Branch):
+7- Car (PRR G10) type (Long Gondola) at (Glass Works Branch, SGW 3rd - Sand Storage) 6 
+7- moves 
+7- Car (PRR X29) type (Boxcar) at (Glass Works Branch, SGW 3rd - Ware House) 7 moves
+7- Car (PRR X11) type (Boxcar) at (Glass Works Branch, SGW 3rd - Ware House) 11 moves
+7- Car (PRR H3) type (Hopper Gon) at (Glass Works Branch, SGW 3rd - Coal Gas) 12 moves
+7- Car (PRR X18) type (Boxcar) at (Glass Works Branch,  Heinz - Can House) 12 moves
+7- Car (PRR X03) type (Boxcar) at (Glass Works Branch,  Heinz - Bottling) 14 moves
+7- Car (PRR H4) type (Hopper Gon) at (Glass Works Branch, SGW 3rd - Coal Gas) 14 moves
+7- Car (PRR RS56) type (Refrigerator) at (Glass Works Branch,  Heinz - Kitchen) 19 moves
+7- Car (PRR T2) type (Vinegar) at (Glass Works Branch,  Heinz - Vinegar) 24 moves
+7- Car (PRR G2) type (Long Gondola) at (Glass Works Branch, SGW 3rd - Sand House) 24 moves
+7- Car (PRR RS41) type (Refrigerator) at (Glass Works Branch,  Heinz - Kitchen) 24 moves
+7- Car (PRR X04) type (Boxcar) at (Glass Works Branch,  Heinz - Can House) 25 moves
+7- Car (PRR X24) type (Boxcar) at (Glass Works Branch, SGW 3rd - Packing) 25 moves
+7- Car (PRR X45) type (Boxcar) at (Glass Works Branch,  Heinz - Bottling) 25 moves
+7-  
+7- Cars available from staging (Salem Yard 2):
+7-  
+5- Train does not require caboose when departing (Salem Yard 1)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (80) for train (Glass Works Flyer) the number available (40) building 
+3- train! 
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 25% pick ups
+3- Departing staging in aggressive mode, find destinations from (Salem Yard 1) in next pass
+1- Route location (Salem Yard 1) id (16r1) requests 0 pick ups, 66/66 moves are available
+5-  
+1- Success 0/0 cars at location (Salem Yard 1) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r5) requests 6 pick ups, 22/22 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR G10) type (Long Gondola) custom load (Empty) at (Glass Works 
+5- Branch, SGW 3rd - Sand Storage) 
+7- Could not find a reachable spur for car (PRR G10) custom load (Empty)
+5- Try to send car (PRR G10) custom load (Empty) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Empty)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR G10) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR G10) from spur (Glass Works Branch, 
+7- SGW 3rd - Sand Storage) to (Salem Yard 2, ) 
+7- Car (PRR G10) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR G10) using Westbound train, track (SGW 3rd - Sand Storage)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR G10) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR G10) doesn't have an assigned destination track
+5- Car (PRR G10) assigned to staging track (Yard)
+3- Car (PRR G10) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Can't pick up (PRR X29) using Eastbound train, track (SGW 3rd - Ware House)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+5- Can't pick up (PRR X11) using Eastbound train, track (SGW 3rd - Ware House)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+5- Find spur for car (PRR H3) type (Hopper Gon) custom load (Empty) at (Glass Works 
+5- Branch, SGW 3rd - Coal Gas) 
+7- Could not find a reachable spur for car (PRR H3) custom load (Empty)
+5- Try to send car (PRR H3) custom load (Empty) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Empty)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR H3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR H3) from spur (Glass Works Branch, SGW 
+7- 3rd - Coal Gas) to (Salem Yard 2, ) 
+7- Car (PRR H3) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR H3) using Westbound train, track (SGW 3rd - Coal Gas)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR H3) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR H3) doesn't have an assigned destination track
+5- Car (PRR H3) assigned to staging track (Yard)
+3- Car (PRR H3) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR X18) type (Boxcar) custom load (Empty) at (Glass Works Branch,  
+5- Heinz - Can House) 
+7- Spur at (South Bend Branch, Gayner - Storage) is full, no alternate track
+7- Try destination (Glass Works Branch, SGW 3rd - Ware House) for car (PRR X18) with load 
+7- (Empty) 
+7- Train (Glass Works Flyer) can transport car (PRR X18) from spur (Glass Works Branch,  
+7- Heinz - Can House) to (Glass Works Branch, SGW 3rd - Ware House) 
+7- Car (PRR X18) has assigned destination (Glass Works Branch, SGW 3rd - Ware House)
+7- Can't set out rolling stock (PRR X18) using Eastbound train,
+7- destination track (SGW 3rd - Ware House) does not service this direction
+5- Car (PRR X18) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+5- Can't pick up (PRR X18) using Westbound train, track ( Heinz - Can House)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR X18) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+3- Car (PRR X18) assigned to train, destination (Glass Works Branch, SGW 3rd - Ware House)
+3-  
+5- Find spur for car (PRR X03) type (Boxcar) custom load (Merchandise) at (Glass Works 
+5- Branch,  Heinz - Bottling) 
+7- Could not find a reachable spur for car (PRR X03) custom load (Merchandise)
+5- Try to send car (PRR X03) custom load (Merchandise) to staging
+7- Staging (Salem Yard 2, Yard) can accept car's load (Merchandise)
+7- Train (Glass Works Flyer) can transport car (PRR X03) from spur (Glass Works Branch,  
+7- Heinz - Bottling) to (Salem Yard 2, ) 
+7- Car (PRR X03) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR X03) using Westbound train, track ( Heinz - Bottling)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR X03) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR X03) doesn't have an assigned destination track
+5- Car (PRR X03) assigned to staging track (Yard)
+3- Car (PRR X03) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR H4) type (Hopper Gon) custom load (Empty) at (Glass Works 
+5- Branch, SGW 3rd - Coal Gas) 
+7- Could not find a reachable spur for car (PRR H4) custom load (Empty)
+5- Try to send car (PRR H4) custom load (Empty) to staging
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR H4) from spur (Glass Works Branch, SGW 
+7- 3rd - Coal Gas) to (Salem Yard 2, ) 
+7- Car (PRR H4) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR H4) using Westbound train, track (SGW 3rd - Coal Gas)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR H4) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR H4) doesn't have an assigned destination track
+5- Car (PRR H4) assigned to staging track (Yard)
+3- Car (PRR H4) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR RS56) type (Refrigerator) custom load (Empty) at (Glass Works 
+5- Branch,  Heinz - Kitchen) 
+7- Could not find a reachable spur for car (PRR RS56) custom load (Empty)
+5- Try to send car (PRR RS56) custom load (Empty) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Empty)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR RS56) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR RS56) from spur (Glass Works Branch,  
+7- Heinz - Kitchen) to (Salem Yard 2, ) 
+7- Car (PRR RS56) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR RS56) using Westbound train, track ( Heinz - Kitchen)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR RS56) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR RS56) doesn't have an assigned destination track
+5- Car (PRR RS56) assigned to staging track (Yard)
+3- Car (PRR RS56) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+1- Success 6/6 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r6) requests 6 pick ups, 21/22 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR X29) type (Boxcar) custom load (Glass Goods) at (Glass Works 
+5- Branch, SGW 3rd - Ware House) 
+7- Could not find a reachable spur for car (PRR X29) custom load (Glass Goods)
+5- Try to send car (PRR X29) custom load (Glass Goods) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Glass Goods)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR X29) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Glass Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X29) from spur (Glass Works Branch, 
+7- SGW 3rd - Ware House) to (Salem Yard 2, ) 
+7- Car (PRR X29) has assigned destination (Salem Yard 2, )
+5- Car (PRR X29) doesn't have an assigned destination track
+5- Car (PRR X29) assigned to staging track (Yard)
+3- Car (PRR X29) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR X11) type (Boxcar) custom load (Glass Goods) at (Glass Works 
+5- Branch, SGW 3rd - Ware House) 
+7- Could not find a reachable spur for car (PRR X11) custom load (Glass Goods)
+5- Try to send car (PRR X11) custom load (Glass Goods) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Glass Goods)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR X11) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Glass Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X11) from spur (Glass Works Branch, 
+7- SGW 3rd - Ware House) to (Salem Yard 2, ) 
+7- Car (PRR X11) has assigned destination (Salem Yard 2, )
+5- Car (PRR X11) doesn't have an assigned destination track
+5- Car (PRR X11) assigned to staging track (Yard)
+3- Car (PRR X11) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Can't pick up (PRR T2) using Westbound train, track ( Heinz - Vinegar)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+5- Find spur for car (PRR G2) type (Long Gondola) custom load (Empty) at (Glass Works 
+5- Branch, SGW 3rd - Sand House) 
+7- Could not find a reachable spur for car (PRR G2) custom load (Empty)
+5- Try to send car (PRR G2) custom load (Empty) to staging
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR G2) from spur (Glass Works Branch, SGW 
+7- 3rd - Sand House) to (Salem Yard 2, ) 
+7- Car (PRR G2) has assigned destination (Salem Yard 2, )
+5- Car (PRR G2) doesn't have an assigned destination track
+5- Car (PRR G2) assigned to staging track (Yard)
+3- Car (PRR G2) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Can't pick up (PRR RS41) using Westbound train, track ( Heinz - Kitchen)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+5- Can't pick up (PRR X04) using Westbound train, track ( Heinz - Can House)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+5- Find spur for car (PRR X24) type (Boxcar) custom load (Glass Goods) at (Glass Works 
+5- Branch, SGW 3rd - Packing) 
+7- Could not find a reachable spur for car (PRR X24) custom load (Glass Goods)
+5- Try to send car (PRR X24) custom load (Glass Goods) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Glass Goods)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR X24) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Glass Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X24) from spur (Glass Works Branch, 
+7- SGW 3rd - Packing) to (Salem Yard 2, ) 
+7- Car (PRR X24) has assigned destination (Salem Yard 2, )
+5- Car (PRR X24) doesn't have an assigned destination track
+5- Car (PRR X24) assigned to staging track (Yard)
+3- Car (PRR X24) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Can't pick up (PRR X45) using Westbound train, track ( Heinz - Bottling)
+5- at location (Glass Works Branch) does not service this train's direction
+5-  
+1- Partial 4/6 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Salem Yard 2) id (16r11) no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+1- Route location (Salem Yard 1) id (16r1) requests 33 pick ups, 66/66 moves are available
+5-  
+5- Staging track (Yard) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5- Generate custom loads for any staging track
+5-  
+5- Generate load for (PRR X15) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, American Oilcloth - Ship) schedule (Oilcloth) id (5c2) load 
+7- (Empty) random value 50 is less than generated 79.819, skipping this line item 
+7- Spur (South Bend Branch, Gayner - Ware House) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 70.831, skipping this line item 
+7- Spur (South Bend Branch, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load 
+7- (Flour) random value 50 is less than generated 85.151, skipping this line item 
+7- Spur (South Bend Branch, Gayner - Ware Shed) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 64.991, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X15) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X15) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X15) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Try spur (Glass Works Branch,  Heinz - Can House) custom load (Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X15) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Can House) 
+5- Car (PRR X15) custom load (Goods) final destination (Glass Works Branch,  Heinz - Can 
+5- House) 
+7- Car (PRR X15) has assigned destination (Glass Works Branch,  Heinz - Can House)
+3- Car (PRR X15) assigned to train, destination (Glass Works Branch,  Heinz - Can House)
+3-  
+5- Generate load for (PRR X12) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, American Oilcloth - Ship) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X12) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, American Oilcloth - Ship) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X12) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X12) with load (Empty) to (South Bend Branch, American Oilcloth - 
+7- Ship) 
+7- Spur (South Bend Branch, Gayner - Ware House) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 68.736, skipping this line item 
+7- Spur (South Bend Branch, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load 
+7- (Flour) random value 50 is less than generated 67.529, skipping this line item 
+7- Spur (South Bend Branch, Gayner - Ware Shed) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 54.371, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X12) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X12) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X12) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Try spur (Glass Works Branch,  Heinz - Can House) custom load (Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X12) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Can House) 
+5- Car (PRR X12) custom load (Goods) final destination (Glass Works Branch,  Heinz - Can 
+5- House) 
+7- Car (PRR X12) has assigned destination (Glass Works Branch,  Heinz - Can House)
+3- Car (PRR X12) assigned to train, destination (Glass Works Branch,  Heinz - Can House)
+3-  
+5- Generate load for (PRR X41) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, American Oilcloth - Ship) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X41) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, American Oilcloth - Ship) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X41) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X41) with load (Empty) to (South Bend Branch, American Oilcloth - 
+7- Ship) 
+7- Spur (South Bend Branch, Gayner - Ware House) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 56.846, skipping this line item 
+7- Spur (South Bend Branch, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load 
+7- (Flour) random value 50 is less than generated 58.366, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Ware Shed) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X41) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware Shed) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X41) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X41) with load (Empty) to (South Bend Branch, Gayner - Ware Shed)
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X41) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X41) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X41) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Spur (Glass Works Branch, SGW 3rd - Packing) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 90.621, skipping this line item 
+7- Spur (Glass Works Branch, SGW 3rd - Ware House) schedule (Glass Shipping) id (19c1) 
+7- load (Empty) random value 50 is less than generated 97.944, skipping this line item 
+7- Try spur (Glass Works Branch,  Heinz - Bottling) custom load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR X41) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Bottling) 
+5- Car (PRR X41) custom load (Empty) final destination (Glass Works Branch,  Heinz - 
+5- Bottling) 
+7- Car (PRR X41) has assigned destination (Glass Works Branch,  Heinz - Bottling)
+3- Car (PRR X41) assigned to train, destination (Glass Works Branch,  Heinz - Bottling)
+3-  
+5- Generate load for (PRR X43) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, American Oilcloth - Ship) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X43) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, American Oilcloth - Ship) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X43) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X43) with load (Empty) to (South Bend Branch, American Oilcloth - 
+7- Ship) 
+7- Try spur (South Bend Branch, Gayner - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X43) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X43) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X43) with load (Empty) to (South Bend Branch, Gayner - Ware House)
+7- Try spur (South Bend Branch, F.H.Lloyd Flour Mill) custom load (Flour)
+7- Train (Glass Works Flyer) can't transport car (PRR X43) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, F.H.Lloyd Flour Mill) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X43) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X43) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour Mill)
+7- Try spur (South Bend Branch, Gayner - Ware Shed) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X43) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware Shed) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X43) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X43) with load (Empty) to (South Bend Branch, Gayner - Ware Shed)
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X43) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X43) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X43) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Spur (Glass Works Branch, SGW 3rd - Packing) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 97.476, skipping this line item 
+7- Try spur (Glass Works Branch, SGW 3rd - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR X43) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Ware House) 
+5- Car (PRR X43) custom load (Empty) final destination (Glass Works Branch, SGW 3rd - Ware 
+5- House) 
+7- Car (PRR X43) has assigned destination (Glass Works Branch, SGW 3rd - Ware House)
+7- Can't set out rolling stock (PRR X43) using Eastbound train,
+7- destination track (SGW 3rd - Ware House) does not service this direction
+5- Car (PRR X43) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+3- Car (PRR X43) assigned to train, destination (Glass Works Branch, SGW 3rd - Ware House)
+3-  
+5- Generate load for (PRR F1) type (Flatcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Shop) schedule (Lumber) id (8c1) load (Lumber) random 
+7- value 50 is less than generated 58.736, skipping this line item 
+7- Try spur (South Bend Branch, W.H. Harris Boat Shop) custom load (Lumber)
+7- Train (Glass Works Flyer) can't transport car (PRR F1) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, W.H. Harris Boat Shop) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR F1) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR F1) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+7- Shop) 
+7- Could not find a route to a spur that needs a custom load for car (PRR F1)
+5- Try to send car (PRR F1) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR F1) type (Flatcar) load (E) at (Salem Yard 1, Yard) to staging 
+7- (Salem Yard 2, Yard) 
+7- Check route for car (PRR F1) at (Salem Yard 1, Yard) load (Manifest) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F1) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR F1) at (Salem Yard 1, Yard) load (Lumber) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F1) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR F1) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F1) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Empty) to car (PRR F1)
+5- Car (PRR F1) type (Flatcar) load (Empty) at (Salem Yard 1, Yard) has final destination 
+5- (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR F1) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR F1) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR F1) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR X36) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, American Oilcloth - Ship) schedule (Oilcloth) id (5c2) load 
+7- (Empty) random value 50 is less than generated 64.529, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X36) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X36) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X36) with load (Empty) to (South Bend Branch, Gayner - Ware House)
+7- Try spur (South Bend Branch, F.H.Lloyd Flour Mill) custom load (Flour)
+7- Train (Glass Works Flyer) can't transport car (PRR X36) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, F.H.Lloyd Flour Mill) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X36) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X36) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour Mill)
+7- Try spur (South Bend Branch, Gayner - Ware Shed) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X36) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware Shed) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X36) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X36) with load (Empty) to (South Bend Branch, Gayner - Ware Shed)
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X36) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X36) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X36) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Spur (Glass Works Branch, SGW 3rd - Packing) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 50.072, skipping this line item 
+7- Try spur (Glass Works Branch,  Heinz - Can House) custom load (Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X36) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Can House) 
+7- Can't use spur (Glass Works Branch,  Heinz - Can House) for (PRR X36) due to rolling 
+7- stock length 44 feet, available track space 11 feet 
+7- Track ( Heinz - Can House) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR X36)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR X36) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR X36) with load (Goods) to (Glass Works Branch,  Heinz - Can House)
+7- Try spur (Glass Works Branch, SGW 3rd - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR X36) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Ware House) 
+5- Car (PRR X36) custom load (Empty) final destination (Glass Works Branch, SGW 3rd - Ware 
+5- House) 
+7- Car (PRR X36) has assigned destination (Glass Works Branch, SGW 3rd - Ware House)
+7- Can't set out rolling stock (PRR X36) using Eastbound train,
+7- destination track (SGW 3rd - Ware House) does not service this direction
+5- Car (PRR X36) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+3- Car (PRR X36) assigned to train, destination (Glass Works Branch, SGW 3rd - Ware House)
+3-  
+5- Generate load for (PRR H5) type (Hopper Gon) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, Gayner - Coal Bin) custom load (Coal)
+7- Train (Glass Works Flyer) can't transport car (PRR H5) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Coal Bin) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR H5) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR H5) with load (Coal) to (South Bend Branch, Gayner - Coal Bin)
+7- Try spur (Glass Works Branch, SGW 3rd - Coal Gas) custom load (Coal)
+7- Train (Glass Works Flyer) can transport car (PRR H5) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Coal Gas) 
+5- Car (PRR H5) custom load (Coal) final destination (Glass Works Branch, SGW 3rd - Coal 
+5- Gas) 
+7- Car (PRR H5) has assigned destination (Glass Works Branch, SGW 3rd - Coal Gas)
+3- Car (PRR H5) assigned to train, destination (Glass Works Branch, SGW 3rd - Coal Gas)
+3-  
+5- Generate load for (PRR G8) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G8) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+5- Car (PRR G8) custom load (Sand) final destination (Glass Works Branch, SGW 3rd - Sand 
+5- Storage) 
+7- Car (PRR G8) has assigned destination (Glass Works Branch, SGW 3rd - Sand Storage)
+3- Car (PRR G8) assigned to train, destination (Glass Works Branch, SGW 3rd - Sand Storage)
+3-  
+5- Generate load for (PRR X08) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, American Oilcloth - Ship) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X08) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, American Oilcloth - Ship) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X08) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X08) with load (Empty) to (South Bend Branch, American Oilcloth - 
+7- Ship) 
+7- Try spur (South Bend Branch, Gayner - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X08) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X08) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X08) with load (Empty) to (South Bend Branch, Gayner - Ware House)
+7- Spur (South Bend Branch, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load 
+7- (Flour) random value 50 is less than generated 99.951, skipping this line item 
+7- Spur (South Bend Branch, Gayner - Ware Shed) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 93.449, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X08) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X08) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X08) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Try spur (Glass Works Branch, SGW 3rd - Packing) custom load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR X08) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Packing) 
+5- Car (PRR X08) custom load (Empty) final destination (Glass Works Branch, SGW 3rd - 
+5- Packing) 
+7- Car (PRR X08) has assigned destination (Glass Works Branch, SGW 3rd - Packing)
+7- Can't set out rolling stock (PRR X08) using Eastbound train,
+7- destination track (SGW 3rd - Packing) does not service this direction
+5- Car (PRR X08) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+3- Car (PRR X08) assigned to train, destination (Glass Works Branch, SGW 3rd - Packing)
+3-  
+5- Generate load for (PRR G11) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G11) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+5- Car (PRR G11) custom load (Sand) final destination (Glass Works Branch, SGW 3rd - Sand 
+5- Storage) 
+7- Car (PRR G11) has assigned destination (Glass Works Branch, SGW 3rd - Sand Storage)
+3- Car (PRR G11) assigned to train, destination (Glass Works Branch, SGW 3rd - Sand 
+3- Storage) 
+3-  
+5- Generate load for (PRR RS53) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Spur (Glass Works Branch,  Heinz - Kitchen) schedule (Heinz Nº 12 - Kitchen) id (22c3) 
+7- load (Produce) random value 50 is less than generated 90.69, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR RS53)
+5- Try to send car (PRR RS53) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR RS53) type (Refrigerator) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS53) at (Salem Yard 1, Yard) load (Produce) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS53) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS53) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS53) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Adding custom load (Produce) to car (PRR RS53)
+5- Car (PRR RS53) type (Refrigerator) load (Produce) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR RS53) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Car (PRR RS53) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR RS53) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR RS52) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Spur (Glass Works Branch,  Heinz - Kitchen) schedule (Heinz Nº 12 - Kitchen) id (22c3) 
+7- load (Produce) random value 50 is less than generated 62.718, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR RS52)
+5- Try to send car (PRR RS52) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR RS52) type (Refrigerator) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS52) at (Salem Yard 1, Yard) load (Produce) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS52) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS52) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS52) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Adding custom load (Produce) to car (PRR RS52)
+5- Car (PRR RS52) type (Refrigerator) load (Produce) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR RS52) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Car (PRR RS52) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR RS52) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR RS04) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Spur (Glass Works Branch,  Heinz - Kitchen) schedule (Heinz Nº 12 - Kitchen) id (22c3) 
+7- load (Produce) random value 50 is less than generated 71.964, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR RS04)
+5- Try to send car (PRR RS04) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR RS04) type (Refrigerator) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS04) at (Salem Yard 1, Yard) load (Produce) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS04) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS04) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS04) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Adding custom load (Empty) to car (PRR RS04)
+5- Car (PRR RS04) type (Refrigerator) load (Empty) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR RS04) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Car (PRR RS04) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR RS04) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR G13) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Shop) schedule (Lumber) id (8c2) load (Lumber) random 
+7- value 50 is less than generated 77.977, skipping this line item 
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+7- Can't use spur (Glass Works Branch, SGW 3rd - Sand Storage) for (PRR G13) due to 
+7- rolling stock length 40 feet, available track space 6 feet 
+7- Track (SGW 3rd - Sand Storage) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR G13)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR G13) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR G13) with load (Sand) to (Glass Works Branch, SGW 3rd - Sand 
+7- Storage) 
+7- Spur (Glass Works Branch, SGW 3rd - Sand House) schedule (Sand) id (6c1) load (Sand) 
+7- random value 50 is less than generated 64.506, skipping this line item 
+7- Spur (South Bend Branch, W.H. Harris Boat Shop) schedule (Lumber) id (8c2) load 
+7- (Lumber) random value 50 is less than generated 53.435, skipping this line item 
+7- Spur (South Bend Branch, Gayner -  Sand House) schedule (Sand) id (6c1) load (Sand) 
+7- random value 50 is less than generated 86.809, skipping this line item 
+7- Spur (Fenwick Creek Branch, SGW 4th - Sand Storage) schedule (Sand) id (6c1) load 
+7- (Sand) random value 50 is less than generated 67.487, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR G13)
+5- Try to send car (PRR G13) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR G13) type (Long Gondola) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR G13) at (Salem Yard 1, Yard) load (Sand) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G13) at (Salem Yard 1, Yard) load (Manifest) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G13) at (Salem Yard 1, Yard) load (Lumber) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G13) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G13) at (Salem Yard 1, Yard) load (Break Bulk) final 
+7- destination (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Sand) to car (PRR G13)
+5- Car (PRR G13) type (Long Gondola) load (Sand) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR G13) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR G13) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR G13) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR X47) type (Boxcar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, American Oilcloth - Ship) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X47) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, American Oilcloth - Ship) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X47) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X47) with load (Empty) to (South Bend Branch, American Oilcloth - 
+7- Ship) 
+7- Try spur (South Bend Branch, Gayner - Ware House) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X47) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X47) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X47) with load (Empty) to (South Bend Branch, Gayner - Ware House)
+7- Spur (South Bend Branch, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load 
+7- (Flour) random value 50 is less than generated 57.1, skipping this line item 
+7- Spur (South Bend Branch, Gayner - Ware Shed) schedule (Glass Shipping) id (19c1) load 
+7- (Empty) random value 50 is less than generated 56.313, skipping this line item 
+7- Try spur (South Bend Branch, Gayner - Storage) custom load (Empty)
+7- Train (Glass Works Flyer) can't transport car (PRR X47) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X47) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR X47) with load (Empty) to (South Bend Branch, Gayner - Storage)
+7- Try spur (Glass Works Branch,  Heinz - Can House) custom load (Goods)
+7- Train (Glass Works Flyer) can transport car (PRR X47) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Can House) 
+7- Can't use spur (Glass Works Branch,  Heinz - Can House) for (PRR X47) due to rolling 
+7- stock length 40 feet, available track space 11 feet 
+7- Track ( Heinz - Can House) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR X47)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR X47) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR X47) with load (Goods) to (Glass Works Branch,  Heinz - Can House)
+7- Try spur (Glass Works Branch, SGW 3rd - Packing) custom load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR X47) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Packing) 
+5- Car (PRR X47) custom load (Empty) final destination (Glass Works Branch, SGW 3rd - 
+5- Packing) 
+7- Car (PRR X47) has assigned destination (Glass Works Branch, SGW 3rd - Packing)
+7- Can't set out rolling stock (PRR X47) using Eastbound train,
+7- destination track (SGW 3rd - Packing) does not service this direction
+5- Car (PRR X47) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+3- Car (PRR X47) assigned to train, destination (Glass Works Branch, SGW 3rd - Packing)
+3-  
+5- Generate load for (PRR T6) type (Tankcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, American Oilcloth - Chem) schedule (Chemical) id (21c1) load 
+7- (Chemicals) random value 50 is less than generated 57.705, skipping this line item 
+7- Spur (Fenwick Creek Branch, Fenwick Oil Co.) schedule (Oil) id (26c1) load (Oil) random 
+7- value 50 is less than generated 75.116, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR T6)
+5- Try to send car (PRR T6) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR T6) type (Tankcar) load (E) at (Salem Yard 1, Yard) to staging 
+7- (Salem Yard 2, Yard) 
+7- Check route for car (PRR T6) at (Salem Yard 1, Yard) load (Oil) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR T6) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR T6) at (Salem Yard 1, Yard) load (Chemicals) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Chemicals) to car (PRR T6)
+5- Car (PRR T6) type (Tankcar) load (Chemicals) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR T6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR T6) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR T6) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR T3) type (Tankcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, American Oilcloth - Chem) schedule (Chemical) id (21c1) load 
+7- (Chemicals) random value 50 is less than generated 82.912, skipping this line item 
+7- Try spur (Fenwick Creek Branch, Fenwick Oil Co.) custom load (Oil)
+7- Train (Glass Works Flyer) can't transport car (PRR T3) out of staging (Salem Yard 1) 
+7- directly to (Fenwick Creek Branch, Fenwick Oil Co.) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek Branch) 
+7- Try to find a route for car (PRR T3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Fenwick Creek Branch) 
+7- Can't route car (PRR T3) with load (Oil) to (Fenwick Creek Branch, Fenwick Oil Co.)
+7- Could not find a route to a spur that needs a custom load for car (PRR T3)
+5- Try to send car (PRR T3) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR T3) type (Tankcar) load (E) at (Salem Yard 1, Yard) to staging 
+7- (Salem Yard 2, Yard) 
+7- Check route for car (PRR T3) at (Salem Yard 1, Yard) load (Oil) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR T3) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR T3) at (Salem Yard 1, Yard) load (Chemicals) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR T3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Oil) to car (PRR T3)
+5- Car (PRR T3) type (Tankcar) load (Oil) at (Salem Yard 1, Yard) has final destination 
+5- (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR T3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR T3) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR T3) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR RS25) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Spur (Glass Works Branch,  Heinz - Kitchen) schedule (Heinz Nº 12 - Kitchen) id (22c3) 
+7- load (Produce) random value 50 is less than generated 79.118, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR RS25)
+5- Try to send car (PRR RS25) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR RS25) type (Refrigerator) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS25) at (Salem Yard 1, Yard) load (Produce) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS25) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Check route for car (PRR RS25) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR RS25) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Adding custom load (Empty) to car (PRR RS25)
+5- Car (PRR RS25) type (Refrigerator) load (Empty) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR RS25) from staging (Salem Yard 1, 
+7- Yard) to (Salem Yard 2, Yard) 
+7- Car (PRR RS25) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR RS25) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR F3) type (Flatcar) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Shop) schedule (Lumber) id (8c1) load (Lumber) random 
+7- value 50 is less than generated 85.835, skipping this line item 
+7- Try spur (South Bend Branch, W.H. Harris Boat Shop) custom load (Lumber)
+7- Train (Glass Works Flyer) can't transport car (PRR F3) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, W.H. Harris Boat Shop) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR F3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR F3) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+7- Shop) 
+7- Could not find a route to a spur that needs a custom load for car (PRR F3)
+5- Try to send car (PRR F3) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR F3) type (Flatcar) load (E) at (Salem Yard 1, Yard) to staging 
+7- (Salem Yard 2, Yard) 
+7- Check route for car (PRR F3) at (Salem Yard 1, Yard) load (Manifest) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR F3) at (Salem Yard 1, Yard) load (Lumber) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR F3) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR F3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Manifest) to car (PRR F3)
+5- Car (PRR F3) type (Flatcar) load (Manifest) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR F3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR F3) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR F3) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR G15) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Shop) schedule (Lumber) id (8c2) load (Lumber) random 
+7- value 50 is less than generated 74.069, skipping this line item 
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G15) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+7- Can't use spur (Glass Works Branch, SGW 3rd - Sand Storage) for (PRR G15) due to 
+7- rolling stock length 40 feet, available track space 6 feet 
+7- Track (SGW 3rd - Sand Storage) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR G15)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR G15) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR G15) with load (Sand) to (Glass Works Branch, SGW 3rd - Sand 
+7- Storage) 
+7- Try spur (Glass Works Branch, SGW 3rd - Sand House) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G15) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand House) 
+5- Car (PRR G15) custom load (Sand) final destination (Glass Works Branch, SGW 3rd - Sand 
+5- House) 
+7- Car (PRR G15) has assigned destination (Glass Works Branch, SGW 3rd - Sand House)
+7- Can't set out rolling stock (PRR G15) using Eastbound train,
+7- destination track (SGW 3rd - Sand House) does not service this direction
+5- Car (PRR G15) can't be delivered to (Glass Works Branch) id (16r5) stop 1
+3- Car (PRR G15) assigned to train, destination (Glass Works Branch, SGW 3rd - Sand House)
+3-  
+5- Generate load for (PRR H6) type (Hopper Gon) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Coal Bin) schedule (Coal) id (16c1) load (Coal) 
+7- random value 50 is less than generated 95.063, skipping this line item 
+7- Spur (Glass Works Branch, SGW 3rd - Coal Gas) schedule (Coal) id (16c1) load (Coal) 
+7- random value 50 is less than generated 91.95, skipping this line item 
+7- Try spur (Fenwick Creek Branch, SGLCo - Coal Gas) custom load (Coal)
+7- Train (Glass Works Flyer) can't transport car (PRR H6) out of staging (Salem Yard 1) 
+7- directly to (Fenwick Creek Branch, SGLCo - Coal Gas) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek Branch) 
+7- Try to find a route for car (PRR H6) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Fenwick Creek Branch) 
+7- Can't route car (PRR H6) with load (Coal) to (Fenwick Creek Branch, SGLCo - Coal Gas)
+7- Spur (Fenwick Creek Branch, E Co of NJ - Coal Bin) schedule (Coal) id (16c1) load 
+7- (Coal) random value 50 is less than generated 58.766, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR H6)
+5- Try to send car (PRR H6) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR H6) type (Hopper Gon) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR H6) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR H6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR H6) at (Salem Yard 1, Yard) load (Coal) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR H6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Coal) to car (PRR H6)
+5- Car (PRR H6) type (Hopper Gon) load (Coal) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR H6) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR H6) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR H6) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR G12) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Spur (South Bend Branch, Gayner - Shop) schedule (Lumber) id (8c2) load (Lumber) random 
+7- value 50 is less than generated 77.482, skipping this line item 
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+7- Can't use spur (Glass Works Branch, SGW 3rd - Sand Storage) for (PRR G12) due to 
+7- rolling stock length 40 feet, available track space 6 feet 
+7- Track (SGW 3rd - Sand Storage) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR G12)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR G12) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR G12) with load (Sand) to (Glass Works Branch, SGW 3rd - Sand 
+7- Storage) 
+7- Spur (Glass Works Branch, SGW 3rd - Sand House) schedule (Sand) id (6c1) load (Sand) 
+7- random value 50 is less than generated 92.87, skipping this line item 
+7- Try spur (South Bend Branch, W.H. Harris Boat Shop) custom load (Lumber)
+7- Train (Glass Works Flyer) can't transport car (PRR G12) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, W.H. Harris Boat Shop) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR G12) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR G12) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+7- Shop) 
+7- Spur (South Bend Branch, Gayner -  Sand House) schedule (Sand) id (6c1) load (Sand) 
+7- random value 50 is less than generated 91.949, skipping this line item 
+7- Spur (Fenwick Creek Branch, SGW 4th - Sand Storage) schedule (Sand) id (6c1) load 
+7- (Sand) random value 50 is less than generated 75.412, skipping this line item 
+7- Could not find a route to a spur that needs a custom load for car (PRR G12)
+5- Try to send car (PRR G12) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR G12) type (Long Gondola) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR G12) at (Salem Yard 1, Yard) load (Sand) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G12) at (Salem Yard 1, Yard) load (Manifest) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G12) at (Salem Yard 1, Yard) load (Lumber) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G12) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G12) at (Salem Yard 1, Yard) load (Break Bulk) final 
+7- destination (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Sand) to car (PRR G12)
+5- Car (PRR G12) type (Long Gondola) load (Sand) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR G12) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR G12) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR G12) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Generate load for (PRR RS55) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Try spur (Glass Works Branch,  Heinz - Kitchen) custom load (Produce)
+7- Train (Glass Works Flyer) can transport car (PRR RS55) from staging (Salem Yard 1, 
+7- Yard) to (Glass Works Branch,  Heinz - Kitchen) 
+5- Car (PRR RS55) custom load (Produce) final destination (Glass Works Branch,  Heinz - 
+5- Kitchen) 
+7- Car (PRR RS55) has assigned destination (Glass Works Branch,  Heinz - Kitchen)
+3- Car (PRR RS55) assigned to train, destination (Glass Works Branch,  Heinz - Kitchen)
+3-  
+5- Generate load for (PRR T5) type (Vinegar) load (E) at (Salem Yard 1, Yard)
+7- Try spur (Glass Works Branch,  Heinz - Vinegar) custom load (Vinegar)
+7- Train (Glass Works Flyer) can transport car (PRR T5) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch,  Heinz - Vinegar) 
+5- Car (PRR T5) custom load (Vinegar) final destination (Glass Works Branch,  Heinz - 
+5- Vinegar) 
+7- Car (PRR T5) has assigned destination (Glass Works Branch,  Heinz - Vinegar)
+3- Car (PRR T5) assigned to train, destination (Glass Works Branch,  Heinz - Vinegar)
+3-  
+5- Generate load for (PRR RS17) type (Refrigerator) load (E) at (Salem Yard 1, Yard)
+7- Try spur (Glass Works Branch,  Heinz - Kitchen) custom load (Produce)
+7- Train (Glass Works Flyer) can transport car (PRR RS17) from staging (Salem Yard 1, 
+7- Yard) to (Glass Works Branch,  Heinz - Kitchen) 
+5- Car (PRR RS17) custom load (Produce) final destination (Glass Works Branch,  Heinz - 
+5- Kitchen) 
+7- Car (PRR RS17) has assigned destination (Glass Works Branch,  Heinz - Kitchen)
+3- Car (PRR RS17) assigned to train, destination (Glass Works Branch,  Heinz - Kitchen)
+3-  
+5- Generate load for (PRR G3) type (Long Gondola) load (E) at (Salem Yard 1, Yard)
+7- Try spur (South Bend Branch, Gayner - Shop) custom load (Lumber)
+7- Train (Glass Works Flyer) can't transport car (PRR G3) out of staging (Salem Yard 1) 
+7- directly to (South Bend Branch, Gayner - Shop) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR G3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (South Bend Branch) 
+7- Can't route car (PRR G3) with load (Lumber) to (South Bend Branch, Gayner - Shop)
+7- Try spur (Glass Works Branch, SGW 3rd - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand Storage) 
+7- Can't use spur (Glass Works Branch, SGW 3rd - Sand Storage) for (PRR G3) due to rolling 
+7- stock length 40 feet, available track space 6 feet 
+7- Track (SGW 3rd - Sand Storage) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR G3)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR G3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR G3) with load (Sand) to (Glass Works Branch, SGW 3rd - Sand 
+7- Storage) 
+7- Try spur (Glass Works Branch, SGW 3rd - Sand House) custom load (Sand)
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Glass Works Branch, SGW 3rd - Sand House) 
+7- Can't use spur (Glass Works Branch, SGW 3rd - Sand House) for (PRR G3) due to rolling 
+7- stock length 40 feet, available track space 5 feet 
+7- Track (SGW 3rd - Sand House) full, searching for a yard at destination (Glass Works 
+7- Branch) 
+7- Could not find a yard at (Glass Works Branch) for car (PRR G3)
+7- Could not find an interim C/I or yard track that can service car to destination (Glass 
+7- Works Branch) 
+7- Try to find a route for car (PRR G3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Glass Works Branch) 
+7- Can't route car (PRR G3) with load (Sand) to (Glass Works Branch, SGW 3rd - Sand House)
+7- Spur (South Bend Branch, W.H. Harris Boat Shop) schedule (Lumber) id (8c2) load 
+7- (Lumber) random value 50 is less than generated 57.554, skipping this line item 
+7- Spur (South Bend Branch, Gayner -  Sand House) schedule (Sand) id (6c1) load (Sand) 
+7- random value 50 is less than generated 51.221, skipping this line item 
+7- Try spur (Fenwick Creek Branch, SGW 4th - Sand Storage) custom load (Sand)
+7- Train (Glass Works Flyer) can't transport car (PRR G3) out of staging (Salem Yard 1) 
+7- directly to (Fenwick Creek Branch, SGW 4th - Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek Branch) 
+7- Try to find a route for car (PRR G3) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Fenwick Creek Branch) 
+7- Can't route car (PRR G3) with load (Sand) to (Fenwick Creek Branch, SGW 4th - Sand 
+7- Storage) 
+7- Could not find a route to a spur that needs a custom load for car (PRR G3)
+5- Try to send car (PRR G3) to staging, found 2 tracks
+7- Ignoring terminal staging tracks (Salem Yard 2) on first pass
+7- Generate load for (PRR G3) type (Long Gondola) load (E) at (Salem Yard 1, Yard) to 
+7- staging (Salem Yard 2, Yard) 
+7- Check route for car (PRR G3) at (Salem Yard 1, Yard) load (Sand) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G3) at (Salem Yard 1, Yard) load (Manifest) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G3) at (Salem Yard 1, Yard) load (Lumber) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G3) at (Salem Yard 1, Yard) load (Empty) final destination 
+7- (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Check route for car (PRR G3) at (Salem Yard 1, Yard) load (Break Bulk) final 
+7- destination (Salem Yard 2, Yard) 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Adding custom load (Break Bulk) to car (PRR G3)
+5- Car (PRR G3) type (Long Gondola) load (Break Bulk) at (Salem Yard 1, Yard) has final 
+5- destination (Salem Yard 2, Yard) routing begins 
+7- Train (Glass Works Flyer) can transport car (PRR G3) from staging (Salem Yard 1, Yard) 
+7- to (Salem Yard 2, Yard) 
+7- Car (PRR G3) has assigned destination (Salem Yard 2, Yard)
+3- Car (PRR G3) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+1- Partial 26/33 cars at location (Salem Yard 1) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r5) requests 4 pick ups, 7/22 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR T2) type (Vinegar) custom load (Empty) at (Glass Works Branch,  
+5- Heinz - Vinegar) 
+7- Could not find a reachable spur for car (PRR T2) custom load (Empty)
+5- Try to send car (PRR T2) custom load (Empty) to staging
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR T2) from spur (Glass Works Branch,  
+7- Heinz - Vinegar) to (Salem Yard 2, ) 
+7- Car (PRR T2) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR T2) using Westbound train, track ( Heinz - Vinegar)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR T2) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR T2) doesn't have an assigned destination track
+5- Car (PRR T2) assigned to staging track (Yard)
+3- Car (PRR T2) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR RS41) type (Refrigerator) custom load (Empty) at (Glass Works 
+5- Branch,  Heinz - Kitchen) 
+7- Could not find a reachable spur for car (PRR RS41) custom load (Empty)
+5- Try to send car (PRR RS41) custom load (Empty) to staging
+7- Staging (Salem Yard 2, Yard) can accept car's load (Empty)
+7- Train (Glass Works Flyer) can transport car (PRR RS41) from spur (Glass Works Branch,  
+7- Heinz - Kitchen) to (Salem Yard 2, ) 
+7- Car (PRR RS41) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR RS41) using Westbound train, track ( Heinz - Kitchen)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR RS41) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR RS41) doesn't have an assigned destination track
+5- Car (PRR RS41) assigned to staging track (Yard)
+3- Car (PRR RS41) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+5- Find spur for car (PRR X04) type (Boxcar) custom load (Empty) at (Glass Works Branch,  
+5- Heinz - Can House) 
+7- Spur at (South Bend Branch, American Oilcloth - Ship) is full, no alternate track
+7- Try destination (South Bend Branch, Gayner - Ware Shed) for car (PRR X04) with load 
+7- (Empty) 
+7- Could not find an interim C/I or yard track that can service car to destination (South 
+7- Bend Branch) 
+7- Try to find a route for car (PRR X04) through staging
+7- Routing using three trains destination (South Bend Branch) begins
+7- Routing using four trains destination (South Bend Branch) begins
+7- Routing using five trains destination (South Bend Branch) begins
+7- Not able to set destination for car (PRR X04) due to not able to route car
+7- Spur at (South Bend Branch, Gayner - Storage) is full, no alternate track
+7- Try destination (Glass Works Branch,  Heinz - Bottling) for car (PRR X04) with load 
+7- (Empty) 
+7- Train (Glass Works Flyer) can transport car (PRR X04) from spur (Glass Works Branch,  
+7- Heinz - Can House) to (Glass Works Branch,  Heinz - Bottling) 
+7- Car (PRR X04) has assigned destination (Glass Works Branch,  Heinz - Bottling)
+3- Car (PRR X04) assigned to train, destination (Glass Works Branch,  Heinz - Bottling)
+3-  
+5- Find spur for car (PRR X45) type (Boxcar) custom load (Merchandise) at (Glass Works 
+5- Branch,  Heinz - Bottling) 
+7- Could not find a reachable spur for car (PRR X45) custom load (Merchandise)
+5- Try to send car (PRR X45) custom load (Merchandise) to staging
+7- Staging (Salem Yard 1, Yard) can accept car's load (Merchandise)
+7- Could not find an interim C/I or yard track that can service car to destination (Salem 
+7- Yard 1) 
+7- Try to find a route for car (PRR X45) through staging
+7- Could not find an interim C/I, yard, or staging track that can service car to 
+7- destination (Salem Yard 1) 
+7- Staging (Salem Yard 2, Yard) can accept car's load (Merchandise)
+7- Train (Glass Works Flyer) can transport car (PRR X45) from spur (Glass Works Branch,  
+7- Heinz - Bottling) to (Salem Yard 2, ) 
+7- Car (PRR X45) has assigned destination (Salem Yard 2, )
+5- Can't pick up (PRR X45) using Westbound train, track ( Heinz - Bottling)
+5- at location (Glass Works Branch) does not service this train's direction
+7- Later pick up for car (PRR X45) from location (Glass Works Branch) route id (16r6) not 
+7- possible due to train direction 
+5- Car (PRR X45) doesn't have an assigned destination track
+5- Car (PRR X45) assigned to staging track (Yard)
+3- Car (PRR X45) assigned to train, destination (Salem Yard 2, Yard)
+3-  
+1- Success 4/4 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r6) requests 6 pick ups, 12/22 moves are 
+1- available 
+5-  
+5- No cars available for pick up at location (Glass Works Branch)
+5-  
+1- Partial 0/6 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Salem Yard 2) id (16r11) no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 75% pick ups
+1- Route location (Salem Yard 1) id (16r1) requests 30 pick ups, 40/66 moves are available
+5-  
+5- Staging track (Yard) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5- Generate custom loads for any staging track
+5-  
+5- No cars available for pick up at location (Salem Yard 1)
+5-  
+1- Partial 0/30 cars at location (Salem Yard 1) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r5) requests 2 pick ups, 3/22 moves are 
+1- available 
+5-  
+5- No cars available for pick up at location (Glass Works Branch)
+5-  
+1- Partial 0/2 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r6) requests 9 pick ups, 12/22 moves are 
+1- available 
+5-  
+5- No cars available for pick up at location (Glass Works Branch)
+5-  
+1- Partial 0/9 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Salem Yard 2) id (16r11) no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Salem Yard 1) id (16r1) requests 40 pick ups, 40/66 moves are available
+5-  
+5- Staging track (Yard) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5- Generate custom loads for any staging track
+5-  
+5- No cars available for pick up at location (Salem Yard 1)
+5-  
+1- Partial 0/40 cars at location (Salem Yard 1) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r5) requests 3 pick ups, 3/22 moves are 
+1- available 
+5-  
+5- No cars available for pick up at location (Glass Works Branch)
+5-  
+1- Partial 0/3 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Glass Works Branch) id (16r6) requests 12 pick ups, 12/22 moves are 
+1- available 
+5-  
+5- No cars available for pick up at location (Glass Works Branch)
+5-  
+1- Partial 0/12 cars at location (Glass Works Branch) assigned to train (Glass Works Flyer)
+1- Route location (Salem Yard 2) id (16r11) no pick ups
+1- Partial 40/80 cars
+5- Build for train (Glass Works Flyer) took 78 mSec

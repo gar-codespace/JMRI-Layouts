@@ -1,0 +1,62 @@
+ Build Report for train (Glass Works Flyer) built on 12/4/15 2:35 AM 
+ JMRI version 4.0.1-r29956 
+  Build report detail level: Normal 
+   Build report detail level: Detailed 
+    Build report detail level: Very Detailed 
+ 
+   Train Build Options: 
+   Build option is set to aggressive 
+   Perform 4 passes 
+   WARNING car routing is disabled 
+   Allow local moves if car has a custom load or FD 
+ 
+  Train (Glass Works Flyer) route (Glass Works Branch): 
+  Staging (Salem Yard) request 50 pick ups, maximum train length 485 feet 
+  Location (Salem Gas Light Co.) is skipped by train (Glass Works Flyer), maximum train 
+  length 2,000 feet 
+  Location (Salem Glass Works 4th St.) requests 50 moves, maximum train length 2,000 feet 
+  Location (Salem Glass Works 3rd St.) requests 50 moves, maximum train length 2,000 feet 
+  Location (H.J. Heinz & Co. No.12) is skipped by train (Glass Works Flyer), maximum 
+  train length 2,000 feet 
+  Location (South Bend) is skipped by train (Glass Works Flyer), maximum train length 
+  2,000 feet 
+  Location (Gayner Glass Works) is skipped by train (Glass Works Flyer), maximum train 
+  length 2,000 feet 
+  Location (American Oilcloth Co.) is skipped by train (Glass Works Flyer), maximum 
+  train length 2,000 feet 
+  Location (American Oilcloth Co.) is skipped by train (Glass Works Flyer), maximum 
+  train length 2,000 feet 
+  Location (South Bend) is skipped by train (Glass Works Flyer), maximum train length 
+  2,000 feet 
+  Location (Salem Glass Works 3rd St.) requests 50 moves, maximum train length 2,000 feet 
+  Location (Electric Co. of NJ) is skipped by train (Glass Works Flyer), maximum train 
+  length 2,000 feet 
+  Staging (Salem Yard) requests 50 set outs 
+ Route (Glass Works Branch) requests 125 cars and 250 moves 
+ 
+ Train requirements: 
+ Train does not require any locomotives 
+ 
+  
+ Train terminates into staging at (Salem Yard), there are 3 tracks 
+   Staging track (Yard) is occupied, found 0 locomotive(s) and 12 cars 
+   Staging track (hold) is occupied, found 0 locomotive(s) and 22 cars 
+    Train (Glass Works Flyer) can terminate to staging track (11 Car Track) 
+ Staging track (11 Car Track) is available at destination (Salem Yard) 
+  
+ Train will depart staging (Salem Yard), there are 3 tracks 
+  Staging track (Yard) has 0 loco(s) and 12 cars 
+  Train on staging track (Yard) is 502 feet long and exceeds the route's maximum 
+  departure length 485 feet 
+  Staging track (hold) has 0 loco(s) and 22 cars 
+  Train on staging track (hold) is 874 feet long and exceeds the route's maximum 
+  departure length 485 feet 
+  Staging track (11 Car Track) has 0 loco(s) and 0 cars 
+  Staging track (11 Car Track) is empty 
+ 
+ Train requirements: 
+ Train does not require any locomotives 
+ 
+ Could not find a departure staging track at Salem Yard that meets the train 
+ requirements 
+ Build failed for train (Glass Works Flyer) 

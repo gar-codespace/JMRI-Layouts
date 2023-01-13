@@ -1,0 +1,87 @@
+{
+  "date": "Valid Dec 16, 1915, 22:11", 
+  "locations": [
+    {
+      "locationName": "HTC", 
+      "tracks": [
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "", 
+              "FD&Track": "", 
+              "Final Dest": "", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "empty", 
+              "Location": "HTC", 
+              "Number": "297", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "CNJMW", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Engine Shed", 
+              "Type": "M", 
+              "Weight": "40"
+            }
+          ], 
+          "length": 44, 
+          "locos": [], 
+          "trackName": "Engine Shed"
+        }, 
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "", 
+              "FD&Track": "", 
+              "Final Dest": "", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "empty", 
+              "Location": "HTC", 
+              "Number": "4649", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "B&O", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Feed", 
+              "Type": "XM", 
+              "Weight": "40"
+            }
+          ], 
+          "length": 44, 
+          "locos": [], 
+          "trackName": "Feed"
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "DL&W Railroad\nHarlem Transfer Co.\nMott Haven, the Bronx, New York", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/xml/XSLT/operations-locations.xsl" type="text/xsl"?>
 <!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-locations.dtd">
 <operations-config>
-  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 10:45:51 PST 2023-->
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Thu Jan 12 10:04:51 PST 2023-->
   <divisions>
     <division id="1" name="Harlem Division" comment="" />
     <division id="3" name="Unknown" comment="" />
@@ -20,8 +20,8 @@
       </types>
       <track id="1s1" name="Crane" trackType="Spur" locType="Siding" dir="15" length="88" moves="36" schedule="C" scheduleId="47" itemId="47c2" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="GA" />
           <carType name="FM" />
+          <carType name="GA" />
         </types>
       </track>
       <track id="1s2" name="Freight Station" trackType="Spur" locType="Siding" dir="15" length="484" moves="117" schedule="F" scheduleId="48" itemId="48c1" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
@@ -31,11 +31,11 @@
       </track>
       <track id="1s3" name="Team Tracks" trackType="Spur" locType="Siding" dir="15" length="2200" moves="568" schedule="T" scheduleId="46" itemId="46c9" itemCount="0" factor="100" scheduleMode="1" holdCustomLoads="false">
         <types>
-          <carType name="HK" />
-          <carType name="TG" />
-          <carType name="GA" />
           <carType name="FM" />
+          <carType name="GA" />
+          <carType name="HK" />
           <carType name="RS" />
+          <carType name="TG" />
           <carType name="XM" />
         </types>
       </track>

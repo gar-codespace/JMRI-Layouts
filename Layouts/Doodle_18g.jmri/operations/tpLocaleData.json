@@ -1,0 +1,402 @@
+{
+  "locations": {
+    "City": [
+      "53", 
+      "54", 
+      "55", 
+      "56", 
+      "57", 
+      "58", 
+      "61", 
+      "62", 
+      "20"
+    ], 
+    "Crest": [
+      "23"
+    ], 
+    "Downtown": [
+      "45", 
+      "47", 
+      "48", 
+      "49", 
+      "19", 
+      "1", 
+      "2", 
+      "3", 
+      "6", 
+      "28", 
+      "36", 
+      "39", 
+      "42"
+    ], 
+    "Easton": [
+      "44", 
+      "50", 
+      "59", 
+      "38"
+    ], 
+    "Junction": [
+      "4", 
+      "7", 
+      "29"
+    ], 
+    "Midway": [
+      "9"
+    ], 
+    "Northton": [
+      "24", 
+      "25", 
+      "37", 
+      "40"
+    ], 
+    "Park": [
+      "10", 
+      "11", 
+      "12", 
+      "13", 
+      "14", 
+      "30", 
+      "34"
+    ], 
+    "Train Service": [
+      "46", 
+      "52", 
+      "15", 
+      "8", 
+      "26", 
+      "27", 
+      "31", 
+      "32", 
+      "33", 
+      "41"
+    ], 
+    "Unreported": [
+      "00"
+    ], 
+    "Valley": [
+      "51", 
+      "16", 
+      "17", 
+      "18", 
+      "21", 
+      "35"
+    ], 
+    "Weston": [
+      "5", 
+      "60", 
+      "22"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "Downtown", 
+      "Ash", 
+      "industry"
+    ], 
+    "10": [
+      "Park", 
+      "Coal", 
+      "industry"
+    ], 
+    "11": [
+      "Park", 
+      "Freight House", 
+      "industry"
+    ], 
+    "12": [
+      "Park", 
+      "Lumber", 
+      "industry"
+    ], 
+    "13": [
+      "Park", 
+      "Fuel Oil", 
+      "industry"
+    ], 
+    "14": [
+      "Park", 
+      "Power House", 
+      "industry"
+    ], 
+    "15": [
+      "Train Service", 
+      "OB-Downtown", 
+      "interchange"
+    ], 
+    "16": [
+      "Valley", 
+      "Coal", 
+      "industry"
+    ], 
+    "17": [
+      "Valley", 
+      "Depot", 
+      "industry"
+    ], 
+    "18": [
+      "Valley", 
+      "Produce", 
+      "industry"
+    ], 
+    "19": [
+      "Downtown", 
+      "Platform 4", 
+      "industry"
+    ], 
+    "2": [
+      "Downtown", 
+      "Coal", 
+      "industry"
+    ], 
+    "20": [
+      "City", 
+      "701", 
+      "class yard"
+    ], 
+    "21": [
+      "Valley", 
+      "Roundhouse", 
+      "class yard"
+    ], 
+    "22": [
+      "Weston", 
+      "W2", 
+      "staging"
+    ], 
+    "23": [
+      "Crest", 
+      "Interchange", 
+      "interchange"
+    ], 
+    "24": [
+      "Northton", 
+      "N2", 
+      "staging"
+    ], 
+    "25": [
+      "Northton", 
+      "N1", 
+      "staging"
+    ], 
+    "26": [
+      "Train Service", 
+      "Cabin Track", 
+      "class yard"
+    ], 
+    "27": [
+      "Train Service", 
+      "OB-Crest", 
+      "interchange"
+    ], 
+    "28": [
+      "Downtown", 
+      "General Delivery", 
+      "industry"
+    ], 
+    "29": [
+      "Junction", 
+      "Steel Products", 
+      "industry"
+    ], 
+    "3": [
+      "Downtown", 
+      "Gantry Crane", 
+      "industry"
+    ], 
+    "30": [
+      "Park", 
+      "General Delivery", 
+      "industry"
+    ], 
+    "31": [
+      "Train Service", 
+      "OB-Easton", 
+      "interchange"
+    ], 
+    "32": [
+      "Train Service", 
+      "OB-Northton", 
+      "interchange"
+    ], 
+    "33": [
+      "Train Service", 
+      "Car Barn", 
+      "class yard"
+    ], 
+    "34": [
+      "Park", 
+      "Depot", 
+      "industry"
+    ], 
+    "35": [
+      "Valley", 
+      "General Delivery", 
+      "industry"
+    ], 
+    "36": [
+      "Downtown", 
+      "Coach Yard", 
+      "class yard"
+    ], 
+    "37": [
+      "Northton", 
+      "N3", 
+      "staging"
+    ], 
+    "38": [
+      "Easton", 
+      "E3", 
+      "staging"
+    ], 
+    "39": [
+      "Downtown", 
+      "Platform 5", 
+      "industry"
+    ], 
+    "4": [
+      "Junction", 
+      "Depot", 
+      "industry"
+    ], 
+    "40": [
+      "Northton", 
+      "N4", 
+      "staging"
+    ], 
+    "41": [
+      "Train Service", 
+      "OB-Valley", 
+      "interchange"
+    ], 
+    "42": [
+      "Downtown", 
+      "Express - X2", 
+      "industry"
+    ], 
+    "44": [
+      "Easton", 
+      "E1", 
+      "staging"
+    ], 
+    "45": [
+      "Downtown", 
+      "Express - X1", 
+      "industry"
+    ], 
+    "46": [
+      "Train Service", 
+      "Passenger Setout", 
+      "interchange"
+    ], 
+    "47": [
+      "Downtown", 
+      "Platform 2", 
+      "industry"
+    ], 
+    "48": [
+      "Downtown", 
+      "Platform 3", 
+      "industry"
+    ], 
+    "49": [
+      "Downtown", 
+      "Express - X3", 
+      "industry"
+    ], 
+    "5": [
+      "Weston", 
+      "W3", 
+      "staging"
+    ], 
+    "50": [
+      "Easton", 
+      "E2", 
+      "staging"
+    ], 
+    "51": [
+      "Valley", 
+      "Station", 
+      "interchange"
+    ], 
+    "52": [
+      "Train Service", 
+      "Passenger", 
+      "class yard"
+    ], 
+    "53": [
+      "City", 
+      "Ice 1", 
+      "industry"
+    ], 
+    "54": [
+      "City", 
+      "A1", 
+      "interchange"
+    ], 
+    "55": [
+      "City", 
+      "702", 
+      "class yard"
+    ], 
+    "56": [
+      "City", 
+      "703", 
+      "class yard"
+    ], 
+    "57": [
+      "City", 
+      "704", 
+      "class yard"
+    ], 
+    "58": [
+      "City", 
+      "705", 
+      "class yard"
+    ], 
+    "59": [
+      "Easton", 
+      "E4", 
+      "staging"
+    ], 
+    "6": [
+      "Downtown", 
+      "Sand", 
+      "industry"
+    ], 
+    "60": [
+      "Weston", 
+      "W4", 
+      "staging"
+    ], 
+    "61": [
+      "City", 
+      "Easton Outbound", 
+      "interchange"
+    ], 
+    "62": [
+      "City", 
+      "Northton Outbound", 
+      "interchange"
+    ], 
+    "7": [
+      "Junction", 
+      "Coal", 
+      "industry"
+    ], 
+    "8": [
+      "Train Service", 
+      "Roundhouse", 
+      "class yard"
+    ], 
+    "9": [
+      "Midway", 
+      "Interchange at Midway to Nowhere", 
+      "interchange"
+    ]
+  }
+}

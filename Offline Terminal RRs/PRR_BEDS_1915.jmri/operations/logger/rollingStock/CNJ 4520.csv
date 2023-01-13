@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+4520,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+4520,CNJ,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+4520,CNJ,XM,goods,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+4520,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+4520,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+4520,CNJ,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52

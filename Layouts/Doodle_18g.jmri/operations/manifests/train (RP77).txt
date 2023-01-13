@@ -1,0 +1,145 @@
+Pennsylvania Railroad
+Allegheny Region
+Western Pennsylvania
+ 
+Manifest for train (RP77) Produce Hauler
+Valid 1/07/1938 11:25
+ 
+Scheduled work at Weston, departure time 00:05
+ [ ] Pick up PRR 455 4-6-2 k4 pr  destination Train Service
+ [ ] Pick up SFRD 7796 RS empty Empty destination City
+ [ ] Pick up FGEX 6875 RB empty Empty destination City
+ [ ] Pick up FGEX 5581 RB empty Empty destination City
+ [ ] Pick up PFEX 4884 RS empty Empty destination City
+ [ ] Pick up SFRD 1793 RS empty Empty destination City
+ [ ] Pick up FGEX 1877 RB empty Empty destination City
+ [ ] Pick up FGEX 8015 RB empty Empty destination City
+ [ ] Pick up FGEX 9466 RB empty Empty destination City
+ [ ] Pick up SFRD 0638 RS empty Empty destination City
+ [ ] Pick up FGEX 1572 RB empty Empty destination City
+ [ ] Pick up PFEX 4833 RS empty Empty destination City
+ [ ] Pick up FGEX 1001 RB empty Empty destination City
+ [ ] Pick up PFEX 7877 RS Empty E destination Easton
+ [ ] Pick up FGEX 4264 RB Empty E destination Easton
+ [ ] Pick up PFEX 4497 RS Empty E destination Easton
+ [ ] Pick up FGEX 8521 RB Empty E destination Easton
+ [ ] Pick up PFEX 6213 RS Empty E destination Easton
+ [ ] Pick up FGEX 7320 RB Empty E destination Easton
+ [ ] Pick up FGEX 5051 RB Empty E destination Easton
+ [ ] Pick up FGEX 1701 RB Empty E destination Easton
+ [ ] Pick up SFRD 0576 RS Empty E destination Easton
+ [ ] Pick up PFEX 9160 RS Empty E destination Easton
+ [ ] Pick up FGEX 9044 RB Empty E destination Easton
+ [ ] Pick up FGEX 2572 RB Empty E destination Easton
+ [ ] Pick up FGEX 5536 RB Empty E destination Easton
+ [ ] Pick up FGEX 3465 RB Empty E destination Easton
+ [ ] Pick up SFRD 4139 RS Empty E destination Easton
+ [ ] Pick up PFEX 9455 RS Empty E destination Easton
+ [ ] Pick up FGEX 5331 RB Empty E destination Easton
+ [ ] Pick up FGEX 3383 RB Empty E destination Easton
+ [ ] Pick up SFRD 2000 RS Empty E destination Easton
+ [ ] Pick up FGEX 8670 RB Empty E destination Easton
+ [ ] Pick up FGEX 0626 RB Empty E destination Easton
+ [ ] Pick up FGEX 9790 RB Empty E destination Easton
+ [ ] Pick up PFEX 7723 RS Empty E destination Easton
+ [ ] Pick up FGEX 0369 RB Empty E destination Easton
+ [ ] Pick up FGEX 3322 RB Empty E destination Easton
+ [ ] Pick up FGEX 5695 RB Empty E destination Easton
+ [ ] Pick up PFEX 4022 RS Empty E destination Easton
+ [ ] Pick up FGEX 8654 RB Empty E destination Easton
+ [ ] Pick up FGEX 0845 RB Empty E destination Easton
+ [ ] Pick up SFRD 1334 RS Empty E destination Easton
+ [ ] Pick up FGEX 6151 RB Empty E destination Easton
+ [ ] Pick up SFRD 4521 RS Empty E destination Easton
+ [ ] Pick up FGEX 0105 RB Empty E destination Easton
+ [ ] Pick up FGEX 2307 RB Empty E destination Easton
+ [ ] Pick up FGEX 4846 RB Empty E destination Easton
+ [ ] Pick up PFEX 4870 RS Empty E destination Easton
+ [ ] Pick up PRR 374 NE Empty destination Easton
+Train departs Weston Eastbound with 49 cars, 2,200 feet, 984 tons
+ 
+Scheduled work at Train Service, arrival time 00:09
+Locomotive change at Train Service
+ [ ] Pick up PRR 768 4-6-2 k4 pr  destination Easton
+ [ ] Set out PRR 455 4-6-2 k4 pr  to Roundhouse
+Train departs Train Service Eastbound with 49 cars, 2,200 feet, 984 tons
+ 
+Scheduled work at City, arrival time 00:13
+ [ ] Pick up PFEX 7118 RS load produce destination Easton
+ [ ] Pick up PFEX 7235 RS load produce destination Easton
+ [ ] Pick up PFEX 8213 RS load produce destination Easton
+ [ ] Pick up FGEX 0192 RB load produce destination Easton
+ [ ] Pick up FGEX 6870 RB load produce destination Easton
+ [ ] Pick up FGEX 4366 RB load produce destination Easton
+ [ ] Pick up FGEX 3266 RB load produce destination Easton
+ [ ] Pick up FGEX 6310 RB load produce destination Easton
+ [ ] Pick up FGEX 6244 RB load produce destination Easton
+ [ ] Pick up PFEX 8791 RS load produce destination Easton
+ [ ] Pick up FGEX 0658 RB load produce destination Easton
+ [ ] Pick up FGEX 1540 RB load produce destination Easton
+ [ ] Set out SFRD 7796 RS empty Empty to Ice 1
+ [ ] Set out FGEX 6875 RB empty Empty to Ice 1
+ [ ] Set out FGEX 5581 RB empty Empty to Ice 1
+ [ ] Set out PFEX 4884 RS empty Empty to Ice 1
+ [ ] Set out SFRD 1793 RS empty Empty to Ice 1
+ [ ] Set out FGEX 1877 RB empty Empty to Ice 1
+ [ ] Set out FGEX 8015 RB empty Empty to Ice 1
+ [ ] Set out FGEX 9466 RB empty Empty to Ice 1
+ [ ] Set out SFRD 0638 RS empty Empty to Ice 1
+ [ ] Set out FGEX 1572 RB empty Empty to Ice 1
+ [ ] Set out PFEX 4833 RS empty Empty to Ice 1
+ [ ] Set out FGEX 1001 RB empty Empty to Ice 1
+Train departs City Eastbound with 49 cars, 2,200 feet, 984 tons
+ 
+Scheduled work at Easton, arrival time 01:29
+ [ ] Set out PRR 768 4-6-2 k4 pr  to E3
+ [ ] Set out PFEX 7118 RS load produce to E3
+ [ ] Set out PFEX 7235 RS load produce to E3
+ [ ] Set out PFEX 8213 RS load produce to E3
+ [ ] Set out FGEX 0192 RB load produce to E3
+ [ ] Set out FGEX 6870 RB load produce to E3
+ [ ] Set out FGEX 4366 RB load produce to E3
+ [ ] Set out FGEX 3266 RB load produce to E3
+ [ ] Set out FGEX 6310 RB load produce to E3
+ [ ] Set out FGEX 6244 RB load produce to E3
+ [ ] Set out PFEX 8791 RS load produce to E3
+ [ ] Set out FGEX 0658 RB load produce to E3
+ [ ] Set out FGEX 1540 RB load produce to E3
+ [ ] Set out PFEX 7877 RS Empty E to E3
+ [ ] Set out FGEX 4264 RB Empty E to E3
+ [ ] Set out PFEX 4497 RS Empty E to E3
+ [ ] Set out FGEX 8521 RB Empty E to E3
+ [ ] Set out PFEX 6213 RS Empty E to E3
+ [ ] Set out FGEX 7320 RB Empty E to E3
+ [ ] Set out FGEX 5051 RB Empty E to E3
+ [ ] Set out FGEX 1701 RB Empty E to E3
+ [ ] Set out SFRD 0576 RS Empty E to E3
+ [ ] Set out PFEX 9160 RS Empty E to E3
+ [ ] Set out FGEX 9044 RB Empty E to E3
+ [ ] Set out FGEX 2572 RB Empty E to E3
+ [ ] Set out FGEX 5536 RB Empty E to E3
+ [ ] Set out FGEX 3465 RB Empty E to E3
+ [ ] Set out SFRD 4139 RS Empty E to E3
+ [ ] Set out PFEX 9455 RS Empty E to E3
+ [ ] Set out FGEX 5331 RB Empty E to E3
+ [ ] Set out FGEX 3383 RB Empty E to E3
+ [ ] Set out SFRD 2000 RS Empty E to E3
+ [ ] Set out FGEX 8670 RB Empty E to E3
+ [ ] Set out FGEX 0626 RB Empty E to E3
+ [ ] Set out FGEX 9790 RB Empty E to E3
+ [ ] Set out PFEX 7723 RS Empty E to E3
+ [ ] Set out FGEX 0369 RB Empty E to E3
+ [ ] Set out FGEX 3322 RB Empty E to E3
+ [ ] Set out FGEX 5695 RB Empty E to E3
+ [ ] Set out PFEX 4022 RS Empty E to E3
+ [ ] Set out FGEX 8654 RB Empty E to E3
+ [ ] Set out FGEX 0845 RB Empty E to E3
+ [ ] Set out SFRD 1334 RS Empty E to E3
+ [ ] Set out FGEX 6151 RB Empty E to E3
+ [ ] Set out SFRD 4521 RS Empty E to E3
+ [ ] Set out FGEX 0105 RB Empty E to E3
+ [ ] Set out FGEX 2307 RB Empty E to E3
+ [ ] Set out FGEX 4846 RB Empty E to E3
+ [ ] Set out PFEX 4870 RS Empty E to E3
+ [ ] Set out PRR 374 NE Empty to E3
+Train terminates in Easton

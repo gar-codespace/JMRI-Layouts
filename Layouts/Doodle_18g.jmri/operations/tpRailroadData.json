@@ -1,0 +1,1343 @@
+{
+  "buildDate": "01/10/2023-10:38:12", 
+  "carAAR": [
+    "MWK", 
+    "RS", 
+    "B", 
+    "HK", 
+    "FM", 
+    "HT", 
+    "RB", 
+    "PB", 
+    "PC", 
+    "MA", 
+    "XM", 
+    "BX", 
+    "NE", 
+    "TM", 
+    "GB", 
+    "NM"
+  ], 
+  "carKernel": [
+    "", 
+    "R3", 
+    "R4", 
+    "R5", 
+    "R6", 
+    "R7", 
+    "R1"
+  ], 
+  "carLoads": {
+    "B": [
+      "express"
+    ], 
+    "BX": [
+      "express"
+    ], 
+    "FM": [
+      "lumber stack", 
+      "Tarp3", 
+      "Tarp"
+    ], 
+    "GB": [
+      "Tarp3", 
+      "Tarp", 
+      "sand", 
+      "cinders", 
+      "Milled timber"
+    ], 
+    "HK": [
+      "coal2"
+    ], 
+    "HT": [], 
+    "MA": [
+      "mail"
+    ], 
+    "MWK": [], 
+    "NE": [], 
+    "NM": [], 
+    "PB": [], 
+    "PC": [], 
+    "RB": [
+      "iced", 
+      "produce"
+    ], 
+    "RS": [
+      "iced", 
+      "produce"
+    ], 
+    "TM": [
+      "fuel"
+    ], 
+    "XM": [
+      "goods", 
+      "express", 
+      "merchandise"
+    ]
+  }, 
+  "divisions": [
+    "Weston Division", 
+    "Easton Division", 
+    "Northton Division", 
+    "Valley Branch"
+  ], 
+  "industries": {
+    "1": {
+      "label": "VD", 
+      "location": "Valley", 
+      "schedule": [
+        "VD", 
+        "XM", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Depot", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "10": {
+      "label": "DX1", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX1", 
+        "B", 
+        "Empty", 
+        "express"
+      ], 
+      "staging": "", 
+      "track": "Express - X1", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "11": {
+      "label": "PL", 
+      "location": "Park", 
+      "schedule": [
+        "PL", 
+        "GB", 
+        "Milled timber", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Lumber", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "13": {
+      "label": "CI1", 
+      "location": "City", 
+      "schedule": [
+        "CI1", 
+        "RS", 
+        "Empty", 
+        "iced"
+      ], 
+      "staging": "", 
+      "track": "Ice 1", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "14": {
+      "label": "PPH", 
+      "location": "Park", 
+      "schedule": [
+        "PPH", 
+        "HK", 
+        "coal2", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Power House", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "15": {
+      "label": "DGD", 
+      "location": "Downtown", 
+      "schedule": [
+        "DGD", 
+        "XM", 
+        "goods", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "16": {
+      "label": "PC", 
+      "location": "Park", 
+      "schedule": [
+        "PC", 
+        "HK", 
+        "coal2", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Coal", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "17": {
+      "label": "PFH", 
+      "location": "Park", 
+      "schedule": [
+        "PFH", 
+        "XM", 
+        "goods", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Freight House", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "18": {
+      "label": "DGD", 
+      "location": "Downtown", 
+      "schedule": [
+        "DGD", 
+        "FM", 
+        "Tarp", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "2": {
+      "label": "DA", 
+      "location": "Downtown", 
+      "schedule": [
+        "DA", 
+        "GB", 
+        "Empty", 
+        "cinders"
+      ], 
+      "staging": "", 
+      "track": "Ash", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "21": {
+      "label": "VP", 
+      "location": "Valley", 
+      "schedule": [
+        "VP", 
+        "RS", 
+        "iced", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Produce", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "22": {
+      "label": "CI1", 
+      "location": "City", 
+      "schedule": [
+        "CI1", 
+        "RB", 
+        "Empty", 
+        "iced"
+      ], 
+      "staging": "", 
+      "track": "Ice 1", 
+      "type": "RB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "23": {
+      "label": "DX1", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX1", 
+        "B", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X1", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "24": {
+      "label": "DGD", 
+      "location": "Downtown", 
+      "schedule": [
+        "DGD", 
+        "GB", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "25": {
+      "label": "PGD", 
+      "location": "Park", 
+      "schedule": [
+        "PGD", 
+        "GB", 
+        "Tarp", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "26": {
+      "label": "PGD", 
+      "location": "Park", 
+      "schedule": [
+        "PGD", 
+        "XM", 
+        "goods", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "27": {
+      "label": "VP", 
+      "location": "Valley", 
+      "schedule": [
+        "VP", 
+        "RB", 
+        "Empty", 
+        "produce"
+      ], 
+      "staging": "", 
+      "track": "Produce", 
+      "type": "RB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "28": {
+      "label": "PGD", 
+      "location": "Park", 
+      "schedule": [
+        "PGD", 
+        "FM", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "29": {
+      "label": "VC", 
+      "location": "Valley", 
+      "schedule": [
+        "VC", 
+        "HK", 
+        "coal2", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Coal", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "3": {
+      "label": "DC", 
+      "location": "Downtown", 
+      "schedule": [
+        "DC", 
+        "HK", 
+        "coal2", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Coal", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "30": {
+      "label": "VGD", 
+      "location": "Valley", 
+      "schedule": [
+        "VGD", 
+        "GB", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "31": {
+      "label": "VGD", 
+      "location": "Valley", 
+      "schedule": [
+        "VGD", 
+        "XM", 
+        "goods", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "32": {
+      "label": "VGD", 
+      "location": "Valley", 
+      "schedule": [
+        "VGD", 
+        "FM", 
+        "Tarp", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "General Delivery", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "33": {
+      "label": "JSP", 
+      "location": "Junction", 
+      "schedule": [
+        "JSP", 
+        "FM", 
+        "Empty", 
+        "Tarp"
+      ], 
+      "staging": "", 
+      "track": "Steel Products", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "34": {
+      "label": "JSP", 
+      "location": "Junction", 
+      "schedule": [
+        "JSP", 
+        "GB", 
+        "Empty", 
+        "Tarp3"
+      ], 
+      "staging": "", 
+      "track": "Steel Products", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "35": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "B", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "36": {
+      "label": "PL", 
+      "location": "Park", 
+      "schedule": [
+        "PL", 
+        "FM", 
+        "lumber stack", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Lumber", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "37": {
+      "label": "PFO", 
+      "location": "Park", 
+      "schedule": [
+        "PFO", 
+        "TM", 
+        "fuel", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Fuel Oil", 
+      "type": "TM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "38": {
+      "label": "PFH", 
+      "location": "Park", 
+      "schedule": [
+        "PFH", 
+        "XM", 
+        "Empty", 
+        "merchandise"
+      ], 
+      "staging": "", 
+      "track": "Freight House", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "39": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "B", 
+        "Empty", 
+        "express"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "4": {
+      "label": "DG", 
+      "location": "Downtown", 
+      "schedule": [
+        "DG", 
+        "GB", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry Crane", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "40": {
+      "label": "DX1", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX1", 
+        "BX", 
+        "Empty", 
+        "express"
+      ], 
+      "staging": "", 
+      "track": "Express - X1", 
+      "type": "BX", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "41": {
+      "label": "DX1", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX1", 
+        "BX", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X1", 
+      "type": "BX", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "42": {
+      "label": "JD", 
+      "location": "Junction", 
+      "schedule": [
+        "JD", 
+        "XM", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Depot", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "43": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "BX", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "BX", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "44": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "BX", 
+        "Empty", 
+        "express"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "BX", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "49": {
+      "label": "DX3", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX3", 
+        "B", 
+        "Empty", 
+        "express"
+      ], 
+      "staging": "", 
+      "track": "Express - X3", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "5": {
+      "label": "VP", 
+      "location": "Valley", 
+      "schedule": [
+        "VP", 
+        "RS", 
+        "Empty", 
+        "produce"
+      ], 
+      "staging": "", 
+      "track": "Produce", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "50": {
+      "label": "DX3", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX3", 
+        "B", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X3", 
+      "type": "B", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "51": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "MA", 
+        "mail", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "MA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "52": {
+      "label": "DX2", 
+      "location": "Downtown", 
+      "schedule": [
+        "DX2", 
+        "MA", 
+        "Empty", 
+        "mail"
+      ], 
+      "staging": "", 
+      "track": "Express - X2", 
+      "type": "MA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "53": {
+      "label": "DG", 
+      "location": "Downtown", 
+      "schedule": [
+        "DG", 
+        "FM", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry Crane", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "54": {
+      "label": "JSP", 
+      "location": "Junction", 
+      "schedule": [
+        "JSP", 
+        "XM", 
+        "Empty", 
+        "merchandise"
+      ], 
+      "staging": "", 
+      "track": "Steel Products", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "6": {
+      "label": "PD", 
+      "location": "Park", 
+      "schedule": [
+        "PD", 
+        "XM", 
+        "express", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Depot", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "7": {
+      "label": "DS", 
+      "location": "Downtown", 
+      "schedule": [
+        "DS", 
+        "GB", 
+        "sand", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Sand", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "8": {
+      "label": "JC", 
+      "location": "Junction", 
+      "schedule": [
+        "JC", 
+        "HK", 
+        "coal2", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Coal", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "9": {
+      "label": "VP", 
+      "location": "Valley", 
+      "schedule": [
+        "VP", 
+        "RB", 
+        "iced", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Produce", 
+      "type": "RB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }
+  }, 
+  "layoutName": "Doodle 18g", 
+  "locales": {
+    "00": {
+      "capacity": "100", 
+      "label": "~", 
+      "location": "Unreported", 
+      "track": "~", 
+      "type": "class yard"
+    }, 
+    "1": {
+      "capacity": "1", 
+      "label": "DA", 
+      "location": "Downtown", 
+      "track": "Ash", 
+      "type": "industry"
+    }, 
+    "10": {
+      "capacity": "2", 
+      "label": "PC", 
+      "location": "Park", 
+      "track": "Coal", 
+      "type": "industry"
+    }, 
+    "11": {
+      "capacity": "13", 
+      "label": "PFH", 
+      "location": "Park", 
+      "track": "Freight House", 
+      "type": "industry"
+    }, 
+    "12": {
+      "capacity": "2", 
+      "label": "PL", 
+      "location": "Park", 
+      "track": "Lumber", 
+      "type": "industry"
+    }, 
+    "13": {
+      "capacity": "2", 
+      "label": "PFO", 
+      "location": "Park", 
+      "track": "Fuel Oil", 
+      "type": "industry"
+    }, 
+    "14": {
+      "capacity": "5", 
+      "label": "PPH", 
+      "location": "Park", 
+      "track": "Power House", 
+      "type": "industry"
+    }, 
+    "15": {
+      "capacity": "0", 
+      "label": "TSD", 
+      "location": "Train Service", 
+      "track": "OB-Downtown", 
+      "type": "interchange"
+    }, 
+    "16": {
+      "capacity": "2", 
+      "label": "VC", 
+      "location": "Valley", 
+      "track": "Coal", 
+      "type": "industry"
+    }, 
+    "17": {
+      "capacity": "2", 
+      "label": "VD", 
+      "location": "Valley", 
+      "track": "Depot", 
+      "type": "industry"
+    }, 
+    "18": {
+      "capacity": "16", 
+      "label": "VP", 
+      "location": "Valley", 
+      "track": "Produce", 
+      "type": "industry"
+    }, 
+    "19": {
+      "capacity": "10", 
+      "label": "DP4", 
+      "location": "Downtown", 
+      "track": "Platform 4", 
+      "type": "industry"
+    }, 
+    "2": {
+      "capacity": "5", 
+      "label": "DC", 
+      "location": "Downtown", 
+      "track": "Coal", 
+      "type": "industry"
+    }, 
+    "20": {
+      "capacity": "25", 
+      "label": "C701", 
+      "location": "City", 
+      "track": "701", 
+      "type": "class yard"
+    }, 
+    "21": {
+      "capacity": "4", 
+      "label": "VR", 
+      "location": "Valley", 
+      "track": "Roundhouse", 
+      "type": "class yard"
+    }, 
+    "22": {
+      "capacity": "58", 
+      "label": "W2", 
+      "location": "Weston", 
+      "track": "W2", 
+      "type": "staging"
+    }, 
+    "23": {
+      "capacity": "35", 
+      "label": "CCI", 
+      "location": "Crest", 
+      "track": "Interchange", 
+      "type": "interchange"
+    }, 
+    "24": {
+      "capacity": "43", 
+      "label": "N2", 
+      "location": "Northton", 
+      "track": "N2", 
+      "type": "staging"
+    }, 
+    "25": {
+      "capacity": "44", 
+      "label": "N1", 
+      "location": "Northton", 
+      "track": "N1", 
+      "type": "staging"
+    }, 
+    "26": {
+      "capacity": "5", 
+      "label": "TS1", 
+      "location": "Train Service", 
+      "track": "Cabin Track", 
+      "type": "class yard"
+    }, 
+    "27": {
+      "capacity": "0", 
+      "label": "TSC", 
+      "location": "Train Service", 
+      "track": "OB-Crest", 
+      "type": "interchange"
+    }, 
+    "28": {
+      "capacity": "8", 
+      "label": "DGD", 
+      "location": "Downtown", 
+      "track": "General Delivery", 
+      "type": "industry"
+    }, 
+    "29": {
+      "capacity": "4", 
+      "label": "JSP", 
+      "location": "Junction", 
+      "track": "Steel Products", 
+      "type": "industry"
+    }, 
+    "3": {
+      "capacity": "2", 
+      "label": "DG", 
+      "location": "Downtown", 
+      "track": "Gantry Crane", 
+      "type": "industry"
+    }, 
+    "30": {
+      "capacity": "2", 
+      "label": "PGD", 
+      "location": "Park", 
+      "track": "General Delivery", 
+      "type": "industry"
+    }, 
+    "31": {
+      "capacity": "0", 
+      "label": "TSE", 
+      "location": "Train Service", 
+      "track": "OB-Easton", 
+      "type": "interchange"
+    }, 
+    "32": {
+      "capacity": "0", 
+      "label": "TSN", 
+      "location": "Train Service", 
+      "track": "OB-Northton", 
+      "type": "interchange"
+    }, 
+    "33": {
+      "capacity": "27", 
+      "label": "TS2", 
+      "location": "Train Service", 
+      "track": "Car Barn", 
+      "type": "class yard"
+    }, 
+    "34": {
+      "capacity": "1", 
+      "label": "PD", 
+      "location": "Park", 
+      "track": "Depot", 
+      "type": "industry"
+    }, 
+    "35": {
+      "capacity": "2", 
+      "label": "VGD", 
+      "location": "Valley", 
+      "track": "General Delivery", 
+      "type": "industry"
+    }, 
+    "36": {
+      "capacity": "13", 
+      "label": "DY", 
+      "location": "Downtown", 
+      "track": "Coach Yard", 
+      "type": "class yard"
+    }, 
+    "37": {
+      "capacity": "43", 
+      "label": "N3", 
+      "location": "Northton", 
+      "track": "N3", 
+      "type": "staging"
+    }, 
+    "38": {
+      "capacity": "1", 
+      "label": "E3", 
+      "location": "Easton", 
+      "track": "E3", 
+      "type": "staging"
+    }, 
+    "39": {
+      "capacity": "9", 
+      "label": "DP5", 
+      "location": "Downtown", 
+      "track": "Platform 5", 
+      "type": "industry"
+    }, 
+    "4": {
+      "capacity": "2", 
+      "label": "JD", 
+      "location": "Junction", 
+      "track": "Depot", 
+      "type": "industry"
+    }, 
+    "40": {
+      "capacity": "42", 
+      "label": "N4", 
+      "location": "Northton", 
+      "track": "N4", 
+      "type": "staging"
+    }, 
+    "41": {
+      "capacity": "0", 
+      "label": "TSV", 
+      "location": "Train Service", 
+      "track": "OB-Valley", 
+      "type": "interchange"
+    }, 
+    "42": {
+      "capacity": "8", 
+      "label": "DX2", 
+      "location": "Downtown", 
+      "track": "Express - X2", 
+      "type": "industry"
+    }, 
+    "44": {
+      "capacity": "65", 
+      "label": "E1", 
+      "location": "Easton", 
+      "track": "E1", 
+      "type": "staging"
+    }, 
+    "45": {
+      "capacity": "7", 
+      "label": "DX1", 
+      "location": "Downtown", 
+      "track": "Express - X1", 
+      "type": "industry"
+    }, 
+    "46": {
+      "capacity": "7", 
+      "label": "TSO", 
+      "location": "Train Service", 
+      "track": "Passenger Setout", 
+      "type": "interchange"
+    }, 
+    "47": {
+      "capacity": "12", 
+      "label": "DP2", 
+      "location": "Downtown", 
+      "track": "Platform 2", 
+      "type": "industry"
+    }, 
+    "48": {
+      "capacity": "12", 
+      "label": "DP3", 
+      "location": "Downtown", 
+      "track": "Platform 3", 
+      "type": "industry"
+    }, 
+    "49": {
+      "capacity": "1", 
+      "label": "DX3", 
+      "location": "Downtown", 
+      "track": "Express - X3", 
+      "type": "industry"
+    }, 
+    "5": {
+      "capacity": "69", 
+      "label": "W3", 
+      "location": "Weston", 
+      "track": "W3", 
+      "type": "staging"
+    }, 
+    "50": {
+      "capacity": "0", 
+      "label": "E2", 
+      "location": "Easton", 
+      "track": "E2", 
+      "type": "staging"
+    }, 
+    "51": {
+      "capacity": "12", 
+      "label": "VS", 
+      "location": "Valley", 
+      "track": "Station", 
+      "type": "interchange"
+    }, 
+    "52": {
+      "capacity": "0", 
+      "label": "TS4", 
+      "location": "Train Service", 
+      "track": "Passenger", 
+      "type": "class yard"
+    }, 
+    "53": {
+      "capacity": "12", 
+      "label": "CI1", 
+      "location": "City", 
+      "track": "Ice 1", 
+      "type": "industry"
+    }, 
+    "54": {
+      "capacity": "23", 
+      "label": "CA1", 
+      "location": "City", 
+      "track": "A1", 
+      "type": "interchange"
+    }, 
+    "55": {
+      "capacity": "29", 
+      "label": "C702", 
+      "location": "City", 
+      "track": "702", 
+      "type": "class yard"
+    }, 
+    "56": {
+      "capacity": "25", 
+      "label": "C703", 
+      "location": "City", 
+      "track": "703", 
+      "type": "class yard"
+    }, 
+    "57": {
+      "capacity": "22", 
+      "label": "C704", 
+      "location": "City", 
+      "track": "704", 
+      "type": "class yard"
+    }, 
+    "58": {
+      "capacity": "20", 
+      "label": "C705", 
+      "location": "City", 
+      "track": "705", 
+      "type": "class yard"
+    }, 
+    "59": {
+      "capacity": "61", 
+      "label": "E4", 
+      "location": "Easton", 
+      "track": "E4", 
+      "type": "staging"
+    }, 
+    "6": {
+      "capacity": "1", 
+      "label": "DS", 
+      "location": "Downtown", 
+      "track": "Sand", 
+      "type": "industry"
+    }, 
+    "60": {
+      "capacity": "1", 
+      "label": "W4", 
+      "location": "Weston", 
+      "track": "W4", 
+      "type": "staging"
+    }, 
+    "61": {
+      "capacity": "0", 
+      "label": "CEO", 
+      "location": "City", 
+      "track": "Easton Outbound", 
+      "type": "interchange"
+    }, 
+    "62": {
+      "capacity": "0", 
+      "label": "CNO", 
+      "location": "City", 
+      "track": "Northton Outbound", 
+      "type": "interchange"
+    }, 
+    "7": {
+      "capacity": "2", 
+      "label": "JC", 
+      "location": "Junction", 
+      "track": "Coal", 
+      "type": "industry"
+    }, 
+    "8": {
+      "capacity": "114", 
+      "label": "TS5", 
+      "location": "Train Service", 
+      "track": "Roundhouse", 
+      "type": "class yard"
+    }, 
+    "9": {
+      "capacity": "23", 
+      "label": "MI", 
+      "location": "Midway", 
+      "track": "Interchange at Midway to Nowhere", 
+      "type": "interchange"
+    }
+  }, 
+  "location": "Western Pennsylvania", 
+  "locations": [
+    "Northton", 
+    "City", 
+    "Downtown", 
+    "Park", 
+    "Crest", 
+    "Weston", 
+    "Valley", 
+    "Train Service", 
+    "Easton", 
+    "Unreported", 
+    "Junction", 
+    "Midway"
+  ], 
+  "locoConsists": [
+    "", 
+    "F1", 
+    "C1"
+  ], 
+  "locoModels": [
+    [
+      "4-6-2 k4 pr", 
+      "ES"
+    ], 
+    [
+      "f 3b sal", 
+      "ED"
+    ], 
+    [
+      "gg1 prr", 
+      "EE"
+    ], 
+    [
+      "2-8-0 h9 co", 
+      "ES"
+    ], 
+    [
+      "2-10-4 j1a ", 
+      "ES"
+    ], 
+    [
+      "f 3a sal", 
+      "ED"
+    ], 
+    [
+      "4-6-2 k4s s", 
+      "ES"
+    ], 
+    [
+      "4-4-4-4 t1 ", 
+      "ES"
+    ], 
+    [
+      "p5b prr", 
+      "EE"
+    ], 
+    [
+      "4-4-0 prr", 
+      "ES"
+    ], 
+    [
+      "2-10-0 prr", 
+      "ES"
+    ], 
+    [
+      "PRR MP54e1", 
+      "EEI"
+    ], 
+    [
+      "0-6-0 prr", 
+      "ESS"
+    ], 
+    [
+      "4-4-2 prr", 
+      "ES"
+    ]
+  ], 
+  "locoTypes": [
+    "EE", 
+    "ESS", 
+    "EEI", 
+    "ES", 
+    "ED"
+  ], 
+  "operatingRoad": "Pennsylvania Railroad", 
+  "roads": [
+    "NYNH&H", 
+    "TCX", 
+    "LV", 
+    "UTLX", 
+    "PRR", 
+    "FGEX", 
+    "DL&W", 
+    "NYC", 
+    "TELX", 
+    "AT&SF", 
+    "B&A", 
+    "SP", 
+    "WJ&S", 
+    "PRRMoW", 
+    "ACL", 
+    "B&O", 
+    "ER", 
+    "ET", 
+    "PGCC", 
+    "M&P", 
+    "WCC", 
+    "PL", 
+    "P&R", 
+    "CNJ"
+  ], 
+  "scale": "HO", 
+  "territory": "Allegheny Region", 
+  "year": "1938"
+}

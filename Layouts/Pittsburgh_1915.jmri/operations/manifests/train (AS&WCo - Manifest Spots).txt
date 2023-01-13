@@ -1,0 +1,48 @@
+O2O Pittsburgh 1915
+ 
+Manifest for train (AS&WCo - Manifest Spots) Plant Switch - Manifest
+Set out to AS&WCo Transfer at AVRR
+ 
+Scheduled work at AVRR(PRR), departure time 00:25
+ [ ] Pick up Penna         10194  Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRR           50197  Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRR           40196  Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           4030   Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           404428 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up Penna         10195  Empty          from AS&WCo Transfer                    
+ [ ] Pick up Penna         10193  Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRRUL         10158  Merchandise    from AS&WCo Transfer                    
+ [ ] Pick up PRR           4020   Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           411225 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           4015   Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           401133 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           401484 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           401120 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRR           401482 Scrap          from AS&WCo Transfer                    
+ [ ] Pick up PRRUL         101019 Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRRUL         101017 Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRR           104142 Empty          from AS&WCo Transfer                    
+ [ ] Pick up PRR           404087 Scrap          from AS&WCo Transfer                    
+Train departs AVRR(PRR) Eastbound with 19 cars, 808 feet, 1,065 tons
+ 
+Scheduled work at AS&WCo, arrival time 00:29
+ [ ] Set out Penna         10194  Empty          -> AS&WCo, Cable                                            
+ [ ] Set out PRR           50197  Empty          -> AS&WCo, Cable                                            
+ [ ] Set out PRR           40196  Scrap          -> AS&WCo, Scrap                                            
+ [ ] Set out PRR           4030   Scrap          -> AS&WCo, Scrap                                            
+ [ ] Set out PRR           404428 Scrap          -> AS&WCo, Scrap                                            
+ [ ] Set out Penna         10195  Empty          -> AS&WCo, Wire                                             
+ [ ] Set out Penna         10193  Empty          -> AS&WCo, Wire                                             
+ [ ] Set out PRRUL         10158  Merchandise    -> AS&WCo, Yard                                             
+ [ ] Set out PRR           4020   Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           411225 Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           4015   Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           401133 Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           401484 Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           401120 Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           401482 Scrap          -> AS&WCo, Yard                                             
+ [ ] Set out PRRUL         101019 Empty          -> AS&WCo, Yard                                             
+ [ ] Set out PRRUL         101017 Empty          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           104142 Empty          -> AS&WCo, Yard                                             
+ [ ] Set out PRR           404087 Scrap          -> AS&WCo, Yard                                             
+Train terminates in AS&WCo

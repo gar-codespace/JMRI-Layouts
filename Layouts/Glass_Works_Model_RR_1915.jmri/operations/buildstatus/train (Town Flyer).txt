@@ -1,0 +1,322 @@
+1- Build Report for train (Town Flyer) built on 11/26/15 1:25 PM
+1- JMRI version r27674
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+5-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- WARNING car routing is disabled
+5- Allow local moves if car has a custom load or FD
+1-  
+3- Train (Town Flyer) route (Town Flyer):
+3- Location (Salem Yard) requests 50 pick ups, maximum train length 450 feet
+3- Location (Salem Gas Light Co.) requests 10 moves, maximum train length 2,000 feet
+3- Location (H.J. Heinz & Co. No.12) requests 10 moves, maximum train length 2,000 feet
+3- Location (Electric Co. of NJ) requests 10 moves, maximum train length 2,000 feet
+3- Location (Salem Yard) requests 50 set outs, maximum train length 2,000 feet
+1- Route (Town Flyer) requests 65 cars and 130 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Salem Yard), there are 3 tracks
+7- Train (Town Flyer) can terminate to staging track (10 Car Track)
+5- Staging track (13 Car Track) does not service this train
+5- Staging track (Yard) is occupied, found 0 locomotive(s) and 9 cars
+3-  
+1- Train will depart staging (Salem Yard), there are 3 tracks
+3- Staging track (Yard) has 0 loco(s) and 9 cars
+7- Train (Town Flyer) can depart from staging track (Yard)
+7- Done assigning locomotives from staging
+5-  
+5- Train (Town Flyer) services car types:
+5- Boxcar, Flatcar, Hopper Gon, Long Gondola, Refrigerator, Tankcar
+7-  
+7- Remove cars not serviced by this train:
+1- ERROR Exclude rs (PRR T2) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR F2) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR T3) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G13) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR F1) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G6) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X45) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X13) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X11) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X41) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G15) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X42) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X40) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X7) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X3) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G5) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G11) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X26) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X37) at location (Salem Yard) no track assignment
+5-  
+5- Departing staging (Salem Yard, Yard) with 9 cars
+7- Staging car (PRR RS56) type (Refrigerator) load (E)
+7- Staging car (PRR RS53) type (Refrigerator) load (E)
+7- Staging car (PRR RS52) type (Refrigerator) load (E)
+7- Staging car (PRR RS5) type (Refrigerator) load (E)
+7- Staging car (PRR H9) type (Hopper Gon) load (E)
+7- Staging car (PRR H6) type (Hopper Gon) load (E)
+7- Staging car (PRR X15) type (Boxcar) load (E)
+7- Staging car (PRR H4) type (Hopper Gon) load (E)
+7- Staging car (PRR H3) type (Hopper Gon) load (E)
+5-  
+1- Found 18 cars for train (Town Flyer)
+7- Car (PRR RS41) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 34 moves
+7- Car (PRR RS55) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 35 moves
+7- Car (PRR RS56) type (Refrigerator) at (Salem Yard, Yard) 36 moves
+7- Car (PRR RS53) type (Refrigerator) at (Salem Yard, Yard) 36 moves
+7- Car (PRR RS52) type (Refrigerator) at (Salem Yard, Yard) 36 moves
+7- Car (PRR RS5) type (Refrigerator) at (Salem Yard, Yard) 36 moves
+7- Car (PRR H8) type (Hopper Gon) at (Electric Co. of NJ, Coal Bin) 37 moves
+7- Car (PRR RS8) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 37 moves
+7- Car (PRR X12) type (Boxcar) at (H.J. Heinz & Co. No.12, Can House) 37 moves
+7- Car (PRR H9) type (Hopper Gon) at (Salem Yard, Yard) 38 moves
+7- Car (PRR H7) type (Hopper Gon) at (Electric Co. of NJ, Coal Bin) 38 moves
+7- Car (PRR H6) type (Hopper Gon) at (Salem Yard, Yard) 38 moves
+7- Car (PRR H5) type (Hopper Gon) at (Salem Gas Light Co., Coal Gas) 38 moves
+7- Car (PRR H2) type (Hopper Gon) at (Salem Gas Light Co., Coal Gas) 38 moves
+7- Car (PRR X15) type (Boxcar) at (Salem Yard, Yard) 38 moves
+7- Car (PRR X2) type (Boxcar) at (H.J. Heinz & Co. No.12, Bottling & Packing) 40 moves
+7- Car (PRR H4) type (Hopper Gon) at (Salem Yard, Yard) 40 moves
+7- Car (PRR H3) type (Hopper Gon) at (Salem Yard, Yard) 40 moves
+5-  
+5- Train does not require caboose when departing (Salem Yard)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (65) for train (Town Flyer) the number available (18) building train!
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups.
+3- Departing staging in aggressive mode, find destinations from (Salem Yard) in next pass
+1- Route location (Salem Yard) id (8r1) requests 0 pick ups, 4/50 moves are available
+5-  
+1- Partial 0/4 cars at location (Salem Yard) assigned to train (Town Flyer)
+1- Route location (Salem Gas Light Co.) id (8r2) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR H5) type (Hopper Gon) custom load (Empty) at (Salem Gas Light 
+5- Co., Coal Gas) 
+7- Could not find a spur for car (PRR H5) custom load (Empty)
+5- Try to send car (PRR H5) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR H5) to (Salem Yard, )
+7- Car (PRR H5) has assigned destination (Salem Yard, )
+5- Car (PRR H5) doesn't have an assigned destination track
+5- Car (PRR H5) assigned to staging track (10 Car Track)
+3- Car (PRR H5) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+5- Find spur for car (PRR H2) type (Hopper Gon) custom load (Empty) at (Salem Gas Light 
+5- Co., Coal Gas) 
+7- Could not find a spur for car (PRR H2) custom load (Empty)
+5- Try to send car (PRR H2) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR H2) to (Salem Yard, )
+7- Car (PRR H2) has assigned destination (Salem Yard, )
+5- Car (PRR H2) doesn't have an assigned destination track
+5- Car (PRR H2) assigned to staging track (10 Car Track)
+3- Car (PRR H2) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+1- Partial 2/5 cars at location (Salem Gas Light Co.) assigned to train (Town Flyer)
+1- Route location (H.J. Heinz & Co. No.12) id (8r5) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR RS41) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS41) custom load (Empty)
+5- Try to send car (PRR RS41) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR RS41) to (Salem Yard, )
+7- Car (PRR RS41) has assigned destination (Salem Yard, )
+5- Car (PRR RS41) doesn't have an assigned destination track
+5- Car (PRR RS41) assigned to staging track (10 Car Track)
+3- Car (PRR RS41) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+5- Find spur for car (PRR RS55) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS55) custom load (Empty)
+5- Try to send car (PRR RS55) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR RS55) to (Salem Yard, )
+7- Car (PRR RS55) has assigned destination (Salem Yard, )
+5- Car (PRR RS55) doesn't have an assigned destination track
+5- Car (PRR RS55) assigned to staging track (10 Car Track)
+3- Car (PRR RS55) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+5- Find spur for car (PRR RS8) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS8) custom load (Empty)
+5- Try to send car (PRR RS8) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR RS8) to (Salem Yard, )
+7- Car (PRR RS8) has assigned destination (Salem Yard, )
+5- Car (PRR RS8) doesn't have an assigned destination track
+5- Car (PRR RS8) assigned to staging track (10 Car Track)
+3- Car (PRR RS8) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+5- Find spur for car (PRR X12) type (Boxcar) custom load (Empty) at (H.J. Heinz & Co. 
+5- No.12, Can House) 
+7- Spur at (South Bend Spur, S&PSNCo.) is full, no alternate track
+7- Spur at (Salem Glass Works 4th St., Ware House) is full, no alternate track
+7- Spur at (Gayner Glass Works, Storage) is full, no alternate track
+7- Spur at (Gayner Glass Works, Ware House) is full, no alternate track
+7- Spur at (American Oilcloth Co., Shipping) is full, no alternate track
+7- Spur at (Salem Glass Works 3rd St., Packing) is full, no alternate track
+7- Try destination (H.J. Heinz & Co. No.12, Bottling & Packing) for car (PRR X12) with 
+7- load (Empty) 
+7- Train (Town Flyer) can transport car (PRR X12) to (H.J. Heinz & Co. No.12, Bottling & 
+7- Packing) 
+7- Car (PRR X12) has assigned destination (H.J. Heinz & Co. No.12, Bottling & Packing)
+3- Car (PRR X12) assigned to train, destination (H.J. Heinz & Co. No.12, Bottling & 
+3- Packing) 
+3-  
+5- Find spur for car (PRR X2) type (Boxcar) custom load (Merchandise) at (H.J. Heinz & 
+5- Co. No.12, Bottling & Packing) 
+7- Could not find a spur for car (PRR X2) custom load (Merchandise)
+5- Try to send car (PRR X2) custom load (Merchandise) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Merchandise)
+7- Train (Town Flyer) can transport car (PRR X2) to (Salem Yard, )
+7- Car (PRR X2) has assigned destination (Salem Yard, )
+5- Car (PRR X2) doesn't have an assigned destination track
+5- Car (PRR X2) assigned to staging track (10 Car Track)
+3- Car (PRR X2) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+1- Partial 5/5 cars at location (H.J. Heinz & Co. No.12) assigned to train (Town Flyer)
+1- Route location (Electric Co. of NJ) id (8r12) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR H8) type (Hopper Gon) custom load (Empty) at (Electric Co. of 
+5- NJ, Coal Bin) 
+7- Could not find a spur for car (PRR H8) custom load (Empty)
+5- Try to send car (PRR H8) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR H8) to (Salem Yard, )
+7- Car (PRR H8) has assigned destination (Salem Yard, )
+5- Car (PRR H8) doesn't have an assigned destination track
+5- Car (PRR H8) assigned to staging track (10 Car Track)
+3- Car (PRR H8) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+5- Find spur for car (PRR H7) type (Hopper Gon) custom load (Empty) at (Electric Co. of 
+5- NJ, Coal Bin) 
+7- Could not find a spur for car (PRR H7) custom load (Empty)
+5- Try to send car (PRR H7) custom load (Empty) to staging
+7- Staging (Salem Yard, 10 Car Track) can accept car's load (Empty)
+7- Train (Town Flyer) can transport car (PRR H7) to (Salem Yard, )
+7- Car (PRR H7) has assigned destination (Salem Yard, )
+5- Car (PRR H7) doesn't have an assigned destination track
+5- Car (PRR H7) assigned to staging track (10 Car Track)
+3- Car (PRR H7) assigned to train, destination (Salem Yard, 10 Car Track)
+3-  
+1- Partial 2/5 cars at location (Electric Co. of NJ) assigned to train (Town Flyer)
+1- Route (Town Flyer) id (8r13) no pick ups at location (Salem Yard)
+7-  
+3- Multiple pass build (Aggressive Mode), begin final pass.
+1- Route location (Salem Yard) id (8r1) requests 9 pick ups, 9/50 moves are available
+5-  
+5- Generate load for (PRR RS56) type (Refrigerator) load (E) at (Salem Yard, Yard)
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Town Flyer) can transport car (PRR RS56) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS56) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS56) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS56) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS53) type (Refrigerator) load (E) at (Salem Yard, Yard)
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Town Flyer) can transport car (PRR RS53) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS53) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS53) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS53) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS52) type (Refrigerator) load (E) at (Salem Yard, Yard)
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Town Flyer) can transport car (PRR RS52) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS52) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS52) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS52) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR RS5) type (Refrigerator) load (E) at (Salem Yard, Yard)
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Town Flyer) can transport car (PRR RS5) to (H.J. Heinz & Co. No.12, Kitchen)
+5- Car (PRR RS5) custom load (Produce) final destination (H.J. Heinz & Co. No.12, Kitchen)
+7- Car (PRR RS5) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS5) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR H9) type (Hopper Gon) load (E) at (Salem Yard, Yard)
+7- Try spur (Electric Co. of NJ, Coal Bin) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H9) to (Electric Co. of NJ, Coal Bin)
+5- Car (PRR H9) custom load (Coal) final destination (Electric Co. of NJ, Coal Bin)
+7- Car (PRR H9) has assigned destination (Electric Co. of NJ, Coal Bin)
+3- Car (PRR H9) assigned to train, destination (Electric Co. of NJ, Coal Bin)
+3-  
+5- Generate load for (PRR H6) type (Hopper Gon) load (E) at (Salem Yard, Yard)
+7- Try spur (Electric Co. of NJ, Coal Bin) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H6) to (Electric Co. of NJ, Coal Bin)
+5- Car (PRR H6) custom load (Coal) final destination (Electric Co. of NJ, Coal Bin)
+7- Car (PRR H6) has assigned destination (Electric Co. of NJ, Coal Bin)
+3- Car (PRR H6) assigned to train, destination (Electric Co. of NJ, Coal Bin)
+3-  
+5- Generate load for (PRR X15) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty)
+7- Train (Town Flyer) can transport car (PRR X15) to (H.J. Heinz & Co. No.12, Bottling & 
+7- Packing) 
+5- Car (PRR X15) custom load (Empty) final destination (H.J. Heinz & Co. No.12, Bottling 
+5- & Packing) 
+7- Car (PRR X15) has assigned destination (H.J. Heinz & Co. No.12, Bottling & Packing)
+3- Car (PRR X15) assigned to train, destination (H.J. Heinz & Co. No.12, Bottling & 
+3- Packing) 
+3-  
+5- Generate load for (PRR H4) type (Hopper Gon) load (E) at (Salem Yard, Yard)
+7- Try spur (Electric Co. of NJ, Coal Bin) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H4) to (Electric Co. of NJ, Coal Bin)
+7- Can't use spur (Electric Co. of NJ, Coal Bin) for (PRR H4) due to rolling stock length 
+7- 38 feet 
+7- Track (Coal Bin) full, searching for a yard at destination (Electric Co. of NJ)
+7- Could not find a yard at (Electric Co. of NJ) for car (PRR H4)
+7- Can't route car (PRR H4) with load (Coal) to (Electric Co. of NJ, Coal Bin)
+7- Try spur (Salem Gas Light Co., Coal Gas) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H4) to (Salem Gas Light Co., Coal Gas)
+5- Car (PRR H4) custom load (Coal) final destination (Salem Gas Light Co., Coal Gas)
+7- Car (PRR H4) has assigned destination (Salem Gas Light Co., Coal Gas)
+3- Car (PRR H4) assigned to train, destination (Salem Gas Light Co., Coal Gas)
+3-  
+5- Generate load for (PRR H3) type (Hopper Gon) load (E) at (Salem Yard, Yard)
+7- Try spur (Electric Co. of NJ, Coal Bin) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H3) to (Electric Co. of NJ, Coal Bin)
+7- Can't use spur (Electric Co. of NJ, Coal Bin) for (PRR H3) due to rolling stock length 
+7- 38 feet 
+7- Track (Coal Bin) full, searching for a yard at destination (Electric Co. of NJ)
+7- Could not find a yard at (Electric Co. of NJ) for car (PRR H3)
+7- Can't route car (PRR H3) with load (Coal) to (Electric Co. of NJ, Coal Bin)
+7- Try spur (Salem Gas Light Co., Coal Gas) load (Coal)
+7- Train (Town Flyer) can transport car (PRR H3) to (Salem Gas Light Co., Coal Gas)
+5- Car (PRR H3) custom load (Coal) final destination (Salem Gas Light Co., Coal Gas)
+7- Car (PRR H3) has assigned destination (Salem Gas Light Co., Coal Gas)
+3- Car (PRR H3) assigned to train, destination (Salem Gas Light Co., Coal Gas)
+3-  
+1- Success 9/9 cars at location (Salem Yard) assigned to train (Town Flyer)
+7-  
+1- Route location (Salem Gas Light Co.) id (8r2) requests 6 pick ups, 6/10 moves are 
+1- available 
+5-  
+1- Partial 0/6 cars at location (Salem Gas Light Co.) assigned to train (Town Flyer)
+1- Route location (H.J. Heinz & Co. No.12) id (8r5) requests 0 pick ups, 0/10 moves are 
+1- available 
+5-  
+1- Success 0/0 cars at location (H.J. Heinz & Co. No.12) assigned to train (Town Flyer)
+7-  
+1- Route location (Electric Co. of NJ) id (8r12) requests 6 pick ups, 6/10 moves are 
+1- available 
+5-  
+1- Partial 0/6 cars at location (Electric Co. of NJ) assigned to train (Town Flyer)
+1- Route (Town Flyer) id (8r13) no pick ups at location (Salem Yard)
+1- Partial 18/65 cars
+5- Build for train (Town Flyer) took 0 mSec

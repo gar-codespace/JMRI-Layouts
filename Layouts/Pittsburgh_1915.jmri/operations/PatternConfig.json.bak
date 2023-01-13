@@ -1,0 +1,193 @@
+{
+  "CD": {
+    "CP": {
+      "BLANCH": {
+        "A": 210, 
+        "B": 255, 
+        "D": "Lighten a bit", 
+        "G": 255, 
+        "R": 255
+      }, 
+      "DUST": {
+        "A": 255, 
+        "B": 218, 
+        "D": "Light tan", 
+        "G": 242, 
+        "R": 252
+      }, 
+      "FADED": {
+        "A": 255, 
+        "B": 245, 
+        "D": "Light purple", 
+        "G": 225, 
+        "R": 237
+      }, 
+      "GLOOM": {
+        "A": 10, 
+        "B": 0, 
+        "D": "Darken a bit", 
+        "G": 0, 
+        "R": 0
+      }, 
+      "LICHEN": {
+        "A": 255, 
+        "B": 244, 
+        "D": "Light green", 
+        "G": 255, 
+        "R": 236
+      }, 
+      "NONE": {
+        "A": 0, 
+        "B": 0, 
+        "D": "Dont use color", 
+        "G": 0, 
+        "R": 0
+      }, 
+      "PALE": {
+        "A": 255, 
+        "B": 250, 
+        "D": "Light blue", 
+        "G": 243, 
+        "R": 237
+      }, 
+      "RASH": {
+        "A": 255, 
+        "B": 224, 
+        "D": "Light red", 
+        "G": 208, 
+        "R": 240
+      }
+    }, 
+    "alertColor": "RASH", 
+    "carColor": "DUST", 
+    "locoColor": "FADED"
+  }, 
+  "CP": {
+    "AP": true, 
+    "MI": {
+      "Description": [
+        "Implement in v3"
+      ], 
+      "Help": [
+        "logItemSelected"
+      ], 
+      "OperationsPro": [], 
+      "Tools": [
+        "asItemSelected", 
+        "tpItemSelected"
+      ], 
+      "Window": []
+    }, 
+    "PH": 294, 
+    "PW": 1083, 
+    "PX": 0, 
+    "PY": 0, 
+    "RV": 20220101, 
+    "SE": "utf-8", 
+    "SI": {
+      "PatternTracksSubroutine": true, 
+      "TrainPlayerSubroutine": true
+    }
+  }, 
+  "EM": {
+    "1": "Mac Classic ", 
+    "2": "open -a TextEdit ", 
+    "4": "start notepad.exe ", 
+    "5": "nano ", 
+    "6": "OS2 ", 
+    "7": "kwrite "
+  }, 
+  "LI": {
+    "0": "Editing these is not recommended", 
+    "1": "- DEBUG -", 
+    "3": "- INFO -", 
+    "5": "- WARNING -", 
+    "7": "- ERROR -", 
+    "9": "- CRITICAL -"
+  }, 
+  "PT": {
+    "AL": [
+      "Allegheny Business", 
+      "AS&WCo", 
+      "AVRR(PRR)", 
+      "Duquesne Freight Station", 
+      "Duquesne Way", 
+      "Etna Street", 
+      "Grant Street", 
+      "Penn Avenue", 
+      "Pennsylvania Railroad Co", 
+      "Pike Street", 
+      "PJRR(B&O)", 
+      "Railroad Street", 
+      "Smallman Street", 
+      "Staging"
+    ], 
+    "AS": true, 
+    "DS": "*No Waybill", 
+    "DT": "*Any Line", 
+    "FD": "*Via Staging", 
+    "FT": "*Any Line", 
+    "PA": false, 
+    "PH": 16, 
+    "PI": false, 
+    "PL": "AS&WCo", 
+    "PT": {
+      "Alloys": false, 
+      "Bessemer": false, 
+      "Cable": true, 
+      "Charge Tracks": false, 
+      "Horse Shoes": false, 
+      "Open Hearth": false, 
+      "PI&S": false, 
+      "Plate": false, 
+      "Scrap": false, 
+      "Slag Pile": false, 
+      "Store": false, 
+      "Wire": false, 
+      "Yard": false
+    }, 
+    "PW": 260, 
+    "RM": 8, 
+    "RW": {
+      " ": 0, 
+      "Color": 6, 
+      "Comment": 15, 
+      "Consist": 8, 
+      "Dest&Track": 30, 
+      "Destination": 15, 
+      "FD Track": 15, 
+      "FD&Track": 21, 
+      "Final Dest": 11, 
+      "Hazardous": 10, 
+      "Input": 6, 
+      "Kernel": 7, 
+      "Kernel Size": 12, 
+      "Length": 7, 
+      "Load": 6, 
+      "Load Type": 5, 
+      "Location": 9, 
+      "Loco Type": 18, 
+      "Model": 5, 
+      "Number": 7, 
+      "Owner": 6, 
+      "PickUp Msg": 12, 
+      "RWE": 10, 
+      "Road": 5, 
+      "SetOut Msg": 12, 
+      "Track": 6, 
+      "Type": 6, 
+      "Weight": 7
+    }, 
+    "SC": [
+      "Load Type", 
+      "FD&Track"
+    ], 
+    "SL": [
+      "Model"
+    ], 
+    "TI": true
+  }, 
+  "TP": {
+    "xyz": 123
+  }
+}

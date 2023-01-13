@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+7875,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+7875,FGEX,RS,Produce,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+7875,FGEX,RS,Empty,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+7875,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+7875,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+7875,FGEX,RS,Produce,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52

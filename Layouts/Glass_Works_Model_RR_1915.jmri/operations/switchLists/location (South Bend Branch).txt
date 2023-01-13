@@ -1,0 +1,101 @@
+Glass Works 1915 Model RR
+ 
+Switch List for South Bend Branch
+ 
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+Departs Salem Yard 1 at 02:00 expected arrival 02:04, arrives Eastbound
+ [ ] P/U     PRR X29    from American Oilcloth - Ship
+ [ ] P/U     PRR G03    from Gayner -  Sand House    
+ [ ] P/U     PRR H09    from Gayner - Coal Bin       
+ [ ] P/U     PRR F1     from Gayner - Shop           
+ [ ] P/U     PRR X03    from Gayner - Ware House     
+ [ ] P/U     PRR X11    from Gayner - Ware Shed      
+ [ ] S/O     PRR X15    to American Oilcloth - Ship
+ [ ] S/O     PRR X33    to F.H.Lloyd Flour Mill    
+ [ ] S/O     PRR X41    to F.H.Lloyd Flour Mill    
+ [ ] S/O     PRR G06    to Gayner -  Sand House    
+ [ ] S/O     PRR G14    to Gayner -  Sand House    
+ [ ] S/O     PRR H12    to Gayner - Coal Bin       
+ [ ] S/O     PRR F2     to Gayner - Shop           
+ [ ] S/O     PRR X07    to Gayner - Ware House     
+ [ ] S/O     PRR X45    to Gayner - Ware Shed      
+ [ ] Respot  PRR X39    from F.H.Lloyd Flour Mill     to Gayner - Ware Shed      
+Train (South Bend Flyer) direction change, departs Westbound
+ [ ] P/U     PRR T6     from American Oilcloth - Chem
+ [ ] P/U     PRR T1     from American Oilcloth - Chem
+ [ ] P/U     PRR X36    from Gayner - Storage        
+ [ ] P/U     PRR X13    from Gayner - Storage        
+ [ ] P/U     PRR X08    from S&PSNCo.                
+ [ ] P/U     PRR X24    from S&PSNCo.                
+ [ ] P/U     PRR F3     from S&PSNCo.                
+ [ ] S/O     PRR T4     to American Oilcloth - Chem
+ [ ] S/O     PRR X38    to Gayner - Storage        
+ [ ] S/O     PRR X12    to Gayner - Storage        
+ [ ] S/O     PRR G02    to S&PSNCo.                
+ [ ] S/O     PRR G15    to S&PSNCo.                
+ [ ] S/O     PRR G12    to S&PSNCo.                
+Train departs South Bend Branch Westbound with 25 cars, 1,010 feet, 1,178 tons
+ 
+ 
+Switch List by Track
+ 
+American Oilcloth - Chem
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR T1     from American Oilcloth - Chem
+ [ ] P/U     PRR T6     from American Oilcloth - Chem
+ [ ] S/O     PRR T4     to American Oilcloth - Chem
+ 
+American Oilcloth - Ship
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR X29    from American Oilcloth - Ship
+ [ ] S/O     PRR X15    to American Oilcloth - Ship
+ 
+F.H.Lloyd Flour Mill
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] S/O     PRR X33    to F.H.Lloyd Flour Mill    
+ [ ] S/O     PRR X41    to F.H.Lloyd Flour Mill    
+ 
+Gayner -  Sand House
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR G03    from Gayner -  Sand House    
+ [ ] S/O     PRR G06    to Gayner -  Sand House    
+ [ ] S/O     PRR G14    to Gayner -  Sand House    
+ 
+Gayner - Coal Bin
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR H09    from Gayner - Coal Bin       
+ [ ] S/O     PRR H12    to Gayner - Coal Bin       
+ 
+Gayner - Shop
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR F1     from Gayner - Shop           
+ [ ] S/O     PRR F2     to Gayner - Shop           
+ 
+Gayner - Storage
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR X13    from Gayner - Storage        
+ [ ] P/U     PRR X36    from Gayner - Storage        
+ [ ] S/O     PRR X12    to Gayner - Storage        
+ [ ] S/O     PRR X38    to Gayner - Storage        
+ 
+Gayner - Ware House
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR X03    from Gayner - Ware House     
+ [ ] S/O     PRR X07    to Gayner - Ware House     
+ 
+Gayner - Ware Shed
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR X11    from Gayner - Ware Shed      
+ [ ] S/O     PRR X45    to Gayner - Ware Shed      
+ [ ] Respot  PRR X39    from F.H.Lloyd Flour Mill     to Gayner - Ware Shed      
+ 
+S&PSNCo.
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+ [ ] P/U     PRR F3     from S&PSNCo.                
+ [ ] P/U     PRR X08    from S&PSNCo.                
+ [ ] P/U     PRR X24    from S&PSNCo.                
+ [ ] S/O     PRR G02    to S&PSNCo.                
+ [ ] S/O     PRR G12    to S&PSNCo.                
+ [ ] S/O     PRR G15    to S&PSNCo.                
+ 
+W.H. Harris Boat Shop

@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+4925,P&R,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:02:59
+4925,P&R,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:31
+4925,P&R,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:35
+4925,P&R,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:52
+4925,P&R,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:53
+4925,P&R,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:13:56

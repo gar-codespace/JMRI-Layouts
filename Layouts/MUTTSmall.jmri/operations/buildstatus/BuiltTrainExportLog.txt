@@ -1,0 +1,9 @@
+2023-01-04 21:55:11,963 - TP.StandAlone - DEBUG - Initialize log file - DEBUG level test message
+2023-01-04 21:55:11,963 - TP.StandAlone - INFO - Initialize log file - INFO level test message
+2023-01-04 21:55:11,963 - TP.StandAlone - WARNING - Initialize log file - WARNING level test message
+2023-01-04 21:55:11,963 - TP.StandAlone - ERROR - Initialize log file - ERROR level test message
+2023-01-04 21:55:11,963 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2023-01-04 21:55:11,963 - TP.o2oWorkEventsBuilder - DEBUG - ModelWorkEvents.jmriManifestConversion
+2023-01-04 21:55:11,994 - TP.o2oWorkEventsBuilder - INFO - Export JMRI manifest to TrainPlayer: Siuth Pier Switch
+2023-01-04 21:55:11,994 - TP.o2oWorkEventsBuilder - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2023-01-04 21:55:11,994 - TP.o2oWorkEventsBuilder - INFO - Manifest export (sec): 0.031

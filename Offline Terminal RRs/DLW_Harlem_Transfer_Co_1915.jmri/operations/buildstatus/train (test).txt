@@ -1,0 +1,1759 @@
+1- Build Report for train (test) built on 11/25/22 10:38 AM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 2 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- The option to restrict staging to the same car types, roads, and loads as the train 
+5- being built is enabled 
+5- Make departure track available after train is built
+5-  
+5- Car routing options:
+5- Car routing via yards is enabled
+5- Use all Trains when Routing
+5-  
+5- Enabled build options for train (test):
+5- Allow local moves if car has a custom load or FD
+5-  
+5- Disabled build options for train (test):
+5- Use normal mode when building this train
+5- Send all car pick ups to terminal (Harlem River)
+5- Allow cars to return to staging
+5- Service all cars with a final destination (FD)
+5- Send cars with custom loads to staging
+5- Build loco consist from single locos
+5-  
+3- Train (test) route (test):
+3- 2r1 Staging (Harlem River) request 50 pick ups, maximum train length 1,000 feet
+3- 2r3 Location (HTC) requests 50 moves, maximum train length 1,000 feet
+3- 2r2 Staging (Harlem River) requests 50 set outs
+1- Route (test) requests 75 cars and 150 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Harlem River), there are 1 tracks
+1- Train will return to staging (Harlem River) reuse departure track
+3-  
+1- Train will depart staging (Harlem River), there are 1 tracks
+3- Staging track (Car Barge) has 0 loco(s) and 17 cars
+7- Train (test) can depart from staging track (Car Barge)
+7- Done assigning locomotives from staging
+3-  
+5-  
+5- Train (test) services car types:
+5- FM, GA, HK, M, RS, TG, XM
+7-  
+7- Remove cars not serviced by this train:
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Harlem River, Car Barge) with 17 cars
+7- Staging car (B&O 4366) type (HK) load (E)
+7- Staging car (PRR 9939) type (TG) load (E)
+7- Staging car (TCX 6986) type (TG) load (E)
+7- Staging car (PRR 3532) type (TG) load (E)
+7- Staging car (B&O 4649) type (XM) load (E)
+7- Staging car (NYC 5745) type (XM) load (E)
+7- Staging car (AT&SF 3050) type (GA) load (E)
+7- Staging car (M&P 2709) type (XM) load (E)
+7- Staging car (PRR 1071) type (HK) load (E)
+7- Staging car (NYC 0778) type (XM) load (E)
+7- Staging car (P&R 1415) type (FM) load (E)
+7- Staging car (ACL 1133) type (GA) load (E)
+7- Staging car (TCX 2644) type (TG) load (E)
+7- Staging car (ER 3904) type (FM) load (E)
+7- Staging car (UTLX 6554) type (TG) load (E)
+7- Staging car (NYC 7803) type (XM) load (E)
+7- Staging car (ER 1958) type (XM) load (E)
+5-  
+1- Found 76 cars for train (test)
+7- Cars available from staging (Harlem River):
+7- Car (B&O 4366) type (HK) at (Harlem River, Car Barge) 0 moves
+7- Car (PRR 9939) type (TG) at (Harlem River, Car Barge) 0 moves
+7- Car (TCX 6986) type (TG) at (Harlem River, Car Barge) 0 moves
+7- Car (PRR 3532) type (TG) at (Harlem River, Car Barge) 0 moves
+7- Car (B&O 4649) type (XM) at (Harlem River, Car Barge) 0 moves
+7- Car (NYC 5745) type (XM) at (Harlem River, Car Barge) 0 moves
+7- Car (AT&SF 3050) type (GA) at (Harlem River, Car Barge) 0 moves
+7- Car (M&P 2709) type (XM) at (Harlem River, Car Barge) 0 moves
+7- Car (PRR 1071) type (HK) at (Harlem River, Car Barge) 0 moves
+7- Car (NYC 0778) type (XM) at (Harlem River, Car Barge) 0 moves
+7- Car (P&R 1415) type (FM) at (Harlem River, Car Barge) 0 moves
+7- Car (ACL 1133) type (GA) at (Harlem River, Car Barge) 0 moves
+7- Car (TCX 2644) type (TG) at (Harlem River, Car Barge) 0 moves
+7- Car (ER 3904) type (FM) at (Harlem River, Car Barge) 0 moves
+7- Car (UTLX 6554) type (TG) at (Harlem River, Car Barge) 0 moves
+7- Car (NYC 7803) type (XM) at (Harlem River, Car Barge) 0 moves
+7- Car (ER 1958) type (XM) at (Harlem River, Car Barge) 0 moves
+7-  
+7- Cars at location (HTC):
+7- Car (SP 3921) type (GA) at (HTC, Team Tracks) 0 moves
+7- Car (WJ&S 6883) type (XM) at (HTC, Cement House) 0 moves
+7- Car (DL&W 1282) type (XM) at (HTC, Freight House) 0 moves
+7- Car (NYNH&H 3334) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (B&A 3531) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (AT&SF 6123) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (WJ&S 1570) type (XM) at (HTC, Cement House) 0 moves
+7- Car (NYC 8106) type (FM) at (HTC, Team Tracks) 0 moves
+7- Car (LV 9182) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (SP 2678) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (LV 8472) type (FM) at (HTC, Team Tracks) 0 moves
+7- Car (NYNH&H 3388) type (XM) at (HTC, Freight House) 0 moves
+7- Car (NYC 3548) type (GA) at (HTC, Overhead Crane) 0 moves
+7- Car (WJ&S 7219) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (SP 1666) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (NYC 0339) type (XM) at (HTC, Cement House) 0 moves
+7- Car (CNJ 0237) type (XM) at (HTC, Grain) 0 moves
+7- Car (TCX 3279) type (TG) at (HTC, Team Tracks) 0 moves
+7- Car (NYNH&H 4963) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (CNJ 5535) type (FM) at (HTC, Team Tracks) 0 moves
+7- Car (CNJ 6141) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (ACL 3059) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (B&A 9619) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (B&O 3492) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (M&P 2122) type (GA) at (HTC, Railroad Avenue) 0 moves
+7- Car (LV 3153) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (PRR 7121) type (XM) at (HTC, Freight House) 0 moves
+7- Car (M&P 2906) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (ER 4923) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (UTLX 3565) type (TG) at (HTC, Team Tracks) 0 moves
+7- Car (UTLX 2306) type (TG) at (HTC, Team Tracks) 0 moves
+7- Car (CNJ 9828) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (ER 6430) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (ER 1584) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (ER 7338) type (GA) at (HTC, Railroad Avenue) 0 moves
+7- Car (LV 1048) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (B&O 2812) type (XM) at (HTC, Freight House) 0 moves
+7- Car (PRR 2303) type (GA) at (HTC, Railroad Avenue) 0 moves
+7- Car (PRR 1269) type (GA) at (HTC, Railroad Avenue) 0 moves
+7- Car (ER 2382) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (ER 4327) type (FM) at (HTC, Railroad Avenue) 0 moves
+7- Car (AT&SF 5639) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (AT&SF 5241) type (XM) at (HTC, Freight House) 0 moves
+7- Car (M&P 7801) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (P&R 3867) type (FM) at (HTC, Overhead Crane) 0 moves
+7- Car (PGCC 1974) type (HK) at (HTC, Team Tracks) 0 moves
+7- Car (DL&W 7542) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (LV 1789) type (XM) at (HTC, Freight House) 0 moves
+7- Car (ER 5812) type (XM) at (HTC, Team Tracks) 0 moves
+7- Car (WJ&S 2040) type (XM) at (HTC, Team Tracks) 0 moves
+7- ********** Only the first 50 cars are shown for (HTC) **********
+7-  
+7- Sort cars on FIFO and LIFO tracks:
+7-  
+5- Train does not require caboose when departing (Harlem River)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (75) for train (test) the number available (76) building train!
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+3- Departing staging in aggressive mode, find destinations from (Harlem River) in next 
+3- pass 
+1- Route location (Harlem River) id 2r1 requests 0 pick ups, 50/50 moves are available
+5-  
+1- Success 0/0 cars at location (Harlem River) assigned to train (test)
+1- Route location (HTC) id 2r3 requests 25 pick ups, 50/50 moves are available
+5-  
+5- Find spur for car (SP 3921) type (GA) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (SP 3921) with load (Empty) due to type (GA)
+7- Destination (HTC, Grain) can't service car (SP 3921) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Overhead Crane) can't service car (SP 3921) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (SP 3921) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Cement House) can't service car (SP 3921) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Railroad Avenue) can't service car (SP 3921) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (SP 3921) load (Empty)
+5- Try to send car (SP 3921) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (SP 3921) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (SP 3921): (HTC, Team Tracks)->(Harlem River, )
+7- Car (SP 3921) load (Empty) has assigned destination (Harlem River, )
+5- Car (SP 3921) doesn't have an assigned destination track
+5- Car (SP 3921) assigned to staging track (Car Barge)
+3- Car (SP 3921) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (WJ&S 6883) type (XM) custom empty (Empty) at (HTC, Cement House)
+7- Destination (HTC, Feed) can't service car (WJ&S 6883) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (WJ&S 6883) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (WJ&S 6883) with load (Empty) due 
+7- to type (XM) 
+7- Spur at (HTC, Freight House) is full, no alternate track
+7- Destination (HTC, Railroad Avenue) can't service car (WJ&S 6883) with load (Empty) 
+7- due to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (WJ&S 6883) with load (Empty) 
+7- Train (test) can transport car (WJ&S 6883) from spur (HTC, Cement House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (WJ&S 6883): (HTC, Cement House)->(HTC, Team Tracks)
+7- Car (WJ&S 6883) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (WJ&S 6883) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (DL&W 1282) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (DL&W 1282) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (DL&W 1282) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (DL&W 1282) with load (Empty) due 
+7- to type (XM) 
+7- Destination (HTC, Cement House) can't service car (DL&W 1282) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (DL&W 1282) with load (Empty) 
+7- due to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (DL&W 1282) with load (Empty) 
+7- Train (test) can transport car (DL&W 1282) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (DL&W 1282): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (DL&W 1282) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (DL&W 1282) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (NYNH&H 3334) type (FM) custom empty (Empty) at (HTC, Railroad 
+5- Avenue) 
+7- Destination (HTC, Feed) can't service car (NYNH&H 3334) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (NYNH&H 3334) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (NYNH&H 3334) with load (Empty) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (NYNH&H 3334) with load (Empty) 
+7- due to type (FM) 
+7- Destination (HTC, Cement House) can't service car (NYNH&H 3334) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (NYNH&H 3334) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (NYNH&H 3334) load (Empty)
+5- Try to send car (NYNH&H 3334) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (NYNH&H 3334) from spur (HTC, Railroad Avenue) to 
+7- (Harlem River, ) 
+7- Route for car (NYNH&H 3334): (HTC, Railroad Avenue)->(Harlem River, )
+7- Car (NYNH&H 3334) load (Empty) has assigned destination (Harlem River, )
+5- Car (NYNH&H 3334) doesn't have an assigned destination track
+5- Car (NYNH&H 3334) assigned to staging track (Car Barge)
+3- Car (NYNH&H 3334) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (B&A 3531) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (B&A 3531) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (B&A 3531) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (B&A 3531) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (B&A 3531) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (B&A 3531) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (B&A 3531) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (B&A 3531) load (merchandise)
+5- Try to send car (B&A 3531) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (B&A 3531) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (B&A 3531): (HTC, Team Tracks)->(Harlem River, )
+7- Car (B&A 3531) load (merchandise) has assigned destination (Harlem River, )
+5- Car (B&A 3531) doesn't have an assigned destination track
+5- Car (B&A 3531) assigned to staging track (Car Barge)
+3- Car (B&A 3531) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (AT&SF 6123) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (AT&SF 6123) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (AT&SF 6123) with load (merchandise) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (AT&SF 6123) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (AT&SF 6123) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (AT&SF 6123) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (AT&SF 6123) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (AT&SF 6123) load (merchandise)
+5- Try to send car (AT&SF 6123) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (AT&SF 6123) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (AT&SF 6123): (HTC, Team Tracks)->(Harlem River, )
+7- Car (AT&SF 6123) load (merchandise) has assigned destination (Harlem River, )
+5- Car (AT&SF 6123) doesn't have an assigned destination track
+5- Car (AT&SF 6123) assigned to staging track (Car Barge)
+3- Car (AT&SF 6123) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (WJ&S 1570) type (XM) custom empty (Empty) at (HTC, Cement House)
+7- Destination (HTC, Feed) can't service car (WJ&S 1570) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (WJ&S 1570) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (WJ&S 1570) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Freight House) for car (WJ&S 1570) with load (Empty) 
+7- Train (test) can transport car (WJ&S 1570) from spur (HTC, Cement House) to (HTC, 
+7- Freight House) 
+7- Route for car (WJ&S 1570): (HTC, Cement House)->(HTC, Freight House)
+7- Car (WJ&S 1570) load (Empty) has assigned destination (HTC, Freight House)
+3- Car (WJ&S 1570) assigned to train, destination (HTC, Freight House)
+3-  
+5- Find spur for car (NYC 8106) type (FM) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (NYC 8106) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (NYC 8106) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (NYC 8106) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (NYC 8106) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Cement House) can't service car (NYC 8106) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Railroad Avenue) can't service car (NYC 8106) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (NYC 8106) load (Empty)
+5- Try to send car (NYC 8106) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (NYC 8106) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (NYC 8106): (HTC, Team Tracks)->(Harlem River, )
+7- Car (NYC 8106) load (Empty) has assigned destination (Harlem River, )
+5- Car (NYC 8106) doesn't have an assigned destination track
+5- Car (NYC 8106) assigned to staging track (Car Barge)
+3- Car (NYC 8106) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (LV 9182) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (LV 9182) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (LV 9182) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (LV 9182) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (LV 9182) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (LV 9182) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (LV 9182) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (LV 9182) load (merchandise)
+5- Try to send car (LV 9182) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (LV 9182) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (LV 9182): (HTC, Team Tracks)->(Harlem River, )
+7- Car (LV 9182) load (merchandise) has assigned destination (Harlem River, )
+5- Car (LV 9182) doesn't have an assigned destination track
+5- Car (LV 9182) assigned to staging track (Car Barge)
+3- Car (LV 9182) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (SP 2678) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (SP 2678) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (SP 2678) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (SP 2678) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (SP 2678) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (SP 2678) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (SP 2678) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (SP 2678) load (merchandise)
+5- Try to send car (SP 2678) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (SP 2678) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (SP 2678): (HTC, Team Tracks)->(Harlem River, )
+7- Car (SP 2678) load (merchandise) has assigned destination (Harlem River, )
+5- Car (SP 2678) doesn't have an assigned destination track
+5- Car (SP 2678) assigned to staging track (Car Barge)
+3- Car (SP 2678) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (LV 8472) type (FM) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (LV 8472) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (LV 8472) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (LV 8472) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (LV 8472) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (LV 8472) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Railroad Avenue) can't service car (LV 8472) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (LV 8472) load (Empty)
+5- Try to send car (LV 8472) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (LV 8472) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (LV 8472): (HTC, Team Tracks)->(Harlem River, )
+7- Car (LV 8472) load (Empty) has assigned destination (Harlem River, )
+5- Car (LV 8472) doesn't have an assigned destination track
+5- Car (LV 8472) assigned to staging track (Car Barge)
+3- Car (LV 8472) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (NYNH&H 3388) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (NYNH&H 3388) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (NYNH&H 3388) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (NYNH&H 3388) with load (Empty) 
+7- due to type (XM) 
+7- Destination (HTC, Cement House) can't service car (NYNH&H 3388) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (NYNH&H 3388) with load (Empty) 
+7- due to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (NYNH&H 3388) with load (Empty) 
+7- Train (test) can transport car (NYNH&H 3388) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (NYNH&H 3388): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (NYNH&H 3388) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (NYNH&H 3388) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (NYC 3548) type (GA) custom empty (Empty) at (HTC, Overhead Crane)
+7- Destination (HTC, Feed) can't service car (NYC 3548) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Grain) can't service car (NYC 3548) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Freight House) can't service car (NYC 3548) with load (Empty) due 
+7- to type (GA) 
+7- Destination (HTC, Cement House) can't service car (NYC 3548) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Railroad Avenue) can't service car (NYC 3548) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Team Tracks) can't service car (NYC 3548) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (NYC 3548) load (Empty)
+5- Try to send car (NYC 3548) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (NYC 3548) from spur (HTC, Overhead Crane) to (Harlem 
+7- River, ) 
+7- Route for car (NYC 3548): (HTC, Overhead Crane)->(Harlem River, )
+7- Car (NYC 3548) load (Empty) has assigned destination (Harlem River, )
+5- Car (NYC 3548) doesn't have an assigned destination track
+5- Car (NYC 3548) assigned to staging track (Car Barge)
+3- Car (NYC 3548) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (WJ&S 7219) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (WJ&S 7219) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (WJ&S 7219) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (WJ&S 7219) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (WJ&S 7219) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (WJ&S 7219) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (WJ&S 7219) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (WJ&S 7219) load (merchandise)
+5- Try to send car (WJ&S 7219) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (WJ&S 7219) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (WJ&S 7219): (HTC, Team Tracks)->(Harlem River, )
+7- Car (WJ&S 7219) load (merchandise) has assigned destination (Harlem River, )
+5- Car (WJ&S 7219) doesn't have an assigned destination track
+5- Car (WJ&S 7219) assigned to staging track (Car Barge)
+3- Car (WJ&S 7219) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (SP 1666) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (SP 1666) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (SP 1666) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (SP 1666) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (SP 1666) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (SP 1666) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (SP 1666) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (SP 1666) load (merchandise)
+5- Try to send car (SP 1666) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (SP 1666) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (SP 1666): (HTC, Team Tracks)->(Harlem River, )
+7- Car (SP 1666) load (merchandise) has assigned destination (Harlem River, )
+5- Car (SP 1666) doesn't have an assigned destination track
+5- Car (SP 1666) assigned to staging track (Car Barge)
+3- Car (SP 1666) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (NYC 0339) type (XM) custom empty (Empty) at (HTC, Cement House)
+7- Destination (HTC, Feed) can't service car (NYC 0339) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (NYC 0339) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (NYC 0339) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Freight House) for car (NYC 0339) with load (Empty) 
+7- Train (test) can transport car (NYC 0339) from spur (HTC, Cement House) to (HTC, 
+7- Freight House) 
+7- Route for car (NYC 0339): (HTC, Cement House)->(HTC, Freight House)
+7- Car (NYC 0339) load (Empty) has assigned destination (HTC, Freight House)
+3- Car (NYC 0339) assigned to train, destination (HTC, Freight House)
+3-  
+5- Find spur for car (CNJ 0237) type (XM) custom empty (Empty) at (HTC, Grain)
+7- Destination (HTC, Feed) can't service car (CNJ 0237) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Overhead Crane) can't service car (CNJ 0237) with load (Empty) due 
+7- to type (XM) 
+7- Spur at (HTC, Freight House) is full, no alternate track
+7- Destination (HTC, Cement House) can't service car (CNJ 0237) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (CNJ 0237) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (CNJ 0237) with load (Empty) 
+7- Train (test) can transport car (CNJ 0237) from spur (HTC, Grain) to (HTC, Team Tracks)
+7- Route for car (CNJ 0237): (HTC, Grain)->(HTC, Team Tracks)
+7- Car (CNJ 0237) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (CNJ 0237) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (TCX 3279) type (TG) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (TCX 3279) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Grain) can't service car (TCX 3279) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Overhead Crane) can't service car (TCX 3279) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Freight House) can't service car (TCX 3279) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Cement House) can't service car (TCX 3279) with load (Empty) due to 
+7- type (TG) 
+7- Destination (HTC, Railroad Avenue) can't service car (TCX 3279) with load (Empty) due 
+7- to type (TG) 
+7- Could not find a reachable spur for car (TCX 3279) load (Empty)
+5- Try to send car (TCX 3279) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (TCX 3279) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (TCX 3279): (HTC, Team Tracks)->(Harlem River, )
+7- Car (TCX 3279) load (Empty) has assigned destination (Harlem River, )
+5- Car (TCX 3279) doesn't have an assigned destination track
+5- Car (TCX 3279) assigned to staging track (Car Barge)
+3- Car (TCX 3279) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (NYNH&H 4963) type (FM) custom empty (Empty) at (HTC, Railroad 
+5- Avenue) 
+7- Destination (HTC, Feed) can't service car (NYNH&H 4963) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (NYNH&H 4963) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (NYNH&H 4963) with load (Empty) 
+7- due to schedule no match 
+7- Destination (HTC, Freight House) can't service car (NYNH&H 4963) with load (Empty) 
+7- due to type (FM) 
+7- Destination (HTC, Cement House) can't service car (NYNH&H 4963) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (NYNH&H 4963) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (NYNH&H 4963) load (Empty)
+5- Try to send car (NYNH&H 4963) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (NYNH&H 4963) from spur (HTC, Railroad Avenue) to 
+7- (Harlem River, ) 
+7- Route for car (NYNH&H 4963): (HTC, Railroad Avenue)->(Harlem River, )
+7- Car (NYNH&H 4963) load (Empty) has assigned destination (Harlem River, )
+5- Car (NYNH&H 4963) doesn't have an assigned destination track
+5- Car (NYNH&H 4963) assigned to staging track (Car Barge)
+3- Car (NYNH&H 4963) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (CNJ 5535) type (FM) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (CNJ 5535) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (CNJ 5535) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (CNJ 5535) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Freight House) can't service car (CNJ 5535) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Cement House) can't service car (CNJ 5535) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Railroad Avenue) can't service car (CNJ 5535) with load (Empty) due 
+7- to schedule no match 
+7- Could not find a reachable spur for car (CNJ 5535) load (Empty)
+5- Try to send car (CNJ 5535) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (CNJ 5535) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (CNJ 5535): (HTC, Team Tracks)->(Harlem River, )
+7- Car (CNJ 5535) load (Empty) has assigned destination (Harlem River, )
+5- Car (CNJ 5535) doesn't have an assigned destination track
+5- Car (CNJ 5535) assigned to staging track (Car Barge)
+3- Car (CNJ 5535) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (CNJ 6141) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (CNJ 6141) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (CNJ 6141) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Overhead Crane) can't service car (CNJ 6141) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (CNJ 6141) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (CNJ 6141) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (CNJ 6141) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (CNJ 6141) load (merchandise)
+5- Try to send car (CNJ 6141) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (CNJ 6141) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (CNJ 6141): (HTC, Team Tracks)->(Harlem River, )
+7- Car (CNJ 6141) load (merchandise) has assigned destination (Harlem River, )
+5- Car (CNJ 6141) doesn't have an assigned destination track
+5- Car (CNJ 6141) assigned to staging track (Car Barge)
+3- Car (CNJ 6141) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (ACL 3059) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (ACL 3059) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (ACL 3059) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Overhead Crane) can't service car (ACL 3059) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (ACL 3059) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (ACL 3059) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (ACL 3059) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (ACL 3059) load (merchandise)
+5- Try to send car (ACL 3059) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (ACL 3059) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (ACL 3059): (HTC, Team Tracks)->(Harlem River, )
+7- Car (ACL 3059) load (merchandise) has assigned destination (Harlem River, )
+5- Car (ACL 3059) doesn't have an assigned destination track
+5- Car (ACL 3059) assigned to staging track (Car Barge)
+3- Car (ACL 3059) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (B&A 9619) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (B&A 9619) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Grain) can't service car (B&A 9619) with load (merchandise) due to 
+7- schedule no match 
+7- Destination (HTC, Overhead Crane) can't service car (B&A 9619) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (B&A 9619) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (B&A 9619) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (B&A 9619) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (B&A 9619) load (merchandise)
+5- Try to send car (B&A 9619) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can transport car (B&A 9619) from spur (HTC, Team Tracks) to (Harlem 
+7- River, ) 
+7- Route for car (B&A 9619): (HTC, Team Tracks)->(Harlem River, )
+7- Car (B&A 9619) load (merchandise) has assigned destination (Harlem River, )
+5- Car (B&A 9619) doesn't have an assigned destination track
+5- Car (B&A 9619) assigned to staging track (Car Barge)
+3- Car (B&A 9619) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (B&O 3492) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (B&O 3492) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (B&O 3492) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (B&O 3492) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Freight House) can't service car (B&O 3492) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Cement House) can't service car (B&O 3492) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (B&O 3492) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (B&O 3492) load (Empty)
+5- Try to send car (B&O 3492) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (B&O 3492) from spur (HTC, Railroad Avenue) to (Harlem 
+7- River, ) 
+7- Route for car (B&O 3492): (HTC, Railroad Avenue)->(Harlem River, )
+7- Car (B&O 3492) load (Empty) has assigned destination (Harlem River, )
+5- Car (B&O 3492) doesn't have an assigned destination track
+5- Car (B&O 3492) assigned to staging track (Car Barge)
+3- Car (B&O 3492) assigned to train, destination (Harlem River, Car Barge)
+3-  
+5- Find spur for car (M&P 2122) type (GA) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (M&P 2122) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Grain) can't service car (M&P 2122) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Overhead Crane) can't service car (M&P 2122) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Freight House) can't service car (M&P 2122) with load (Empty) due 
+7- to type (GA) 
+7- Destination (HTC, Cement House) can't service car (M&P 2122) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Team Tracks) can't service car (M&P 2122) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (M&P 2122) load (Empty)
+5- Try to send car (M&P 2122) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can transport car (M&P 2122) from spur (HTC, Railroad Avenue) to (Harlem 
+7- River, ) 
+7- Route for car (M&P 2122): (HTC, Railroad Avenue)->(Harlem River, )
+7- Car (M&P 2122) load (Empty) has assigned destination (Harlem River, )
+5- Car (M&P 2122) doesn't have an assigned destination track
+5- Car (M&P 2122) assigned to staging track (Car Barge)
+3- Car (M&P 2122) assigned to train, destination (Harlem River, Car Barge)
+3-  
+1- Success 25/25 cars at location (HTC) assigned to train (test)
+1- Route location (Harlem River) id 2r2 no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Harlem River) id 2r1 requests 50 pick ups, 50/50 moves are available
+5-  
+5- Staging track (Car Barge) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5-  
+5- Generate load for (B&O 4366) type (HK) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (coal)
+7- Train (test) can transport car (B&O 4366) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (B&O 4366): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (B&O 4366) custom load (coal) final destination (HTC, Team Tracks)
+7- Car (B&O 4366) load (coal) has assigned destination (HTC, Team Tracks)
+3- Car (B&O 4366) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (PRR 9939) type (TG) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (heating oil)
+7- Train (test) can transport car (PRR 9939) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (PRR 9939): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (PRR 9939) custom load (heating oil) final destination (HTC, Team Tracks)
+7- Car (PRR 9939) load (heating oil) has assigned destination (HTC, Team Tracks)
+3- Car (PRR 9939) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (TCX 6986) type (TG) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (heating oil)
+7- Train (test) can transport car (TCX 6986) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (TCX 6986): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (TCX 6986) custom load (heating oil) final destination (HTC, Team Tracks)
+7- Car (TCX 6986) load (heating oil) has assigned destination (HTC, Team Tracks)
+3- Car (TCX 6986) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (PRR 3532) type (TG) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (heating oil)
+7- Train (test) can transport car (PRR 3532) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (PRR 3532): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (PRR 3532) custom load (heating oil) final destination (HTC, Team Tracks)
+7- Car (PRR 3532) load (heating oil) has assigned destination (HTC, Team Tracks)
+3- Car (PRR 3532) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (B&O 4649) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Feed) custom load (feed grains)
+7- Train (test) can transport car (B&O 4649) from staging (Harlem River, Car Barge) to 
+7- (HTC, Feed) 
+7- Route for car (B&O 4649): (Harlem River, Car Barge)->(HTC, Feed)
+5- Car (B&O 4649) custom load (feed grains) final destination (HTC, Feed)
+7- Car (B&O 4649) load (feed grains) has assigned destination (HTC, Feed)
+3- Car (B&O 4649) assigned to train, destination (HTC, Feed)
+3-  
+5- Generate load for (NYC 5745) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Grain) custom load (grain)
+7- Train (test) can transport car (NYC 5745) from staging (Harlem River, Car Barge) to 
+7- (HTC, Grain) 
+7- Route for car (NYC 5745): (Harlem River, Car Barge)->(HTC, Grain)
+5- Car (NYC 5745) custom load (grain) final destination (HTC, Grain)
+7- Car (NYC 5745) load (grain) has assigned destination (HTC, Grain)
+3- Car (NYC 5745) assigned to train, destination (HTC, Grain)
+3-  
+5- Generate load for (AT&SF 3050) type (GA) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Overhead Crane) custom load (steel beams)
+7- Train (test) can transport car (AT&SF 3050) from staging (Harlem River, Car Barge) to 
+7- (HTC, Overhead Crane) 
+7- Route for car (AT&SF 3050): (Harlem River, Car Barge)->(HTC, Overhead Crane)
+5- Car (AT&SF 3050) custom load (steel beams) final destination (HTC, Overhead Crane)
+7- Car (AT&SF 3050) load (steel beams) has assigned destination (HTC, Overhead Crane)
+3- Car (AT&SF 3050) assigned to train, destination (HTC, Overhead Crane)
+3-  
+5- Generate load for (M&P 2709) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Feed) custom load (feed grains)
+7- Train (test) can transport car (M&P 2709) from staging (Harlem River, Car Barge) to 
+7- (HTC, Feed) 
+7- Route for car (M&P 2709): (Harlem River, Car Barge)->(HTC, Feed)
+7- Can't use spur (HTC, Feed) for (M&P 2709) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Feed) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (M&P 2709)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (M&P 2709) with load (feed grains) to (HTC, Feed)
+7- Try spur (HTC, Grain) custom load (grain)
+7- Train (test) can transport car (M&P 2709) from staging (Harlem River, Car Barge) to 
+7- (HTC, Grain) 
+7- Route for car (M&P 2709): (Harlem River, Car Barge)->(HTC, Grain)
+7- Can't use spur (HTC, Grain) for (M&P 2709) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Grain) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (M&P 2709)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (M&P 2709) with load (grain) to (HTC, Grain)
+7- Try spur (HTC, Freight House) custom load (lcl)
+7- Train (test) can transport car (M&P 2709) from staging (Harlem River, Car Barge) to 
+7- (HTC, Freight House) 
+7- Route for car (M&P 2709): (Harlem River, Car Barge)->(HTC, Freight House)
+7- Can't use spur (HTC, Freight House) for (M&P 2709) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Freight House) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (M&P 2709)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (M&P 2709) with load (lcl) to (HTC, Freight House)
+7- Try spur (HTC, Cement House) custom load (cement)
+7- Train (test) can transport car (M&P 2709) from staging (Harlem River, Car Barge) to 
+7- (HTC, Cement House) 
+7- Route for car (M&P 2709): (Harlem River, Car Barge)->(HTC, Cement House)
+5- Car (M&P 2709) custom load (cement) final destination (HTC, Cement House)
+7- Car (M&P 2709) load (cement) has assigned destination (HTC, Cement House)
+3- Car (M&P 2709) assigned to train, destination (HTC, Cement House)
+3-  
+5- Generate load for (PRR 1071) type (HK) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (coal)
+7- Train (test) can transport car (PRR 1071) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (PRR 1071): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (PRR 1071) custom load (coal) final destination (HTC, Team Tracks)
+7- Car (PRR 1071) load (coal) has assigned destination (HTC, Team Tracks)
+3- Car (PRR 1071) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (NYC 0778) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Feed) custom load (feed grains)
+7- Train (test) can transport car (NYC 0778) from staging (Harlem River, Car Barge) to 
+7- (HTC, Feed) 
+7- Route for car (NYC 0778): (Harlem River, Car Barge)->(HTC, Feed)
+7- Can't use spur (HTC, Feed) for (NYC 0778) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Feed) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 0778)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 0778) with load (feed grains) to (HTC, Feed)
+7- Try spur (HTC, Grain) custom load (grain)
+7- Train (test) can transport car (NYC 0778) from staging (Harlem River, Car Barge) to 
+7- (HTC, Grain) 
+7- Route for car (NYC 0778): (Harlem River, Car Barge)->(HTC, Grain)
+7- Can't use spur (HTC, Grain) for (NYC 0778) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Grain) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 0778)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 0778) with load (grain) to (HTC, Grain)
+7- Try spur (HTC, Freight House) custom load (Empty)
+7- Train (test) can transport car (NYC 0778) from staging (Harlem River, Car Barge) to 
+7- (HTC, Freight House) 
+7- Route for car (NYC 0778): (Harlem River, Car Barge)->(HTC, Freight House)
+7- Can't use spur (HTC, Freight House) for (NYC 0778) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Freight House) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 0778)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 0778) with load (Empty) to (HTC, Freight House)
+7- Try spur (HTC, Cement House) custom load (cement)
+7- Train (test) can transport car (NYC 0778) from staging (Harlem River, Car Barge) to 
+7- (HTC, Cement House) 
+7- Route for car (NYC 0778): (Harlem River, Car Barge)->(HTC, Cement House)
+5- Car (NYC 0778) custom load (cement) final destination (HTC, Cement House)
+7- Car (NYC 0778) load (cement) has assigned destination (HTC, Cement House)
+3- Car (NYC 0778) assigned to train, destination (HTC, Cement House)
+3-  
+5- Generate load for (P&R 1415) type (FM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Overhead Crane) custom load (steel beams)
+7- Train (test) can transport car (P&R 1415) from staging (Harlem River, Car Barge) to 
+7- (HTC, Overhead Crane) 
+7- Route for car (P&R 1415): (Harlem River, Car Barge)->(HTC, Overhead Crane)
+7- Can't use spur (HTC, Overhead Crane) for (P&R 1415) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Overhead Crane) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (P&R 1415)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (P&R 1415) with load (steel beams) to (HTC, Overhead Crane)
+7- Try spur (HTC, Railroad Avenue) custom load (bricks)
+7- Train (test) can transport car (P&R 1415) from staging (Harlem River, Car Barge) to 
+7- (HTC, Railroad Avenue) 
+7- Route for car (P&R 1415): (Harlem River, Car Barge)->(HTC, Railroad Avenue)
+5- Car (P&R 1415) custom load (bricks) final destination (HTC, Railroad Avenue)
+7- Car (P&R 1415) load (bricks) has assigned destination (HTC, Railroad Avenue)
+3- Car (P&R 1415) assigned to train, destination (HTC, Railroad Avenue)
+3-  
+5- Generate load for (ACL 1133) type (GA) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Overhead Crane) custom load (steel beams)
+7- Train (test) can transport car (ACL 1133) from staging (Harlem River, Car Barge) to 
+7- (HTC, Overhead Crane) 
+7- Route for car (ACL 1133): (Harlem River, Car Barge)->(HTC, Overhead Crane)
+7- Can't use spur (HTC, Overhead Crane) for (ACL 1133) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Overhead Crane) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ACL 1133)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ACL 1133) with load (steel beams) to (HTC, Overhead Crane)
+7- Try spur (HTC, Railroad Avenue) custom load (bricks)
+7- Train (test) can transport car (ACL 1133) from staging (Harlem River, Car Barge) to 
+7- (HTC, Railroad Avenue) 
+7- Route for car (ACL 1133): (Harlem River, Car Barge)->(HTC, Railroad Avenue)
+5- Car (ACL 1133) custom load (bricks) final destination (HTC, Railroad Avenue)
+7- Car (ACL 1133) load (bricks) has assigned destination (HTC, Railroad Avenue)
+3- Car (ACL 1133) assigned to train, destination (HTC, Railroad Avenue)
+3-  
+5- Generate load for (TCX 2644) type (TG) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (heating oil)
+7- Train (test) can transport car (TCX 2644) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (TCX 2644): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (TCX 2644) custom load (heating oil) final destination (HTC, Team Tracks)
+7- Car (TCX 2644) load (heating oil) has assigned destination (HTC, Team Tracks)
+3- Car (TCX 2644) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (ER 3904) type (FM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Overhead Crane) custom load (steel beams)
+7- Train (test) can transport car (ER 3904) from staging (Harlem River, Car Barge) to 
+7- (HTC, Overhead Crane) 
+7- Route for car (ER 3904): (Harlem River, Car Barge)->(HTC, Overhead Crane)
+7- Can't use spur (HTC, Overhead Crane) for (ER 3904) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Overhead Crane) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ER 3904)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ER 3904) with load (steel beams) to (HTC, Overhead Crane)
+7- Try spur (HTC, Railroad Avenue) custom load (stone)
+7- Train (test) can transport car (ER 3904) from staging (Harlem River, Car Barge) to 
+7- (HTC, Railroad Avenue) 
+7- Route for car (ER 3904): (Harlem River, Car Barge)->(HTC, Railroad Avenue)
+5- Car (ER 3904) custom load (stone) final destination (HTC, Railroad Avenue)
+7- Car (ER 3904) load (stone) has assigned destination (HTC, Railroad Avenue)
+3- Car (ER 3904) assigned to train, destination (HTC, Railroad Avenue)
+3-  
+5- Generate load for (UTLX 6554) type (TG) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Team Tracks) custom load (heating oil)
+7- Train (test) can transport car (UTLX 6554) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (UTLX 6554): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (UTLX 6554) custom load (heating oil) final destination (HTC, Team Tracks)
+7- Car (UTLX 6554) load (heating oil) has assigned destination (HTC, Team Tracks)
+3- Car (UTLX 6554) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Generate load for (NYC 7803) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Feed) custom load (feed grains)
+7- Train (test) can transport car (NYC 7803) from staging (Harlem River, Car Barge) to 
+7- (HTC, Feed) 
+7- Route for car (NYC 7803): (Harlem River, Car Barge)->(HTC, Feed)
+7- Can't use spur (HTC, Feed) for (NYC 7803) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Feed) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 7803)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 7803) with load (feed grains) to (HTC, Feed)
+7- Try spur (HTC, Grain) custom load (grain)
+7- Train (test) can transport car (NYC 7803) from staging (Harlem River, Car Barge) to 
+7- (HTC, Grain) 
+7- Route for car (NYC 7803): (Harlem River, Car Barge)->(HTC, Grain)
+7- Can't use spur (HTC, Grain) for (NYC 7803) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Grain) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 7803)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 7803) with load (grain) to (HTC, Grain)
+7- Try spur (HTC, Freight House) custom load (lcl)
+7- Train (test) can transport car (NYC 7803) from staging (Harlem River, Car Barge) to 
+7- (HTC, Freight House) 
+7- Route for car (NYC 7803): (Harlem River, Car Barge)->(HTC, Freight House)
+7- Can't use spur (HTC, Freight House) for (NYC 7803) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Freight House) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (NYC 7803)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (NYC 7803) with load (lcl) to (HTC, Freight House)
+7- Try spur (HTC, Cement House) custom load (cement)
+7- Train (test) can transport car (NYC 7803) from staging (Harlem River, Car Barge) to 
+7- (HTC, Cement House) 
+7- Route for car (NYC 7803): (Harlem River, Car Barge)->(HTC, Cement House)
+5- Car (NYC 7803) custom load (cement) final destination (HTC, Cement House)
+7- Car (NYC 7803) load (cement) has assigned destination (HTC, Cement House)
+3- Car (NYC 7803) assigned to train, destination (HTC, Cement House)
+3-  
+5- Generate load for (ER 1958) type (XM) load (E) at (Harlem River, Car Barge) 
+5- destination () 
+7- Try spur (HTC, Feed) custom load (feed grains)
+7- Train (test) can transport car (ER 1958) from staging (Harlem River, Car Barge) to 
+7- (HTC, Feed) 
+7- Route for car (ER 1958): (Harlem River, Car Barge)->(HTC, Feed)
+7- Can't use spur (HTC, Feed) for (ER 1958) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Feed) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ER 1958)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ER 1958) with load (feed grains) to (HTC, Feed)
+7- Try spur (HTC, Grain) custom load (grain)
+7- Train (test) can transport car (ER 1958) from staging (Harlem River, Car Barge) to 
+7- (HTC, Grain) 
+7- Route for car (ER 1958): (Harlem River, Car Barge)->(HTC, Grain)
+7- Can't use spur (HTC, Grain) for (ER 1958) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Grain) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ER 1958)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ER 1958) with load (grain) to (HTC, Grain)
+7- Try spur (HTC, Freight House) custom load (Empty)
+7- Train (test) can transport car (ER 1958) from staging (Harlem River, Car Barge) to 
+7- (HTC, Freight House) 
+7- Route for car (ER 1958): (Harlem River, Car Barge)->(HTC, Freight House)
+7- Can't use spur (HTC, Freight House) for (ER 1958) due to rolling stock length 44 
+7- feet, available track space 0 feet 
+7- Track (Freight House) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ER 1958)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ER 1958) with load (Empty) to (HTC, Freight House)
+7- Try spur (HTC, Cement House) custom load (cement)
+7- Train (test) can transport car (ER 1958) from staging (Harlem River, Car Barge) to 
+7- (HTC, Cement House) 
+7- Route for car (ER 1958): (Harlem River, Car Barge)->(HTC, Cement House)
+7- Can't use spur (HTC, Cement House) for (ER 1958) due to rolling stock length 44 feet, 
+7- available track space 0 feet 
+7- Track (Cement House) full, searching for a yard at destination (HTC)
+7- Could not find a yard at (HTC) for car (ER 1958)
+7- Could not find an interim C/I or yard track that can service car to destination (HTC)
+7- Can't route car (ER 1958) with load (cement) to (HTC, Cement House)
+7- Try spur (HTC, Team Tracks) custom load (goods)
+7- Train (test) can transport car (ER 1958) from staging (Harlem River, Car Barge) to 
+7- (HTC, Team Tracks) 
+7- Route for car (ER 1958): (Harlem River, Car Barge)->(HTC, Team Tracks)
+5- Car (ER 1958) custom load (goods) final destination (HTC, Team Tracks)
+7- Car (ER 1958) load (goods) has assigned destination (HTC, Team Tracks)
+3- Car (ER 1958) assigned to train, destination (HTC, Team Tracks)
+3-  
+1- Partial 17/50 cars at location (Harlem River) assigned to train (test)
+1- Route location (HTC) id 2r3 requests 8 pick ups, 8/50 moves are available
+5-  
+5- Find spur for car (LV 3153) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (LV 3153) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (LV 3153) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (LV 3153) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (LV 3153) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Cement House) can't service car (LV 3153) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (LV 3153) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (LV 3153) load (merchandise)
+5- Try to send car (LV 3153) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (LV 3153) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (LV 3153) and load (merchandise)
+5- Did not assign a destination for car (LV 3153)
+5-  
+5- Find spur for car (PRR 7121) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (PRR 7121) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (PRR 7121) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (PRR 7121) with load (Empty) due 
+7- to type (XM) 
+7- Destination (HTC, Cement House) can't service car (PRR 7121) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (PRR 7121) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (PRR 7121) with load (Empty) 
+7- Train (test) can transport car (PRR 7121) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (PRR 7121): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (PRR 7121) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (PRR 7121) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (M&P 2906) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (M&P 2906) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (M&P 2906) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (M&P 2906) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (M&P 2906) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (M&P 2906) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (M&P 2906) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (M&P 2906) load (merchandise)
+5- Try to send car (M&P 2906) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (M&P 2906) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (M&P 2906) and load (merchandise)
+5- Did not assign a destination for car (M&P 2906)
+5-  
+5- Find spur for car (ER 4923) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (ER 4923) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (ER 4923) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (ER 4923) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (ER 4923) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (ER 4923) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (ER 4923) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (ER 4923) load (merchandise)
+5- Try to send car (ER 4923) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (ER 4923) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 4923) and load (merchandise)
+5- Did not assign a destination for car (ER 4923)
+5-  
+5- Find spur for car (UTLX 3565) type (TG) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (UTLX 3565) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Grain) can't service car (UTLX 3565) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Overhead Crane) can't service car (UTLX 3565) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Freight House) can't service car (UTLX 3565) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Cement House) can't service car (UTLX 3565) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Railroad Avenue) can't service car (UTLX 3565) with load (Empty) 
+7- due to type (TG) 
+7- Could not find a reachable spur for car (UTLX 3565) load (Empty)
+5- Try to send car (UTLX 3565) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (UTLX 3565) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (UTLX 3565) and load (Empty)
+5- Did not assign a destination for car (UTLX 3565)
+5-  
+5- Find spur for car (UTLX 2306) type (TG) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (UTLX 2306) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Grain) can't service car (UTLX 2306) with load (Empty) due to type 
+7- (TG) 
+7- Destination (HTC, Overhead Crane) can't service car (UTLX 2306) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Freight House) can't service car (UTLX 2306) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Cement House) can't service car (UTLX 2306) with load (Empty) due 
+7- to type (TG) 
+7- Destination (HTC, Railroad Avenue) can't service car (UTLX 2306) with load (Empty) 
+7- due to type (TG) 
+7- Could not find a reachable spur for car (UTLX 2306) load (Empty)
+5- Try to send car (UTLX 2306) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (UTLX 2306) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (UTLX 2306) and load (Empty)
+5- Did not assign a destination for car (UTLX 2306)
+5-  
+5- Find spur for car (CNJ 9828) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (CNJ 9828) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (CNJ 9828) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (CNJ 9828) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (CNJ 9828) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (CNJ 9828) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (CNJ 9828) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (CNJ 9828) load (merchandise)
+5- Try to send car (CNJ 9828) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (CNJ 9828) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (CNJ 9828) and load (merchandise)
+5- Did not assign a destination for car (CNJ 9828)
+5-  
+5- Find spur for car (ER 6430) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (ER 6430) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (ER 6430) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (ER 6430) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (ER 6430) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (ER 6430) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (ER 6430) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (ER 6430) load (merchandise)
+5- Try to send car (ER 6430) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (ER 6430) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 6430) and load (merchandise)
+5- Did not assign a destination for car (ER 6430)
+5-  
+5- Find spur for car (ER 1584) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (ER 1584) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (ER 1584) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (ER 1584) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (ER 1584) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (ER 1584) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (ER 1584) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (ER 1584) load (Empty)
+5- Try to send car (ER 1584) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (ER 1584) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 1584) and load (Empty)
+5- Did not assign a destination for car (ER 1584)
+5-  
+5- Find spur for car (ER 7338) type (GA) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (ER 7338) with load (Empty) due to type (GA)
+7- Destination (HTC, Grain) can't service car (ER 7338) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Overhead Crane) can't service car (ER 7338) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (ER 7338) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Cement House) can't service car (ER 7338) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Team Tracks) can't service car (ER 7338) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (ER 7338) load (Empty)
+5- Try to send car (ER 7338) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (ER 7338) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 7338) and load (Empty)
+5- Did not assign a destination for car (ER 7338)
+5-  
+5- Find spur for car (LV 1048) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (LV 1048) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (LV 1048) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (LV 1048) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (LV 1048) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (LV 1048) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (LV 1048) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (LV 1048) load (Empty)
+5- Try to send car (LV 1048) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (LV 1048) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (LV 1048) and load (Empty)
+5- Did not assign a destination for car (LV 1048)
+5-  
+5- Find spur for car (B&O 2812) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (B&O 2812) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (B&O 2812) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (B&O 2812) with load (Empty) due 
+7- to type (XM) 
+7- Destination (HTC, Cement House) can't service car (B&O 2812) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (B&O 2812) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (B&O 2812) with load (Empty) 
+7- Train (test) can transport car (B&O 2812) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (B&O 2812): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (B&O 2812) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (B&O 2812) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (PRR 2303) type (GA) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (PRR 2303) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Grain) can't service car (PRR 2303) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Overhead Crane) can't service car (PRR 2303) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (PRR 2303) with load (Empty) due 
+7- to type (GA) 
+7- Destination (HTC, Cement House) can't service car (PRR 2303) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Team Tracks) can't service car (PRR 2303) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (PRR 2303) load (Empty)
+5- Try to send car (PRR 2303) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (PRR 2303) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (PRR 2303) and load (Empty)
+5- Did not assign a destination for car (PRR 2303)
+5-  
+5- Find spur for car (PRR 1269) type (GA) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (PRR 1269) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Grain) can't service car (PRR 1269) with load (Empty) due to type 
+7- (GA) 
+7- Destination (HTC, Overhead Crane) can't service car (PRR 1269) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (PRR 1269) with load (Empty) due 
+7- to type (GA) 
+7- Destination (HTC, Cement House) can't service car (PRR 1269) with load (Empty) due to 
+7- type (GA) 
+7- Destination (HTC, Team Tracks) can't service car (PRR 1269) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (PRR 1269) load (Empty)
+5- Try to send car (PRR 1269) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (PRR 1269) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (PRR 1269) and load (Empty)
+5- Did not assign a destination for car (PRR 1269)
+5-  
+5- Find spur for car (ER 2382) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (ER 2382) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (ER 2382) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (ER 2382) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (ER 2382) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (ER 2382) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (ER 2382) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (ER 2382) load (Empty)
+5- Try to send car (ER 2382) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (ER 2382) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 2382) and load (Empty)
+5- Did not assign a destination for car (ER 2382)
+5-  
+5- Find spur for car (ER 4327) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (ER 4327) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (ER 4327) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (ER 4327) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (ER 4327) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (ER 4327) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (ER 4327) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (ER 4327) load (Empty)
+5- Try to send car (ER 4327) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (ER 4327) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 4327) and load (Empty)
+5- Did not assign a destination for car (ER 4327)
+5-  
+5- Find spur for car (AT&SF 5639) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (AT&SF 5639) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (AT&SF 5639) with load (merchandise) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (AT&SF 5639) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (AT&SF 5639) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (AT&SF 5639) with load 
+7- (merchandise) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (AT&SF 5639) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (AT&SF 5639) load (merchandise)
+5- Try to send car (AT&SF 5639) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (AT&SF 5639) to (Harlem River, ) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (AT&SF 5639) and load (merchandise)
+5- Did not assign a destination for car (AT&SF 5639)
+5-  
+5- Find spur for car (AT&SF 5241) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (AT&SF 5241) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (AT&SF 5241) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (AT&SF 5241) with load (Empty) 
+7- due to type (XM) 
+7- Destination (HTC, Cement House) can't service car (AT&SF 5241) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (AT&SF 5241) with load (Empty) 
+7- due to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (AT&SF 5241) with load (Empty) 
+7- Train (test) can transport car (AT&SF 5241) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (AT&SF 5241): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (AT&SF 5241) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (AT&SF 5241) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (M&P 7801) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (M&P 7801) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (M&P 7801) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (M&P 7801) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (M&P 7801) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (M&P 7801) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (M&P 7801) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (M&P 7801) load (merchandise)
+5- Try to send car (M&P 7801) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (M&P 7801) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (M&P 7801) and load (merchandise)
+5- Did not assign a destination for car (M&P 7801)
+5-  
+5- Find spur for car (P&R 3867) type (FM) custom empty (Empty) at (HTC, Overhead Crane)
+7- Destination (HTC, Feed) can't service car (P&R 3867) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Grain) can't service car (P&R 3867) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Freight House) can't service car (P&R 3867) with load (Empty) due 
+7- to type (FM) 
+7- Destination (HTC, Cement House) can't service car (P&R 3867) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Railroad Avenue) can't service car (P&R 3867) with load (Empty) due 
+7- to schedule no match 
+7- Destination (HTC, Team Tracks) can't service car (P&R 3867) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (P&R 3867) load (Empty)
+5- Try to send car (P&R 3867) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (P&R 3867) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (P&R 3867) and load (Empty)
+5- Did not assign a destination for car (P&R 3867)
+5-  
+5- Find spur for car (PGCC 1974) type (HK) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (PGCC 1974) with load (Empty) due to type 
+7- (HK) 
+7- Destination (HTC, Grain) can't service car (PGCC 1974) with load (Empty) due to type 
+7- (HK) 
+7- Destination (HTC, Overhead Crane) can't service car (PGCC 1974) with load (Empty) due 
+7- to type (HK) 
+7- Destination (HTC, Freight House) can't service car (PGCC 1974) with load (Empty) due 
+7- to type (HK) 
+7- Destination (HTC, Cement House) can't service car (PGCC 1974) with load (Empty) due 
+7- to type (HK) 
+7- Destination (HTC, Railroad Avenue) can't service car (PGCC 1974) with load (Empty) 
+7- due to type (HK) 
+7- Could not find a reachable spur for car (PGCC 1974) load (Empty)
+5- Try to send car (PGCC 1974) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (PGCC 1974) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (PGCC 1974) and load (Empty)
+5- Did not assign a destination for car (PGCC 1974)
+5-  
+5- Find spur for car (DL&W 7542) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (DL&W 7542) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (DL&W 7542) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (DL&W 7542) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (DL&W 7542) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (DL&W 7542) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (DL&W 7542) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (DL&W 7542) load (merchandise)
+5- Try to send car (DL&W 7542) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (DL&W 7542) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (DL&W 7542) and load (merchandise)
+5- Did not assign a destination for car (DL&W 7542)
+5-  
+5- Find spur for car (LV 1789) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (LV 1789) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (LV 1789) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (LV 1789) with load (Empty) due 
+7- to type (XM) 
+7- Destination (HTC, Cement House) can't service car (LV 1789) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (LV 1789) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (LV 1789) with load (Empty) 
+7- Train (test) can transport car (LV 1789) from spur (HTC, Freight House) to (HTC, Team 
+7- Tracks) 
+7- Route for car (LV 1789): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (LV 1789) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (LV 1789) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (ER 5812) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (ER 5812) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (ER 5812) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (ER 5812) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (ER 5812) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (ER 5812) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (ER 5812) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (ER 5812) load (merchandise)
+5- Try to send car (ER 5812) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (ER 5812) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (ER 5812) and load (merchandise)
+5- Did not assign a destination for car (ER 5812)
+5-  
+5- Find spur for car (WJ&S 2040) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (WJ&S 2040) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (WJ&S 2040) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (WJ&S 2040) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (WJ&S 2040) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (WJ&S 2040) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (WJ&S 2040) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (WJ&S 2040) load (merchandise)
+5- Try to send car (WJ&S 2040) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (WJ&S 2040) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (WJ&S 2040) and load (merchandise)
+5- Did not assign a destination for car (WJ&S 2040)
+5-  
+5- Find spur for car (DL&W 0626) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (DL&W 0626) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (DL&W 0626) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (DL&W 0626) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (DL&W 0626) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (DL&W 0626) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (DL&W 0626) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (DL&W 0626) load (merchandise)
+5- Try to send car (DL&W 0626) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (DL&W 0626) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (DL&W 0626) and load (merchandise)
+5- Did not assign a destination for car (DL&W 0626)
+5-  
+5- Find spur for car (AT&SF 7691) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (AT&SF 7691) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (AT&SF 7691) with load (merchandise) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (AT&SF 7691) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (AT&SF 7691) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (AT&SF 7691) with load 
+7- (merchandise) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (AT&SF 7691) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (AT&SF 7691) load (merchandise)
+5- Try to send car (AT&SF 7691) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (AT&SF 7691) to (Harlem River, ) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (AT&SF 7691) and load (merchandise)
+5- Did not assign a destination for car (AT&SF 7691)
+5-  
+5- Find spur for car (DL&W 1627) type (XM) custom load (merchandise) at (HTC, Team 
+5- Tracks) 
+7- Destination (HTC, Feed) can't service car (DL&W 1627) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (DL&W 1627) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (DL&W 1627) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (DL&W 1627) with load 
+7- (merchandise) due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (DL&W 1627) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (DL&W 1627) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (DL&W 1627) load (merchandise)
+5- Try to send car (DL&W 1627) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (DL&W 1627) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (DL&W 1627) and load (merchandise)
+5- Did not assign a destination for car (DL&W 1627)
+5-  
+5- Find spur for car (SP 7058) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (SP 7058) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (SP 7058) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (SP 7058) with load (merchandise) 
+7- due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (SP 7058) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (SP 7058) with load (merchandise) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Railroad Avenue) can't service car (SP 7058) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (SP 7058) load (merchandise)
+5- Try to send car (SP 7058) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (SP 7058) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (SP 7058) and load (merchandise)
+5- Did not assign a destination for car (SP 7058)
+5-  
+5- Find spur for car (B&O 4604) type (HK) custom empty (Empty) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (B&O 4604) with load (Empty) due to type 
+7- (HK) 
+7- Destination (HTC, Grain) can't service car (B&O 4604) with load (Empty) due to type 
+7- (HK) 
+7- Destination (HTC, Overhead Crane) can't service car (B&O 4604) with load (Empty) due 
+7- to type (HK) 
+7- Destination (HTC, Freight House) can't service car (B&O 4604) with load (Empty) due 
+7- to type (HK) 
+7- Destination (HTC, Cement House) can't service car (B&O 4604) with load (Empty) due to 
+7- type (HK) 
+7- Destination (HTC, Railroad Avenue) can't service car (B&O 4604) with load (Empty) due 
+7- to type (HK) 
+7- Could not find a reachable spur for car (B&O 4604) load (Empty)
+5- Try to send car (B&O 4604) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (B&O 4604) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (B&O 4604) and load (Empty)
+5- Did not assign a destination for car (B&O 4604)
+5-  
+5- Find spur for car (LV 5032) type (XM) custom empty (Empty) at (HTC, Cement House)
+7- Destination (HTC, Feed) can't service car (LV 5032) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (LV 5032) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (LV 5032) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Freight House) for car (LV 5032) with load (Empty) 
+7- Train (test) can transport car (LV 5032) from spur (HTC, Cement House) to (HTC, 
+7- Freight House) 
+7- Route for car (LV 5032): (HTC, Cement House)->(HTC, Freight House)
+7- Car (LV 5032) load (Empty) has assigned destination (HTC, Freight House)
+3- Car (LV 5032) assigned to train, destination (HTC, Freight House)
+3-  
+5- Find spur for car (P&R 9211) type (XM) custom load (merchandise) at (HTC, Team Tracks)
+7- Destination (HTC, Feed) can't service car (P&R 9211) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (P&R 9211) with load (merchandise) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (P&R 9211) with load 
+7- (merchandise) due to type (XM) 
+7- Destination (HTC, Freight House) can't service car (P&R 9211) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Cement House) can't service car (P&R 9211) with load (merchandise) 
+7- due to schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (P&R 9211) with load 
+7- (merchandise) due to type (XM) 
+7- Could not find a reachable spur for car (P&R 9211) load (merchandise)
+5- Try to send car (P&R 9211) custom load (merchandise) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (merchandise)
+7- Train (test) can't transport car (P&R 9211) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (P&R 9211) and load (merchandise)
+5- Did not assign a destination for car (P&R 9211)
+5-  
+5- Find spur for car (ACL 7621) type (XM) custom empty (Empty) at (HTC, Freight House)
+7- Destination (HTC, Feed) can't service car (ACL 7621) with load (Empty) due to rolling 
+7- stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Grain) can't service car (ACL 7621) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Overhead Crane) can't service car (ACL 7621) with load (Empty) due 
+7- to type (XM) 
+7- Destination (HTC, Cement House) can't service car (ACL 7621) with load (Empty) due to 
+7- schedule no match 
+7- Destination (HTC, Railroad Avenue) can't service car (ACL 7621) with load (Empty) due 
+7- to type (XM) 
+7- Try destination (HTC, Team Tracks) for car (ACL 7621) with load (Empty) 
+7- Train (test) can transport car (ACL 7621) from spur (HTC, Freight House) to (HTC, 
+7- Team Tracks) 
+7- Route for car (ACL 7621): (HTC, Freight House)->(HTC, Team Tracks)
+7- Car (ACL 7621) load (Empty) has assigned destination (HTC, Team Tracks)
+3- Car (ACL 7621) assigned to train, destination (HTC, Team Tracks)
+3-  
+5- Find spur for car (LV 1771) type (FM) custom empty (Empty) at (HTC, Railroad Avenue)
+7- Destination (HTC, Feed) can't service car (LV 1771) with load (Empty) due to type (FM)
+7- Destination (HTC, Grain) can't service car (LV 1771) with load (Empty) due to type 
+7- (FM) 
+7- Destination (HTC, Overhead Crane) can't service car (LV 1771) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (HTC, Freight House) can't service car (LV 1771) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Cement House) can't service car (LV 1771) with load (Empty) due to 
+7- type (FM) 
+7- Destination (HTC, Team Tracks) can't service car (LV 1771) with load (Empty) due to 
+7- schedule no match 
+7- Could not find a reachable spur for car (LV 1771) load (Empty)
+5- Try to send car (LV 1771) custom load (Empty) to staging
+7- Staging (Harlem River, Car Barge) can accept car's load (Empty)
+7- Train (test) can't transport car (LV 1771) to (Harlem River, ) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Couldn't find staging that would accept car (LV 1771) and load (Empty)
+5- Did not assign a destination for car (LV 1771)
+5-  
+1- Partial 6/8 cars at location (HTC) assigned to train (test)
+1- Route location (Harlem River) id 2r2 no pick ups
+1- Partial 48/75 cars
+5- Build for train (test) took 115 mSec

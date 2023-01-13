@@ -1,0 +1,3876 @@
+{
+  "railroad" : "o2o - Glass Works Model - 1915;;;;;",
+  "userName" : "Fenwick Flyer",
+  "description" : "Switch Along Fenwick Creek",
+  "locations" : [ {
+    "userName" : "Salem",
+    "name" : "15r16",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "5s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1056,
+      "unit" : "Feet"
+    },
+    "weight" : 636,
+    "cars" : {
+      "add" : [ {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 24,
+      "loads" : 12,
+      "empties" : 12
+    }
+  }, {
+    "userName" : "Fenwick Creek",
+    "name" : "15r18",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "00:49",
+    "location" : {
+      "comment" : "",
+      "name" : "4"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "4s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "4s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "4s5" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1188,
+      "unit" : "Feet"
+    },
+    "weight" : 756,
+    "cars" : {
+      "add" : [ {
+        "name" : "B&O7951",
+        "number" : "7951",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware Shed",
+            "name" : "4s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP4555",
+        "number" : "4555",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8284",
+        "number" : "8284",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O9766",
+        "number" : "9766",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7099",
+        "number" : "7099",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ0796",
+        "number" : "0796",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7753",
+        "number" : "7753",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5776",
+        "number" : "5776",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9972",
+        "number" : "9972",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 27,
+      "loads" : 15,
+      "empties" : 12
+    }
+  }, {
+    "userName" : "Unknown",
+    "name" : "15r20",
+    "arrivalTime" : "00:53",
+    "expectedDepartureTime" : "00:53",
+    "location" : {
+      "comment" : "",
+      "name" : "3"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : { },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1188,
+      "unit" : "Feet"
+    },
+    "weight" : 756,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 27,
+      "loads" : 15,
+      "empties" : 12
+    }
+  }, {
+    "userName" : "Fenwick Creek",
+    "name" : "15r19",
+    "arrivalTime" : "00:57",
+    "expectedDepartureTime" : "01:42",
+    "location" : {
+      "comment" : "",
+      "name" : "4"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "4s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "4s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "4s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "4s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 1232,
+      "unit" : "Feet"
+    },
+    "weight" : 796,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRR8838",
+        "number" : "8838",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6024",
+        "number" : "6024",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC1063",
+        "number" : "1063",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL8380",
+        "number" : "8380",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P7281",
+        "number" : "7281",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware Shed",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H2816",
+        "number" : "2816",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A8913",
+        "number" : "8913",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8636",
+        "number" : "8636",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O7951",
+        "number" : "7951",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware Shed",
+            "name" : "4s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 28,
+      "loads" : 16,
+      "empties" : 12
+    }
+  }, {
+    "userName" : "Salem",
+    "name" : "15r17",
+    "arrivalTime" : "01:46",
+    "expectedDepartureTime" : "03:10",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "SP4555",
+        "number" : "4555",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8284",
+        "number" : "8284",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Electric Co NJ",
+            "name" : "4s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O9766",
+        "number" : "9766",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7099",
+        "number" : "7099",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ0796",
+        "number" : "0796",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7753",
+        "number" : "7753",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Fenwick Oil",
+            "name" : "4s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5776",
+        "number" : "5776",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9972",
+        "number" : "9972",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r18",
+          "track" : {
+            "userName" : "Salem 3 Merch Storage",
+            "name" : "4s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR8838",
+        "number" : "8838",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6024",
+        "number" : "6024",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Sand Storage",
+            "name" : "4s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC1063",
+        "number" : "1063",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL8380",
+        "number" : "8380",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware House",
+            "name" : "4s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P7281",
+        "number" : "7281",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem 4 Ware Shed",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H2816",
+        "number" : "2816",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A8913",
+        "number" : "8913",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8636",
+        "number" : "8636",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Fenwick Creek",
+          "name" : "4",
+          "route" : "15r19",
+          "track" : {
+            "userName" : "Salem Gas Light",
+            "name" : "4s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r16",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "15r17",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "2022-11-08T15:17:36.400+0000"
+}

@@ -1,0 +1,39 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (Ready)
+ 
+Scheduled work at Storage Yard, departure time 00:00
+ [ ] Pick up X21    PRR  Empty      from Storage Tracks     -> Ready                    
+ [ ] Pick up X17    PRR  Empty      from Storage Tracks     -> Ready                    
+ [ ] Pick up X16    PRR  Empty      from Storage Tracks     -> Ready                    
+ [ ] Pick up X15    PRR  Empty      from Storage Tracks     -> Ready                    
+ [ ] Pick up X13    PRR  Empty      from Storage Tracks     -> Ready                    
+ [ ] Pick up X12    PRR  Flour      from Storage Tracks     -> Ready                    
+ [ ] Pick up X11    PRR  LCL        from Storage Tracks     -> Ready                    
+ [ ] Pick up H9     PRR  Coal       from Storage Tracks     -> Ready                    
+ [ ] Pick up H8     PRR  Coal       from Storage Tracks     -> Ready                    
+ [ ] Pick up H7     PRR  Coal       from Storage Tracks     -> Ready                    
+ [ ] Pick up H6     PRR  Coal       from Storage Tracks     -> Ready                    
+ [ ] Pick up H5     PRR  Coal       from Storage Tracks     -> Ready                    
+ [ ] Pick up H4     PRR  E          from Storage Tracks     -> Ready                    
+ [ ] Pick up H2     PRR  E          from Storage Tracks     -> Ready                    
+Train departs Storage Yard Eastbound with 14 cars, 558 feet, 633 tons
+ 
+Scheduled work at Ready, arrival time 00:04
+ [ ] Set out X21    PRR  Empty      from Storage Yard              to To Industry       
+ [ ] Set out X17    PRR  Empty      from Storage Yard              to To Industry       
+ [ ] Set out X16    PRR  Empty      from Storage Yard              to To Industry       
+ [ ] Set out X15    PRR  Empty      from Storage Yard              to To Industry       
+ [ ] Set out X13    PRR  Empty      from Storage Yard              to To Industry       
+ [ ] Set out X12    PRR  Flour      from Storage Yard              to To Industry       
+ [ ] Set out X11    PRR  LCL        from Storage Yard              to To Industry       
+ [ ] Set out H9     PRR  Coal       from Storage Yard              to To Industry       
+ [ ] Set out H8     PRR  Coal       from Storage Yard              to To Industry       
+ [ ] Set out H7     PRR  Coal       from Storage Yard              to To Industry       
+ [ ] Set out H6     PRR  Coal       from Storage Yard              to To Industry       
+ [ ] Set out H5     PRR  Coal       from Storage Yard              to To Industry       
+ [ ] Set out H4     PRR  E          from Storage Yard              to To Industry       
+ [ ] Set out H2     PRR  E          from Storage Yard              to To Industry       
+Train departs Ready Eastbound with 0 cars, 0 feet, 0 tons
+ 
+Train terminates in (Storage Yard)

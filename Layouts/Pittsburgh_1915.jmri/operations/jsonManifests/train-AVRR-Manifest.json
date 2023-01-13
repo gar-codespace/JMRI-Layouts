@@ -1,0 +1,3817 @@
+{
+  "railroad" : "O2O Pittsburgh 1915",
+  "userName" : "AVRR-Manifest",
+  "description" : "AS&amp;WCo Manifest",
+  "locations" : [ {
+    "userName" : "Staging",
+    "name" : "91r1",
+    "departureTime" : "00:20",
+    "location" : {
+      "comment" : "",
+      "name" : "37"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "37s21" : {
+        "add" : "",
+        "comment" : "M2"
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 808,
+      "unit" : "Feet"
+    },
+    "weight" : 1065,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRRUL10158",
+        "number" : "10158",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "Xh",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR40196",
+        "number" : "40196",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10195",
+        "number" : "10195",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10194",
+        "number" : "10194",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10193",
+        "number" : "10193",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4030",
+        "number" : "4030",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR404428",
+        "number" : "404428",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4020",
+        "number" : "4020",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411225",
+        "number" : "411225",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4015",
+        "number" : "4015",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR50197",
+        "number" : "50197",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Fm",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401133",
+        "number" : "401133",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401484",
+        "number" : "401484",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401120",
+        "number" : "401120",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401482",
+        "number" : "401482",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRUL101019",
+        "number" : "101019",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRUL101017",
+        "number" : "101017",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR104142",
+        "number" : "104142",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR404087",
+        "number" : "404087",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 19,
+      "loads" : 12,
+      "empties" : 7
+    }
+  }, {
+    "userName" : "AVRR(PRR)",
+    "name" : "91r3",
+    "arrivalTime" : "00:24",
+    "expectedDepartureTime" : "02:18",
+    "location" : {
+      "comment" : "",
+      "name" : "33"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "33s12" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : "AIX"
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 796,
+      "unit" : "Feet"
+    },
+    "weight" : 1384,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRRAL10184",
+        "number" : "10184",
+        "road" : "PRRAL",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411393",
+        "number" : "411393",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Cable",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10150",
+        "number" : "10150",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10740",
+        "number" : "10740",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4031",
+        "number" : "4031",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AVR10190",
+        "number" : "10190",
+        "road" : "AVR",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR102627",
+        "number" : "102627",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR10703",
+        "number" : "10703",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10681",
+        "number" : "10681",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "GR&I101115",
+        "number" : "101115",
+        "road" : "GR&I",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401388",
+        "number" : "401388",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Cable",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR11730",
+        "number" : "11730",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Xh Ventilated",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR40290",
+        "number" : "40290",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Slag",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR409473",
+        "number" : "409473",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR106250",
+        "number" : "106250",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna106302",
+        "number" : "106302",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna105556",
+        "number" : "105556",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR50304",
+        "number" : "50304",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Fh",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10249",
+        "number" : "10249",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "PRRUL10158",
+        "number" : "10158",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "Xh",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR40196",
+        "number" : "40196",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10195",
+        "number" : "10195",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10194",
+        "number" : "10194",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10193",
+        "number" : "10193",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4030",
+        "number" : "4030",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR404428",
+        "number" : "404428",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4020",
+        "number" : "4020",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411225",
+        "number" : "411225",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4015",
+        "number" : "4015",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR50197",
+        "number" : "50197",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Fm",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401133",
+        "number" : "401133",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401484",
+        "number" : "401484",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401120",
+        "number" : "401120",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401482",
+        "number" : "401482",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRUL101019",
+        "number" : "101019",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRRUL101017",
+        "number" : "101017",
+        "road" : "PRRUL",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR104142",
+        "number" : "104142",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Wire",
+            "name" : "1s1"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR404087",
+        "number" : "404087",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r1",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "destination" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "load" : "Scrap",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : null,
+          "track" : {
+            "userName" : "Scrap",
+            "name" : "1s7"
+          }
+        },
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 19,
+      "loads" : 19,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Staging",
+    "name" : "91r2",
+    "arrivalTime" : "02:22",
+    "expectedDepartureTime" : "03:19",
+    "location" : {
+      "comment" : "",
+      "name" : "37"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Staging",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "PRRAL10184",
+        "number" : "10184",
+        "road" : "PRRAL",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411393",
+        "number" : "411393",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Cable",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10150",
+        "number" : "10150",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10740",
+        "number" : "10740",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4031",
+        "number" : "4031",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AVR10190",
+        "number" : "10190",
+        "road" : "AVR",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR102627",
+        "number" : "102627",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Xl",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR10703",
+        "number" : "10703",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10681",
+        "number" : "10681",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "GR&I101115",
+        "number" : "101115",
+        "road" : "GR&I",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR401388",
+        "number" : "401388",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Cable",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR11730",
+        "number" : "11730",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Xh Ventilated",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR40290",
+        "number" : "40290",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gs",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Slag",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR409473",
+        "number" : "409473",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gr",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR106250",
+        "number" : "106250",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Horse Shoes",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna106302",
+        "number" : "106302",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Wire",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna105556",
+        "number" : "105556",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR50304",
+        "number" : "50304",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Fh",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Plate",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "Penna10249",
+        "number" : "10249",
+        "road" : "Penna",
+        "rfid" : "",
+        "carType" : "Boxcar",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "Oxide Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AVRR(PRR)",
+          "name" : "33",
+          "route" : "91r3",
+          "track" : {
+            "userName" : "AS&WCo Transfer",
+            "name" : "33s12"
+          }
+        },
+        "destination" : {
+          "userName" : "Staging",
+          "name" : "37",
+          "route" : "91r2",
+          "track" : {
+            "userName" : "M2 - PRR Manifest",
+            "name" : "37s21"
+          }
+        },
+        "load" : "Steel Products",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "1915-03-31T21:32:25.407+0000"
+}

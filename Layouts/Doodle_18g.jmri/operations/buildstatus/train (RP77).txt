@@ -1,0 +1,725 @@
+1- Build Report for train (RP77) built on 1/7/23 11:25 AM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 2 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- The option to restrict staging to the same car types, roads, and loads as the train 
+5- being built is enabled 
+5- Make departure track available after train is built
+5-  
+5- Car routing options:
+5- Car routing via yards is enabled
+5- Use all Trains when Routing
+5-  
+5- Enabled build options for train (RP77):
+5- Allow cars to travel from origin to terminal
+5-  
+5- Disabled build options for train (RP77):
+5- Use normal mode when building this train
+5- Send all car pick ups to terminal (Easton)
+5- Allow local moves if car has a custom load or FD
+5- Service all cars with a final destination (FD)
+5- Send cars with custom loads to staging
+5- Build loco consist from single locos
+5-  
+3- Train (RP77) route (RP77):
+3- 26r11 Staging (Weston) request 50 pick ups, maximum train length 3,000 feet
+3- 26r15 Location (Train Service) requests 1 moves, maximum train length 3,000 feet
+3- 26r12 Location (City) requests 24 moves, maximum train length 3,000 feet
+3- 26r14 Staging (Easton) requests 50 set outs
+1- Route (RP77) requests 62 cars and 125 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1- Locomotive change at (Train Service), departs with 1 loco(s), model (4-6-2 k4 pr) 
+1- road () 
+1-  
+7- Exclude loco (PRR 871) type (ED) is not serviced by this train
+7- Exclude loco (ESS 293) type (ESS) is not serviced by this train
+7- Exclude loco (EEI 69) type (EEI) is not serviced by this train
+7- Exclude loco (PRR 127) type (ED) is not serviced by this train
+7- Exclude loco (EEI 68) type (EEI) is not serviced by this train
+7- Exclude loco (EEI 67) type (EEI) is not serviced by this train
+7- Exclude loco (EEI 66) type (EEI) is not serviced by this train
+7- Exclude loco (PRR 358) type (EE) is not serviced by this train
+7- Exclude loco (ESS 382) type (ESS) is not serviced by this train
+7- Exclude loco (PRR 894) type (EE) is not serviced by this train
+7- Exclude loco (PRR 135) type (ED) is not serviced by this train
+7- Exclude loco (PRR 413) type (EE) is not serviced by this train
+7- Exclude loco (PRR 308) type (EE) is not serviced by this train
+7- Exclude loco (EEI 72) type (EEI) is not serviced by this train
+7- Exclude loco (EEI 71) type (EEI) is not serviced by this train
+7- Exclude loco (EEI 70) type (EEI) is not serviced by this train
+7- Exclude loco (PRR 022) type (EE) is not serviced by this train
+7- Exclude loco (PRR 289) type (EE) is not serviced by this train
+3-  
+1- Train terminates into staging at (Easton), there are 3 tracks
+5- Staging track (E1) is occupied, found 1 locomotive(s) and 32 cars
+5- Staging track (E4) is occupied, found 2 locomotive(s) and 17 cars
+7- Train (RP77) can terminate to staging track (E3)
+1- Staging track (E3) is available at destination (Easton)
+3-  
+1- Train will depart staging (Weston), there are 2 tracks
+3- Staging track (W3) has 1 loco(s) and 49 cars
+7- Train (RP77) can depart from staging track (W3)
+5- Search for 0 loco(s), model (), road (), departing (Weston), destination (Train 
+5- Service) 
+7- Can't send loco (PRR 455) to yard (Coach Yard) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (OB-Valley) due to type (ES)
+7- Can't send loco (PRR 455) to yard (Passenger) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (OB-Downtown) due to type (ES)
+7- Can't send loco (PRR 455) to yard (Cabin Track) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (OB-Crest) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (OB-Easton) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (OB-Northton) due to type (ES)
+7- Can't send loco (PRR 455) to yard (Car Barn) due to type (ES)
+7- Can't send loco (PRR 455) to C/I (Passenger Setout) due to type (ES)
+1- Loco (PRR 455) assigned to train, departs (Weston) destination (Train Service, 
+1- Roundhouse) 
+7- Done assigning locomotives from staging
+3-  
+3- Locomotive change at (Train Service), departs with 1 loco(s), model (4-6-2 k4 pr) 
+3- road () 
+5- Search for 1 loco(s), model (4-6-2 k4 pr), road (), departing (Train Service), 
+5- destination (Easton) 
+5- Loco (PRR 768) road (PRR) model (4-6-2 k4 pr) type (ES) at location (Train Service, 
+5- Roundhouse) destination (Easton) 
+1- Loco (PRR 768) assigned to train, departs (Train Service) destination (Easton, E3)
+5-  
+5- Train (RP77) services car types:
+5- NM, NE, RB, RS
+7-  
+7- Remove cars not serviced by this train:
+7- Exclude car (PGCC 3571) type (HT) train doesn't service type (HT)
+7- Exclude car (B 76) type (B) train doesn't service type (B)
+7- Exclude car (PRR 5279) type (HT) train doesn't service type (HT)
+7- Exclude car (B&O 2483) type (HT) train doesn't service type (HT)
+7- Exclude car (B&O 6752) type (HK) train doesn't service type (HK)
+7- Exclude car (PRR 7826) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 7777) type (HT) train doesn't service type (HT)
+7- Exclude car (WCC 0349) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 4594) type (TM) train doesn't service type (TM)
+7- Exclude car (ER 3554) type (GB) train doesn't service type (GB)
+7- Exclude car (B&O 0006) type (HT) train doesn't service type (HT)
+7- Exclude car (B&O 0001) type (GB) train doesn't service type (GB)
+7- Exclude car (PGCC 1849) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 9884) type (HT) train doesn't service type (HT)
+7- Exclude car (WCC 2057) type (HK) train doesn't service type (HK)
+7- Exclude car (WCC 3926) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 2452) type (HK) train doesn't service type (HK)
+7- Exclude car (P&R 8045) type (HT) train doesn't service type (HT)
+7- Exclude car (PGCC 0006) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 4616) type (HK) train doesn't service type (HK)
+7- Exclude car (PRR 1026) type (XM) train doesn't service type (XM)
+7- Exclude car (PGCC 8502) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 4206) type (HT) train doesn't service type (HT)
+7- Exclude car (NYC 5469) type (FM) train doesn't service type (FM)
+7- Exclude car (B&O 8057) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 0725) type (HT) train doesn't service type (HT)
+7- Exclude car (M&P 7404) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 1772) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 3097) type (HK) train doesn't service type (HK)
+7- Exclude car (WCC 8784) type (HT) train doesn't service type (HT)
+7- Exclude car (LV 9527) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 2844) type (HK) train doesn't service type (HK)
+7- Exclude car (PGCC 6335) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 5587) type (HT) train doesn't service type (HT)
+7- Exclude car (B&A 5230) type (XM) train doesn't service type (XM)
+7- Exclude car (WCC 9055) type (HK) train doesn't service type (HK)
+7- Exclude car (PL 7789) type (GB) train doesn't service type (GB)
+7- Exclude car (B&O 1363) type (HT) train doesn't service type (HT)
+7- Exclude car (SP 0509) type (XM) train doesn't service type (XM)
+7- Exclude car (PGCC 0337) type (HK) train doesn't service type (HK)
+7- Exclude car (TELX 6664) type (TM) train doesn't service type (TM)
+7- Exclude car (PRR 6701) type (XM) train doesn't service type (XM)
+7- Exclude car (WCC 2377) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 0706) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 4539) type (PC) train doesn't service type (PC)
+7- Exclude car (PRR 4494) type (HT) train doesn't service type (HT)
+7- Exclude car (PL 0731) type (XM) train doesn't service type (XM)
+7- Exclude car (P&R 1684) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 1322) type (HK) train doesn't service type (HK)
+7- Exclude car (PRR 2377) type (GB) train doesn't service type (GB)
+7- Exclude car (PRR 0659) type (PC) train doesn't service type (PC)
+7- Exclude car (DL&W 1606) type (GB) train doesn't service type (GB)
+7- Exclude car (P&R 3799) type (HT) train doesn't service type (HT)
+7- Exclude car (TELX 5165) type (TM) train doesn't service type (TM)
+7- Exclude car (B&A 1326) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 7316) type (FM) train doesn't service type (FM)
+7- Exclude car (B&O 4129) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 1707) type (HK) train doesn't service type (HK)
+7- Exclude car (PRR 8746) type (HK) train doesn't service type (HK)
+7- Exclude car (WCC 6217) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 5948) type (TM) train doesn't service type (TM)
+7- Exclude car (DL&W 2622) type (XM) train doesn't service type (XM)
+7- Exclude car (ACL 3198) type (GB) train doesn't service type (GB)
+7- Exclude car (B&A 7656) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 9414) type (HK) train doesn't service type (HK)
+7- Exclude car (SP 2092) type (XM) train doesn't service type (XM)
+7- Exclude car (NYNH&H 2151) type (XM) train doesn't service type (XM)
+7- Exclude car (P&R 5482) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 3365) type (HT) train doesn't service type (HT)
+7- Exclude car (B&O 5892) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 3376) type (TM) train doesn't service type (TM)
+7- Exclude car (PRR 9001) type (HK) train doesn't service type (HK)
+7- Exclude car (PL 1692) type (GB) train doesn't service type (GB)
+7- Exclude car (PRR 0977) type (HK) train doesn't service type (HK)
+7- Exclude car (CNJ 4667) type (XM) train doesn't service type (XM)
+7- Exclude car (PGCC 9376) type (HT) train doesn't service type (HT)
+7- Exclude car (WCC 1630) type (HT) train doesn't service type (HT)
+7- Exclude car (B&O 5921) type (HK) train doesn't service type (HK)
+7- Exclude car (PL 7675) type (GB) train doesn't service type (GB)
+7- Exclude car (P&R 8269) type (HT) train doesn't service type (HT)
+7- Exclude car (PRR 2329) type (HK) train doesn't service type (HK)
+7- Exclude car (P&R 1992) type (HT) train doesn't service type (HT)
+7- Exclude car (PC 75) type (PC) train doesn't service type (PC)
+7- Exclude car (PC 74) type (PC) train doesn't service type (PC)
+7- Exclude car (PGCC 4855) type (HT) train doesn't service type (HT)
+7- Exclude car (PC 73) type (PC) train doesn't service type (PC)
+7- Exclude car (PL 1320) type (XM) train doesn't service type (XM)
+7- Exclude car (PRR 0605) type (XM) train doesn't service type (XM)
+7- Exclude car (B&A 8700) type (GB) train doesn't service type (GB)
+7- Exclude car (B&O 2287) type (HK) train doesn't service type (HK)
+7- Exclude car (B&O 8709) type (HK) train doesn't service type (HK)
+7- Exclude car (PRR 3351) type (XM) train doesn't service type (XM)
+7- Exclude car (P&R 7178) type (HK) train doesn't service type (HK)
+7- Exclude car (WCC 0496) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 2256) type (HT) train doesn't service type (HT)
+7- Exclude car (DL&W 5298) type (XM) train doesn't service type (XM)
+7- Exclude car (M&P 9294) type (XM) train doesn't service type (XM)
+7- Exclude car (P&R 4801) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 8996) type (HT) train doesn't service type (HT)
+7- Exclude car (P&R 4365) type (HT) train doesn't service type (HT)
+5- ********** Only the first 100 cars are shown for (Type) **********
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Weston, W3) with 49 cars
+7- Staging car (PFEX 4022) type (RS) load (E)
+7- Staging car (SFRD 7796) type (RS) load (E)
+7- Staging car (FGEX 0105) type (RB) load (E)
+7- Staging car (SFRD 1793) type (RS) load (E)
+7- Staging car (FGEX 2572) type (RB) load (E)
+7- Staging car (PRR 374) type (NE) load (E)
+7- Staging car (FGEX 0845) type (RB) load (E)
+7- Staging car (FGEX 1877) type (RB) load (E)
+7- Staging car (FGEX 4264) type (RB) load (E)
+7- Staging car (FGEX 5695) type (RB) load (E)
+7- Staging car (FGEX 5331) type (RB) load (E)
+7- Staging car (PFEX 7877) type (RS) load (E)
+7- Staging car (FGEX 8521) type (RB) load (E)
+7- Staging car (FGEX 0369) type (RB) load (E)
+7- Staging car (SFRD 4139) type (RS) load (E)
+7- Staging car (SFRD 1334) type (RS) load (E)
+7- Staging car (SFRD 4521) type (RS) load (E)
+7- Staging car (PFEX 9160) type (RS) load (E)
+7- Staging car (SFRD 2000) type (RS) load (E)
+7- Staging car (SFRD 0638) type (RS) load (E)
+7- Staging car (FGEX 1001) type (RB) load (E)
+7- Staging car (FGEX 9466) type (RB) load (E)
+7- Staging car (SFRD 0576) type (RS) load (E)
+7- Staging car (FGEX 5581) type (RB) load (E)
+7- Staging car (FGEX 3465) type (RB) load (E)
+7- Staging car (FGEX 8015) type (RB) load (E)
+7- Staging car (FGEX 9044) type (RB) load (E)
+7- Staging car (FGEX 7320) type (RB) load (E)
+7- Staging car (FGEX 9790) type (RB) load (E)
+7- Staging car (PFEX 9455) type (RS) load (E)
+7- Staging car (PFEX 4497) type (RS) load (E)
+7- Staging car (PFEX 7723) type (RS) load (E)
+7- Staging car (FGEX 1701) type (RB) load (E)
+7- Staging car (FGEX 3383) type (RB) load (E)
+7- Staging car (FGEX 0626) type (RB) load (E)
+7- Staging car (FGEX 5536) type (RB) load (E)
+7- Staging car (PFEX 4884) type (RS) load (E)
+7- Staging car (FGEX 4846) type (RB) load (E)
+7- Staging car (PFEX 4870) type (RS) load (E)
+7- Staging car (FGEX 8670) type (RB) load (E)
+7- Staging car (FGEX 6151) type (RB) load (E)
+7- Staging car (PFEX 6213) type (RS) load (E)
+7- Staging car (FGEX 8654) type (RB) load (E)
+7- Staging car (FGEX 2307) type (RB) load (E)
+7- Staging car (FGEX 5051) type (RB) load (E)
+7- Staging car (FGEX 1572) type (RB) load (E)
+7- Staging car (PFEX 4833) type (RS) load (E)
+7- Staging car (FGEX 3322) type (RB) load (E)
+7- Staging car (FGEX 6875) type (RB) load (E)
+5-  
+1- Found 66 cars for train (RP77)
+7- Cars available from staging (Weston):
+7- Car (SFRD 7796) type (RS) at (Weston, W3) 0 moves
+7- Car (SFRD 7796) is lead in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 6875) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 5581) is in kernel (R7) with 12 cars, 528 feet
+7- Car (PFEX 4884) is in kernel (R7) with 12 cars, 528 feet
+7- Car (SFRD 1793) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 1877) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 8015) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 9466) is in kernel (R7) with 12 cars, 528 feet
+7- Car (SFRD 0638) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 1572) is in kernel (R7) with 12 cars, 528 feet
+7- Car (PFEX 4833) is in kernel (R7) with 12 cars, 528 feet
+7- Car (FGEX 1001) is in kernel (R7) with 12 cars, 528 feet
+7- Car (PRR 374) type (NE) (C) at (Weston, W3) 0 moves
+7- Car (PFEX 7877) type (RS) at (Weston, W3) 0 moves
+7- Car (PFEX 7877) is lead in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 4264) is in kernel (R3) with 12 cars, 528 feet
+7- Car (PFEX 4497) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 8521) is in kernel (R3) with 12 cars, 528 feet
+7- Car (PFEX 6213) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 7320) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 5051) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 1701) is in kernel (R3) with 12 cars, 528 feet
+7- Car (SFRD 0576) is in kernel (R3) with 12 cars, 528 feet
+7- Car (PFEX 9160) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 9044) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 2572) is in kernel (R3) with 12 cars, 528 feet
+7- Car (FGEX 5536) type (RB) at (Weston, W3) 0 moves
+7- Car (FGEX 5536) is lead in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 3465) is in kernel (R1) with 12 cars, 528 feet
+7- Car (SFRD 4139) is in kernel (R1) with 12 cars, 528 feet
+7- Car (PFEX 9455) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 5331) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 3383) is in kernel (R1) with 12 cars, 528 feet
+7- Car (SFRD 2000) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 8670) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 0626) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 9790) is in kernel (R1) with 12 cars, 528 feet
+7- Car (PFEX 7723) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 0369) is in kernel (R1) with 12 cars, 528 feet
+7- Car (FGEX 3322) type (RB) at (Weston, W3) 0 moves
+7- Car (FGEX 3322) is lead in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 5695) is in kernel (R2) with 12 cars, 528 feet
+7- Car (PFEX 4022) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 8654) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 0845) is in kernel (R2) with 12 cars, 528 feet
+7- Car (SFRD 1334) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 6151) is in kernel (R2) with 12 cars, 528 feet
+7- Car (SFRD 4521) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 0105) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 2307) is in kernel (R2) with 12 cars, 528 feet
+7- Car (FGEX 4846) is in kernel (R2) with 12 cars, 528 feet
+7- Car (PFEX 4870) is in kernel (R2) with 12 cars, 528 feet
+7-  
+7- Cars at location (Train Service):
+7- Car (PRR 316) type (NM) (C) at (Train Service, Cabin Track) 0 moves
+7- Car (PRR 223) type (NE) (C) at (Train Service, Cabin Track) 0 moves
+7- Car (PRR 138) type (NM) (C) at (Train Service, Cabin Track) 0 moves
+7- Car (PRR 514) type (NM) (C) at (Train Service, Cabin Track) 0 moves
+7- Car (PRR 449) type (NE) (C) at (Train Service, Cabin Track) 0 moves
+7-  
+7- Cars at location (City):
+7- Car (PFEX 7118) type (RS) at (City, A1) 0 moves
+7- Car (PFEX 7118) is lead in kernel (R6) with 12 cars, 528 feet
+7- Car (PFEX 7235) is in kernel (R6) with 12 cars, 528 feet
+7- Car (PFEX 8213) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 0192) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 6870) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 4366) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 3266) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 6310) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 6244) is in kernel (R6) with 12 cars, 528 feet
+7- Car (PFEX 8791) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 0658) is in kernel (R6) with 12 cars, 528 feet
+7- Car (FGEX 1540) is in kernel (R6) with 12 cars, 528 feet
+7-  
+7- Cars available from staging (Easton):
+7-  
+7- Sort cars on FIFO and LIFO tracks:
+7-  
+5- Train does not require caboose when departing (Weston)
+7- Car (PRR 374) is a caboose, road (PRR) at location (Weston, W3)
+5- Generate load for (PRR 374) type (NE) load (E) at (Weston, W3) destination (Easton)
+7- Could not find a route to a spur that needs a custom load for car (PRR 374)
+5- Find destinations for (PRR 374) type (NE) empty (E) at (Weston, W3)
+7- Searching location (Easton) route id 26r14 for possible destination
+5- Car (PRR 374) can go to staging (Easton, E3) 0/50 moves used
+3- Car (PRR 374) assigned to train, destination (Easton, E3)
+3-  
+7- Car (PRR 316) is a caboose, road (PRR) at location (Train Service, Cabin Track)
+7- Car (PRR 223) is a caboose, road (PRR) at location (Train Service, Cabin Track)
+7- Car (PRR 138) is a caboose, road (PRR) at location (Train Service, Cabin Track)
+7- Car (PRR 514) is a caboose, road (PRR) at location (Train Service, Cabin Track)
+7- Car (PRR 449) is a caboose, road (PRR) at location (Train Service, Cabin Track)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+7- Exclude car (PRR 316) type (NM) at location (Train Service, Cabin Track)
+7- Exclude car (PRR 223) type (NE) at location (Train Service, Cabin Track)
+7- Exclude car (PRR 138) type (NM) at location (Train Service, Cabin Track)
+7- Exclude car (PRR 514) type (NM) at location (Train Service, Cabin Track)
+7- Exclude car (PRR 449) type (NE) at location (Train Service, Cabin Track)
+3-  
+3- Requested cars (62) for train (RP77) the number available (5) building train!
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+3- Departing staging in aggressive mode, find destinations from (Weston) in next pass
+1- Route location (Weston) id 26r11 requests 0 pick ups, 49/50 moves are available
+5-  
+1- Success 0/0 cars at location (Weston) assigned to train (RP77)
+1- Route location (Train Service) id 26r15 requests 1 pick ups, 1/1 moves are available
+5-  
+5- No cars available for pick up at location (Train Service)
+5-  
+1- Partial 0/1 cars at location (Train Service) assigned to train (RP77)
+1- Route location (City) id 26r12 requests 12 pick ups, 24/24 moves are available
+5-  
+5- Find spur for car (PFEX 7118) type (RS) custom load (produce) at (City, A1)
+7- Car (PFEX 7118) is lead in kernel (R6) with 12 cars, 528 feet
+7- Destination (Valley, Coal) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Valley, Depot) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Valley, General Delivery) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Valley, Produce) can't service car (PFEX 7118) with load (produce) due 
+7- to rolling stock length 528 feet, available track space 176 feet 
+7- Destination (Park, Coal) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Park, Depot) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Park, Freight House) can't service car (PFEX 7118) with load (produce) 
+7- due to type (RS) 
+7- Destination (Park, Fuel Oil) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Park, General Delivery) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Park, Lumber) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Park, Power House) can't service car (PFEX 7118) with load (produce) due 
+7- to type (RS) 
+7- Destination (Downtown, Ash) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Downtown, Coal) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Downtown, Express - X1) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Downtown, Express - X2) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Downtown, Express - X3) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Downtown, Gantry Crane) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Downtown, General Delivery) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Destination (Downtown, Sand) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Junction, Coal) can't service car (PFEX 7118) with load (produce) due to 
+7- type (RS) 
+7- Destination (Junction, Depot) can't service car (PFEX 7118) with load (produce) due 
+7- to type (RS) 
+7- Destination (Junction, Steel Products) can't service car (PFEX 7118) with load 
+7- (produce) due to type (RS) 
+7- Local move from (City, A1) to track (City, Ice 1) disabled for train (RP77)
+7- Could not find a reachable spur for car (PFEX 7118) load (produce)
+5- Try to send car (PFEX 7118) custom load (produce) to staging
+7- Staging (Northton, N1) can accept car's load (produce)
+7- Could not find an interim C/I or yard track that can service car from location (City)
+7- Staging (Weston, W2) can accept car's load (produce)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Weston) 
+7- Staging (Easton, E3) can accept car's load (produce)
+7- Train (RP77) can transport car (PFEX 7118) from C/I (City, A1) to (Easton, )
+7- Route for car (PFEX 7118): (City, A1)->(Easton, )
+7- Car (PFEX 7118) load (produce) has assigned destination (Easton, )
+5- Car (PFEX 7118) doesn't have an assigned destination track
+5- Car (PFEX 7118) assigned to staging track (E3)
+3- Car (PFEX 7118) assigned to train, destination (Easton, E3)
+3- Car (PFEX 7118) is in kernel (R6) with 12 cars, 528 feet
+3- Car (PFEX 7235) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (PFEX 8213) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0192) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 6870) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 4366) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 3266) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 6310) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 6244) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (PFEX 8791) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0658) kernel (R6) assigned to train, destination (Easton, E3)
+3- Car (FGEX 1540) kernel (R6) assigned to train, destination (Easton, E3)
+3-  
+1- Partial 1/12 cars at location (City) assigned to train (RP77)
+1- Route location (Easton) id 26r14 no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Weston) id 26r11 requests 49 pick ups, 49/50 moves are available
+5-  
+5- Staging track (W3) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5-  
+5- Generate load for (SFRD 7796) type (RS) load (E) at (Weston, W3) destination ()
+7- Car (SFRD 7796) is lead in kernel (R7) with 12 cars, 528 feet
+7- Try spur (Valley, Produce) custom load (Empty)
+7- Train (RP77) can't transport car (SFRD 7796) out of staging (Weston) directly to 
+7- (Valley, Produce) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Valley) 
+7- Can't route car (SFRD 7796) with load (Empty) to (Valley, Produce)
+7- Try spur (City, Ice 1) custom load (Empty)
+7- Train (RP77) can transport car (SFRD 7796) from staging (Weston, W3) to (City, Ice 1)
+7- Route for car (SFRD 7796): (Weston, W3)->(City, Ice 1)
+5- Car (SFRD 7796) custom load (Empty) final destination (City, Ice 1)
+7- Car (SFRD 7796) load (Empty) has assigned destination (City, Ice 1)
+3- Car (SFRD 7796) assigned to train, destination (City, Ice 1)
+3- Car (SFRD 7796) is in kernel (R7) with 12 cars, 528 feet
+3- Car (FGEX 6875) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 5581) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (PFEX 4884) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (SFRD 1793) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 1877) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 8015) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 9466) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (SFRD 0638) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 1572) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (PFEX 4833) kernel (R7) assigned to train, destination (City, Ice 1)
+3- Car (FGEX 1001) kernel (R7) assigned to train, destination (City, Ice 1)
+3-  
+5- Generate load for (PFEX 7877) type (RS) load (E) at (Weston, W3) destination ()
+7- Car (PFEX 7877) is lead in kernel (R3) with 12 cars, 528 feet
+7- Try spur (Valley, Produce) custom load (iced)
+7- Train (RP77) can't transport car (PFEX 7877) out of staging (Weston) directly to 
+7- (Valley, Produce) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Valley) 
+7- Can't route car (PFEX 7877) with load (iced) to (Valley, Produce)
+7- Try spur (City, Ice 1) custom load (produce)
+7- Train (RP77) can transport car (PFEX 7877) from staging (Weston, W3) to (City, Ice 1)
+7- Route for car (PFEX 7877): (Weston, W3)->(City, Ice 1)
+7- Can't use spur (City, Ice 1) for (PFEX 7877) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Track (Ice 1) full, searching for a yard at destination (City)
+7- Can't use yard (702) due to rolling stock length 528 feet, available track space 176 
+7- feet 
+7- Can't use yard (703) due to rolling stock length 528 feet, available track space -88 
+7- feet 
+7- Can't use yard (704) due to rolling stock length 528 feet, available track space 264 
+7- feet 
+7- Can't use yard (705) due to rolling stock length 528 feet, available track space 88 
+7- feet 
+7- Could not find a yard at (City) for car (PFEX 7877)
+7- Could not find an interim C/I or yard track that can service car to destination (City)
+7- Can't route car (PFEX 7877) with load (produce) to (City, Ice 1)
+7- Could not find a route to a spur that needs a custom load for car (PFEX 7877)
+5- Find destinations for (PFEX 7877) type (RS) empty (E) at (Weston, W3)
+7- Car (PFEX 7877) is lead in kernel (R3) with 12 cars, 528 feet
+7- Searching location (Train Service) route id 26r15 for possible destination
+7- Can't send (PFEX 7877) to yard (Coach Yard) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (OB-Valley) due to type (RS)
+7- Can't send (PFEX 7877) to yard (Passenger) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (OB-Downtown) due to type (RS)
+7- Can't send (PFEX 7877) to yard (Cabin Track) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (OB-Crest) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (OB-Easton) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (OB-Northton) due to type (RS)
+7- Can't send (PFEX 7877) to yard (Car Barn) due to type (RS)
+7- Can't send (PFEX 7877) to C/I (Passenger Setout) due to type (RS)
+7- Can't send (PFEX 7877) to yard (Roundhouse) due to type (RS)
+5- Could not find a track for (PFEX 7877) at destination (Train Service)
+7- Searching location (City) route id 26r12 for possible destination
+7- Can't send (PFEX 7877) to spur (Ice 1) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (702) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (703) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (704) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (705) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (Easton Outbound) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (Northton Outbound) does not service this direction 
+7- Can't set out rolling stock (PFEX 7877) using Eastbound train, destination track 
+7- (701) does not service this direction 
+7- Can't set out (PFEX 7877) by train (RP77) to C/I (A1)
+5- Could not find a track for (PFEX 7877) at destination (City)
+7- Searching location (Easton) route id 26r14 for possible destination
+5- Car (PFEX 7877) can go to staging (Easton, E3) 2/50 moves used
+3- Car (PFEX 7877) assigned to train, destination (Easton, E3)
+3- Car (PFEX 7877) is in kernel (R3) with 12 cars, 528 feet
+3- Car (FGEX 4264) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (PFEX 4497) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 8521) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (PFEX 6213) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 7320) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 5051) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 1701) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (SFRD 0576) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (PFEX 9160) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 9044) kernel (R3) assigned to train, destination (Easton, E3)
+3- Car (FGEX 2572) kernel (R3) assigned to train, destination (Easton, E3)
+3-  
+5- Generate load for (FGEX 5536) type (RB) load (E) at (Weston, W3) destination ()
+7- Car (FGEX 5536) is lead in kernel (R1) with 12 cars, 528 feet
+7- Try spur (Valley, Produce) custom load (Empty)
+7- Train (RP77) can't transport car (FGEX 5536) out of staging (Weston) directly to 
+7- (Valley, Produce) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Valley) 
+7- Can't route car (FGEX 5536) with load (Empty) to (Valley, Produce)
+7- Try spur (City, Ice 1) custom load (Empty)
+7- Train (RP77) can transport car (FGEX 5536) from staging (Weston, W3) to (City, Ice 1)
+7- Route for car (FGEX 5536): (Weston, W3)->(City, Ice 1)
+7- Can't use spur (City, Ice 1) for (FGEX 5536) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Track (Ice 1) full, searching for a yard at destination (City)
+7- Can't use yard (702) due to rolling stock length 528 feet, available track space 176 
+7- feet 
+7- Can't use yard (703) due to rolling stock length 528 feet, available track space -88 
+7- feet 
+7- Can't use yard (704) due to rolling stock length 528 feet, available track space 264 
+7- feet 
+7- Can't use yard (705) due to rolling stock length 528 feet, available track space 88 
+7- feet 
+7- Could not find a yard at (City) for car (FGEX 5536)
+7- Could not find an interim C/I or yard track that can service car to destination (City)
+7- Can't route car (FGEX 5536) with load (Empty) to (City, Ice 1)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 5536)
+5- Find destinations for (FGEX 5536) type (RB) empty (E) at (Weston, W3)
+7- Car (FGEX 5536) is lead in kernel (R1) with 12 cars, 528 feet
+7- Searching location (Train Service) route id 26r15 for possible destination
+7- Can't send (FGEX 5536) to yard (Coach Yard) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (OB-Valley) due to type (RB)
+7- Can't send (FGEX 5536) to yard (Passenger) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (OB-Downtown) due to type (RB)
+7- Can't send (FGEX 5536) to yard (Cabin Track) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (OB-Crest) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (OB-Easton) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (OB-Northton) due to type (RB)
+7- Can't send (FGEX 5536) to yard (Car Barn) due to type (RB)
+7- Can't send (FGEX 5536) to C/I (Passenger Setout) due to type (RB)
+7- Can't send (FGEX 5536) to yard (Roundhouse) due to type (RB)
+5- Could not find a track for (FGEX 5536) at destination (Train Service)
+7- Searching location (City) route id 26r12 for possible destination
+7- Can't send (FGEX 5536) to spur (Ice 1) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (702) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (703) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (704) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (705) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (Easton Outbound) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (Northton Outbound) does not service this direction 
+7- Can't set out rolling stock (FGEX 5536) using Eastbound train, destination track 
+7- (701) does not service this direction 
+7- Can't set out (FGEX 5536) by train (RP77) to C/I (A1)
+5- Could not find a track for (FGEX 5536) at destination (City)
+7- Searching location (Easton) route id 26r14 for possible destination
+5- Car (FGEX 5536) can go to staging (Easton, E3) 3/50 moves used
+3- Car (FGEX 5536) assigned to train, destination (Easton, E3)
+3- Car (FGEX 5536) is in kernel (R1) with 12 cars, 528 feet
+3- Car (FGEX 3465) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (SFRD 4139) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (PFEX 9455) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 5331) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 3383) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (SFRD 2000) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 8670) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0626) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 9790) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (PFEX 7723) kernel (R1) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0369) kernel (R1) assigned to train, destination (Easton, E3)
+3-  
+5- Generate load for (FGEX 3322) type (RB) load (E) at (Weston, W3) destination ()
+7- Car (FGEX 3322) is lead in kernel (R2) with 12 cars, 528 feet
+7- Try spur (Valley, Produce) custom load (iced)
+7- Train (RP77) can't transport car (FGEX 3322) out of staging (Weston) directly to 
+7- (Valley, Produce) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Valley) 
+7- Can't route car (FGEX 3322) with load (iced) to (Valley, Produce)
+7- Try spur (City, Ice 1) custom load (produce)
+7- Train (RP77) can transport car (FGEX 3322) from staging (Weston, W3) to (City, Ice 1)
+7- Route for car (FGEX 3322): (Weston, W3)->(City, Ice 1)
+7- Can't use spur (City, Ice 1) for (FGEX 3322) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Track (Ice 1) full, searching for a yard at destination (City)
+7- Can't use yard (702) due to rolling stock length 528 feet, available track space 176 
+7- feet 
+7- Can't use yard (703) due to rolling stock length 528 feet, available track space -88 
+7- feet 
+7- Can't use yard (704) due to rolling stock length 528 feet, available track space 264 
+7- feet 
+7- Can't use yard (705) due to rolling stock length 528 feet, available track space 88 
+7- feet 
+7- Could not find a yard at (City) for car (FGEX 3322)
+7- Could not find an interim C/I or yard track that can service car to destination (City)
+7- Can't route car (FGEX 3322) with load (produce) to (City, Ice 1)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 3322)
+5- Find destinations for (FGEX 3322) type (RB) empty (E) at (Weston, W3)
+7- Car (FGEX 3322) is lead in kernel (R2) with 12 cars, 528 feet
+7- Searching location (Train Service) route id 26r15 for possible destination
+7- Can't send (FGEX 3322) to yard (Coach Yard) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (OB-Valley) due to type (RB)
+7- Can't send (FGEX 3322) to yard (Passenger) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (OB-Downtown) due to type (RB)
+7- Can't send (FGEX 3322) to yard (Cabin Track) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (OB-Crest) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (OB-Easton) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (OB-Northton) due to type (RB)
+7- Can't send (FGEX 3322) to yard (Car Barn) due to type (RB)
+7- Can't send (FGEX 3322) to C/I (Passenger Setout) due to type (RB)
+7- Can't send (FGEX 3322) to yard (Roundhouse) due to type (RB)
+5- Could not find a track for (FGEX 3322) at destination (Train Service)
+7- Searching location (City) route id 26r12 for possible destination
+7- Can't send (FGEX 3322) to spur (Ice 1) due to rolling stock length 528 feet, 
+7- available track space 0 feet 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (702) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (703) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (704) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (705) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (Easton Outbound) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (Northton Outbound) does not service this direction 
+7- Can't set out rolling stock (FGEX 3322) using Eastbound train, destination track 
+7- (701) does not service this direction 
+7- Can't set out (FGEX 3322) by train (RP77) to C/I (A1)
+5- Could not find a track for (FGEX 3322) at destination (City)
+7- Searching location (Easton) route id 26r14 for possible destination
+5- Car (FGEX 3322) can go to staging (Easton, E3) 4/50 moves used
+3- Car (FGEX 3322) assigned to train, destination (Easton, E3)
+3- Car (FGEX 3322) is in kernel (R2) with 12 cars, 528 feet
+3- Car (FGEX 5695) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (PFEX 4022) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 8654) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0845) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (SFRD 1334) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 6151) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (SFRD 4521) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 0105) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 2307) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (FGEX 4846) kernel (R2) assigned to train, destination (Easton, E3)
+3- Car (PFEX 4870) kernel (R2) assigned to train, destination (Easton, E3)
+3-  
+1- Partial 4/49 cars at location (Weston) assigned to train (RP77)
+1- Route location (Train Service) id 26r15 requests 1 pick ups, 1/1 moves are available
+5-  
+5- No cars available for pick up at location (Train Service)
+5-  
+1- Partial 0/1 cars at location (Train Service) assigned to train (RP77)
+1- Route location (City) id 26r12 requests 22 pick ups, 22/24 moves are available
+5-  
+5- No cars available for pick up at location (City)
+5-  
+1- Partial 0/22 cars at location (City) assigned to train (RP77)
+1- Route location (Easton) id 26r14 no pick ups
+1- Partial 61/62 cars
+5- Build for train (RP77) took 85 mSec

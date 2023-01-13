@@ -1,0 +1,1261 @@
+1- Build Report for train (Waterside Flyer) built on 11/18/15 12:09 PM
+1- JMRI version r27674
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+5-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- WARNING car routing is disabled
+5- Allow local moves if car has a custom load or FD
+1-  
+3- Train (Waterside Flyer) route (Glass Works Branch):
+3- Location (Salem Yard) requests 50 pick ups, maximum train length 575 feet
+3- Location (Salem Gass Light Co.) is skipped by train (Waterside Flyer), maximum train 
+3- length 2,000 feet 
+3- Location (Salem Glass Works 4th St.) is skipped by train (Waterside Flyer), maximum 
+3- train length 2,000 feet 
+3- Location (Salem Glass Works 3rd St.) is skipped by train (Waterside Flyer), maximum 
+3- train length 2,000 feet 
+3- Location (H.J. Heinz & Co. No.12) requests 10 moves, maximum train length 2,000 feet
+3- Location (Waterside Spur) requests 10 moves, maximum train length 2,000 feet
+3- Location (Gayner Glass Works) requests 10 moves, maximum train length 2,000 feet
+3- Location (American Oilcloth Co.) requests 10 moves, maximum train length 2,000 feet
+3- Location (American Oilcloth Co.) requests 10 moves, maximum train length 2,000 feet
+3- Location (Waterside Spur) requests 10 moves, maximum train length 2,000 feet
+3- Location (Salem Glass Works 3rd St.) is skipped by train (Waterside Flyer), maximum 
+3- train length 2,000 feet 
+3- Location (Electric Co. of NJ) is skipped by train (Waterside Flyer), maximum train 
+3- length 2,000 feet 
+3- Location (Salem Yard) requests 50 set outs, maximum train length 2,000 feet
+1- Route (Glass Works Branch) requests 80 cars and 160 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Salem Yard), there are 2 tracks
+5- Staging track (Yard) is occupied, found 0 locomotive(s) and 14 cars
+7- Train (Waterside Flyer) can terminate to staging track (Flyer)
+1- Staging track (Flyer) is available at destination (Salem Yard)
+3-  
+1- Train will depart staging (Salem Yard), there are 2 tracks
+3- Staging track (Yard) has 0 loco(s) and 14 cars
+7- Train (Waterside Flyer) can depart from staging track (Yard)
+7- Done assigning locomotives from staging
+5-  
+5- Train (Waterside Flyer) services car types:
+5- Boxcar, Flatcar, Hopper Gon, Long Gondola, Refrigerator, Tankcar
+7-  
+7- Remove cars not serviced by this train:
+7- Exclude car (PRR G3) by train, no pick up from spur (Salem Glass Works 4th St., Sand 
+7- Storage) 
+1- ERROR Exclude rs (PRR H4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G15) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G14) at location (Salem Yard) no track assignment
+7- Exclude car (PRR X29) by train, no pick up from spur (Salem Glass Works 4th St., Ware 
+7- House) 
+7- Exclude car (PRR H7) by train, no pick up from spur (Salem Gass Light Co., Coal)
+7- Exclude car (PRR H5) by train, no pick up from spur (Salem Gass Light Co., Coal)
+1- ERROR Exclude rs (PRR H3) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H2) at location (Salem Yard) no track assignment
+7- Exclude car (PRR H1) by train, no pick up from spur (Electric Co. of NJ, Coal)
+7- Exclude car (PRR G7) by train, no pick up from spur (Salem Glass Works 4th St., Sand 
+7- Storage) 
+7- Exclude car (PRR X40) by train, no pick up from spur (Salem Glass Works 4th St., Ware 
+7- Shed) 
+1- ERROR Exclude rs (PRR G12) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS55) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS5) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H9) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H8) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X2) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X18) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X15) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X12) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X11) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X46) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X35) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X34) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X5) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X25) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X21) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR T2) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X37) at location (Salem Yard) no track assignment
+5-  
+5- Departing staging (Salem Yard, Yard) with 14 cars
+7- Staging car (PRR G10) type (Long Gondola) load (E)
+7- Staging car (PRR G2) type (Long Gondola) load (E)
+7- Staging car (PRR RS53) type (Refrigerator) load (E)
+7- Staging car (PRR X9) type (Boxcar) load (E)
+7- Staging car (PRR X6) type (Boxcar) load (E)
+7- Staging car (PRR X16) type (Boxcar) load (E)
+7- Staging car (PRR X13) type (Boxcar) load (E)
+7- Staging car (PRR X43) type (Boxcar) load (E)
+7- Staging car (PRR X45) type (Boxcar) load (E)
+7- Staging car (PRR X42) type (Boxcar) load (E)
+7- Staging car (PRR X32) type (Boxcar) load (E)
+7- Staging car (PRR X31) type (Boxcar) load (E)
+7- Staging car (PRR T3) type (Tankcar) load (E)
+7- Staging car (PRR T1) type (Tankcar) load (E)
+5-  
+1- Found 43 cars for train (Waterside Flyer)
+7- Car (PRR G6) type (Long Gondola) at (Salem Glass Works 3rd St., Sand House 1) 8 moves
+7- Car (PRR G11) type (Long Gondola) at (Salem Glass Works 3rd St., Sand House 2) 8 moves
+7- Car (PRR X30) type (Boxcar) at (Salem Glass Works 3rd St., Storage) 8 moves
+7- Car (PRR X7) type (Boxcar) at (Salem Glass Works 3rd St., Ware House) 8 moves
+7- Car (PRR H6) type (Hopper Gon) at (Salem Glass Works 3rd St., Power House) 9 moves
+7- Car (PRR X24) type (Boxcar) at (Salem Glass Works 3rd St., Packing) 9 moves
+7- Car (PRR X20) type (Boxcar) at (Salem Glass Works 3rd St., Packing) 10 moves
+7- Car (PRR X47) type (Boxcar) at (Salem Glass Works 3rd St., Storage) 10 moves
+7- Car (PRR X44) type (Boxcar) at (Salem Glass Works 3rd St., Ware House) 10 moves
+7- Car (PRR X41) type (Boxcar) at (Salem Glass Works 3rd St., Storage) 10 moves
+7- Car (PRR G10) type (Long Gondola) at (Salem Yard, Yard) 10 moves
+7- Car (PRR G2) type (Long Gondola) at (Salem Yard, Yard) 10 moves
+7- Car (PRR RS53) type (Refrigerator) at (Salem Yard, Yard) 13 moves
+7- Car (PRR X33) type (Boxcar) at (Waterside Spur, S&PSNCo.) 13 moves
+7- Car (PRR X9) type (Boxcar) at (Salem Yard, Yard) 13 moves
+7- Car (PRR X6) type (Boxcar) at (Salem Yard, Yard) 13 moves
+7- Car (PRR X16) type (Boxcar) at (Salem Yard, Yard) 14 moves
+7- Car (PRR X13) type (Boxcar) at (Salem Yard, Yard) 14 moves
+7- Car (PRR X43) type (Boxcar) at (Salem Yard, Yard) 14 moves
+7- Car (PRR X38) type (Boxcar) at (Waterside Spur, S&PSNCo.) 14 moves
+7- Car (PRR X45) type (Boxcar) at (Salem Yard, Yard) 15 moves
+7- Car (PRR X42) type (Boxcar) at (Salem Yard, Yard) 15 moves
+7- Car (PRR G5) type (Long Gondola) at (Gayner Glass Works, Sand House) 15 moves
+7- Car (PRR X39) type (Boxcar) at (Gayner Glass Works, Ware Shed) 15 moves
+7- Car (PRR X36) type (Boxcar) at (Gayner Glass Works, Ware Shed) 15 moves
+7- Car (PRR X32) type (Boxcar) at (Salem Yard, Yard) 15 moves
+7- Car (PRR X31) type (Boxcar) at (Salem Yard, Yard) 15 moves
+7- Car (PRR F1) type (Flatcar) at (Gayner Glass Works, Shop) 15 moves
+7- Car (PRR X4) type (Boxcar) at (Gayner Glass Works, Ware Shed) 15 moves
+7- Car (PRR X3) type (Boxcar) at (Gayner Glass Works, Ware House) 15 moves
+7- Car (PRR X17) type (Boxcar) at (Gayner Glass Works, Storage) 16 moves
+7- Car (PRR T3) type (Tankcar) at (Salem Yard, Yard) 16 moves
+7- Car (PRR T1) type (Tankcar) at (Salem Yard, Yard) 16 moves
+7- Car (PRR G13) type (Long Gondola) at (Gayner Glass Works, Sand House) 16 moves
+7- Car (PRR RS56) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 19 moves
+7- Car (PRR RS41) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 19 moves
+7- Car (PRR RS52) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 21 moves
+7- Car (PRR RS8) type (Refrigerator) at (H.J. Heinz & Co. No.12, Kitchen) 21 moves
+7- Car (PRR F2) type (Flatcar) at (Waterside Spur, W.H. Harris Boat Shop) 21 moves
+7- Car (PRR T4) type (Tankcar) at (American Oilcloth Co., Chemical Racks) 22 moves
+7- Car (PRR X8) type (Boxcar) at (H.J. Heinz & Co. No.12, Bottling & Packing) 23 moves
+7- Car (PRR X1) type (Boxcar) at (American Oilcloth Co., Shipping) 23 moves
+7- Car (PRR X26) type (Boxcar) at (Waterside Spur, F.H.Lloyd Flour Mill) 23 moves
+5-  
+5- Train does not require caboose when departing (Salem Yard)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (80) for train (Waterside Flyer) the number available (43) building 
+3- train! 
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups.
+3- Departing staging in aggressive mode, find destinations from (Salem Yard) in next pass
+1- Route location (Salem Yard) id (4r27) requests 0 pick ups, 7/50 moves are available
+5-  
+1- Partial 0/7 cars at location (Salem Yard) assigned to train (Waterside Flyer)
+1- Location (Salem Gass Light Co.) id (4r12) is skipped by train (Waterside Flyer)
+1- Location (Salem Glass Works 4th St.) id (4r14) is skipped by train (Waterside Flyer)
+1- Location (Salem Glass Works 3rd St.) id (4r13) is skipped by train (Waterside Flyer)
+1- Route location (H.J. Heinz & Co. No.12) id (4r10) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR RS56) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS56) custom load (Empty)
+5- Try to send car (PRR RS56) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR RS56) to (Salem Yard, )
+7- Car (PRR RS56) has assigned destination (Salem Yard, )
+5- Car (PRR RS56) doesn't have an assigned destination track
+5- Car (PRR RS56) assigned to staging track (Flyer)
+3- Car (PRR RS56) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR RS41) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS41) custom load (Empty)
+5- Try to send car (PRR RS41) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR RS41) to (Salem Yard, )
+7- Car (PRR RS41) has assigned destination (Salem Yard, )
+5- Car (PRR RS41) doesn't have an assigned destination track
+5- Car (PRR RS41) assigned to staging track (Flyer)
+3- Car (PRR RS41) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR RS52) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS52) custom load (Empty)
+5- Try to send car (PRR RS52) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR RS52) to (Salem Yard, )
+7- Car (PRR RS52) has assigned destination (Salem Yard, )
+5- Car (PRR RS52) doesn't have an assigned destination track
+5- Car (PRR RS52) assigned to staging track (Flyer)
+3- Car (PRR RS52) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR RS8) type (Refrigerator) custom load (Empty) at (H.J. Heinz & 
+5- Co. No.12, Kitchen) 
+7- Could not find a spur for car (PRR RS8) custom load (Empty)
+5- Try to send car (PRR RS8) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR RS8) to (Salem Yard, )
+7- Car (PRR RS8) has assigned destination (Salem Yard, )
+5- Car (PRR RS8) doesn't have an assigned destination track
+5- Car (PRR RS8) assigned to staging track (Flyer)
+3- Car (PRR RS8) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR X8) type (Boxcar) custom load (Goods) at (H.J. Heinz & Co. 
+5- No.12, Bottling & Packing) 
+7- Could not find a spur for car (PRR X8) custom load (Goods)
+5- Try to send car (PRR X8) custom load (Goods) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Goods)
+7- Train (Waterside Flyer) can transport car (PRR X8) to (Salem Yard, )
+7- Car (PRR X8) has assigned destination (Salem Yard, )
+5- Car (PRR X8) doesn't have an assigned destination track
+5- Car (PRR X8) assigned to staging track (Flyer)
+3- Car (PRR X8) assigned to train, destination (Salem Yard, Flyer)
+3-  
+1- Partial 5/5 cars at location (H.J. Heinz & Co. No.12) assigned to train (Waterside 
+1- Flyer) 
+1- Route location (Waterside Spur) id (4r8) requests 5 pick ups, 5/10 moves are available
+5-  
+5- Can't pick up (PRR X33) using Westbound train, track (S&PSNCo.)
+5- at location (Waterside Spur) does not service this train's direction
+5-  
+5- Can't pick up (PRR X38) using Westbound train, track (S&PSNCo.)
+5- at location (Waterside Spur) does not service this train's direction
+5-  
+5- Find spur for car (PRR F2) type (Flatcar) custom load (Empty) at (Waterside Spur, W.H. 
+5- Harris Boat Shop) 
+7- Could not find a spur for car (PRR F2) custom load (Empty)
+5- Try to send car (PRR F2) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR F2) to (Salem Yard, )
+7- Car (PRR F2) has assigned destination (Salem Yard, )
+5- Can't pick up (PRR F2) using Eastbound train, track (W.H. Harris Boat Shop)
+5- at location (Waterside Spur) does not service this train's direction
+7- Later pick up for car (PRR F2) from route location (Waterside Spur) id (4r30) not 
+7- possible due to train direction 
+5- Car (PRR F2) doesn't have an assigned destination track
+5- Car (PRR F2) assigned to staging track (Flyer)
+3- Car (PRR F2) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR X26) type (Boxcar) custom load (Empty) at (Waterside Spur, 
+5- F.H.Lloyd Flour Mill) 
+7- Spur at (Gayner Glass Works, Storage) is full, no alternate track
+7- Spur at (Salem Glass Works 4th St., Ware House) is full, no alternate track
+7- Spur at (Salem Glass Works 3rd St., Packing) is full, no alternate track
+7- Spur at (Salem Glass Works 3rd St., Ware House) is full, no alternate track
+7- Try destination (Gayner Glass Works, Ware House) for car (PRR X26) with load (Empty) 
+7- Train (Waterside Flyer) can transport car (PRR X26) to (Gayner Glass Works, Ware House)
+7- Car (PRR X26) has assigned destination (Gayner Glass Works, Ware House)
+3- Car (PRR X26) assigned to train, destination (Gayner Glass Works, Ware House)
+3-  
+1- Partial 2/5 cars at location (Waterside Spur) assigned to train (Waterside Flyer)
+1- Route location (Gayner Glass Works) id (4r9) requests 4 pick ups, 4/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR G5) type (Long Gondola) custom load (Empty) at (Gayner Glass 
+5- Works, Sand House) 
+7- Could not find a spur for car (PRR G5) custom load (Empty)
+5- Try to send car (PRR G5) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR G5) to (Salem Yard, )
+7- Car (PRR G5) has assigned destination (Salem Yard, )
+5- Car (PRR G5) doesn't have an assigned destination track
+5- Car (PRR G5) assigned to staging track (Flyer)
+3- Car (PRR G5) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR X39) type (Boxcar) custom load (Glass) at (Gayner Glass Works, 
+5- Ware Shed) 
+7- Could not find a spur for car (PRR X39) custom load (Glass)
+5- Try to send car (PRR X39) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+7- Train (Waterside Flyer) can transport car (PRR X39) to (Salem Yard, )
+7- Car (PRR X39) has assigned destination (Salem Yard, )
+5- Car (PRR X39) doesn't have an assigned destination track
+5- Car (PRR X39) assigned to staging track (Flyer)
+3- Car (PRR X39) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR X36) type (Boxcar) custom load (Glass) at (Gayner Glass Works, 
+5- Ware Shed) 
+7- Could not find a spur for car (PRR X36) custom load (Glass)
+5- Try to send car (PRR X36) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+7- Train (Waterside Flyer) can transport car (PRR X36) to (Salem Yard, )
+7- Car (PRR X36) has assigned destination (Salem Yard, )
+5- Car (PRR X36) doesn't have an assigned destination track
+5- Car (PRR X36) assigned to staging track (Flyer)
+3- Car (PRR X36) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR F1) type (Flatcar) custom load (Empty) at (Gayner Glass Works, 
+5- Shop) 
+7- Could not find a spur for car (PRR F1) custom load (Empty)
+5- Try to send car (PRR F1) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR F1) to (Salem Yard, )
+7- Car (PRR F1) has assigned destination (Salem Yard, )
+5- Car (PRR F1) doesn't have an assigned destination track
+5- Car (PRR F1) assigned to staging track (Flyer)
+3- Car (PRR F1) assigned to train, destination (Salem Yard, Flyer)
+3-  
+1- Partial 4/4 cars at location (Gayner Glass Works) assigned to train (Waterside Flyer)
+1- Route location (American Oilcloth Co.) id (4r5) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Can't pick up (PRR T4) using Westbound train, track (Chemical Racks)
+5- at location (American Oilcloth Co.) does not service this train's direction
+5-  
+5- Find spur for car (PRR X1) type (Boxcar) custom load (Glass) at (American Oilcloth 
+5- Co., Shipping) 
+7- Could not find a spur for car (PRR X1) custom load (Glass)
+5- Try to send car (PRR X1) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+7- Train (Waterside Flyer) can transport car (PRR X1) to (Salem Yard, )
+7- Car (PRR X1) has assigned destination (Salem Yard, )
+5- Can't pick up (PRR X1) using Eastbound train, track (Shipping)
+5- at location (American Oilcloth Co.) does not service this train's direction
+7- Later pick up for car (PRR X1) from route location (American Oilcloth Co.) id (4r16) 
+7- not possible due to train direction 
+5- Car (PRR X1) doesn't have an assigned destination track
+5- Car (PRR X1) assigned to staging track (Flyer)
+3- Car (PRR X1) assigned to train, destination (Salem Yard, Flyer)
+3-  
+1- Partial 1/5 cars at location (American Oilcloth Co.) assigned to train (Waterside 
+1- Flyer) 
+1- Route location (American Oilcloth Co.) id (4r16) requests 5 pick ups, 5/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR T4) type (Tankcar) custom load (Empty) at (American Oilcloth 
+5- Co., Chemical Racks) 
+7- Could not find a spur for car (PRR T4) custom load (Empty)
+5- Try to send car (PRR T4) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR T4) to (Salem Yard, )
+7- Car (PRR T4) has assigned destination (Salem Yard, )
+5- Car (PRR T4) doesn't have an assigned destination track
+5- Car (PRR T4) assigned to staging track (Flyer)
+3- Car (PRR T4) assigned to train, destination (Salem Yard, Flyer)
+3-  
+1- Partial 1/5 cars at location (American Oilcloth Co.) assigned to train (Waterside 
+1- Flyer) 
+1- Route location (Waterside Spur) id (4r30) requests 5 pick ups, 5/10 moves are available
+5-  
+5- Find spur for car (PRR X33) type (Boxcar) custom load (LCL) at (Waterside Spur, 
+5- S&PSNCo.) 
+7- Could not find a spur for car (PRR X33) custom load (LCL)
+5- Try to send car (PRR X33) custom load (LCL) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (LCL)
+7- Train (Waterside Flyer) can transport car (PRR X33) to (Salem Yard, )
+7- Car (PRR X33) has assigned destination (Salem Yard, )
+5- Car (PRR X33) doesn't have an assigned destination track
+5- Car (PRR X33) assigned to staging track (Flyer)
+3- Car (PRR X33) assigned to train, destination (Salem Yard, Flyer)
+3-  
+5- Find spur for car (PRR X38) type (Boxcar) custom load (LCL) at (Waterside Spur, 
+5- S&PSNCo.) 
+7- Could not find a spur for car (PRR X38) custom load (LCL)
+5- Try to send car (PRR X38) custom load (LCL) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (LCL)
+5- Find destinations for (PRR X38) type (Boxcar) load (LCL) at (Waterside Spur, S&PSNCo.)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR X38) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X38)
+5-  
+1- Partial 1/5 cars at location (Waterside Spur) assigned to train (Waterside Flyer)
+1- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+1- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+1- Route (Glass Works Branch) id (4r31) no pick ups at location (Salem Yard)
+7-  
+3- Multiple pass build (Aggressive Mode), begin final pass.
+1- Route location (Salem Yard) id (4r27) requests 14 pick ups, 14/50 moves are available
+5-  
+5- Generate load for (PRR G10) type (Long Gondola) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR G10) with load (Sand) 
+7- due to type (Long Gondola) 
+7- Destination (Gayner Glass Works, Storage) can't service car (PRR G10) with load (Sand) 
+7- due to type (Long Gondola) 
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR G10) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Sand House 1) 
+7- Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Sand House 2) 
+7- Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Destination (Salem Glass Works 4th St., Ware House) can't service car (PRR G10) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Sand Storage) 
+7- Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Destination (Salem Glass Works 3rd St., Packing) can't service car (PRR G10) with load 
+7- (Sand) due to type (Long Gondola) 
+7- Destination (Salem Glass Works 3rd St., Ware House) can't service car (PRR G10) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Waterside Flyer) can transport car (PRR G10) to (Gayner Glass Works, Sand House)
+5- Car (PRR G10) custom load (Sand) final destination (Gayner Glass Works, Sand House)
+7- Car (PRR G10) has assigned destination (Gayner Glass Works, Sand House)
+3- Car (PRR G10) assigned to train, destination (Gayner Glass Works, Sand House)
+3-  
+5- Generate load for (PRR G2) type (Long Gondola) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR G2) with load (Sand) due 
+7- to type (Long Gondola) 
+7- Destination (Gayner Glass Works, Storage) can't service car (PRR G2) with load (Sand) 
+7- due to type (Long Gondola) 
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR G2) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Salem Glass Works 3rd St., Sand House 1) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G2) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Sand House 1) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 3rd St., Sand House 1)
+7- Try spur (Salem Glass Works 3rd St., Sand House 2) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G2) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Sand House 2) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 3rd St., Sand House 2)
+7- Destination (Salem Glass Works 4th St., Ware House) can't service car (PRR G2) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand)
+7- Train (Waterside Flyer) can't transport car (PRR G2) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Sand Storage) 
+7- Can't route car (PRR G2) with load (Sand) to (Salem Glass Works 4th St., Sand Storage)
+7- Destination (Salem Glass Works 3rd St., Packing) can't service car (PRR G2) with load 
+7- (Sand) due to type (Long Gondola) 
+7- Destination (Salem Glass Works 3rd St., Ware House) can't service car (PRR G2) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Destination (Gayner Glass Works, Ware House) can't service car (PRR G2) with load 
+7- (Sand) due to type (Long Gondola) 
+7- Destination (Salem Glass Works 3rd St., Storage) can't service car (PRR G2) with load 
+7- (Sand) due to type (Long Gondola) 
+7- Try spur (Gayner Glass Works, Sand House) load (Sand)
+7- Train (Waterside Flyer) can transport car (PRR G2) to (Gayner Glass Works, Sand House)
+7- Can't use spur (Gayner Glass Works, Sand House) for (PRR G2) due to rolling stock 
+7- length 40 feet 
+7- Track (Sand House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR G2)
+7- Can't route car (PRR G2) with load (Sand) to (Gayner Glass Works, Sand House)
+7- Destination (Salem Glass Works 4th St., Ware Shed) can't service car (PRR G2) with 
+7- load (Sand) due to type (Long Gondola) 
+7- Try spur (Waterside Spur, W.H. Harris Boat Shop) load (Lumber)
+7- Train (Waterside Flyer) can transport car (PRR G2) to (Waterside Spur, W.H. Harris 
+7- Boat Shop) 
+5- Car (PRR G2) custom load (Lumber) final destination (Waterside Spur, W.H. Harris Boat 
+5- Shop) 
+7- Car (PRR G2) has assigned destination (Waterside Spur, W.H. Harris Boat Shop)
+3- Car (PRR G2) assigned to train, destination (Waterside Spur, W.H. Harris Boat Shop)
+3-  
+5- Generate load for (PRR RS53) type (Refrigerator) load (E) at (Salem Yard, Yard)
+7- Destination (H.J. Heinz & Co. No.12, Can House) can't service car (PRR RS53) with load 
+7- (Produce) due to type (Refrigerator) 
+7- Destination (H.J. Heinz & Co. No.12, Bottling & Packing) can't service car (PRR RS53) 
+7- with load (Produce) due to type (Refrigerator) 
+7- Try spur (H.J. Heinz & Co. No.12, Kitchen) load (Produce)
+7- Train (Waterside Flyer) can transport car (PRR RS53) to (H.J. Heinz & Co. No.12, 
+7- Kitchen) 
+5- Car (PRR RS53) custom load (Produce) final destination (H.J. Heinz & Co. No.12, 
+5- Kitchen) 
+7- Car (PRR RS53) has assigned destination (H.J. Heinz & Co. No.12, Kitchen)
+3- Car (PRR RS53) assigned to train, destination (H.J. Heinz & Co. No.12, Kitchen)
+3-  
+5- Generate load for (PRR X9) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X9) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X9) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X9) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X9)
+7- Can't route car (PRR X9) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X9) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X9) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X9) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X9) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X9) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X9) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X9) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X9) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X9) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X9) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X9) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X9) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X9)
+7- Can't route car (PRR X9) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X9) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X9) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X9) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X9) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X9) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X9) to (American Oilcloth Co., Shipping)
+5- Car (PRR X9) custom load (Empty) final destination (American Oilcloth Co., Shipping)
+7- Car (PRR X9) has assigned destination (American Oilcloth Co., Shipping)
+3- Car (PRR X9) assigned to train, destination (American Oilcloth Co., Shipping)
+3-  
+5- Generate load for (PRR X6) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X6) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X6) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X6) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X6)
+7- Can't route car (PRR X6) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X6) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X6) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X6) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X6) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X6) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X6) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X6) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X6) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X6) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X6) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X6) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X6) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X6)
+7- Can't route car (PRR X6) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X6) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X6) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X6) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X6) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X6) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X6) to (American Oilcloth Co., Shipping)
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X6) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X6)
+7- Can't route car (PRR X6) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X6) to (H.J. Heinz & Co. No.12, Can 
+7- House) 
+5- Car (PRR X6) custom load (Empty) final destination (H.J. Heinz & Co. No.12, Can House)
+7- Car (PRR X6) has assigned destination (H.J. Heinz & Co. No.12, Can House)
+3- Car (PRR X6) assigned to train, destination (H.J. Heinz & Co. No.12, Can House)
+3-  
+5- Generate load for (PRR X16) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X16) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X16) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X16) due to rolling stock length 
+7- 44 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X16)
+7- Can't route car (PRR X16) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X16) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X16) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X16) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X16) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X16) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X16) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X16) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X16) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X16) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X16) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X16) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X16) due to rolling stock 
+7- length 44 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X16)
+7- Can't route car (PRR X16) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X16) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X16) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X16) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X16) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X16) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X16) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X16) due to rolling stock 
+7- length 44 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X16)
+7- Can't route car (PRR X16) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X16) to (H.J. Heinz & Co. No.12, 
+7- Bottling & Packing) 
+5- Car (PRR X16) custom load (Empty) final destination (H.J. Heinz & Co. No.12, Bottling 
+5- & Packing) 
+7- Car (PRR X16) has assigned destination (H.J. Heinz & Co. No.12, Bottling & Packing)
+3- Car (PRR X16) assigned to train, destination (H.J. Heinz & Co. No.12, Bottling & 
+3- Packing) 
+3-  
+5- Generate load for (PRR X13) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X13) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X13) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X13) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X13)
+7- Can't route car (PRR X13) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X13) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X13) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X13) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X13) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X13) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X13) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X13) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X13) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X13) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X13) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X13) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X13) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X13)
+7- Can't route car (PRR X13) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X13) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X13) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X13) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X13) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X13) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X13) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X13) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X13)
+7- Can't route car (PRR X13) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Waterside Flyer) can transport car (PRR X13) to (H.J. Heinz & Co. No.12, Can 
+7- House) 
+5- Car (PRR X13) custom load (Manifest) final destination (H.J. Heinz & Co. No.12, Can 
+5- House) 
+7- Car (PRR X13) has assigned destination (H.J. Heinz & Co. No.12, Can House)
+3- Car (PRR X13) assigned to train, destination (H.J. Heinz & Co. No.12, Can House)
+3-  
+5- Generate load for (PRR X43) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X43) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X43) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X43) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X43)
+7- Can't route car (PRR X43) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X43) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X43) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X43) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X43) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X43) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X43) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X43) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X43) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X43) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X43) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X43) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X43) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X43)
+7- Can't route car (PRR X43) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X43) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X43) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X43) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X43) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X43) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X43) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X43) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X43)
+7- Can't route car (PRR X43) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (Waterside Spur, F.H.Lloyd Flour Mill) load (Flour)
+7- Train (Waterside Flyer) can transport car (PRR X43) to (Waterside Spur, F.H.Lloyd 
+7- Flour Mill) 
+5- Car (PRR X43) custom load (Flour) final destination (Waterside Spur, F.H.Lloyd Flour 
+5- Mill) 
+7- Car (PRR X43) has assigned destination (Waterside Spur, F.H.Lloyd Flour Mill)
+3- Car (PRR X43) assigned to train, destination (Waterside Spur, F.H.Lloyd Flour Mill)
+3-  
+5- Generate load for (PRR X45) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X45) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X45) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X45) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X45)
+7- Can't route car (PRR X45) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X45) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X45) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X45) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X45) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X45) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X45) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X45) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X45) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X45) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X45) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X45) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X45) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X45)
+7- Can't route car (PRR X45) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X45) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X45) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X45) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X45) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X45) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X45) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X45) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X45)
+7- Can't route car (PRR X45) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (Gayner Glass Works, Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X45) to (Gayner Glass Works, Ware Shed)
+5- Car (PRR X45) custom load (Empty) final destination (Gayner Glass Works, Ware Shed)
+7- Car (PRR X45) has assigned destination (Gayner Glass Works, Ware Shed)
+3- Car (PRR X45) assigned to train, destination (Gayner Glass Works, Ware Shed)
+3-  
+5- Generate load for (PRR X42) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X42) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X42) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X42) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X42)
+7- Can't route car (PRR X42) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X42) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X42) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X42) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X42) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X42) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X42) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X42) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X42) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X42) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X42) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X42) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X42) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X42)
+7- Can't route car (PRR X42) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X42) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X42) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X42) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X42) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X42) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X42) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X42) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X42)
+7- Can't route car (PRR X42) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Manifest)
+7- Train (Waterside Flyer) can transport car (PRR X42) to (H.J. Heinz & Co. No.12, 
+7- Bottling & Packing) 
+5- Car (PRR X42) custom load (Manifest) final destination (H.J. Heinz & Co. No.12, 
+5- Bottling & Packing) 
+7- Car (PRR X42) has assigned destination (H.J. Heinz & Co. No.12, Bottling & Packing)
+3- Car (PRR X42) assigned to train, destination (H.J. Heinz & Co. No.12, Bottling & 
+3- Packing) 
+3-  
+5- Generate load for (PRR X32) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X32) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X32) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X32) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X32)
+7- Can't route car (PRR X32) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X32) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X32) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X32) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X32) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X32) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X32) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X32)
+7- Can't route car (PRR X32) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X32) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X32) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X32) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X32)
+7- Can't route car (PRR X32) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+7- directly to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Waterside Flyer) no moves left for route (Glass Works Branch) id (4r10) 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X32) with load (Empty) to (H.J. Heinz & Co. No.12, Can House)
+7- Try spur (Waterside Spur, F.H.Lloyd Flour Mill) load (Flour)
+7- Train (Waterside Flyer) can transport car (PRR X32) to (Waterside Spur, F.H.Lloyd 
+7- Flour Mill) 
+7- Can't use spur (Waterside Spur, F.H.Lloyd Flour Mill) for (PRR X32) due to rolling 
+7- stock length 40 feet 
+7- Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (Waterside Spur)
+7- Could not find a yard at (Waterside Spur) for car (PRR X32)
+7- Can't route car (PRR X32) with load (Flour) to (Waterside Spur, F.H.Lloyd Flour Mill)
+7- Try spur (Waterside Spur, S&PSNCo.) load (LCL)
+7- Train (Waterside Flyer) can transport car (PRR X32) to (Waterside Spur, S&PSNCo.)
+5- Car (PRR X32) custom load (LCL) final destination (Waterside Spur, S&PSNCo.)
+7- Car (PRR X32) has assigned destination (Waterside Spur, S&PSNCo.)
+7- Can't set out rolling stock (PRR X32) using Westbound train,
+7- destination track (S&PSNCo.) does not service this direction
+5- Car (PRR X32) can't be delivered to (Waterside Spur) id (4r8) stop 1
+3- Car (PRR X32) assigned to train, destination (Waterside Spur, S&PSNCo.)
+3-  
+5- Generate load for (PRR X31) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Destination (Gayner Glass Works, Shop) can't service car (PRR X31) with load (Empty) 
+7- due to type (Boxcar) 
+7- Try spur (Gayner Glass Works, Storage) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X31) to (Gayner Glass Works, Storage)
+7- Can't use spur (Gayner Glass Works, Storage) for (PRR X31) due to rolling stock length 
+7- 40 feet 
+7- Track (Storage) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X31)
+7- Can't route car (PRR X31) with load (Empty) to (Gayner Glass Works, Storage)
+7- Destination (Salem Glass Works 3rd St., Power House) can't service car (PRR X31) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 1) can't service car (PRR X31) with 
+7- load (Empty) due to type (Boxcar) 
+7- Destination (Salem Glass Works 3rd St., Sand House 2) can't service car (PRR X31) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware House) 
+7- Can't route car (PRR X31) with load (Empty) to (Salem Glass Works 4th St., Ware House)
+7- Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X31) with 
+7- load (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 3rd St., Packing) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Packing) 
+7- Can't route car (PRR X31) with load (Empty) to (Salem Glass Works 3rd St., Packing)
+7- Try spur (Salem Glass Works 3rd St., Ware House) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Ware House) 
+7- Can't route car (PRR X31) with load (Empty) to (Salem Glass Works 3rd St., Ware House)
+7- Try spur (Gayner Glass Works, Ware House) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X31) to (Gayner Glass Works, Ware House)
+7- Can't use spur (Gayner Glass Works, Ware House) for (PRR X31) due to rolling stock 
+7- length 40 feet 
+7- Track (Ware House) full, searching for a yard at destination (Gayner Glass Works)
+7- Could not find a yard at (Gayner Glass Works) for car (PRR X31)
+7- Can't route car (PRR X31) with load (Empty) to (Gayner Glass Works, Ware House)
+7- Try spur (Salem Glass Works 3rd St., Storage) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 3rd St., Storage) 
+7- Can't route car (PRR X31) with load (Empty) to (Salem Glass Works 3rd St., Storage)
+7- Destination (Gayner Glass Works, Sand House) can't service car (PRR X31) with load 
+7- (Empty) due to type (Boxcar) 
+7- Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (Salem Glass Works 4th St., Ware Shed) 
+7- Can't route car (PRR X31) with load (Empty) to (Salem Glass Works 4th St., Ware Shed)
+7- Try spur (American Oilcloth Co., Shipping) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X31) to (American Oilcloth Co., 
+7- Shipping) 
+7- Can't use spur (American Oilcloth Co., Shipping) for (PRR X31) due to rolling stock 
+7- length 40 feet 
+7- Track (Shipping) full, searching for a yard at destination (American Oilcloth Co.)
+7- Could not find a yard at (American Oilcloth Co.) for car (PRR X31)
+7- Can't route car (PRR X31) with load (Empty) to (American Oilcloth Co., Shipping)
+7- Try spur (H.J. Heinz & Co. No.12, Can House) load (Manifest)
+7- Train (Waterside Flyer) can't transport car (PRR X31) out of staging (Salem Yard) 
+7- directly to (H.J. Heinz & Co. No.12, Can House) 
+7- Train (Waterside Flyer) no moves left for route (Glass Works Branch) id (4r10) 
+7- destination (H.J. Heinz & Co. No.12) 
+7- Can't route car (PRR X31) with load (Manifest) to (H.J. Heinz & Co. No.12, Can House)
+7- Try spur (Waterside Spur, F.H.Lloyd Flour Mill) load (Flour)
+7- Train (Waterside Flyer) can transport car (PRR X31) to (Waterside Spur, F.H.Lloyd 
+7- Flour Mill) 
+7- Can't use spur (Waterside Spur, F.H.Lloyd Flour Mill) for (PRR X31) due to rolling 
+7- stock length 40 feet 
+7- Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (Waterside Spur)
+7- Could not find a yard at (Waterside Spur) for car (PRR X31)
+7- Can't route car (PRR X31) with load (Flour) to (Waterside Spur, F.H.Lloyd Flour Mill)
+7- Try spur (Gayner Glass Works, Ware Shed) load (Empty)
+7- Train (Waterside Flyer) can transport car (PRR X31) to (Gayner Glass Works, Ware Shed)
+5- Car (PRR X31) custom load (Empty) final destination (Gayner Glass Works, Ware Shed)
+7- Car (PRR X31) has assigned destination (Gayner Glass Works, Ware Shed)
+3- Car (PRR X31) assigned to train, destination (Gayner Glass Works, Ware Shed)
+3-  
+5- Generate load for (PRR T3) type (Tankcar) load (E) at (Salem Yard, Yard)
+7- Destination (American Oilcloth Co., Shipping) can't service car (PRR T3) with load 
+7- (Chemicals) due to type (Tankcar) 
+7- Try spur (American Oilcloth Co., Chemical Racks) load (Chemicals)
+7- Train (Waterside Flyer) can transport car (PRR T3) to (American Oilcloth Co., Chemical 
+7- Racks) 
+5- Car (PRR T3) custom load (Chemicals) final destination (American Oilcloth Co., 
+5- Chemical Racks) 
+7- Car (PRR T3) has assigned destination (American Oilcloth Co., Chemical Racks)
+7- Can't set out rolling stock (PRR T3) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Car (PRR T3) can't be delivered to (American Oilcloth Co.) id (4r5) stop 1
+3- Car (PRR T3) assigned to train, destination (American Oilcloth Co., Chemical Racks)
+3-  
+5- Generate load for (PRR T1) type (Tankcar) load (E) at (Salem Yard, Yard)
+7- Destination (American Oilcloth Co., Shipping) can't service car (PRR T1) with load 
+7- (Chemicals) due to type (Tankcar) 
+7- Try spur (American Oilcloth Co., Chemical Racks) load (Chemicals)
+7- Train (Waterside Flyer) can transport car (PRR T1) to (American Oilcloth Co., Chemical 
+7- Racks) 
+5- Car (PRR T1) custom load (Chemicals) final destination (American Oilcloth Co., 
+5- Chemical Racks) 
+7- Car (PRR T1) has assigned destination (American Oilcloth Co., Chemical Racks)
+7- Can't set out rolling stock (PRR T1) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Car (PRR T1) can't be delivered to (American Oilcloth Co.) id (4r5) stop 1
+3- Car (PRR T1) assigned to train, destination (American Oilcloth Co., Chemical Racks)
+3-  
+1- Success 14/14 cars at location (Salem Yard) assigned to train (Waterside Flyer)
+7-  
+1- Location (Salem Gass Light Co.) id (4r12) is skipped by train (Waterside Flyer)
+1- Location (Salem Glass Works 4th St.) id (4r14) is skipped by train (Waterside Flyer)
+1- Location (Salem Glass Works 3rd St.) id (4r13) is skipped by train (Waterside Flyer)
+1- Route location (H.J. Heinz & Co. No.12) id (4r10) requests 0 pick ups, 0/10 moves are 
+1- available 
+5-  
+1- Success 0/0 cars at location (H.J. Heinz & Co. No.12) assigned to train (Waterside 
+1- Flyer) 
+7-  
+1- Route location (Waterside Spur) id (4r8) requests 6 pick ups, 6/10 moves are available
+5-  
+5- Can't pick up (PRR X38) using Westbound train, track (S&PSNCo.)
+5- at location (Waterside Spur) does not service this train's direction
+5-  
+1- Partial 0/6 cars at location (Waterside Spur) assigned to train (Waterside Flyer)
+1- Route location (Gayner Glass Works) id (4r9) requests 2 pick ups, 2/10 moves are 
+1- available 
+5-  
+5- Find spur for car (PRR X4) type (Boxcar) custom load (Glass) at (Gayner Glass Works, 
+5- Ware Shed) 
+7- Could not find a spur for car (PRR X4) custom load (Glass)
+5- Try to send car (PRR X4) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+5- Find destinations for (PRR X4) type (Boxcar) load (Glass) at (Gayner Glass Works, Ware 
+5- Shed) 
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't send (PRR X4) to spur (Shipping) due to rolling stock length 40 feet
+7- Can't set out rolling stock (PRR X4) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Could not find a track for (PRR X4) at destination (American Oilcloth Co.)
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't set out rolling stock (PRR X4) using Eastbound train,
+7- destination track (Shipping) does not service this direction
+7- Can't send (PRR X4) to spur (Chemical Racks) due to type (Boxcar)
+5- Could not find a track for (PRR X4) at destination (American Oilcloth Co.)
+7- Searching location (Waterside Spur) for possible destination
+7- Can't set out rolling stock (PRR X4) using Eastbound train,
+7- destination track (W.H. Harris Boat Shop) does not service this direction
+7- Can't set out rolling stock (PRR X4) using Eastbound train,
+7- destination track (F.H.Lloyd Flour Mill) does not service this direction
+7- Can't send (PRR X4) to spur (S&PSNCo.) due to rolling stock length 40 feet
+5- Could not find a track for (PRR X4) at destination (Waterside Spur)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR X4) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X4)
+5-  
+5- Find spur for car (PRR X3) type (Boxcar) custom load (Glass) at (Gayner Glass Works, 
+5- Ware House) 
+7- Could not find a spur for car (PRR X3) custom load (Glass)
+5- Try to send car (PRR X3) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+5- Find destinations for (PRR X3) type (Boxcar) load (Glass) at (Gayner Glass Works, Ware 
+5- House) 
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't send (PRR X3) to spur (Shipping) due to rolling stock length 40 feet
+7- Can't set out rolling stock (PRR X3) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Could not find a track for (PRR X3) at destination (American Oilcloth Co.)
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't set out rolling stock (PRR X3) using Eastbound train,
+7- destination track (Shipping) does not service this direction
+7- Can't send (PRR X3) to spur (Chemical Racks) due to type (Boxcar)
+5- Could not find a track for (PRR X3) at destination (American Oilcloth Co.)
+7- Searching location (Waterside Spur) for possible destination
+7- Can't set out rolling stock (PRR X3) using Eastbound train,
+7- destination track (W.H. Harris Boat Shop) does not service this direction
+7- Can't set out rolling stock (PRR X3) using Eastbound train,
+7- destination track (F.H.Lloyd Flour Mill) does not service this direction
+7- Can't send (PRR X3) to spur (S&PSNCo.) due to rolling stock length 40 feet
+5- Could not find a track for (PRR X3) at destination (Waterside Spur)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR X3) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X3)
+5-  
+5- Find spur for car (PRR X17) type (Boxcar) custom load (Glass) at (Gayner Glass Works, 
+5- Storage) 
+7- Could not find a spur for car (PRR X17) custom load (Glass)
+5- Try to send car (PRR X17) custom load (Glass) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Glass)
+5- Find destinations for (PRR X17) type (Boxcar) load (Glass) at (Gayner Glass Works, 
+5- Storage) 
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't send (PRR X17) to spur (Shipping) due to rolling stock length 40 feet
+7- Can't set out rolling stock (PRR X17) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Could not find a track for (PRR X17) at destination (American Oilcloth Co.)
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't set out rolling stock (PRR X17) using Eastbound train,
+7- destination track (Shipping) does not service this direction
+7- Can't send (PRR X17) to spur (Chemical Racks) due to type (Boxcar)
+5- Could not find a track for (PRR X17) at destination (American Oilcloth Co.)
+7- Searching location (Waterside Spur) for possible destination
+7- Can't set out rolling stock (PRR X17) using Eastbound train,
+7- destination track (W.H. Harris Boat Shop) does not service this direction
+7- Can't set out rolling stock (PRR X17) using Eastbound train,
+7- destination track (F.H.Lloyd Flour Mill) does not service this direction
+7- Can't send (PRR X17) to spur (S&PSNCo.) due to rolling stock length 40 feet
+5- Could not find a track for (PRR X17) at destination (Waterside Spur)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR X17) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X17)
+5-  
+5- Find spur for car (PRR G13) type (Long Gondola) custom load (Empty) at (Gayner Glass 
+5- Works, Sand House) 
+7- Could not find a spur for car (PRR G13) custom load (Empty)
+5- Try to send car (PRR G13) custom load (Empty) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (Empty)
+5- Find destinations for (PRR G13) type (Long Gondola) load (Empty) at (Gayner Glass 
+5- Works, Sand House) 
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't send (PRR G13) to spur (Shipping) due to type (Long Gondola)
+7- Can't set out rolling stock (PRR G13) using Westbound train,
+7- destination track (Chemical Racks) does not service this direction
+5- Could not find a track for (PRR G13) at destination (American Oilcloth Co.)
+7- Searching location (American Oilcloth Co.) for possible destination
+7- Can't set out rolling stock (PRR G13) using Eastbound train,
+7- destination track (Shipping) does not service this direction
+7- Can't send (PRR G13) to spur (Chemical Racks) due to type (Long Gondola)
+5- Could not find a track for (PRR G13) at destination (American Oilcloth Co.)
+7- Searching location (Waterside Spur) for possible destination
+7- Can't set out rolling stock (PRR G13) using Eastbound train,
+7- destination track (W.H. Harris Boat Shop) does not service this direction
+7- Can't set out rolling stock (PRR G13) using Eastbound train,
+7- destination track (F.H.Lloyd Flour Mill) does not service this direction
+7- Can't send (PRR G13) to spur (S&PSNCo.) due to type (Long Gondola)
+5- Could not find a track for (PRR G13) at destination (Waterside Spur)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR G13) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR G13)
+5-  
+1- Partial 0/2 cars at location (Gayner Glass Works) assigned to train (Waterside Flyer)
+1- Route location (American Oilcloth Co.) id (4r5) requests 8 pick ups, 8/10 moves are 
+1- available 
+5-  
+1- Partial 0/8 cars at location (American Oilcloth Co.) assigned to train (Waterside 
+1- Flyer) 
+1- Route location (American Oilcloth Co.) id (4r16) requests 7 pick ups, 7/10 moves are 
+1- available 
+5-  
+1- Partial 0/7 cars at location (American Oilcloth Co.) assigned to train (Waterside 
+1- Flyer) 
+1- Route location (Waterside Spur) id (4r30) requests 8 pick ups, 8/10 moves are available
+5-  
+5- Find spur for car (PRR X38) type (Boxcar) custom load (LCL) at (Waterside Spur, 
+5- S&PSNCo.) 
+7- Could not find a spur for car (PRR X38) custom load (LCL)
+5- Try to send car (PRR X38) custom load (LCL) to staging
+7- Staging (Salem Yard, Flyer) can accept car's load (LCL)
+5- Find destinations for (PRR X38) type (Boxcar) load (LCL) at (Waterside Spur, S&PSNCo.)
+7- Searching location (Salem Glass Works 3rd St.) for possible destination
+5- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+7- Searching location (Electric Co. of NJ) for possible destination
+5- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+7- Searching location (Salem Yard) for possible destination
+7- Can't send (PRR X38) to staging (Flyer) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X38)
+5-  
+1- Partial 0/8 cars at location (Waterside Spur) assigned to train (Waterside Flyer)
+1- Location (Salem Glass Works 3rd St.) id (4r17) is skipped by train (Waterside Flyer)
+1- Location (Electric Co. of NJ) id (4r7) is skipped by train (Waterside Flyer)
+1- Route (Glass Works Branch) id (4r31) no pick ups at location (Salem Yard)
+1- Partial 28/80 cars
+5- Build for train (Waterside Flyer) took 31 mSec

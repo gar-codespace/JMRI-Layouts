@@ -1,0 +1,825 @@
+1- Build Report for train (Siuth Pier Switch) built on 1/4/23 9:55 PM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+1- South Pier District
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 2 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- The option to restrict staging to the same car types, roads, and loads as the train 
+5- being built is enabled 
+5- Make departure track available after train is built
+5-  
+5- Car routing options:
+5- Car routing via yards is enabled
+5- Use all Trains when Routing
+5-  
+5- Enabled build options for train (Siuth Pier Switch):
+5- Allow local moves if car has a custom load or FD
+5-  
+5- Disabled build options for train (Siuth Pier Switch):
+5- Use normal mode when building this train
+5- Send all car pick ups to terminal (Harbor Drive)
+5- Allow cars to return to staging
+5- Service all cars with a final destination (FD)
+5- Send cars with custom loads to staging
+5- Build loco consist from single locos
+5-  
+3- Train (Siuth Pier Switch) route (South Pier Switch):
+3- 1r7 Staging (Harbor Drive) request 15 pick ups, maximum train length 1,000 feet
+3- 1r9 Location (West Harbor) requests 30 moves, maximum train length 1,000 feet
+3- 1r8 Staging (Harbor Drive) requests 15 set outs
+1- Route (South Pier Switch) requests 30 cars and 60 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Harbor Drive), there are 1 tracks
+1- Train will return to staging (Harbor Drive) reuse departure track
+3-  
+1- Train will depart staging (Harbor Drive), there are 1 tracks
+3- Staging track (Street Tracks) has 1 loco(s) and 12 cars
+7- Train (Siuth Pier Switch) can depart from staging track (Street Tracks)
+5- Search for 0 loco(s), model (), road (), departing (Harbor Drive), destination 
+5- (Harbor Drive) 
+1- Loco (CNJ 806) assigned to train, departs (Harbor Drive) destination (Harbor Drive, 
+1- Street Tracks) 
+7- Done assigning locomotives from staging
+5-  
+5- Train (Siuth Pier Switch) services car types:
+5- FM, GB, RS, TM, XI, XM
+7-  
+7- Remove cars not serviced by this train:
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Harbor Drive, Street Tracks) with 12 cars
+7- Staging car (SFRD 8611) type (RS) load (E)
+7- Staging car (NYC 9255) type (FM) load (E)
+7- Staging car (B&A 4788) type (XM) load (E)
+7- Staging car (SFRD 9538) type (RS) load (E)
+7- Staging car (DL&W 7947) type (XM) load (E)
+7- Staging car (M&P 9178) type (FM) load (E)
+7- Staging car (P&R 2837) type (GB) load (E)
+7- Staging car (FGEX 2018) type (RS) load (E)
+7- Staging car (B&A 2655) type (XM) load (E)
+7- Staging car (FGEX 0647) type (RS) load (E)
+7- Staging car (LV 1218) type (XI) load (E)
+7- Staging car (NYC 3747) type (XM) load (E)
+5-  
+1- Found 33 cars for train (Siuth Pier Switch)
+7- Cars available from staging (Harbor Drive):
+7- Car (SFRD 8611) type (RS) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (NYC 9255) type (FM) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (B&A 4788) type (XM) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (SFRD 9538) type (RS) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (DL&W 7947) type (XM) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (M&P 9178) type (FM) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (P&R 2837) type (GB) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (FGEX 2018) type (RS) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (B&A 2655) type (XM) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (FGEX 0647) type (RS) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (LV 1218) type (XI) at (Harbor Drive, Street Tracks) 0 moves
+7- Car (NYC 3747) type (XM) at (Harbor Drive, Street Tracks) 0 moves
+7-  
+7- Cars at location (West Harbor):
+7- Car (SP 3018) type (XM) at (West Harbor, Coffee Roasters) 0 moves
+7- Car (PRR 1574) type (TM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (LV 5358) type (XM) at (West Harbor, Mother Schuckers) 0 moves
+7- Car (AT&SF 8233) type (XM) at (West Harbor, Foodstuffs) 0 moves
+7- Car (NYC 2760) type (XM) at (West Harbor, Mother Schuckers) 0 moves
+7- Car (FGEX 5703) type (RS) at (West Harbor, Produce) 0 moves
+7- Car (FGEX 5039) type (RS) at (West Harbor, Produce) 0 moves
+7- Car (B&A 0449) type (GB) at (West Harbor, Bulk Material Wharf) 0 moves
+7- Car (CNJ 9372) type (GB) at (West Harbor, Bulk Material Wharf) 0 moves
+7- Car (CNJ 0661) type (GB) at (West Harbor, Gantry Crane) 0 moves
+7- Car (WJ&S 3861) type (XI) at (West Harbor, Foodstuffs) 0 moves
+7- Car (LV 7198) type (XM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (ER 0973) type (XI) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (WJ&S 8908) type (GB) at (West Harbor, Bulk Material Wharf) 0 moves
+7- Car (B&A 1831) type (XM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (WJ&S 5972) type (XM) at (West Harbor, Coffee Roasters) 0 moves
+7- Car (DL&W 5887) type (XM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (LV 2693) type (FM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (WJ&S 3672) type (XI) at (West Harbor, Mother Schuckers) 0 moves
+7- Car (B&O 4801) type (FM) at (West Harbor, 4th Street Pier) 0 moves
+7- Car (HKH 5905) type (RS) at (West Harbor, Produce) 0 moves
+7-  
+7- Sort cars on FIFO and LIFO tracks:
+7-  
+5- Train does not require caboose when departing (Harbor Drive)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (30) for train (Siuth Pier Switch) the number available (33) building 
+3- train! 
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+3- Departing staging in aggressive mode, find destinations from (Harbor Drive) in next 
+3- pass 
+1- Route location (Harbor Drive) id 1r7 requests 0 pick ups, 15/15 moves are available
+5-  
+1- Success 0/0 cars at location (Harbor Drive) assigned to train (Siuth Pier Switch)
+1- Route location (West Harbor) id 1r9 requests 15 pick ups, 30/30 moves are available
+5-  
+5- Find spur for car (SP 3018) type (XM) custom load (coffee sacks) at (West Harbor, 
+5- Coffee Roasters) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (SP 3018) with load 
+7- (coffee sacks) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (SP 3018) with load (coffee 
+7- sacks) due to type (XM) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (SP 3018) with load 
+7- (coffee sacks) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (SP 3018) with load (coffee 
+7- sacks) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (SP 3018) with load 
+7- (coffee sacks) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (West Harbor, Produce) can't service car (SP 3018) with load (coffee 
+7- sacks) due to type (XM) 
+7- Could not find a reachable spur for car (SP 3018) load (coffee sacks)
+5- Try to send car (SP 3018) custom load (coffee sacks) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (coffee sacks)
+7- Train (Siuth Pier Switch) can transport car (SP 3018) from spur (West Harbor, Coffee 
+7- Roasters) to (Harbor Drive, ) 
+7- Route for car (SP 3018): (West Harbor, Coffee Roasters)->(Harbor Drive, )
+7- Car (SP 3018) load (coffee sacks) has assigned destination (Harbor Drive, )
+5- Car (SP 3018) doesn't have an assigned destination track
+5- Car (SP 3018) assigned to staging track (Street Tracks)
+3- Car (SP 3018) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (PRR 1574) type (TM) custom load (heating oil) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (PRR 1574) with load 
+7- (heating oil) due to type (TM) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (PRR 1574) with load 
+7- (heating oil) due to type (TM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (PRR 1574) with load 
+7- (heating oil) due to type (TM) 
+7- Destination (West Harbor, Foodstuffs) can't service car (PRR 1574) with load (heating 
+7- oil) due to type (TM) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (PRR 1574) with load 
+7- (heating oil) due to type (TM) 
+7- Destination (West Harbor, Produce) can't service car (PRR 1574) with load (heating 
+7- oil) due to type (TM) 
+7- Could not find a reachable spur for car (PRR 1574) load (heating oil)
+5- Try to send car (PRR 1574) custom load (heating oil) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (heating oil)
+7- Train (Siuth Pier Switch) can transport car (PRR 1574) from spur (West Harbor, 4th 
+7- Street Pier) to (Harbor Drive, ) 
+7- Route for car (PRR 1574): (West Harbor, 4th Street Pier)->(Harbor Drive, )
+7- Car (PRR 1574) load (heating oil) has assigned destination (Harbor Drive, )
+5- Car (PRR 1574) doesn't have an assigned destination track
+5- Car (PRR 1574) assigned to staging track (Street Tracks)
+3- Car (PRR 1574) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (LV 5358) type (XM) custom load (can oysters) at (West Harbor, 
+5- Mother Schuckers) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (LV 5358) with load (can 
+7- oysters) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (LV 5358) with load 
+7- (can oysters) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (LV 5358) with load (can 
+7- oysters) due to type (XM) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (LV 5358) with load (can 
+7- oysters) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (LV 5358) with load (can 
+7- oysters) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (LV 5358) with load (can 
+7- oysters) due to type (XM) 
+7- Could not find a reachable spur for car (LV 5358) load (can oysters)
+5- Try to send car (LV 5358) custom load (can oysters) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (can oysters)
+7- Train (Siuth Pier Switch) can transport car (LV 5358) from spur (West Harbor, Mother 
+7- Schuckers) to (Harbor Drive, ) 
+7- Route for car (LV 5358): (West Harbor, Mother Schuckers)->(Harbor Drive, )
+7- Car (LV 5358) load (can oysters) has assigned destination (Harbor Drive, )
+5- Car (LV 5358) doesn't have an assigned destination track
+5- Car (LV 5358) assigned to staging track (Street Tracks)
+3- Car (LV 5358) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (AT&SF 8233) type (XM) custom load (foodstuffs) at (West Harbor, 
+5- Foodstuffs) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (AT&SF 8233) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (AT&SF 8233) with 
+7- load (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (AT&SF 8233) with load 
+7- (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (AT&SF 8233) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (AT&SF 8233) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (AT&SF 8233) with load 
+7- (foodstuffs) due to type (XM) 
+7- Could not find a reachable spur for car (AT&SF 8233) load (foodstuffs)
+5- Try to send car (AT&SF 8233) custom load (foodstuffs) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (foodstuffs)
+7- Train (Siuth Pier Switch) can transport car (AT&SF 8233) from spur (West Harbor, 
+7- Foodstuffs) to (Harbor Drive, ) 
+7- Route for car (AT&SF 8233): (West Harbor, Foodstuffs)->(Harbor Drive, )
+7- Car (AT&SF 8233) load (foodstuffs) has assigned destination (Harbor Drive, )
+5- Car (AT&SF 8233) doesn't have an assigned destination track
+5- Car (AT&SF 8233) assigned to staging track (Street Tracks)
+3- Car (AT&SF 8233) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (NYC 2760) type (XM) custom load (can oysters) at (West Harbor, 
+5- Mother Schuckers) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (NYC 2760) with load 
+7- (can oysters) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (NYC 2760) with load 
+7- (can oysters) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (NYC 2760) with load (can 
+7- oysters) due to type (XM) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (NYC 2760) with load 
+7- (can oysters) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (NYC 2760) with load (can 
+7- oysters) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (NYC 2760) with load (can 
+7- oysters) due to type (XM) 
+7- Could not find a reachable spur for car (NYC 2760) load (can oysters)
+5- Try to send car (NYC 2760) custom load (can oysters) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (can oysters)
+7- Train (Siuth Pier Switch) can transport car (NYC 2760) from spur (West Harbor, Mother 
+7- Schuckers) to (Harbor Drive, ) 
+7- Route for car (NYC 2760): (West Harbor, Mother Schuckers)->(Harbor Drive, )
+7- Car (NYC 2760) load (can oysters) has assigned destination (Harbor Drive, )
+5- Car (NYC 2760) doesn't have an assigned destination track
+5- Car (NYC 2760) assigned to staging track (Street Tracks)
+3- Car (NYC 2760) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (FGEX 5703) type (RS) custom load (produce) at (West Harbor, 
+5- Produce) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (FGEX 5703) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (FGEX 5703) with 
+7- load (produce) due to type (RS) 
+7- Destination (West Harbor, Gantry Crane) can't service car (FGEX 5703) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (FGEX 5703) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Foodstuffs) can't service car (FGEX 5703) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (FGEX 5703) with load 
+7- (produce) due to schedule no match 
+7- Could not find a reachable spur for car (FGEX 5703) load (produce)
+5- Try to send car (FGEX 5703) custom load (produce) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (produce)
+7- Train (Siuth Pier Switch) can transport car (FGEX 5703) from spur (West Harbor, 
+7- Produce) to (Harbor Drive, ) 
+7- Route for car (FGEX 5703): (West Harbor, Produce)->(Harbor Drive, )
+7- Car (FGEX 5703) load (produce) has assigned destination (Harbor Drive, )
+5- Car (FGEX 5703) doesn't have an assigned destination track
+5- Car (FGEX 5703) assigned to staging track (Street Tracks)
+3- Car (FGEX 5703) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (FGEX 5039) type (RS) custom load (produce) at (West Harbor, 
+5- Produce) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (FGEX 5039) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (FGEX 5039) with 
+7- load (produce) due to type (RS) 
+7- Destination (West Harbor, Gantry Crane) can't service car (FGEX 5039) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (FGEX 5039) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Foodstuffs) can't service car (FGEX 5039) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (FGEX 5039) with load 
+7- (produce) due to schedule no match 
+7- Could not find a reachable spur for car (FGEX 5039) load (produce)
+5- Try to send car (FGEX 5039) custom load (produce) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (produce)
+7- Train (Siuth Pier Switch) can transport car (FGEX 5039) from spur (West Harbor, 
+7- Produce) to (Harbor Drive, ) 
+7- Route for car (FGEX 5039): (West Harbor, Produce)->(Harbor Drive, )
+7- Car (FGEX 5039) load (produce) has assigned destination (Harbor Drive, )
+5- Car (FGEX 5039) doesn't have an assigned destination track
+5- Car (FGEX 5039) assigned to staging track (Street Tracks)
+3- Car (FGEX 5039) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (B&A 0449) type (GB) custom load (cobbles) at (West Harbor, Bulk 
+5- Material Wharf) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (B&A 0449) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Gantry Crane) can't service car (B&A 0449) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, 4th Street Pier) can't service car (B&A 0449) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (B&A 0449) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (B&A 0449) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Produce) can't service car (B&A 0449) with load (cobbles) 
+7- due to type (GB) 
+7- Could not find a reachable spur for car (B&A 0449) load (cobbles)
+5- Try to send car (B&A 0449) custom load (cobbles) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (cobbles)
+7- Train (Siuth Pier Switch) can transport car (B&A 0449) from spur (West Harbor, Bulk 
+7- Material Wharf) to (Harbor Drive, ) 
+7- Route for car (B&A 0449): (West Harbor, Bulk Material Wharf)->(Harbor Drive, )
+7- Car (B&A 0449) load (cobbles) has assigned destination (Harbor Drive, )
+5- Car (B&A 0449) doesn't have an assigned destination track
+5- Car (B&A 0449) assigned to staging track (Street Tracks)
+3- Car (B&A 0449) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (CNJ 9372) type (GB) custom load (cobbles) at (West Harbor, Bulk 
+5- Material Wharf) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (CNJ 9372) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Gantry Crane) can't service car (CNJ 9372) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, 4th Street Pier) can't service car (CNJ 9372) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (CNJ 9372) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (CNJ 9372) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Produce) can't service car (CNJ 9372) with load (cobbles) 
+7- due to type (GB) 
+7- Could not find a reachable spur for car (CNJ 9372) load (cobbles)
+5- Try to send car (CNJ 9372) custom load (cobbles) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (cobbles)
+7- Train (Siuth Pier Switch) can transport car (CNJ 9372) from spur (West Harbor, Bulk 
+7- Material Wharf) to (Harbor Drive, ) 
+7- Route for car (CNJ 9372): (West Harbor, Bulk Material Wharf)->(Harbor Drive, )
+7- Car (CNJ 9372) load (cobbles) has assigned destination (Harbor Drive, )
+5- Car (CNJ 9372) doesn't have an assigned destination track
+5- Car (CNJ 9372) assigned to staging track (Street Tracks)
+3- Car (CNJ 9372) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (CNJ 0661) type (GB) custom empty (Empty) at (West Harbor, Gantry 
+5- Crane) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (CNJ 0661) with load 
+7- (Empty) due to type (GB) 
+7- Try destination (West Harbor, Bulk Material Wharf) for car (CNJ 0661) with load 
+7- (Empty) 
+7- Train (Siuth Pier Switch) can transport car (CNJ 0661) from spur (West Harbor, Gantry 
+7- Crane) to (West Harbor, Bulk Material Wharf) 
+7- Route for car (CNJ 0661): (West Harbor, Gantry Crane)->(West Harbor, Bulk Material 
+7- Wharf) 
+7- Car (CNJ 0661) load (Empty) has assigned destination (West Harbor, Bulk Material 
+7- Wharf) 
+3- Car (CNJ 0661) assigned to train, destination (West Harbor, Bulk Material Wharf)
+3-  
+5- Find spur for car (WJ&S 3861) type (XI) custom load (foodstuffs) at (West Harbor, 
+5- Foodstuffs) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (WJ&S 3861) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (WJ&S 3861) with 
+7- load (foodstuffs) due to type (XI) 
+7- Destination (West Harbor, Gantry Crane) can't service car (WJ&S 3861) with load 
+7- (foodstuffs) due to type (XI) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (WJ&S 3861) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (WJ&S 3861) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (WJ&S 3861) with load 
+7- (foodstuffs) due to type (XI) 
+7- Could not find a reachable spur for car (WJ&S 3861) load (foodstuffs)
+5- Try to send car (WJ&S 3861) custom load (foodstuffs) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (foodstuffs)
+7- Train (Siuth Pier Switch) can transport car (WJ&S 3861) from spur (West Harbor, 
+7- Foodstuffs) to (Harbor Drive, ) 
+7- Route for car (WJ&S 3861): (West Harbor, Foodstuffs)->(Harbor Drive, )
+7- Car (WJ&S 3861) load (foodstuffs) has assigned destination (Harbor Drive, )
+5- Car (WJ&S 3861) doesn't have an assigned destination track
+5- Car (WJ&S 3861) assigned to staging track (Street Tracks)
+3- Car (WJ&S 3861) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (LV 7198) type (XM) custom load (break bulk) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (LV 7198) with load 
+7- (break bulk) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (LV 7198) with load 
+7- (break bulk) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (LV 7198) with load (break 
+7- bulk) due to type (XM) 
+7- Destination (West Harbor, Foodstuffs) can't service car (LV 7198) with load (break 
+7- bulk) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (LV 7198) with load 
+7- (break bulk) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (LV 7198) with load (break bulk) 
+7- due to type (XM) 
+7- Could not find a reachable spur for car (LV 7198) load (break bulk)
+5- Try to send car (LV 7198) custom load (break bulk) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (break bulk)
+7- Train (Siuth Pier Switch) can transport car (LV 7198) from spur (West Harbor, 4th 
+7- Street Pier) to (Harbor Drive, ) 
+7- Route for car (LV 7198): (West Harbor, 4th Street Pier)->(Harbor Drive, )
+7- Car (LV 7198) load (break bulk) has assigned destination (Harbor Drive, )
+5- Car (LV 7198) doesn't have an assigned destination track
+5- Car (LV 7198) assigned to staging track (Street Tracks)
+3- Car (LV 7198) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (ER 0973) type (XI) custom load (break bulk) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (ER 0973) with load 
+7- (break bulk) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (ER 0973) with load 
+7- (break bulk) due to type (XI) 
+7- Destination (West Harbor, Gantry Crane) can't service car (ER 0973) with load (break 
+7- bulk) due to type (XI) 
+7- Destination (West Harbor, Foodstuffs) can't service car (ER 0973) with load (break 
+7- bulk) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (ER 0973) with load 
+7- (break bulk) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (ER 0973) with load (break bulk) 
+7- due to type (XI) 
+7- Could not find a reachable spur for car (ER 0973) load (break bulk)
+5- Try to send car (ER 0973) custom load (break bulk) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (break bulk)
+7- Train (Siuth Pier Switch) can transport car (ER 0973) from spur (West Harbor, 4th 
+7- Street Pier) to (Harbor Drive, ) 
+7- Route for car (ER 0973): (West Harbor, 4th Street Pier)->(Harbor Drive, )
+7- Car (ER 0973) load (break bulk) has assigned destination (Harbor Drive, )
+5- Car (ER 0973) doesn't have an assigned destination track
+5- Car (ER 0973) assigned to staging track (Street Tracks)
+3- Car (ER 0973) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (WJ&S 8908) type (GB) custom load (cobbles) at (West Harbor, Bulk 
+5- Material Wharf) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (WJ&S 8908) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Gantry Crane) can't service car (WJ&S 8908) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, 4th Street Pier) can't service car (WJ&S 8908) with load 
+7- (cobbles) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (WJ&S 8908) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (WJ&S 8908) with load 
+7- (cobbles) due to type (GB) 
+7- Destination (West Harbor, Produce) can't service car (WJ&S 8908) with load (cobbles) 
+7- due to type (GB) 
+7- Could not find a reachable spur for car (WJ&S 8908) load (cobbles)
+5- Try to send car (WJ&S 8908) custom load (cobbles) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (cobbles)
+7- Train (Siuth Pier Switch) can transport car (WJ&S 8908) from spur (West Harbor, Bulk 
+7- Material Wharf) to (Harbor Drive, ) 
+7- Route for car (WJ&S 8908): (West Harbor, Bulk Material Wharf)->(Harbor Drive, )
+7- Car (WJ&S 8908) load (cobbles) has assigned destination (Harbor Drive, )
+5- Car (WJ&S 8908) doesn't have an assigned destination track
+5- Car (WJ&S 8908) assigned to staging track (Street Tracks)
+3- Car (WJ&S 8908) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (B&A 1831) type (XM) custom load (foodstuffs) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, Foodstuffs) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (B&A 1831) with load 
+7- (foodstuffs) due to type (XM) 
+7- Could not find a reachable spur for car (B&A 1831) load (foodstuffs)
+5- Try to send car (B&A 1831) custom load (foodstuffs) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (foodstuffs)
+7- Train (Siuth Pier Switch) can transport car (B&A 1831) from spur (West Harbor, 4th 
+7- Street Pier) to (Harbor Drive, ) 
+7- Route for car (B&A 1831): (West Harbor, 4th Street Pier)->(Harbor Drive, )
+7- Car (B&A 1831) load (foodstuffs) has assigned destination (Harbor Drive, )
+5- Car (B&A 1831) doesn't have an assigned destination track
+5- Car (B&A 1831) assigned to staging track (Street Tracks)
+3- Car (B&A 1831) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+1- Success 15/15 cars at location (West Harbor) assigned to train (Siuth Pier Switch)
+1- Route location (Harbor Drive) id 1r8 no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Harbor Drive) id 1r7 requests 15 pick ups, 15/15 moves are available
+5-  
+5- Staging track (Street Tracks) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5-  
+5- Generate load for (SFRD 8611) type (RS) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Mother Schuckers) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (SFRD 8611) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Mother Schuckers) 
+7- Route for car (SFRD 8611): (Harbor Drive, Street Tracks)->(West Harbor, Mother 
+7- Schuckers) 
+5- Car (SFRD 8611) custom load (Empty) final destination (West Harbor, Mother Schuckers)
+7- Car (SFRD 8611) load (Empty) has assigned destination (West Harbor, Mother Schuckers)
+3- Car (SFRD 8611) assigned to train, destination (West Harbor, Mother Schuckers)
+3-  
+5- Generate load for (NYC 9255) type (FM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Gantry Crane) custom load (heavy eqpt)
+7- Train (Siuth Pier Switch) can transport car (NYC 9255) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Gantry Crane) 
+7- Route for car (NYC 9255): (Harbor Drive, Street Tracks)->(West Harbor, Gantry Crane)
+5- Car (NYC 9255) custom load (heavy eqpt) final destination (West Harbor, Gantry Crane)
+7- Car (NYC 9255) load (heavy eqpt) has assigned destination (West Harbor, Gantry Crane)
+3- Car (NYC 9255) assigned to train, destination (West Harbor, Gantry Crane)
+3-  
+5- Generate load for (B&A 4788) type (XM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Coffee Roasters) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (B&A 4788) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Coffee Roasters) 
+7- Route for car (B&A 4788): (Harbor Drive, Street Tracks)->(West Harbor, Coffee 
+7- Roasters) 
+5- Car (B&A 4788) custom load (Empty) final destination (West Harbor, Coffee Roasters)
+7- Car (B&A 4788) load (Empty) has assigned destination (West Harbor, Coffee Roasters)
+3- Car (B&A 4788) assigned to train, destination (West Harbor, Coffee Roasters)
+3-  
+5- Generate load for (SFRD 9538) type (RS) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Produce) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (SFRD 9538) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Produce) 
+7- Route for car (SFRD 9538): (Harbor Drive, Street Tracks)->(West Harbor, Produce)
+5- Car (SFRD 9538) custom load (Empty) final destination (West Harbor, Produce)
+7- Car (SFRD 9538) load (Empty) has assigned destination (West Harbor, Produce)
+3- Car (SFRD 9538) assigned to train, destination (West Harbor, Produce)
+3-  
+5- Generate load for (DL&W 7947) type (XM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Coffee Roasters) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (DL&W 7947) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Coffee Roasters) 
+7- Route for car (DL&W 7947): (Harbor Drive, Street Tracks)->(West Harbor, Coffee 
+7- Roasters) 
+7- Can't use spur (West Harbor, Coffee Roasters) for (DL&W 7947) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Track (Coffee Roasters) full, searching for a yard at destination (West Harbor)
+7- Could not find a yard at (West Harbor) for car (DL&W 7947)
+7- Could not find an interim C/I or yard track that can service car to destination (West 
+7- Harbor) 
+7- Can't route car (DL&W 7947) with load (Empty) to (West Harbor, Coffee Roasters)
+7- Try spur (West Harbor, 4th Street Pier) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (DL&W 7947) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, 4th Street Pier) 
+7- Route for car (DL&W 7947): (Harbor Drive, Street Tracks)->(West Harbor, 4th Street 
+7- Pier) 
+5- Car (DL&W 7947) custom load (Empty) final destination (West Harbor, 4th Street Pier)
+7- Car (DL&W 7947) load (Empty) has assigned destination (West Harbor, 4th Street Pier)
+3- Car (DL&W 7947) assigned to train, destination (West Harbor, 4th Street Pier)
+3-  
+5- Generate load for (M&P 9178) type (FM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Gantry Crane) custom load (heavy eqpt)
+7- Train (Siuth Pier Switch) can transport car (M&P 9178) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Gantry Crane) 
+7- Route for car (M&P 9178): (Harbor Drive, Street Tracks)->(West Harbor, Gantry Crane)
+5- Car (M&P 9178) custom load (heavy eqpt) final destination (West Harbor, Gantry Crane)
+7- Car (M&P 9178) load (heavy eqpt) has assigned destination (West Harbor, Gantry Crane)
+3- Car (M&P 9178) assigned to train, destination (West Harbor, Gantry Crane)
+3-  
+5- Generate load for (P&R 2837) type (GB) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Bulk Material Wharf) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (P&R 2837) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Bulk Material Wharf) 
+7- Route for car (P&R 2837): (Harbor Drive, Street Tracks)->(West Harbor, Bulk Material 
+7- Wharf) 
+5- Car (P&R 2837) custom load (Empty) final destination (West Harbor, Bulk Material 
+5- Wharf) 
+7- Car (P&R 2837) load (Empty) has assigned destination (West Harbor, Bulk Material 
+7- Wharf) 
+3- Car (P&R 2837) assigned to train, destination (West Harbor, Bulk Material Wharf)
+3-  
+5- Generate load for (FGEX 2018) type (RS) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Mother Schuckers) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (FGEX 2018) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Mother Schuckers) 
+7- Route for car (FGEX 2018): (Harbor Drive, Street Tracks)->(West Harbor, Mother 
+7- Schuckers) 
+5- Car (FGEX 2018) custom load (Empty) final destination (West Harbor, Mother Schuckers)
+7- Car (FGEX 2018) load (Empty) has assigned destination (West Harbor, Mother Schuckers)
+3- Car (FGEX 2018) assigned to train, destination (West Harbor, Mother Schuckers)
+3-  
+5- Generate load for (B&A 2655) type (XM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Coffee Roasters) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (B&A 2655) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Coffee Roasters) 
+7- Route for car (B&A 2655): (Harbor Drive, Street Tracks)->(West Harbor, Coffee 
+7- Roasters) 
+7- Can't use spur (West Harbor, Coffee Roasters) for (B&A 2655) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Track (Coffee Roasters) full, searching for a yard at destination (West Harbor)
+7- Could not find a yard at (West Harbor) for car (B&A 2655)
+7- Could not find an interim C/I or yard track that can service car to destination (West 
+7- Harbor) 
+7- Can't route car (B&A 2655) with load (Empty) to (West Harbor, Coffee Roasters)
+7- Try spur (West Harbor, Foodstuffs) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (B&A 2655) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Foodstuffs) 
+7- Route for car (B&A 2655): (Harbor Drive, Street Tracks)->(West Harbor, Foodstuffs)
+5- Car (B&A 2655) custom load (Empty) final destination (West Harbor, Foodstuffs)
+7- Car (B&A 2655) load (Empty) has assigned destination (West Harbor, Foodstuffs)
+3- Car (B&A 2655) assigned to train, destination (West Harbor, Foodstuffs)
+3-  
+5- Generate load for (FGEX 0647) type (RS) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Produce) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (FGEX 0647) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Produce) 
+7- Route for car (FGEX 0647): (Harbor Drive, Street Tracks)->(West Harbor, Produce)
+5- Car (FGEX 0647) custom load (Empty) final destination (West Harbor, Produce)
+7- Car (FGEX 0647) load (Empty) has assigned destination (West Harbor, Produce)
+3- Car (FGEX 0647) assigned to train, destination (West Harbor, Produce)
+3-  
+5- Generate load for (LV 1218) type (XI) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Coffee Roasters) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (LV 1218) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Coffee Roasters) 
+7- Route for car (LV 1218): (Harbor Drive, Street Tracks)->(West Harbor, Coffee Roasters)
+7- Can't use spur (West Harbor, Coffee Roasters) for (LV 1218) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Track (Coffee Roasters) full, searching for a yard at destination (West Harbor)
+7- Could not find a yard at (West Harbor) for car (LV 1218)
+7- Could not find an interim C/I or yard track that can service car to destination (West 
+7- Harbor) 
+7- Can't route car (LV 1218) with load (Empty) to (West Harbor, Coffee Roasters)
+7- Try spur (West Harbor, 4th Street Pier) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (LV 1218) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, 4th Street Pier) 
+7- Route for car (LV 1218): (Harbor Drive, Street Tracks)->(West Harbor, 4th Street Pier)
+5- Car (LV 1218) custom load (Empty) final destination (West Harbor, 4th Street Pier)
+7- Car (LV 1218) load (Empty) has assigned destination (West Harbor, 4th Street Pier)
+3- Car (LV 1218) assigned to train, destination (West Harbor, 4th Street Pier)
+3-  
+5- Generate load for (NYC 3747) type (XM) load (E) at (Harbor Drive, Street Tracks) 
+5- destination () 
+7- Try spur (West Harbor, Coffee Roasters) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (NYC 3747) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Coffee Roasters) 
+7- Route for car (NYC 3747): (Harbor Drive, Street Tracks)->(West Harbor, Coffee 
+7- Roasters) 
+7- Can't use spur (West Harbor, Coffee Roasters) for (NYC 3747) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Track (Coffee Roasters) full, searching for a yard at destination (West Harbor)
+7- Could not find a yard at (West Harbor) for car (NYC 3747)
+7- Could not find an interim C/I or yard track that can service car to destination (West 
+7- Harbor) 
+7- Can't route car (NYC 3747) with load (Empty) to (West Harbor, Coffee Roasters)
+7- Try spur (West Harbor, Foodstuffs) custom load (Empty)
+7- Train (Siuth Pier Switch) can transport car (NYC 3747) from staging (Harbor Drive, 
+7- Street Tracks) to (West Harbor, Foodstuffs) 
+7- Route for car (NYC 3747): (Harbor Drive, Street Tracks)->(West Harbor, Foodstuffs)
+5- Car (NYC 3747) custom load (Empty) final destination (West Harbor, Foodstuffs)
+7- Car (NYC 3747) load (Empty) has assigned destination (West Harbor, Foodstuffs)
+3- Car (NYC 3747) assigned to train, destination (West Harbor, Foodstuffs)
+3-  
+1- Partial 12/15 cars at location (Harbor Drive) assigned to train (Siuth Pier Switch)
+1- Route location (West Harbor) id 1r9 requests 3 pick ups, 3/30 moves are available
+5-  
+5- Find spur for car (WJ&S 5972) type (XM) custom load (coffee sacks) at (West Harbor, 
+5- Coffee Roasters) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (WJ&S 5972) with 
+7- load (coffee sacks) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (WJ&S 5972) with load 
+7- (coffee sacks) due to type (XM) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (WJ&S 5972) with load 
+7- (coffee sacks) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (WJ&S 5972) with load (coffee 
+7- sacks) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (WJ&S 5972) with load 
+7- (coffee sacks) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (West Harbor, Produce) can't service car (WJ&S 5972) with load (coffee 
+7- sacks) due to type (XM) 
+7- Could not find a reachable spur for car (WJ&S 5972) load (coffee sacks)
+5- Try to send car (WJ&S 5972) custom load (coffee sacks) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (coffee sacks)
+7- Train (Siuth Pier Switch) can transport car (WJ&S 5972) from spur (West Harbor, 
+7- Coffee Roasters) to (Harbor Drive, ) 
+7- Route for car (WJ&S 5972): (West Harbor, Coffee Roasters)->(Harbor Drive, )
+7- Car (WJ&S 5972) load (coffee sacks) has assigned destination (Harbor Drive, )
+5- Car (WJ&S 5972) doesn't have an assigned destination track
+5- Car (WJ&S 5972) assigned to staging track (Street Tracks)
+3- Car (WJ&S 5972) assigned to train, destination (Harbor Drive, Street Tracks)
+3-  
+5- Find spur for car (DL&W 5887) type (XM) custom load (foodstuffs) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (DL&W 5887) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (DL&W 5887) with 
+7- load (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (DL&W 5887) with load 
+7- (foodstuffs) due to type (XM) 
+7- Destination (West Harbor, Foodstuffs) can't service car (DL&W 5887) with load 
+7- (foodstuffs) due to schedule no match 
+7- Destination (West Harbor, Mother Schuckers) can't service car (DL&W 5887) with load 
+7- (foodstuffs) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (West Harbor, Produce) can't service car (DL&W 5887) with load 
+7- (foodstuffs) due to type (XM) 
+7- Could not find a reachable spur for car (DL&W 5887) load (foodstuffs)
+5- Try to send car (DL&W 5887) custom load (foodstuffs) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (foodstuffs)
+7- Train (Siuth Pier Switch) can't transport car (DL&W 5887) to (Harbor Drive, ) due to 
+7- Train (Siuth Pier Switch) no moves left for route (South Pier Switch) id 1r8 
+7- destination (Harbor Drive) 
+7- Couldn't find staging that would accept car (DL&W 5887) and load (foodstuffs)
+5- Did not assign a destination for car (DL&W 5887)
+5-  
+5- Find spur for car (LV 2693) type (FM) custom load (lumber) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (LV 2693) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (LV 2693) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (LV 2693) with load 
+7- (lumber) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (West Harbor, Foodstuffs) can't service car (LV 2693) with load (lumber) 
+7- due to type (FM) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (LV 2693) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Produce) can't service car (LV 2693) with load (lumber) due 
+7- to type (FM) 
+7- Could not find a reachable spur for car (LV 2693) load (lumber)
+5- Try to send car (LV 2693) custom load (lumber) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (lumber)
+7- Train (Siuth Pier Switch) can't transport car (LV 2693) to (Harbor Drive, ) due to 
+7- Train (Siuth Pier Switch) no moves left for route (South Pier Switch) id 1r8 
+7- destination (Harbor Drive) 
+7- Couldn't find staging that would accept car (LV 2693) and load (lumber)
+5- Did not assign a destination for car (LV 2693)
+5-  
+5- Find spur for car (WJ&S 3672) type (XI) custom load (can oysters) at (West Harbor, 
+5- Mother Schuckers) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (WJ&S 3672) with load 
+7- (can oysters) due to schedule no match 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (WJ&S 3672) with 
+7- load (can oysters) due to type (XI) 
+7- Destination (West Harbor, Gantry Crane) can't service car (WJ&S 3672) with load (can 
+7- oysters) due to type (XI) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (WJ&S 3672) with load 
+7- (can oysters) due to schedule no match 
+7- Destination (West Harbor, Foodstuffs) can't service car (WJ&S 3672) with load (can 
+7- oysters) due to schedule no match 
+7- Destination (West Harbor, Produce) can't service car (WJ&S 3672) with load (can 
+7- oysters) due to type (XI) 
+7- Could not find a reachable spur for car (WJ&S 3672) load (can oysters)
+5- Try to send car (WJ&S 3672) custom load (can oysters) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (can oysters)
+7- Train (Siuth Pier Switch) can't transport car (WJ&S 3672) to (Harbor Drive, ) due to 
+7- Train (Siuth Pier Switch) no moves left for route (South Pier Switch) id 1r8 
+7- destination (Harbor Drive) 
+7- Couldn't find staging that would accept car (WJ&S 3672) and load (can oysters)
+5- Did not assign a destination for car (WJ&S 3672)
+5-  
+5- Find spur for car (B&O 4801) type (FM) custom load (lumber) at (West Harbor, 4th 
+5- Street Pier) 
+7- Destination (West Harbor, Coffee Roasters) can't service car (B&O 4801) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (B&O 4801) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Gantry Crane) can't service car (B&O 4801) with load 
+7- (lumber) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (West Harbor, Foodstuffs) can't service car (B&O 4801) with load (lumber) 
+7- due to type (FM) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (B&O 4801) with load 
+7- (lumber) due to type (FM) 
+7- Destination (West Harbor, Produce) can't service car (B&O 4801) with load (lumber) 
+7- due to type (FM) 
+7- Could not find a reachable spur for car (B&O 4801) load (lumber)
+5- Try to send car (B&O 4801) custom load (lumber) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (lumber)
+7- Train (Siuth Pier Switch) can't transport car (B&O 4801) to (Harbor Drive, ) due to 
+7- Train (Siuth Pier Switch) no moves left for route (South Pier Switch) id 1r8 
+7- destination (Harbor Drive) 
+7- Couldn't find staging that would accept car (B&O 4801) and load (lumber)
+5- Did not assign a destination for car (B&O 4801)
+5-  
+5- Find spur for car (HKH 5905) type (RS) custom load (produce) at (West Harbor, Produce)
+7- Destination (West Harbor, Coffee Roasters) can't service car (HKH 5905) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Bulk Material Wharf) can't service car (HKH 5905) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Gantry Crane) can't service car (HKH 5905) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, 4th Street Pier) can't service car (HKH 5905) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Foodstuffs) can't service car (HKH 5905) with load 
+7- (produce) due to type (RS) 
+7- Destination (West Harbor, Mother Schuckers) can't service car (HKH 5905) with load 
+7- (produce) due to rolling stock length 44 feet, available track space 0 feet 
+7- Could not find a reachable spur for car (HKH 5905) load (produce)
+5- Try to send car (HKH 5905) custom load (produce) to staging
+7- Staging (Harbor Drive, Street Tracks) can accept car's load (produce)
+7- Train (Siuth Pier Switch) can't transport car (HKH 5905) to (Harbor Drive, ) due to 
+7- Train (Siuth Pier Switch) no moves left for route (South Pier Switch) id 1r8 
+7- destination (Harbor Drive) 
+7- Couldn't find staging that would accept car (HKH 5905) and load (produce)
+5- Did not assign a destination for car (HKH 5905)
+5-  
+1- Partial 1/3 cars at location (West Harbor) assigned to train (Siuth Pier Switch)
+1- Route location (Harbor Drive) id 1r8 no pick ups
+1- Partial 28/30 cars
+5- Build for train (Siuth Pier Switch) took 53 mSec

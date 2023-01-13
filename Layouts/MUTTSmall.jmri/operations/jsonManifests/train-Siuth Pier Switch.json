@@ -1,0 +1,2719 @@
+{
+  "railroad" : "Metropolitian Union Transfer Terminal\nWest Pier District\nJ Dot Bay",
+  "userName" : "Siuth Pier Switch",
+  "description" : "",
+  "locations" : [ {
+    "userName" : "Harbor Drive",
+    "name" : "1r7",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "name" : "4"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ {
+        "name" : "CNJ806",
+        "number" : "806",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "model" : "0-4-0t",
+        "consist" : null
+      } ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "4s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 572,
+      "unit" : "Feet"
+    },
+    "weight" : 480,
+    "cars" : {
+      "add" : [ {
+        "name" : "DL&W7947",
+        "number" : "7947",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV1218",
+        "number" : "1218",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2837",
+        "number" : "2837",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A4788",
+        "number" : "4788",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2655",
+        "number" : "2655",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC3747",
+        "number" : "3747",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9255",
+        "number" : "9255",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "load" : "heavy eqpt",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P9178",
+        "number" : "9178",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "load" : "heavy eqpt",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SFRD8611",
+        "number" : "8611",
+        "road" : "SFRD",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX2018",
+        "number" : "2018",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SFRD9538",
+        "number" : "9538",
+        "road" : "SFRD",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX0647",
+        "number" : "0647",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 12,
+      "loads" : 12,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "West Harbor",
+    "name" : "1r9",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "01:31",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "5s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s5" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "5s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 704,
+      "unit" : "Feet"
+    },
+    "weight" : 600,
+    "cars" : {
+      "add" : [ {
+        "name" : "CNJ0661",
+        "number" : "0661",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1574",
+        "number" : "1574",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV7198",
+        "number" : "7198",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0973",
+        "number" : "0973",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A1831",
+        "number" : "1831",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A0449",
+        "number" : "0449",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9372",
+        "number" : "9372",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S8908",
+        "number" : "8908",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP3018",
+        "number" : "3018",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "coffee sacks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S5972",
+        "number" : "5972",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "coffee sacks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF8233",
+        "number" : "8233",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S3861",
+        "number" : "3861",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV5358",
+        "number" : "5358",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "can oysters",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC2760",
+        "number" : "2760",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "can oysters",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5703",
+        "number" : "5703",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5039",
+        "number" : "5039",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "DL&W7947",
+        "number" : "7947",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV1218",
+        "number" : "1218",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2837",
+        "number" : "2837",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ0661",
+        "number" : "0661",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A4788",
+        "number" : "4788",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2655",
+        "number" : "2655",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC3747",
+        "number" : "3747",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC9255",
+        "number" : "9255",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "load" : "heavy eqpt",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P9178",
+        "number" : "9178",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Gantry Crane",
+            "name" : "5s4"
+          }
+        },
+        "load" : "heavy eqpt",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SFRD8611",
+        "number" : "8611",
+        "road" : "SFRD",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX2018",
+        "number" : "2018",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SFRD9538",
+        "number" : "9538",
+        "road" : "SFRD",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX0647",
+        "number" : "0647",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 15,
+      "loads" : 15,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Harbor Drive",
+    "name" : "1r8",
+    "arrivalTime" : "01:35",
+    "expectedDepartureTime" : "02:20",
+    "location" : {
+      "comment" : "",
+      "name" : "4"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "CNJ806",
+        "number" : "806",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r7",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "model" : "0-4-0t",
+        "consist" : null
+      } ]
+    },
+    "TrainTerminatesIn" : "Harbor Drive",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "PRR1574",
+        "number" : "1574",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV7198",
+        "number" : "7198",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0973",
+        "number" : "0973",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "break bulk",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A1831",
+        "number" : "1831",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "4th Street Pier",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A0449",
+        "number" : "0449",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9372",
+        "number" : "9372",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S8908",
+        "number" : "8908",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "GB",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Bulk Material Wharf",
+            "name" : "5s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "cobbles",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP3018",
+        "number" : "3018",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "coffee sacks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S5972",
+        "number" : "5972",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Coffee Roasters",
+            "name" : "5s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "coffee sacks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF8233",
+        "number" : "8233",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S3861",
+        "number" : "3861",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XI",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Foodstuffs",
+            "name" : "5s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "foodstuffs",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV5358",
+        "number" : "5358",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "can oysters",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC2760",
+        "number" : "2760",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Mother Schuckers",
+            "name" : "5s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "can oysters",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5703",
+        "number" : "5703",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5039",
+        "number" : "5039",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "West Harbor",
+          "name" : "5",
+          "route" : "1r9",
+          "track" : {
+            "userName" : "Produce",
+            "name" : "5s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harbor Drive",
+          "name" : "4",
+          "route" : "1r8",
+          "track" : {
+            "userName" : "Street Tracks",
+            "name" : "4s1"
+          }
+        },
+        "load" : "produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "1915-01-05T05:55:11.964+0000"
+}

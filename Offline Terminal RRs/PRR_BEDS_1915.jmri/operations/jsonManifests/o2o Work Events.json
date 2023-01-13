@@ -1,0 +1,20 @@
+{
+  "date": "Valid Jan 12, 1914, 16:52", 
+  "division": "", 
+  "locations": [
+    {
+      "locationName": "North 4th St", 
+      "tracks": [
+        {
+          "cars": [], 
+          "locos": []
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "PRR BEDS 1914", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

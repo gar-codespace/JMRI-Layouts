@@ -1,0 +1,100 @@
+o2o - Glass Works Model - 1915;;;;;
+ 
+Manifest for train (Fenwick Flyer) Switch Along Fenwick Creek
+Valid 11/08/2022 07:17
+ 
+Scheduled work at Salem, departure time 00:00
+ [ ] Pick up M&P 6336 H load coal destination Fenwick Creek
+ [ ] Pick up P&R 5560 H load coal destination Fenwick Creek
+ [ ] Pick up CNJ 3094 TO load heating oil destination Fenwick Creek
+ [ ] Pick up ER 4387 TO load heating oil destination Fenwick Creek
+ [ ] Pick up ER 7553 X empty Empty destination Fenwick Creek
+ [ ] Pick up ER 4841 X empty Empty destination Fenwick Creek
+ [ ] Pick up AT&SF 6513 G load sand destination Fenwick Creek
+ [ ] Pick up NYNH&H 8387 G load sand destination Fenwick Creek
+ [ ] Pick up WJ&S 1090 X empty Empty destination Fenwick Creek
+ [ ] Pick up LV 4868 X empty Empty destination Fenwick Creek
+ [ ] Pick up AT&SF 4700 H load coal destination Fenwick Creek
+ [ ] Pick up DL&W 7996 H load coal destination Fenwick Creek
+ [ ] Pick up ACL 3300 R Empty E destination Salem
+ [ ] Pick up B&A 2320 F Empty E destination Salem
+ [ ] Pick up SP 7876 R Empty E destination Salem
+ [ ] Pick up SP 7385 X Empty E destination Salem
+ [ ] Pick up ER 0930 X Empty E destination Salem
+ [ ] Pick up WJ&S 6966 TV Empty E destination Salem
+ [ ] Pick up DL&W 7274 X Empty E destination Salem
+ [ ] Pick up P&R 2028 F Empty E destination Salem
+ [ ] Pick up CNJ 3907 G Empty E destination Salem
+ [ ] Pick up DL&W 1592 G Empty E destination Salem
+ [ ] Pick up LV 0817 X Empty E destination Salem
+ [ ] Pick up LV 0186 X Empty E destination Salem
+Train departs Salem Eastbound with 24 cars, 1,056 feet, 636 tons
+ 
+Scheduled work at Fenwick Creek, arrival time 00:04
+ [ ] Pick up B&O 7951 X empty Empty destination Fenwick Creek
+ [ ] Pick up SP 4555 H load coal destination Salem
+ [ ] Pick up P&R 8284 H load coal destination Salem
+ [ ] Pick up B&O 9766 TO load heating oil destination Salem
+ [ ] Pick up DL&W 7099 TO load heating oil destination Salem
+ [ ] Pick up CNJ 0796 TO load heating oil destination Salem
+ [ ] Pick up SP 7753 TO load heating oil destination Salem
+ [ ] Pick up P&R 5776 X empty Empty destination Salem
+ [ ] Pick up NYC 9972 X empty Empty destination Salem
+ [ ] Set out M&P 6336 H load coal to Electric Co NJ
+ [ ] Set out P&R 5560 H load coal to Electric Co NJ
+ [ ] Set out CNJ 3094 TO load heating oil to Fenwick Oil
+ [ ] Set out ER 4387 TO load heating oil to Fenwick Oil
+ [ ] Set out ER 7553 X empty Empty to Salem 3 Merch Storage
+ [ ] Set out ER 4841 X empty Empty to Salem 3 Merch Storage
+Train departs Fenwick Creek Eastbound with 27 cars, 1,188 feet, 756 tons
+ 
+No work at Unknown
+ 
+Scheduled work at Fenwick Creek, arrival time 00:57
+ [ ] Pick up PRR 8838 G load sand destination Salem
+ [ ] Pick up PRR 6024 G load sand destination Salem
+ [ ] Pick up NYC 1063 X empty Empty destination Salem
+ [ ] Pick up ACL 8380 X empty Empty destination Salem
+ [ ] Pick up M&P 7281 X empty Empty destination Salem
+ [ ] Pick up NYNH&H 2816 H load coal destination Salem
+ [ ] Pick up B&A 8913 H load coal destination Salem
+ [ ] Pick up P&R 8636 H load coal destination Salem
+ [ ] Set out AT&SF 6513 G load sand to Salem 4 Sand Storage
+ [ ] Set out NYNH&H 8387 G load sand to Salem 4 Sand Storage
+ [ ] Set out WJ&S 1090 X empty Empty to Salem 4 Ware House
+ [ ] Set out LV 4868 X empty Empty to Salem 4 Ware House
+ [ ] Set out B&O 7951 X empty Empty to Salem 4 Ware Shed
+ [ ] Set out AT&SF 4700 H load coal to Salem Gas Light
+ [ ] Set out DL&W 7996 H load coal to Salem Gas Light
+Train departs Fenwick Creek Westbound with 28 cars, 1,232 feet, 796 tons
+ 
+Scheduled work at Salem, arrival time 01:46
+ [ ] Set out SP 4555 H load coal to Yard
+ [ ] Set out P&R 8284 H load coal to Yard
+ [ ] Set out B&O 9766 TO load heating oil to Yard
+ [ ] Set out DL&W 7099 TO load heating oil to Yard
+ [ ] Set out CNJ 0796 TO load heating oil to Yard
+ [ ] Set out SP 7753 TO load heating oil to Yard
+ [ ] Set out P&R 5776 X empty Empty to Yard
+ [ ] Set out NYC 9972 X empty Empty to Yard
+ [ ] Set out PRR 8838 G load sand to Yard
+ [ ] Set out PRR 6024 G load sand to Yard
+ [ ] Set out NYC 1063 X empty Empty to Yard
+ [ ] Set out ACL 8380 X empty Empty to Yard
+ [ ] Set out M&P 7281 X empty Empty to Yard
+ [ ] Set out NYNH&H 2816 H load coal to Yard
+ [ ] Set out B&A 8913 H load coal to Yard
+ [ ] Set out P&R 8636 H load coal to Yard
+ [ ] Set out ACL 3300 R Empty E to Yard
+ [ ] Set out B&A 2320 F Empty E to Yard
+ [ ] Set out SP 7876 R Empty E to Yard
+ [ ] Set out SP 7385 X Empty E to Yard
+ [ ] Set out ER 0930 X Empty E to Yard
+ [ ] Set out WJ&S 6966 TV Empty E to Yard
+ [ ] Set out DL&W 7274 X Empty E to Yard
+ [ ] Set out P&R 2028 F Empty E to Yard
+ [ ] Set out CNJ 3907 G Empty E to Yard
+ [ ] Set out DL&W 1592 G Empty E to Yard
+ [ ] Set out LV 0817 X Empty E to Yard
+ [ ] Set out LV 0186 X Empty E to Yard
+Train terminates in Salem

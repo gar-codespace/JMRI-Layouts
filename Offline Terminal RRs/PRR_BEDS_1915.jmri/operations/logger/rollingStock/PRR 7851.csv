@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+7851,PRR,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:02:59
+7851,PRR,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:31
+7851,PRR,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:35
+7851,PRR,XM,lcl,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:52
+7851,PRR,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:53
+7851,PRR,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:13:56

@@ -1,0 +1,270 @@
+{
+  "locations": {
+    "Fenwick Creek": [
+      "28", 
+      "10", 
+      "32", 
+      "15", 
+      "17", 
+      "3", 
+      "7", 
+      "8", 
+      "9"
+    ], 
+    "Salem": [
+      "31"
+    ], 
+    "Salem Creek": [
+      "22", 
+      "23", 
+      "29", 
+      "30", 
+      "11", 
+      "12", 
+      "13", 
+      "14", 
+      "16", 
+      "18", 
+      "19", 
+      "21"
+    ], 
+    "Terminal": [
+      "33", 
+      "34", 
+      "35", 
+      "36", 
+      "37", 
+      "38", 
+      "39", 
+      "40", 
+      "41", 
+      "42"
+    ], 
+    "Township": [
+      "24", 
+      "25", 
+      "26", 
+      "27", 
+      "1", 
+      "2", 
+      "4", 
+      "5", 
+      "6"
+    ], 
+    "Unreported": [
+      "00"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "Township", 
+      "Coal Gas", 
+      "industry"
+    ], 
+    "10": [
+      "Fenwick Creek", 
+      "Ware Shed", 
+      "industry"
+    ], 
+    "11": [
+      "Salem Creek", 
+      "Coal Bin", 
+      "industry"
+    ], 
+    "12": [
+      "Salem Creek", 
+      "Chemical Rack", 
+      "industry"
+    ], 
+    "13": [
+      "Salem Creek", 
+      "Shipping", 
+      "industry"
+    ], 
+    "14": [
+      "Salem Creek", 
+      "Bonham & Young", 
+      "industry"
+    ], 
+    "15": [
+      "Fenwick Creek", 
+      "Electric Co of NJ", 
+      "industry"
+    ], 
+    "16": [
+      "Salem Creek", 
+      "FH Lloyd", 
+      "industry"
+    ], 
+    "17": [
+      "Fenwick Creek", 
+      "Fuel Oil", 
+      "industry"
+    ], 
+    "18": [
+      "Salem Creek", 
+      "Box Shop", 
+      "industry"
+    ], 
+    "19": [
+      "Salem Creek", 
+      "Coal Bin", 
+      "industry"
+    ], 
+    "2": [
+      "Township", 
+      "Packing", 
+      "industry"
+    ], 
+    "21": [
+      "Salem Creek", 
+      "Sand House", 
+      "industry"
+    ], 
+    "22": [
+      "Salem Creek", 
+      "Ware House", 
+      "industry"
+    ], 
+    "23": [
+      "Salem Creek", 
+      "Ware Shed", 
+      "industry"
+    ], 
+    "24": [
+      "Township", 
+      "Bottling & Packing", 
+      "industry"
+    ], 
+    "25": [
+      "Township", 
+      "Can House", 
+      "industry"
+    ], 
+    "26": [
+      "Township", 
+      "Kitchen", 
+      "industry"
+    ], 
+    "27": [
+      "Township", 
+      "Vinegar", 
+      "industry"
+    ], 
+    "28": [
+      "Fenwick Creek", 
+      "Salem Gas Light", 
+      "industry"
+    ], 
+    "29": [
+      "Salem Creek", 
+      "S&PSNCo", 
+      "industry"
+    ], 
+    "3": [
+      "Fenwick Creek", 
+      "Glass Storage", 
+      "industry"
+    ], 
+    "30": [
+      "Salem Creek", 
+      "WH Harris", 
+      "industry"
+    ], 
+    "31": [
+      "Salem", 
+      "Terminal", 
+      "staging"
+    ], 
+    "32": [
+      "Fenwick Creek", 
+      "Glassware", 
+      "industry"
+    ], 
+    "33": [
+      "Terminal", 
+      "Ramp", 
+      "industry"
+    ], 
+    "34": [
+      "Terminal", 
+      "JF Ayers", 
+      "industry"
+    ], 
+    "35": [
+      "Terminal", 
+      "Luke F Smith", 
+      "industry"
+    ], 
+    "36": [
+      "Terminal", 
+      "SB&I Material", 
+      "industry"
+    ], 
+    "37": [
+      "Terminal", 
+      "SB&I Scrap", 
+      "industry"
+    ], 
+    "38": [
+      "Terminal", 
+      "SB&I Ware House", 
+      "industry"
+    ], 
+    "39": [
+      "Terminal", 
+      "Smith Canning", 
+      "industry"
+    ], 
+    "4": [
+      "Township", 
+      "Sand House", 
+      "industry"
+    ], 
+    "40": [
+      "Terminal", 
+      "Coal Bin", 
+      "industry"
+    ], 
+    "41": [
+      "Terminal", 
+      "Salem Freight House", 
+      "industry"
+    ], 
+    "42": [
+      "Terminal", 
+      "General Delivery", 
+      "industry"
+    ], 
+    "5": [
+      "Township", 
+      "Sand Storage", 
+      "industry"
+    ], 
+    "6": [
+      "Township", 
+      " Ware House", 
+      "industry"
+    ], 
+    "7": [
+      "Fenwick Creek", 
+      "Coal Trestle", 
+      "industry"
+    ], 
+    "8": [
+      "Fenwick Creek", 
+      "Sand Storage", 
+      "industry"
+    ], 
+    "9": [
+      "Fenwick Creek", 
+      "Ware House", 
+      "industry"
+    ]
+  }
+}

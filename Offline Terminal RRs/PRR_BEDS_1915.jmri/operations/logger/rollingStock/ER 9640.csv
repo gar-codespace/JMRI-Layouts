@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+9640,ER,XM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:04:35
+9640,ER,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:37
+9640,ER,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:40
+9640,ER,XM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:56
+9640,ER,XM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:58
+9640,ER,XM,Empty,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:14:01

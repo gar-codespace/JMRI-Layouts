@@ -1,0 +1,314 @@
+ Build Report for train (RP77) built on 1/7/23 11:04 AM 
+ JMRI version 4.26+R381c8dfc32 
+  Build report detail level: Normal 
+   Build report detail level: Detailed 
+    Build report detail level: Very Detailed 
+ 
+   Train Build Options: 
+   Build option is set to aggressive 
+   Perform 2 passes 
+   Make departure track available after train is built 
+   
+   Staging build options: 
+   The option to restrict staging to the same car types, roads, and loads as the train 
+   being built is enabled 
+   Make departure track available after train is built 
+   
+   Car routing options: 
+   Car routing via yards is enabled 
+   Use all Trains when Routing 
+   
+   Enabled build options for train (RP77): 
+   Allow cars to travel from origin to terminal 
+   
+   Disabled build options for train (RP77): 
+   Use normal mode when building this train 
+   Send all car pick ups to terminal (Easton) 
+   Allow local moves if car has a custom load or FD 
+   Service all cars with a final destination (FD) 
+   Send cars with custom loads to staging 
+   Build loco consist from single locos 
+   
+  Train (RP77) route (RP77): 
+  26r11 Staging (Weston) request 50 pick ups, maximum train length 3,000 feet 
+  26r12 Location (City) requests 24 moves, maximum train length 3,000 feet 
+  26r15 Location (Train Service) requests 5 moves, maximum train length 3,000 feet 
+  26r14 Staging (Easton) requests 50 set outs 
+ Route (RP77) requests 64 cars and 129 moves 
+ 
+ Train requirements: 
+ Train does not require any locomotives 
+ Locomotive change at (Train Service), departs with 1 loco(s), model (4-6-2 k4 pr) 
+ road () 
+ 
+    Exclude loco (PRR 871) type (ED) is not serviced by this train 
+    Exclude loco (ESS 293) type (ESS) is not serviced by this train 
+    Exclude loco (EEI 69) type (EEI) is not serviced by this train 
+    Exclude loco (PRR 127) type (ED) is not serviced by this train 
+    Exclude loco (EEI 68) type (EEI) is not serviced by this train 
+    Exclude loco (EEI 67) type (EEI) is not serviced by this train 
+    Exclude loco (EEI 66) type (EEI) is not serviced by this train 
+    Exclude loco (PRR 358) type (EE) is not serviced by this train 
+    Exclude loco (ESS 382) type (ESS) is not serviced by this train 
+    Exclude loco (PRR 894) type (EE) is not serviced by this train 
+    Exclude loco (PRR 135) type (ED) is not serviced by this train 
+    Exclude loco (PRR 413) type (EE) is not serviced by this train 
+    Exclude loco (PRR 308) type (EE) is not serviced by this train 
+    Exclude loco (EEI 72) type (EEI) is not serviced by this train 
+    Exclude loco (EEI 71) type (EEI) is not serviced by this train 
+    Exclude loco (EEI 70) type (EEI) is not serviced by this train 
+    Exclude loco (PRR 022) type (EE) is not serviced by this train 
+    Exclude loco (PRR 289) type (EE) is not serviced by this train 
+  
+ Train terminates into staging at (Easton), there are 3 tracks 
+   Staging track (E1) is occupied, found 1 locomotive(s) and 32 cars 
+   Staging track (E4) is occupied, found 2 locomotive(s) and 17 cars 
+    Train (RP77) can terminate to staging track (E3) 
+ Staging track (E3) is available at destination (Easton) 
+  
+ Train will depart staging (Weston), there are 2 tracks 
+  Staging track (W3) has 1 loco(s) and 49 cars 
+    Train (RP77) can depart from staging track (W3) 
+   Search for 0 loco(s), model (), road (), departing (Weston), destination (Train 
+   Service) 
+    Can't send loco (PRR 455) to yard (Coach Yard) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (OB-Valley) due to type (ES) 
+    Can't send loco (PRR 455) to yard (Passenger) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (OB-Downtown) due to type (ES) 
+    Can't send loco (PRR 455) to yard (Cabin Track) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (OB-Crest) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (OB-Easton) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (OB-Northton) due to type (ES) 
+    Can't send loco (PRR 455) to yard (Car Barn) due to type (ES) 
+    Can't send loco (PRR 455) to C/I (Passenger Setout) due to type (ES) 
+ Loco (PRR 455) assigned to train, departs (Weston) destination (Train Service, 
+ Roundhouse) 
+    Done assigning locomotives from staging 
+  
+  Locomotive change at (Train Service), departs with 1 loco(s), model (4-6-2 k4 pr) 
+  road () 
+   Search for 1 loco(s), model (4-6-2 k4 pr), road (), departing (Train Service), 
+   destination (Easton) 
+   Loco (PRR 768) road (PRR) model (4-6-2 k4 pr) type (ES) at location (Train Service, 
+   Roundhouse) destination (Easton) 
+ Loco (PRR 768) assigned to train, departs (Train Service) destination (Easton, E3) 
+   
+   Train (RP77) services car types: 
+   NM, NE, RB, RS 
+    
+    Remove cars not serviced by this train: 
+    Exclude car (PGCC 3571) type (HT) train doesn't service type (HT) 
+    Exclude car (B 76) type (B) train doesn't service type (B) 
+    Exclude car (PRR 5279) type (HT) train doesn't service type (HT) 
+    Exclude car (B&O 2483) type (HT) train doesn't service type (HT) 
+    Exclude car (B&O 6752) type (HK) train doesn't service type (HK) 
+    Exclude car (PRR 7826) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 7777) type (HT) train doesn't service type (HT) 
+    Exclude car (WCC 0349) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 4594) type (TM) train doesn't service type (TM) 
+    Exclude car (ER 3554) type (GB) train doesn't service type (GB) 
+    Exclude car (B&O 0006) type (HT) train doesn't service type (HT) 
+    Exclude car (B&O 0001) type (GB) train doesn't service type (GB) 
+    Exclude car (PGCC 1849) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 9884) type (HT) train doesn't service type (HT) 
+    Exclude car (WCC 2057) type (HK) train doesn't service type (HK) 
+    Exclude car (WCC 3926) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 2452) type (HK) train doesn't service type (HK) 
+    Exclude car (P&R 8045) type (HT) train doesn't service type (HT) 
+    Exclude car (PGCC 0006) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 4616) type (HK) train doesn't service type (HK) 
+    Exclude car (PRR 1026) type (XM) train doesn't service type (XM) 
+    Exclude car (PGCC 8502) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 4206) type (HT) train doesn't service type (HT) 
+    Exclude car (NYC 5469) type (FM) train doesn't service type (FM) 
+    Exclude car (B&O 8057) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 0725) type (HT) train doesn't service type (HT) 
+    Exclude car (M&P 7404) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 1772) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 3097) type (HK) train doesn't service type (HK) 
+    Exclude car (WCC 8784) type (HT) train doesn't service type (HT) 
+    Exclude car (LV 9527) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 2844) type (HK) train doesn't service type (HK) 
+    Exclude car (PGCC 6335) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 5587) type (HT) train doesn't service type (HT) 
+    Exclude car (B&A 5230) type (XM) train doesn't service type (XM) 
+    Exclude car (WCC 9055) type (HK) train doesn't service type (HK) 
+    Exclude car (PL 7789) type (GB) train doesn't service type (GB) 
+    Exclude car (B&O 1363) type (HT) train doesn't service type (HT) 
+    Exclude car (SP 0509) type (XM) train doesn't service type (XM) 
+    Exclude car (PGCC 0337) type (HK) train doesn't service type (HK) 
+    Exclude car (TELX 6664) type (TM) train doesn't service type (TM) 
+    Exclude car (PRR 6701) type (XM) train doesn't service type (XM) 
+    Exclude car (WCC 2377) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 0706) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 4539) type (PC) train doesn't service type (PC) 
+    Exclude car (PRR 4494) type (HT) train doesn't service type (HT) 
+    Exclude car (PL 0731) type (XM) train doesn't service type (XM) 
+    Exclude car (P&R 1684) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 1322) type (HK) train doesn't service type (HK) 
+    Exclude car (PRR 2377) type (GB) train doesn't service type (GB) 
+    Exclude car (PRR 0659) type (PC) train doesn't service type (PC) 
+    Exclude car (DL&W 1606) type (GB) train doesn't service type (GB) 
+    Exclude car (P&R 3799) type (HT) train doesn't service type (HT) 
+    Exclude car (TELX 5165) type (TM) train doesn't service type (TM) 
+    Exclude car (B&A 1326) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 7316) type (FM) train doesn't service type (FM) 
+    Exclude car (B&O 4129) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 1707) type (HK) train doesn't service type (HK) 
+    Exclude car (PRR 8746) type (HK) train doesn't service type (HK) 
+    Exclude car (WCC 6217) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 5948) type (TM) train doesn't service type (TM) 
+    Exclude car (DL&W 2622) type (XM) train doesn't service type (XM) 
+    Exclude car (ACL 3198) type (GB) train doesn't service type (GB) 
+    Exclude car (B&A 7656) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 9414) type (HK) train doesn't service type (HK) 
+    Exclude car (SP 2092) type (XM) train doesn't service type (XM) 
+    Exclude car (NYNH&H 2151) type (XM) train doesn't service type (XM) 
+    Exclude car (P&R 5482) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 3365) type (HT) train doesn't service type (HT) 
+    Exclude car (B&O 5892) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 3376) type (TM) train doesn't service type (TM) 
+    Exclude car (PRR 9001) type (HK) train doesn't service type (HK) 
+    Exclude car (PL 1692) type (GB) train doesn't service type (GB) 
+    Exclude car (PRR 0977) type (HK) train doesn't service type (HK) 
+    Exclude car (CNJ 4667) type (XM) train doesn't service type (XM) 
+    Exclude car (PGCC 9376) type (HT) train doesn't service type (HT) 
+    Exclude car (WCC 1630) type (HT) train doesn't service type (HT) 
+    Exclude car (B&O 5921) type (HK) train doesn't service type (HK) 
+    Exclude car (PL 7675) type (GB) train doesn't service type (GB) 
+    Exclude car (P&R 8269) type (HT) train doesn't service type (HT) 
+    Exclude car (PRR 2329) type (HK) train doesn't service type (HK) 
+    Exclude car (P&R 1992) type (HT) train doesn't service type (HT) 
+    Exclude car (PC 75) type (PC) train doesn't service type (PC) 
+    Exclude car (PC 74) type (PC) train doesn't service type (PC) 
+    Exclude car (PGCC 4855) type (HT) train doesn't service type (HT) 
+    Exclude car (PC 73) type (PC) train doesn't service type (PC) 
+    Exclude car (PL 1320) type (XM) train doesn't service type (XM) 
+    Exclude car (PRR 0605) type (XM) train doesn't service type (XM) 
+    Exclude car (B&A 8700) type (GB) train doesn't service type (GB) 
+    Exclude car (B&O 2287) type (HK) train doesn't service type (HK) 
+    Exclude car (B&O 8709) type (HK) train doesn't service type (HK) 
+    Exclude car (PRR 3351) type (XM) train doesn't service type (XM) 
+    Exclude car (P&R 7178) type (HK) train doesn't service type (HK) 
+    Exclude car (WCC 0496) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 2256) type (HT) train doesn't service type (HT) 
+    Exclude car (DL&W 5298) type (XM) train doesn't service type (XM) 
+    Exclude car (M&P 9294) type (XM) train doesn't service type (XM) 
+    Exclude car (P&R 4801) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 8996) type (HT) train doesn't service type (HT) 
+    Exclude car (P&R 4365) type (HT) train doesn't service type (HT) 
+   ********** Only the first 100 cars are shown for (Type) ********** 
+    
+    Remove cars from the other staging tracks: 
+   
+   Departing staging (Weston, W3) with 49 cars 
+    Staging car (PFEX 4022) type (RS) load (E) 
+    Staging car (SFRD 7796) type (RS) load (E) 
+    Staging car (FGEX 0105) type (RB) load (E) 
+    Staging car (SFRD 1793) type (RS) load (E) 
+    Staging car (FGEX 2572) type (RB) load (E) 
+    Staging car (PRR 374) type (NE) load (E) 
+    Staging car (FGEX 0845) type (RB) load (E) 
+    Staging car (FGEX 1877) type (RB) load (E) 
+    Staging car (FGEX 4264) type (RB) load (E) 
+    Staging car (FGEX 5695) type (RB) load (E) 
+    Staging car (FGEX 5331) type (RB) load (E) 
+    Staging car (PFEX 7877) type (RS) load (E) 
+    Staging car (FGEX 8521) type (RB) load (E) 
+    Staging car (FGEX 0369) type (RB) load (E) 
+    Staging car (SFRD 4139) type (RS) load (E) 
+    Staging car (SFRD 1334) type (RS) load (E) 
+    Staging car (SFRD 4521) type (RS) load (E) 
+    Staging car (PFEX 9160) type (RS) load (E) 
+    Staging car (SFRD 2000) type (RS) load (E) 
+    Staging car (SFRD 0638) type (RS) load (E) 
+    Staging car (FGEX 1001) type (RB) load (E) 
+    Staging car (FGEX 9466) type (RB) load (E) 
+    Staging car (SFRD 0576) type (RS) load (E) 
+    Staging car (FGEX 5581) type (RB) load (E) 
+    Staging car (FGEX 3465) type (RB) load (E) 
+    Staging car (FGEX 8015) type (RB) load (E) 
+    Staging car (FGEX 9044) type (RB) load (E) 
+    Staging car (FGEX 7320) type (RB) load (E) 
+    Staging car (FGEX 9790) type (RB) load (E) 
+    Staging car (PFEX 9455) type (RS) load (E) 
+    Staging car (PFEX 4497) type (RS) load (E) 
+    Staging car (PFEX 7723) type (RS) load (E) 
+    Staging car (FGEX 1701) type (RB) load (E) 
+    Staging car (FGEX 3383) type (RB) load (E) 
+    Staging car (FGEX 0626) type (RB) load (E) 
+    Staging car (FGEX 5536) type (RB) load (E) 
+    Staging car (PFEX 4884) type (RS) load (E) 
+    Staging car (FGEX 4846) type (RB) load (E) 
+    Staging car (PFEX 4870) type (RS) load (E) 
+    Staging car (FGEX 8670) type (RB) load (E) 
+    Staging car (FGEX 6151) type (RB) load (E) 
+    Staging car (PFEX 6213) type (RS) load (E) 
+    Staging car (FGEX 8654) type (RB) load (E) 
+    Staging car (FGEX 2307) type (RB) load (E) 
+    Staging car (FGEX 5051) type (RB) load (E) 
+    Staging car (FGEX 1572) type (RB) load (E) 
+    Staging car (PFEX 4833) type (RS) load (E) 
+    Staging car (FGEX 3322) type (RB) load (E) 
+    Staging car (FGEX 6875) type (RB) load (E) 
+   
+ Found 66 cars for train (RP77) 
+    Cars available from staging (Weston): 
+    Car (SFRD 7796) type (RS) at (Weston, W3) 0 moves 
+    Car (SFRD 7796) is lead in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 6875) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 5581) is in kernel (R7) with 12 cars, 528 feet 
+    Car (PFEX 4884) is in kernel (R7) with 12 cars, 528 feet 
+    Car (SFRD 1793) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 1877) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 8015) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 9466) is in kernel (R7) with 12 cars, 528 feet 
+    Car (SFRD 0638) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 1572) is in kernel (R7) with 12 cars, 528 feet 
+    Car (PFEX 4833) is in kernel (R7) with 12 cars, 528 feet 
+    Car (FGEX 1001) is in kernel (R7) with 12 cars, 528 feet 
+    Car (PRR 374) type (NE) (C) at (Weston, W3) 0 moves 
+    Car (PFEX 7877) type (RS) at (Weston, W3) 0 moves 
+    Car (PFEX 7877) is lead in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 4264) is in kernel (R3) with 12 cars, 528 feet 
+    Car (PFEX 4497) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 8521) is in kernel (R3) with 12 cars, 528 feet 
+    Car (PFEX 6213) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 7320) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 5051) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 1701) is in kernel (R3) with 12 cars, 528 feet 
+    Car (SFRD 0576) is in kernel (R3) with 12 cars, 528 feet 
+    Car (PFEX 9160) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 9044) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 2572) is in kernel (R3) with 12 cars, 528 feet 
+    Car (FGEX 5536) type (RB) at (Weston, W3) 0 moves 
+    Car (FGEX 5536) is lead in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 3465) is in kernel (R1) with 12 cars, 528 feet 
+    Car (SFRD 4139) is in kernel (R1) with 12 cars, 528 feet 
+    Car (PFEX 9455) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 5331) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 3383) is in kernel (R1) with 12 cars, 528 feet 
+    Car (SFRD 2000) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 8670) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 0626) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 9790) is in kernel (R1) with 12 cars, 528 feet 
+    Car (PFEX 7723) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 0369) is in kernel (R1) with 12 cars, 528 feet 
+    Car (FGEX 3322) type (RB) at (Weston, W3) 0 moves 
+    Car (FGEX 3322) is lead in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 5695) is in kernel (R2) with 12 cars, 528 feet 
+    Car (PFEX 4022) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 8654) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 0845) is in kernel (R2) with 12 cars, 528 feet 
+    Car (SFRD 1334) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 6151) is in kernel (R2) with 12 cars, 528 feet 
+    Car (SFRD 4521) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 0105) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 2307) is in kernel (R2) with 12 cars, 528 feet 
+    Car (FGEX 4846) is in kernel (R2) with 12 cars, 528 feet 
+    Car (PFEX 4870) is in kernel (R2) with 12 cars, 528 feet 
+    
+    Cars at location (City): 
+ Car (PFEX 7118) in kernel (R6) location (City, A1) doesn't match car (FGEX 3266) 
+ location (City, Ice 1) 
+ Build failed for train (RP77) 

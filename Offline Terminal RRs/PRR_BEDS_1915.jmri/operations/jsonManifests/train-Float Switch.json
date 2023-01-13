@@ -1,0 +1,3615 @@
+{
+  "railroad" : "PRR BEDS 1914",
+  "userName" : "Float Switch",
+  "description" : "",
+  "locations" : [ {
+    "userName" : "Pier Float",
+    "name" : "1r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "2s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 748,
+      "unit" : "Feet"
+    },
+    "weight" : 680,
+    "cars" : {
+      "add" : [ {
+        "name" : "CNJ6820",
+        "number" : "6820",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "load" : "machinery",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL5177",
+        "number" : "5177",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "load" : "machinery",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL9774",
+        "number" : "9774",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX0420",
+        "number" : "0420",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0823",
+        "number" : "0823",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H5964",
+        "number" : "5964",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "MDX0730",
+        "number" : "0730",
+        "road" : "MDX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9818",
+        "number" : "9818",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6325",
+        "number" : "6325",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W3995",
+        "number" : "3995",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL7441",
+        "number" : "7441",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC4987",
+        "number" : "4987",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3405",
+        "number" : "3405",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1976",
+        "number" : "1976",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER8024",
+        "number" : "8024",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ6475",
+        "number" : "6475",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6550",
+        "number" : "6550",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 17,
+      "loads" : 17,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "North 4th St",
+    "name" : "1r3",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "02:16",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "1s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 748,
+      "unit" : "Feet"
+    },
+    "weight" : 680,
+    "cars" : {
+      "add" : [ {
+        "name" : "PL3950",
+        "number" : "3950",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S2279",
+        "number" : "2279",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4434",
+        "number" : "4434",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4177",
+        "number" : "4177",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF5288",
+        "number" : "5288",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL1471",
+        "number" : "1471",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R9600",
+        "number" : "9600",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL2291",
+        "number" : "2291",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "lcl",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1431",
+        "number" : "1431",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX9442",
+        "number" : "9442",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R7741",
+        "number" : "7741",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O6144",
+        "number" : "6144",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1455",
+        "number" : "1455",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "MDX3236",
+        "number" : "3236",
+        "road" : "MDX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O0226",
+        "number" : "0226",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL9032",
+        "number" : "9032",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ4885",
+        "number" : "4885",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S2497",
+        "number" : "2497",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX8711",
+        "number" : "8711",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2398",
+        "number" : "2398",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5281",
+        "number" : "5281",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W5836",
+        "number" : "5836",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "CNJ6820",
+        "number" : "6820",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "load" : "machinery",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL5177",
+        "number" : "5177",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "load" : "machinery",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL3950",
+        "number" : "3950",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S2279",
+        "number" : "2279",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4434",
+        "number" : "4434",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL4177",
+        "number" : "4177",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF5288",
+        "number" : "5288",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL9774",
+        "number" : "9774",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX0420",
+        "number" : "0420",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0823",
+        "number" : "0823",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H5964",
+        "number" : "5964",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "MDX0730",
+        "number" : "0730",
+        "road" : "MDX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9818",
+        "number" : "9818",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6325",
+        "number" : "6325",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W3995",
+        "number" : "3995",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL7441",
+        "number" : "7441",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC4987",
+        "number" : "4987",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3405",
+        "number" : "3405",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1976",
+        "number" : "1976",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER8024",
+        "number" : "8024",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "lumber stack",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ6475",
+        "number" : "6475",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6550",
+        "number" : "6550",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 17,
+      "loads" : 17,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Pier Float",
+    "name" : "1r2",
+    "arrivalTime" : "02:20",
+    "expectedDepartureTime" : "03:11",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Pier Float",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "PL1471",
+        "number" : "1471",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R9600",
+        "number" : "9600",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Crane",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL2291",
+        "number" : "2291",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight Station",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "lcl",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1431",
+        "number" : "1431",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX9442",
+        "number" : "9442",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R7741",
+        "number" : "7741",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O6144",
+        "number" : "6144",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1455",
+        "number" : "1455",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "MDX3236",
+        "number" : "3236",
+        "road" : "MDX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O0226",
+        "number" : "0226",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PL9032",
+        "number" : "9032",
+        "road" : "PL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ4885",
+        "number" : "4885",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S2497",
+        "number" : "2497",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX8711",
+        "number" : "8711",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2398",
+        "number" : "2398",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "FGEX5281",
+        "number" : "5281",
+        "road" : "FGEX",
+        "rfid" : "",
+        "carType" : "RS",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W5836",
+        "number" : "5836",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "North 4th St",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Pier Float",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Float Tracks",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "1914-01-10T18:45:48.643+0000"
+}

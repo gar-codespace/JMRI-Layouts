@@ -1,0 +1,14 @@
+Operator,Description,Parameters
+RT,Report Type,
+RN,Railroad Name,"WJ&S RR
+Glass Works Branch
+Salem, New Jersey"
+LN,Location Name,Fenwick Creek
+PRNTR,Printer Name,
+YPC,Yard Pattern Comment,
+VT,Valid,Valid Jan 03, 1915, 13:15
+TN,Track name,Salem 4 Sand Storage
+Set_To,Road,Number,Type,Model,Length,Weight,Consist,Owner,Track,Location,Destination,Comment
+Set_To,Road,Number,Type,Length,Weight,Load,Load_Type,Hazardous,Color,Kernel,Kernel_Size,Owner,Track,Location,Destination,Dest&Track,Final_Dest,FD&Track,Comment,Drop_Comment,Pickup_Comment,RWE
+[  ] ,PRR,6024,G,40,40,Empty,empty,False,Red,,0,,Salem 4 Sand Storage,Fenwick Creek,,,,,,,,
+[  ] ,PRR,8838,G,40,40,Empty,empty,False,Red,,0,,Salem 4 Sand Storage,Fenwick Creek,,,,,,,,

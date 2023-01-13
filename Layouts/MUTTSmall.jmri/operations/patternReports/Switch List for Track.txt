@@ -1,0 +1,15 @@
+Metropolitian Union Transfer Terminal
+West Pier District
+J Dot Bay
+
+Work Location: Seaside Division - West Harbor
+Valid Jan 03, 1915, 13:07
+
+Switch List for Track
+
+Track: Foodstuffs
+[Foodstuffs]          AT&SF 8233    XM     L foodst Any Line    
+[4th Street Pier]     B&A   1831    XM     L foodst Any Line    
+[4th Street Pier]     DL&W  5887    XM     L foodst Any Line    
+[Foodstuffs]          WJ&S  3861    XI     L foodst Any Line    
+

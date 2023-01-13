@@ -1,0 +1,20 @@
+WJ&S RR
+Glass Works Branch
+Salem, New Jersey
+
+Work Location: Fenwick Creek
+Valid Jan 03, 1915, 13:15
+
+Pattern Report for Tracks
+
+Track: Salem 4 Sand Storage
+[  ] PRR   6024    G      E Empty  Any Line    
+[  ] PRR   8838    G      E Empty  Any Line    
+Total Cars: 2 Track Length: 88 Eqpt. Length: 88 Available: 0
+
+Track Totals for Cars:
+ Any Line - 2
+
+
+Report Totals for Cars:
+ Any Line - 2

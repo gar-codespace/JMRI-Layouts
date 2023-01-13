@@ -1,0 +1,8 @@
+1- Build Report for train () built on 1/7/23 10:49 AM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+1- ERROR Cannot build train (), needs a route
+1- Build failed for train ()

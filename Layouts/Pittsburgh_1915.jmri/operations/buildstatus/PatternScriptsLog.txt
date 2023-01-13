@@ -1,0 +1,6 @@
+2022-11-07 22:59:14,441 - OPS.Main.Controller - DEBUG - Initialize log file - DEBUG level test message
+2022-11-07 22:59:14,441 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2022-11-07 22:59:14,441 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2022-11-07 22:59:14,457 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2022-11-07 22:59:14,457 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2022-11-07 22:59:14,457 - OPS.OB.Bundle - DEBUG - getAllTextBundles

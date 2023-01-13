@@ -1,0 +1,53 @@
+{
+  "railroad" : "O2O Pittsburgh 1915",
+  "userName" : "AS&amp;WCo - Bulk Spots",
+  "description" : "Plant Switch - Bulk",
+  "locations" : [ {
+    "userName" : "AVRR(PRR)",
+    "name" : "92r1",
+    "departureTime" : "00:10",
+    "location" : {
+      "comment" : "",
+      "name" : "33"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : { },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 0,
+      "unit" : "Feet"
+    },
+    "weight" : 0,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 0,
+      "loads" : 0,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "AS&amp;WCo",
+    "name" : "92r2",
+    "arrivalTime" : "00:14",
+    "expectedDepartureTime" : "00:14",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "AS&amp;WCo",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  } ],
+  "date" : "1915-05-07T04:22:36.517+0000"
+}

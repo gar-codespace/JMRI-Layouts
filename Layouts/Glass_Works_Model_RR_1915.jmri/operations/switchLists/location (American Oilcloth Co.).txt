@@ -1,0 +1,13 @@
+Glass Works 1915 Model RR
+ 
+Switch List for American Oilcloth Co.
+ 
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+Departs Salem Yard at 02:00 expected arrival 03:22, arrives Westbound
+ [ ] Pick up X38    PRR  Flooring    from Shipping              -> Salem Yard               
+ [ ] Set out X1     PRR  Empty       from Salem Yard                to Shipping             
+Train (South Bend Flyer) direction change, departs Eastbound
+ [ ] Pick up T4     PRR  Empty       from Chemical Racks        -> Salem Yard               
+ [ ] Pick up T2     PRR  Empty       from Chemical Racks        -> Salem Yard               
+ [ ] Set out T5     PRR  Chemicals   from Salem Yard                to Chemical Racks       
+ [ ] Set out T3     PRR  Chemicals   from Salem Yard                to Chemical Racks       

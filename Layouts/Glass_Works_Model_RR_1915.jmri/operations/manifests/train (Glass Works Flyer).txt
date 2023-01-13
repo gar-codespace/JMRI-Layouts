@@ -1,0 +1,90 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (Glass Works Flyer) Switch Salem Glass Works
+ 
+Scheduled work at Salem Yard 1, departure time 01:00
+ [ ] P/U     PRR X41    from Yard                    
+ [ ] P/U     PRR X15    from Yard                    
+ [ ] P/U     PRR X12    from Yard                    
+ [ ] P/U     PRR RS55   from Yard                    
+ [ ] P/U     PRR RS17   from Yard                    
+ [ ] P/U     PRR T5     from Yard                    
+ [ ] P/U     PRR H5     from Yard                    
+ [ ] P/U     PRR G8     from Yard                    
+ [ ] P/U     PRR G11    from Yard                    
+ [ ] P/U     PRR X08    from Yard                    
+ [ ] P/U     PRR X47    from Yard                    
+ [ ] P/U     PRR G15    from Yard                    
+ [ ] P/U     PRR X36    from Yard                    
+ [ ] P/U     PRR X43    from Yard                    
+ [ ] P/U     PRR H6     from Yard                    
+ [ ] P/U     PRR RS25   from Yard                    
+ [ ] P/U     PRR T6     from Yard                    
+ [ ] P/U     PRR RS53   from Yard                    
+ [ ] P/U     PRR RS52   from Yard                    
+ [ ] P/U     PRR T3     from Yard                    
+ [ ] P/U     PRR G3     from Yard                    
+ [ ] P/U     PRR G13    from Yard                    
+ [ ] P/U     PRR G12    from Yard                    
+ [ ] P/U     PRR F3     from Yard                    
+ [ ] P/U     PRR F1     from Yard                    
+ [ ] P/U     PRR RS04   from Yard                    
+Train departs Salem Yard 1 Eastbound with 26 cars, 1,066 feet, 1,453 tons
+ 
+Scheduled work at Glass Works Branch, arrival time 01:04
+ [ ] P/U     PRR X03    from Heinz - Bottling        
+ [ ] P/U     PRR X45    from Heinz - Bottling        
+ [ ] P/U     PRR RS56   from Heinz - Kitchen         
+ [ ] P/U     PRR RS41   from Heinz - Kitchen         
+ [ ] P/U     PRR T2     from Heinz - Vinegar         
+ [ ] P/U     PRR H4     from SGW 3rd - Coal Gas      
+ [ ] P/U     PRR H3     from SGW 3rd - Coal Gas      
+ [ ] P/U     PRR G10    from SGW 3rd - Sand Storage  
+ [ ] Respot  PRR X04    from Heinz - Can House        to Heinz - Bottling        
+ [ ] S/O     PRR X41    to Heinz - Bottling        
+ [ ] S/O     PRR X15    to Heinz - Can House       
+ [ ] S/O     PRR X12    to Heinz - Can House       
+ [ ] S/O     PRR RS55   to Heinz - Kitchen         
+ [ ] S/O     PRR RS17   to Heinz - Kitchen         
+ [ ] S/O     PRR T5     to Heinz - Vinegar         
+ [ ] S/O     PRR H5     to SGW 3rd - Coal Gas      
+ [ ] S/O     PRR G8     to SGW 3rd - Sand Storage  
+ [ ] S/O     PRR G11    to SGW 3rd - Sand Storage  
+ [ ] P/U     PRR X24    from SGW 3rd - Packing       
+ [ ] P/U     PRR G2     from SGW 3rd - Sand House    
+ [ ] P/U     PRR X29    from SGW 3rd - Ware House    
+ [ ] P/U     PRR X11    from SGW 3rd - Ware House    
+ [ ] S/O     PRR X08    to SGW 3rd - Packing       
+ [ ] S/O     PRR X47    to SGW 3rd - Packing       
+ [ ] S/O     PRR G15    to SGW 3rd - Sand House    
+ [ ] Respot  PRR X18    from Heinz - Can House        to SGW 3rd - Ware House    
+ [ ] S/O     PRR X36    to SGW 3rd - Ware House    
+ [ ] S/O     PRR X43    to SGW 3rd - Ware House    
+Train departs Glass Works Branch Westbound with 24 cars, 976 feet, 1,210 tons
+ 
+Scheduled work at Salem Yard 2, arrival time 02:38
+ [ ] S/O     PRR X03    to Yard                    
+ [ ] S/O     PRR X45    to Yard                    
+ [ ] S/O     PRR RS56   to Yard                    
+ [ ] S/O     PRR RS41   to Yard                    
+ [ ] S/O     PRR T2     to Yard                    
+ [ ] S/O     PRR H4     to Yard                    
+ [ ] S/O     PRR H3     to Yard                    
+ [ ] S/O     PRR X24    to Yard                    
+ [ ] S/O     PRR G2     to Yard                    
+ [ ] S/O     PRR G10    to Yard                    
+ [ ] S/O     PRR X29    to Yard                    
+ [ ] S/O     PRR X11    to Yard                    
+ [ ] S/O     PRR H6     to Yard                    
+ [ ] S/O     PRR RS25   to Yard                    
+ [ ] S/O     PRR T6     to Yard                    
+ [ ] S/O     PRR RS53   to Yard                    
+ [ ] S/O     PRR RS52   to Yard                    
+ [ ] S/O     PRR T3     to Yard                    
+ [ ] S/O     PRR G3     to Yard                    
+ [ ] S/O     PRR G13    to Yard                    
+ [ ] S/O     PRR G12    to Yard                    
+ [ ] S/O     PRR F3     to Yard                    
+ [ ] S/O     PRR F1     to Yard                    
+ [ ] S/O     PRR RS04   to Yard                    
+Train terminates in Salem Yard 2

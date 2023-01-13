@@ -1,0 +1,87 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (Waterside Flyer)
+ 
+Scheduled work at Salem Yard, departure time 00:00
+ [ ] Pick up X16    PRR  Empty      from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up X42    PRR  Manifest   from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up X13    PRR  Manifest   from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up X6     PRR  Empty      from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up RS53   PRR  Produce    from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up X43    PRR  Flour      from Yard                  -> Waterside Spur           
+ [ ] Pick up G2     PRR  Lumber     from Yard                  -> Waterside Spur           
+ [ ] Pick up G10    PRR  Sand       from Yard                  -> Gayner Glass Works       
+ [ ] Pick up X45    PRR  Empty      from Yard                  -> Gayner Glass Works       
+ [ ] Pick up X31    PRR  Empty      from Yard                  -> Gayner Glass Works       
+ [ ] Pick up X9     PRR  Empty      from Yard                  -> American Oilcloth Co.    
+ [ ] Pick up T3     PRR  Chemicals  from Yard                  -> American Oilcloth Co.    
+ [ ] Pick up T1     PRR  Chemicals  from Yard                  -> American Oilcloth Co.    
+ [ ] Pick up X32    PRR  LCL        from Yard                  -> Waterside Spur           
+Train departs Salem Yard Westbound with 14 cars, 564 feet, 738 tons
+ 
+No work at Salem Gass Light Co.
+No work at Salem Glass Works 4th St.
+No work at Salem Glass Works 3rd St.
+ 
+Scheduled work at H.J. Heinz & Co. No.12, arrival time 00:16
+ [ ] Pick up X8     PRR  Goods      from Bottling & Packing    -> Salem Yard               
+ [ ] Pick up RS56   PRR  Empty      from Kitchen               -> Salem Yard               
+ [ ] Pick up RS52   PRR  Empty      from Kitchen               -> Salem Yard               
+ [ ] Pick up RS8    PRR  Empty      from Kitchen               -> Salem Yard               
+ [ ] Pick up RS41   PRR  Empty      from Kitchen               -> Salem Yard               
+ [ ] Set out X16    PRR  Empty      from Salem Yard                to Bottling & Packing   
+ [ ] Set out X42    PRR  Manifest   from Salem Yard                to Bottling & Packing   
+ [ ] Set out X13    PRR  Manifest   from Salem Yard                to Can House            
+ [ ] Set out X6     PRR  Empty      from Salem Yard                to Can House            
+ [ ] Set out RS53   PRR  Produce    from Salem Yard                to Kitchen              
+Train departs H.J. Heinz & Co. No.12 Westbound with 14 cars, 572 feet, 646 tons
+ 
+Scheduled work at Waterside Spur, arrival time 00:50
+ [ ] Pick up X26    PRR  Empty      from F.H.Lloyd Flour Mill  -> Gayner Glass Works       
+ [ ] Pick up F2     PRR  Empty      from W.H. Harris Boat Shop -> Salem Yard               
+ [ ] Set out X43    PRR  Flour      from Salem Yard                to F.H.Lloyd Flour Mill 
+ [ ] Set out G2     PRR  Lumber     from Salem Yard                to W.H. Harris Boat Shop
+Train departs Waterside Spur Westbound with 14 cars, 572 feet, 554 tons
+ 
+Scheduled work at Gayner Glass Works, arrival time 01:06
+ [ ] Pick up G5     PRR  Empty      from Sand House            -> Salem Yard               
+ [ ] Pick up F1     PRR  Empty      from Shop                  -> Salem Yard               
+ [ ] Pick up X39    PRR  Glass      from Ware Shed             -> Salem Yard               
+ [ ] Pick up X36    PRR  Glass      from Ware Shed             -> Salem Yard               
+ [ ] Set out G10    PRR  Sand       from Salem Yard                to Sand House           
+ [ ] Set out X26    PRR  Empty      from Waterside Spur            to Ware House           
+ [ ] Set out X45    PRR  Empty      from Salem Yard                to Ware Shed            
+ [ ] Set out X31    PRR  Empty      from Salem Yard                to Ware Shed            
+Train departs Gayner Glass Works Westbound with 14 cars, 580 feet, 608 tons
+ 
+Scheduled work at American Oilcloth Co., arrival time 01:34
+ [ ] Pick up X1     PRR  Glass      from Shipping              -> Salem Yard               
+ [ ] Set out X9     PRR  Empty      from Salem Yard                to Shipping             
+ [ ] Pick up T4     PRR  Empty      from Chemical Racks        -> Salem Yard               
+ [ ] Set out T3     PRR  Chemicals  from Salem Yard                to Chemical Racks       
+ [ ] Set out T1     PRR  Chemicals  from Salem Yard                to Chemical Racks       
+Train departs American Oilcloth Co. Eastbound with 13 cars, 542 feet, 544 tons
+ 
+Scheduled work at Waterside Spur, arrival time 01:53
+ [ ] Pick up X33    PRR  LCL        from S&PSNCo.              -> Salem Yard               
+ [ ] Set out X32    PRR  LCL        from Salem Yard                to S&PSNCo.             
+Train departs Waterside Spur Eastbound with 13 cars, 542 feet, 544 tons
+ 
+No work at Salem Glass Works 3rd St.
+No work at Electric Co. of NJ
+ 
+Scheduled work at Salem Yard, arrival time 02:11
+ [ ] Set out T4     PRR  Empty      from American Oilcloth Co.     to Flyer                
+ [ ] Set out X1     PRR  Glass      from American Oilcloth Co.     to Flyer                
+ [ ] Set out G5     PRR  Empty      from Gayner Glass Works        to Flyer                
+ [ ] Set out F1     PRR  Empty      from Gayner Glass Works        to Flyer                
+ [ ] Set out X39    PRR  Glass      from Gayner Glass Works        to Flyer                
+ [ ] Set out X36    PRR  Glass      from Gayner Glass Works        to Flyer                
+ [ ] Set out X8     PRR  Goods      from H.J. Heinz & Co. No.12    to Flyer                
+ [ ] Set out RS56   PRR  Empty      from H.J. Heinz & Co. No.12    to Flyer                
+ [ ] Set out RS52   PRR  Empty      from H.J. Heinz & Co. No.12    to Flyer                
+ [ ] Set out RS8    PRR  Empty      from H.J. Heinz & Co. No.12    to Flyer                
+ [ ] Set out RS41   PRR  Empty      from H.J. Heinz & Co. No.12    to Flyer                
+ [ ] Set out X33    PRR  LCL        from Waterside Spur            to Flyer                
+ [ ] Set out F2     PRR  Empty      from Waterside Spur            to Flyer                
+Train terminates in (Salem Yard)

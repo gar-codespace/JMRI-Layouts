@@ -1,0 +1,366 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+2291,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:24
+2497,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+1747,TCX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+5836,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+9519,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+1240,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+1035,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+3698,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+9600,P&R,,E,North 4th St,Crane,,,,0,2023/01/10 07:49:24
+0420,FGEX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:24
+8024,ER,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:24
+7741,P&R,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+9511,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+7499,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+5316,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+1471,PL,,E,North 4th St,Crane,,,,0,2023/01/10 07:49:24
+9774,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:24
+6084,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:24
+1455,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5974,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5437,SP,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+0730,MDX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+5288,AT&SF,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+4434,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5964,NYNH&H,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+6144,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+1431,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+6325,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+9710,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+1976,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+2876,B&A,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+8214,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+6956,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5762,NYNH&H,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+0771,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+2279,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+7441,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+0823,NYC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+5377,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+3236,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+1505,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5507,WCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+6550,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+3995,DL&W,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+1789,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+2673,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+8767,NYNH&H,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+3950,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+3355,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+9032,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5177,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+0618,PRR,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+9514,PGCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+3405,ACL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+5836,WJ&S,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+4177,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+6475,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+4987,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+2398,M&P,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+8371,CNJ,,E,North 4th St,Freight Station,,,,0,2023/01/10 07:49:25
+7502,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+4885,CNJ,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+8711,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+4239,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+6820,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+0226,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+0830,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+9442,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+5281,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 07:49:25
+9818,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:49:25
+6820,CNJ,FM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+9774,PL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+5177,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+0420,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+0823,NYC,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+5964,NYNH&H,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+0730,MDX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+9818,PRR,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+6325,PRR,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+3995,DL&W,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+7441,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+4987,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+3405,ACL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+1976,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+8024,ER,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+6475,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+6550,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:52:01
+6820,CNJ,FM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+9774,PL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+5177,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+0420,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+0823,NYC,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+5964,NYNH&H,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+0730,MDX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+9818,PRR,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+6325,PRR,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+3995,DL&W,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+7441,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+4987,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+3405,ACL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+1976,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+8024,ER,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+6475,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+6550,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:54:04
+6820,CNJ,FM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+9774,PL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+5177,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+0420,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+0823,NYC,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+5964,NYNH&H,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+0730,MDX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+9818,PRR,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+6325,PRR,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+3995,DL&W,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+7441,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+4987,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+3405,ACL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+1976,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+8024,ER,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+6475,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+6550,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 07:59:26
+6820,CNJ,FM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+9774,PL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+5177,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+0420,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+0823,NYC,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+5964,NYNH&H,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+0730,MDX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+9818,PRR,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+6325,PRR,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+3995,DL&W,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+7441,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+4987,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+3405,ACL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+1976,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+8024,ER,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+6475,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+6550,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 08:00:42
+2291,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+2497,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1747,TCX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5836,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+9519,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1240,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1035,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+3698,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+9600,P&R,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:21
+0420,FGEX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+8024,ER,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+7741,P&R,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+9511,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+7499,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5316,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1471,PL,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:21
+9774,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+6084,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1455,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5974,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5437,SP,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+0730,MDX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+5288,AT&SF,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+4434,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5964,NYNH&H,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+6144,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1431,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+6325,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+9710,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1976,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+2876,B&A,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+8214,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+6956,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5762,NYNH&H,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+0771,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+2279,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+7441,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+0823,NYC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+5377,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+3236,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+1505,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5507,WCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+6550,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+3995,DL&W,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+1789,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+2673,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+8767,NYNH&H,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+3950,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+3355,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+9032,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5177,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+0618,PRR,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+9514,PGCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+3405,ACL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+5836,WJ&S,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+4177,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+6475,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+4987,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+2398,M&P,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+8371,CNJ,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:21
+7502,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+4885,CNJ,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+8711,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+4239,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+6820,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+0226,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+0830,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+9442,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+5281,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:21
+9818,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:21
+2291,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+2497,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1747,TCX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5836,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+9519,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1240,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1035,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+3698,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+9600,P&R,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:36
+0420,FGEX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+8024,ER,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+7741,P&R,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+9511,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+7499,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5316,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1471,PL,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:36
+9774,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+6084,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1455,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5974,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5437,SP,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+0730,MDX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+5288,AT&SF,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+4434,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5964,NYNH&H,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+6144,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1431,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+6325,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+9710,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1976,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+2876,B&A,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+8214,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+6956,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5762,NYNH&H,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+0771,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+2279,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+7441,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+0823,NYC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+5377,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+3236,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+1505,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5507,WCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+6550,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+3995,DL&W,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+1789,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+2673,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+8767,NYNH&H,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+3950,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+3355,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+9032,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5177,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+0618,PRR,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+9514,PGCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+3405,ACL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+5836,WJ&S,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+4177,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+6475,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+4987,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+2398,M&P,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+8371,CNJ,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:36
+7502,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+4885,CNJ,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+8711,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+4239,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+6820,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+0226,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+0830,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+9442,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+5281,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:36
+9818,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:36
+2291,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+2497,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1747,TCX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5836,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+9519,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1240,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1035,DL&W,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+3698,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+9600,P&R,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:40
+0420,FGEX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+8024,ER,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+7741,P&R,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+9511,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+7499,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5316,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1471,PL,,E,North 4th St,Crane,,,,0,2023/01/10 10:45:40
+9774,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+6084,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1455,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5974,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5437,SP,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+0730,MDX,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+5288,AT&SF,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+4434,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5964,NYNH&H,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+6144,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1431,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+6325,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+9710,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1976,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+2876,B&A,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+8214,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+6956,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5762,NYNH&H,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+0771,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+2279,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+7441,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+0823,NYC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+5377,ER,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+3236,MDX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+1505,WJ&S,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5507,WCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+6550,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+3995,DL&W,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+1789,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+2673,PRR,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+8767,NYNH&H,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+3950,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+3355,PL,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+9032,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5177,PL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+0618,PRR,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+9514,PGCC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+3405,ACL,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+5836,WJ&S,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+4177,ACL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+6475,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+4987,PGCC,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+2398,M&P,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+8371,CNJ,,E,North 4th St,Freight Station,,,,0,2023/01/10 10:45:40
+7502,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+4885,CNJ,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+8711,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+4239,PL,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+6820,CNJ,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+0226,B&O,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+0830,NYC,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+9442,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+5281,FGEX,,E,North 4th St,Team Tracks,,,,0,2023/01/10 10:45:40
+9818,PRR,,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:40
+6820,CNJ,FM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+9774,PL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+5177,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+0420,FGEX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+0823,NYC,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+5964,NYNH&H,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+0730,MDX,RS,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+9818,PRR,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+6325,PRR,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+3995,DL&W,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+7441,PL,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+4987,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+3405,ACL,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+1976,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+8024,ER,GA,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:47
+6475,CNJ,XM,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:48
+6550,PGCC,HK,E,Pier Float,Float Tracks,,,,0,2023/01/10 10:45:48

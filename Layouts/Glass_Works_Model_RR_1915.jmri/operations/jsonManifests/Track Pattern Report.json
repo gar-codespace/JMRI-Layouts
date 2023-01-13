@@ -1,0 +1,81 @@
+{
+  "date": "Valid Jan 03, 1915, 13:15", 
+  "division": "", 
+  "locations": [
+    {
+      "locationName": "Fenwick Creek", 
+      "tracks": [
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "", 
+              "FD&Track": "", 
+              "Final Dest": "", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "empty", 
+              "Location": "Fenwick Creek", 
+              "Number": "6024", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "PRR", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Salem 4 Sand Storage", 
+              "Type": "G", 
+              "Weight": "40"
+            }, 
+            {
+              " ": " ", 
+              "Color": "Red", 
+              "Comment": "", 
+              "Dest&Track": "", 
+              "Destination": "", 
+              "FD&Track": "", 
+              "Final Dest": "", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "0", 
+              "Length": "40", 
+              "Load": "Empty", 
+              "Load Type": "empty", 
+              "Location": "Fenwick Creek", 
+              "Number": "8838", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "RWL": "", 
+              "Road": "PRR", 
+              "SetOut Msg": "", 
+              "Set_To": "[  ] ", 
+              "Track": "Salem 4 Sand Storage", 
+              "Type": "G", 
+              "Weight": "40"
+            }
+          ], 
+          "length": 88, 
+          "locos": [], 
+          "trackName": "Salem 4 Sand Storage"
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "WJ&S RR\nGlass Works Branch\nSalem, New Jersey", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

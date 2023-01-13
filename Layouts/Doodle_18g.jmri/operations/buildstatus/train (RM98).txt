@@ -1,0 +1,8 @@
+1- Build Report for train (RM98) built on 1/7/23 10:42 AM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+1- ERROR Route terminate location missing for train (RM98)
+1- Build failed for train (RM98)

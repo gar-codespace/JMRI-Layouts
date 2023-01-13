@@ -1,0 +1,131 @@
+Pennsylvania Railroad
+Brooklyn Eastern District Station
+Williamsburg, Brooklyn, New York
+ 
+Switch List for North 4th St
+Valid 1/10/1914 08:00
+ 
+Scheduled work for train (Float Switch)
+Departs Pier Float at 00:00 expected arrival 00:04, arrives Eastbound
+ [ ] Pick up PL 1471 GA empty Empty destination Pier Float
+ [ ] Pick up P&R 9600 FM empty Empty destination Pier Float
+ [ ] Pick up PL 2291 XM load lcl destination Pier Float
+ [ ] Pick up PRR 1431 TG empty Empty destination Pier Float
+ [ ] Pick up FGEX 9442 RS empty Empty destination Pier Float
+ [ ] Pick up P&R 7741 FM empty Empty destination Pier Float
+ [ ] Pick up B&O 6144 GA empty Empty destination Pier Float
+ [ ] Pick up WJ&S 1455 GA empty Empty destination Pier Float
+ [ ] Pick up MDX 3236 RS empty Empty destination Pier Float
+ [ ] Pick up B&O 0226 XM empty Empty destination Pier Float
+ [ ] Pick up PL 9032 XM empty Empty destination Pier Float
+ [ ] Pick up CNJ 4885 XM empty Empty destination Pier Float
+ [ ] Pick up WJ&S 2497 XM empty Empty destination Pier Float
+ [ ] Pick up FGEX 8711 RS empty Empty destination Pier Float
+ [ ] Pick up M&P 2398 XM empty Empty destination Pier Float
+ [ ] Pick up FGEX 5281 RS empty Empty destination Pier Float
+ [ ] Pick up DL&W 5836 XM empty Empty destination Pier Float
+ [ ] Set out CNJ 6820 FM load machinery to Crane
+ [ ] Set out PL 5177 GA load machinery to Crane
+ [ ] Move PL 3950 XM empty Empty
+ [ ] Move WJ&S 2279 XM empty Empty
+ [ ] Move ACL 4434 XM empty Empty
+ [ ] Move ACL 4177 XM empty Empty
+ [ ] Move AT&SF 5288 XM empty Empty
+ [ ] Set out PL 9774 XM empty Empty to Team Tracks
+ [ ] Set out FGEX 0420 RS load Produce to Team Tracks
+ [ ] Set out NYC 0823 XM empty Empty to Team Tracks
+ [ ] Set out NYNH&H 5964 XM load merchandise to Team Tracks
+ [ ] Set out MDX 0730 RS load Produce to Team Tracks
+ [ ] Set out PRR 9818 XM empty Empty to Team Tracks
+ [ ] Set out PRR 6325 HK load coal to Team Tracks
+ [ ] Set out DL&W 3995 XM empty Empty to Team Tracks
+ [ ] Set out PL 7441 GA load lumber stack to Team Tracks
+ [ ] Set out PGCC 4987 HK load coal to Team Tracks
+ [ ] Set out ACL 3405 XM empty Empty to Team Tracks
+ [ ] Set out PGCC 1976 HK load coal to Team Tracks
+ [ ] Set out ER 8024 GA load lumber stack to Team Tracks
+ [ ] Set out CNJ 6475 XM empty Empty to Team Tracks
+ [ ] Set out PGCC 6550 HK load coal to Team Tracks
+Train departs North 4th St Eastbound with 17 cars, 748 feet, 680 tons
+ 
+ 
+Switch List by Track
+ 
+Crane
+Scheduled work for train (Float Switch)
+ [ ] Pick up P&R 9600 FM empty Empty destination Pier Float
+ [ ] Pick up PL 1471 GA empty Empty destination Pier Float
+ [ ] Set out CNJ 6820 FM load machinery to Crane
+ [ ] Set out PL 5177 GA load machinery to Crane
+ 
+Freight Station
+Hold CNJ 8371 XM
+Hold NYNH&H 8767 XM
+Hold PL 3355 XM
+Hold PRR 0618 XM
+Hold SP 5437 XM
+Hold WJ&S 5836 XM
+Scheduled work for train (Float Switch)
+ [ ] Pick up PL 2291 XM load lcl destination Pier Float
+ [ ] Move ACL 4177 XM empty Empty
+ [ ] Move ACL 4434 XM empty Empty
+ [ ] Move AT&SF 5288 XM empty Empty
+ [ ] Move PL 3950 XM empty Empty
+ [ ] Move WJ&S 2279 XM empty Empty
+ 
+Team Tracks
+Hold B&A 2876 GA
+Hold DL&W 1035 GA
+Hold ER 5377 XM
+Hold ER 9511 XM
+Hold FGEX 3698 RS
+Hold FGEX 7499 RS
+Hold FGEX 7502 RS
+Hold MDX 9519 RS
+Hold MDX 9710 RS
+Hold NYC 0830 GA
+Hold NYC 6956 XM
+Hold NYNH&H 5762 XM
+Hold PGCC 9514 HK
+Hold PL 4239 XM
+Hold PL 5316 XM
+Hold PRR 1240 GA
+Hold PRR 1789 XM
+Hold PRR 2673 XM
+Hold PRR 6084 XM
+Hold TCX 1747 TG
+Hold WCC 5507 HK
+Hold WJ&S 0771 XM
+Hold WJ&S 1505 FM
+Hold WJ&S 5974 XM
+Hold WJ&S 8214 XM
+Scheduled work for train (Float Switch)
+ [ ] Pick up B&O 0226 XM empty Empty destination Pier Float
+ [ ] Pick up B&O 6144 GA empty Empty destination Pier Float
+ [ ] Pick up CNJ 4885 XM empty Empty destination Pier Float
+ [ ] Pick up DL&W 5836 XM empty Empty destination Pier Float
+ [ ] Pick up FGEX 5281 RS empty Empty destination Pier Float
+ [ ] Pick up FGEX 8711 RS empty Empty destination Pier Float
+ [ ] Pick up FGEX 9442 RS empty Empty destination Pier Float
+ [ ] Pick up M&P 2398 XM empty Empty destination Pier Float
+ [ ] Pick up MDX 3236 RS empty Empty destination Pier Float
+ [ ] Pick up P&R 7741 FM empty Empty destination Pier Float
+ [ ] Pick up PL 9032 XM empty Empty destination Pier Float
+ [ ] Pick up PRR 1431 TG empty Empty destination Pier Float
+ [ ] Pick up WJ&S 1455 GA empty Empty destination Pier Float
+ [ ] Pick up WJ&S 2497 XM empty Empty destination Pier Float
+ [ ] Set out ACL 3405 XM empty Empty to Team Tracks
+ [ ] Set out CNJ 6475 XM empty Empty to Team Tracks
+ [ ] Set out DL&W 3995 XM empty Empty to Team Tracks
+ [ ] Set out ER 8024 GA load lumber stack to Team Tracks
+ [ ] Set out FGEX 0420 RS load Produce to Team Tracks
+ [ ] Set out MDX 0730 RS load Produce to Team Tracks
+ [ ] Set out NYC 0823 XM empty Empty to Team Tracks
+ [ ] Set out NYNH&H 5964 XM load merchandise to Team Tracks
+ [ ] Set out PGCC 1976 HK load coal to Team Tracks
+ [ ] Set out PGCC 4987 HK load coal to Team Tracks
+ [ ] Set out PGCC 6550 HK load coal to Team Tracks
+ [ ] Set out PL 7441 GA load lumber stack to Team Tracks
+ [ ] Set out PL 9774 XM empty Empty to Team Tracks
+ [ ] Set out PRR 6325 HK load coal to Team Tracks
+ [ ] Set out PRR 9818 XM empty Empty to Team Tracks

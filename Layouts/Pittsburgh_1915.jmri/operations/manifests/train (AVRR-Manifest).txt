@@ -1,0 +1,89 @@
+O2O Pittsburgh 1915
+ 
+Manifest for train (AVRR-Manifest) AS&WCo Manifest
+Manifest hauler to AS&WCo transfer track
+ 
+Scheduled work at Staging, departure time 00:20
+ [ ] Pick up PRRUL         10158  Merchandise    from M2 - PRR Manifest                  
+ [ ] Pick up PRR           40196  Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up Penna         10195  Empty          from M2 - PRR Manifest                  
+ [ ] Pick up Penna         10194  Empty          from M2 - PRR Manifest                  
+ [ ] Pick up Penna         10193  Empty          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           4030   Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           404428 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           4020   Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           411225 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           4015   Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           50197  Empty          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           401133 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           401484 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           401120 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           401482 Scrap          from M2 - PRR Manifest                  
+ [ ] Pick up PRRUL         101019 Empty          from M2 - PRR Manifest                  
+ [ ] Pick up PRRUL         101017 Empty          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           104142 Empty          from M2 - PRR Manifest                  
+ [ ] Pick up PRR           404087 Scrap          from M2 - PRR Manifest                  
+Train departs Staging Westbound with 19 cars, 808 feet, 1,065 tons
+ 
+Scheduled work at AVRR(PRR), arrival time 00:24
+ [ ] Pick up PRRAL         10184  Horse Shoes    from AS&WCo Transfer                    
+ [ ] Pick up PRR           411393 Cable          from AS&WCo Transfer                    
+ [ ] Pick up Penna         10150  Wire           from AS&WCo Transfer                    
+ [ ] Pick up Penna         10740  Steel Products from AS&WCo Transfer                    
+ [ ] Pick up PRR           4031   Plate          from AS&WCo Transfer                    
+ [ ] Pick up AVR           10190  Wire           from AS&WCo Transfer                    
+ [ ] Pick up PRR           102627 Horse Shoes    from AS&WCo Transfer                    
+ [ ] Pick up PRR           10703  Steel Products from AS&WCo Transfer                    
+ [ ] Pick up Penna         10681  Steel Products from AS&WCo Transfer                    
+ [ ] Pick up GR&I          101115 Steel Products from AS&WCo Transfer                    
+ [ ] Pick up PRR           401388 Cable          from AS&WCo Transfer                    
+ [ ] Pick up PRR           11730  Horse Shoes    from AS&WCo Transfer                    
+ [ ] Pick up PRR           40290  Slag           from AS&WCo Transfer                    
+ [ ] Pick up PRR           409473 Plate          from AS&WCo Transfer                    
+ [ ] Pick up PRR           106250 Horse Shoes    from AS&WCo Transfer                    
+ [ ] Pick up Penna         106302 Wire           from AS&WCo Transfer                    
+ [ ] Pick up Penna         105556 Steel Products from AS&WCo Transfer                    
+ [ ] Pick up PRR           50304  Plate          from AS&WCo Transfer                    
+ [ ] Pick up Penna         10249  Steel Products from AS&WCo Transfer                    
+ [ ] Set out PRRUL         10158  Merchandise    -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           40196  Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out Penna         10195  Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out Penna         10194  Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out Penna         10193  Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           4030   Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           404428 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           4020   Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           411225 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           4015   Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           50197  Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           401133 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           401484 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           401120 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           401482 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRRUL         101019 Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRRUL         101017 Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           104142 Empty          -> AVRR(PRR), AS&WCo Transfer                               
+ [ ] Set out PRR           404087 Scrap          -> AVRR(PRR), AS&WCo Transfer                               
+Train departs AVRR(PRR) Westbound with 19 cars, 796 feet, 1,384 tons
+ 
+Scheduled work at Staging, arrival time 02:22
+ [ ] Set out PRRAL         10184  Horse Shoes    -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           411393 Cable          -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         10150  Wire           -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         10740  Steel Products -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           4031   Plate          -> Staging, M2 - PRR Manifest                               
+ [ ] Set out AVR           10190  Wire           -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           102627 Horse Shoes    -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           10703  Steel Products -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         10681  Steel Products -> Staging, M2 - PRR Manifest                               
+ [ ] Set out GR&I          101115 Steel Products -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           401388 Cable          -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           11730  Horse Shoes    -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           40290  Slag           -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           409473 Plate          -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           106250 Horse Shoes    -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         106302 Wire           -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         105556 Steel Products -> Staging, M2 - PRR Manifest                               
+ [ ] Set out PRR           50304  Plate          -> Staging, M2 - PRR Manifest                               
+ [ ] Set out Penna         10249  Steel Products -> Staging, M2 - PRR Manifest                               
+Train terminates in Staging

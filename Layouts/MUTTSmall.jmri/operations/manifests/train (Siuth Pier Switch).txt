@@ -1,0 +1,72 @@
+Metropolitian Union Transfer Terminal
+West Pier District
+J Dot Bay
+ 
+Manifest for train (Siuth Pier Switch)
+Valid 1/04/1915 21:55
+ 
+Scheduled work at Harbor Drive, departure time 00:00
+ [ ] Pick up CNJ 806 0-4-0t  destination Harbor Drive
+ [ ] Pick up DL&W 7947 XM empty Empty destination West Harbor
+ [ ] Pick up LV 1218 XI empty Empty destination West Harbor
+ [ ] Pick up P&R 2837 GB empty Empty destination West Harbor
+ [ ] Pick up B&A 4788 XM empty Empty destination West Harbor
+ [ ] Pick up B&A 2655 XM empty Empty destination West Harbor
+ [ ] Pick up NYC 3747 XM empty Empty destination West Harbor
+ [ ] Pick up NYC 9255 FM load heavy eqpt destination West Harbor
+ [ ] Pick up M&P 9178 FM load heavy eqpt destination West Harbor
+ [ ] Pick up SFRD 8611 RS empty Empty destination West Harbor
+ [ ] Pick up FGEX 2018 RS empty Empty destination West Harbor
+ [ ] Pick up SFRD 9538 RS empty Empty destination West Harbor
+ [ ] Pick up FGEX 0647 RS empty Empty destination West Harbor
+Train departs Harbor Drive Eastbound with 12 cars, 572 feet, 480 tons
+ 
+Scheduled work at West Harbor, arrival time 00:04
+ [ ] Pick up PRR 1574 TM load heating oil destination Harbor Drive
+ [ ] Pick up LV 7198 XM load break bulk destination Harbor Drive
+ [ ] Pick up ER 0973 XI load break bulk destination Harbor Drive
+ [ ] Pick up B&A 1831 XM load foodstuffs destination Harbor Drive
+ [ ] Pick up B&A 0449 GB load cobbles destination Harbor Drive
+ [ ] Pick up CNJ 9372 GB load cobbles destination Harbor Drive
+ [ ] Pick up WJ&S 8908 GB load cobbles destination Harbor Drive
+ [ ] Pick up SP 3018 XM load coffee sacks destination Harbor Drive
+ [ ] Pick up WJ&S 5972 XM load coffee sacks destination Harbor Drive
+ [ ] Pick up AT&SF 8233 XM load foodstuffs destination Harbor Drive
+ [ ] Pick up WJ&S 3861 XI load foodstuffs destination Harbor Drive
+ [ ] Pick up LV 5358 XM load can oysters destination Harbor Drive
+ [ ] Pick up NYC 2760 XM load can oysters destination Harbor Drive
+ [ ] Pick up FGEX 5703 RS load produce destination Harbor Drive
+ [ ] Pick up FGEX 5039 RS load produce destination Harbor Drive
+ [ ] Set out DL&W 7947 XM empty Empty to 4th Street Pier
+ [ ] Set out LV 1218 XI empty Empty to 4th Street Pier
+ [ ] Set out P&R 2837 GB empty Empty to Bulk Material Wharf
+ [ ] Move CNJ 0661 GB empty Empty
+ [ ] Set out B&A 4788 XM empty Empty to Coffee Roasters
+ [ ] Set out B&A 2655 XM empty Empty to Foodstuffs
+ [ ] Set out NYC 3747 XM empty Empty to Foodstuffs
+ [ ] Set out NYC 9255 FM load heavy eqpt to Gantry Crane
+ [ ] Set out M&P 9178 FM load heavy eqpt to Gantry Crane
+ [ ] Set out SFRD 8611 RS empty Empty to Mother Schuckers
+ [ ] Set out FGEX 2018 RS empty Empty to Mother Schuckers
+ [ ] Set out SFRD 9538 RS empty Empty to Produce
+ [ ] Set out FGEX 0647 RS empty Empty to Produce
+Train departs West Harbor Eastbound with 15 cars, 704 feet, 600 tons
+ 
+Scheduled work at Harbor Drive, arrival time 01:35
+ [ ] Set out CNJ 806 0-4-0t  to Street Tracks
+ [ ] Set out PRR 1574 TM load heating oil to Street Tracks
+ [ ] Set out LV 7198 XM load break bulk to Street Tracks
+ [ ] Set out ER 0973 XI load break bulk to Street Tracks
+ [ ] Set out B&A 1831 XM load foodstuffs to Street Tracks
+ [ ] Set out B&A 0449 GB load cobbles to Street Tracks
+ [ ] Set out CNJ 9372 GB load cobbles to Street Tracks
+ [ ] Set out WJ&S 8908 GB load cobbles to Street Tracks
+ [ ] Set out SP 3018 XM load coffee sacks to Street Tracks
+ [ ] Set out WJ&S 5972 XM load coffee sacks to Street Tracks
+ [ ] Set out AT&SF 8233 XM load foodstuffs to Street Tracks
+ [ ] Set out WJ&S 3861 XI load foodstuffs to Street Tracks
+ [ ] Set out LV 5358 XM load can oysters to Street Tracks
+ [ ] Set out NYC 2760 XM load can oysters to Street Tracks
+ [ ] Set out FGEX 5703 RS load produce to Street Tracks
+ [ ] Set out FGEX 5039 RS load produce to Street Tracks
+Train terminates in Harbor Drive

@@ -1,0 +1,20 @@
+Glass Works 1915 Model RR
+ 
+Switch List for Gayner Glass Works
+ 
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+Departs Salem Yard at 02:00 expected arrival 02:36, arrives Westbound
+ [ ] Pick up X3     PRR  Glass Goods from Storage               -> Salem Yard               
+ [ ] Pick up G8     PRR  Empty       from Sand House            -> Salem Yard               
+ [ ] Pick up G3     PRR  Empty       from Sand House            -> Salem Yard               
+ [ ] Pick up G2     PRR  Empty       from Sand House            -> Salem Yard               
+ [ ] Pick up F3     PRR  Empty       from Shop                  -> Salem Yard               
+ [ ] Pick up X29    PRR  Glass Goods from Ware Shed             -> Salem Yard               
+ [ ] Pick up X41    PRR  Glass Goods from Ware House            -> Salem Yard               
+ [ ] Set out X32    PRR  Empty       from Salem Yard                to Storage              
+ [ ] Set out G11    PRR  Sand        from Salem Yard                to Sand House           
+ [ ] Set out G10    PRR  Sand        from Salem Yard                to Sand House           
+ [ ] Set out F1     PRR  Lumber      from Salem Yard                to Shop                 
+ [ ] Set out X45    PRR  Empty       from Salem Yard                to Ware Shed            
+ [ ] Set out X47    PRR  Empty       from South Bend                to Ware Shed            
+ [ ] Set out X4     PRR  Empty       from Salem Yard                to Ware House           

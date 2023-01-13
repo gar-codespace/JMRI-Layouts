@@ -1,0 +1,1004 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "South Bend Flyer",
+  "description" : "Switch Along Salem Creek",
+  "locations" : [ {
+    "name" : "Salem Yard",
+    "id" : "12r1",
+    "departureTime" : "02:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s4" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 486,
+      "unit" : "Feet"
+    },
+    "weight" : 645,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 12,
+      "loads" : 8,
+      "empties" : 4
+    }
+  }, {
+    "name" : "Fenwick Creek Branch",
+    "id" : "12r2",
+    "arrivalTime" : "02:04",
+    "expectedDepartureTime" : "02:04",
+    "location" : {
+      "comment" : "",
+      "id" : "20"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Fenwick Creek Branch",
+    "id" : "12r2",
+    "arrivalTime" : "02:04",
+    "expectedDepartureTime" : "02:04",
+    "location" : {
+      "comment" : "",
+      "id" : "20"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Glass Works Branch",
+    "id" : "12r3",
+    "arrivalTime" : "02:08",
+    "expectedDepartureTime" : "02:08",
+    "location" : {
+      "comment" : "",
+      "id" : "19"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Glass Works Branch",
+    "id" : "12r3",
+    "arrivalTime" : "02:08",
+    "expectedDepartureTime" : "02:08",
+    "location" : {
+      "comment" : "",
+      "id" : "19"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "South Bend Branch",
+    "id" : "12r4",
+    "arrivalTime" : "02:12",
+    "expectedDepartureTime" : "03:24",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRT4",
+        "number" : "T4",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT2",
+        "number" : "T2",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX7",
+        "number" : "X7",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRT1",
+        "number" : "T1",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "load" : "Chemicals",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 12,
+      "loads" : 5,
+      "empties" : 7
+    },
+    "track" : {
+      "13s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "13s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 492,
+      "unit" : "Feet"
+    },
+    "weight" : 512
+  }, {
+    "name" : "South Bend Branch",
+    "id" : "12r4",
+    "arrivalTime" : "02:12",
+    "expectedDepartureTime" : "03:24",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRT4",
+        "number" : "T4",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT2",
+        "number" : "T2",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX7",
+        "number" : "X7",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRT1",
+        "number" : "T1",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "load" : "Chemicals",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "destination" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 12,
+      "loads" : 5,
+      "empties" : 7
+    },
+    "track" : {
+      "13s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "13s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 492,
+      "unit" : "Feet"
+    },
+    "weight" : 512
+  }, {
+    "name" : "Salem Yard",
+    "id" : "12r8",
+    "arrivalTime" : "03:28",
+    "expectedDepartureTime" : "04:04",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem Yard",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRT4",
+        "number" : "T4",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT2",
+        "number" : "T2",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "American Oilcloth - Chem",
+            "id" : "13s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX37",
+        "number" : "X37",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "American Oilcloth - Ship",
+            "id" : "13s5"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Flooring",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "F.H.Lloyd Flour Mill",
+            "id" : "13s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG7",
+        "number" : "G7",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "Gayner -  Sand House",
+            "id" : "13s7"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG6",
+        "number" : "G6",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "Gayner -  Sand House",
+            "id" : "13s7"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG13",
+        "number" : "G13",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "Gayner -  Sand House",
+            "id" : "13s7"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX43",
+        "number" : "X43",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "Gayner - Storage",
+            "id" : "13s6"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX13",
+        "number" : "X13",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "Gayner - Ware Shed",
+            "id" : "13s9"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX7",
+        "number" : "X7",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r7",
+          "track" : {
+            "name" : "S&PSNCo.",
+            "id" : "13s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG4",
+        "number" : "G4",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "South Bend Branch",
+          "id" : "13",
+          "route" : "12r4",
+          "track" : {
+            "name" : "W.H. Harris Boat Shop",
+            "id" : "13s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "12r8",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ]
+    }
+  } ],
+  "date" : "2020-04-05T21:25:11Z"
+}

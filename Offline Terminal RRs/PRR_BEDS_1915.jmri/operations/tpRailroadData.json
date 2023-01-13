@@ -1,0 +1,322 @@
+{
+  "buildDate": "01/10/2023-10:45:05", 
+  "carAAR": [
+    "RS", 
+    "HK", 
+    "FM", 
+    "TG", 
+    "XM", 
+    "GA"
+  ], 
+  "carKernel": [
+    ""
+  ], 
+  "carLoads": {
+    "FM": [
+      "lumber stack", 
+      "Tarp", 
+      "machinery"
+    ], 
+    "GA": [
+      "lumber stack", 
+      "Tarp3", 
+      "machinery"
+    ], 
+    "HK": [
+      "coal"
+    ], 
+    "RS": [
+      "Produce"
+    ], 
+    "TG": [
+      "fuel oil"
+    ], 
+    "XM": [
+      "goods", 
+      "merchandise", 
+      "lcl"
+    ]
+  }, 
+  "divisions": [
+    "Harlem Division"
+  ], 
+  "industries": {
+    "1": {
+      "label": "C", 
+      "location": "North 4th St", 
+      "schedule": [
+        "C", 
+        "FM", 
+        "machinery", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Crane", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "10": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "HK", 
+        "coal", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "11": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "XM", 
+        "Empty", 
+        "goods"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "12": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "XM", 
+        "merchandise", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "13": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "RS", 
+        "Produce", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "2": {
+      "label": "C", 
+      "location": "North 4th St", 
+      "schedule": [
+        "C", 
+        "GA", 
+        "machinery", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Crane", 
+      "type": "GA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "3": {
+      "label": "F", 
+      "location": "North 4th St", 
+      "schedule": [
+        "F", 
+        "XM", 
+        "lcl", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Freight Station", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "4": {
+      "label": "F", 
+      "location": "North 4th St", 
+      "schedule": [
+        "F", 
+        "XM", 
+        "Empty", 
+        "lcl"
+      ], 
+      "staging": "", 
+      "track": "Freight Station", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "5": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "FM", 
+        "Tarp", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "6": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "FM", 
+        "lumber stack", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "7": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "GA", 
+        "lumber stack", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "GA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "8": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "GA", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "GA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "9": {
+      "label": "T", 
+      "location": "North 4th St", 
+      "schedule": [
+        "T", 
+        "TG", 
+        "fuel oil", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "TG", 
+      "viaIn": "", 
+      "viaOut": ""
+    }
+  }, 
+  "layoutName": "PRR BEDS 1914", 
+  "locales": {
+    "00": {
+      "capacity": "100", 
+      "label": "~", 
+      "location": "Unreported", 
+      "track": "~", 
+      "type": "class yard"
+    }, 
+    "1": {
+      "capacity": "2", 
+      "label": "C", 
+      "location": "North 4th St", 
+      "track": "Crane", 
+      "type": "industry"
+    }, 
+    "3": {
+      "capacity": "11", 
+      "label": "F", 
+      "location": "North 4th St", 
+      "track": "Freight Station", 
+      "type": "industry"
+    }, 
+    "4": {
+      "capacity": "50", 
+      "label": "T", 
+      "location": "North 4th St", 
+      "track": "Team Tracks", 
+      "type": "industry"
+    }, 
+    "5": {
+      "capacity": "17", 
+      "label": "P", 
+      "location": "Pier Float", 
+      "track": "Float Tracks", 
+      "type": "staging"
+    }
+  }, 
+  "location": "Williamsburg, Brooklyn, New York", 
+  "locations": [
+    "North 4th St", 
+    "Pier Float", 
+    "Unreported"
+  ], 
+  "locoConsists": [
+    ""
+  ], 
+  "locoModels": [
+    [
+      "0-4-0t", 
+      "ES"
+    ]
+  ], 
+  "locoTypes": [
+    "ES"
+  ], 
+  "operatingRoad": "Pennsylvania Railroad", 
+  "roads": [
+    "MDX", 
+    "NYNH&H", 
+    "WJ&S", 
+    "TCX", 
+    "ACL", 
+    "B&O", 
+    "ER", 
+    "PRR", 
+    "PGCC", 
+    "FGEX", 
+    "M&P", 
+    "WCC", 
+    "DL&W", 
+    "NYC", 
+    "PL", 
+    "AT&SF", 
+    "P&R", 
+    "B&A", 
+    "SP", 
+    "CNJ"
+  ], 
+  "scale": "HO", 
+  "territory": "Brooklyn Eastern District Station", 
+  "year": "1914"
+}

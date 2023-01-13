@@ -1,0 +1,75 @@
+{
+  "date": "Thu Apr 07 2022 03:17 PM PST", 
+  "locations": [
+    {
+      "locationName": "AS&WCo", 
+      "tracks": [
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "FCC", 
+              "Comment": "", 
+              "Dest&Track": "*No Waybill", 
+              "Destination": "*No Waybill", 
+              "FD&Track": "*Via Staging", 
+              "Final Dest": "*Via Staging", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "1", 
+              "Length": "40", 
+              "Load": "Slag", 
+              "Load Type": "Load", 
+              "Location": "AS&WCo", 
+              "Number": "40290", 
+              "Owner": "", 
+              "PUSO": "SC", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "Road": "PRR", 
+              "Set to": "[Bessemer]      ", 
+              "SetOut Msg": "", 
+              "Track": "Slag Pile", 
+              "Type": "Gs", 
+              "Weight": "76"
+            }, 
+            {
+              " ": " ", 
+              "Color": "FCC", 
+              "Comment": "", 
+              "Dest&Track": "*No Waybill", 
+              "Destination": "*No Waybill", 
+              "FD&Track": "*Via Staging", 
+              "Final Dest": "*Via Staging", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "1", 
+              "Length": "40", 
+              "Load": "Slag", 
+              "Load Type": "Load", 
+              "Location": "AS&WCo", 
+              "Number": "40985", 
+              "Owner": "", 
+              "PUSO": "SC", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "Road": "PRR", 
+              "Set to": "[Bessemer]      ", 
+              "SetOut Msg": "", 
+              "Track": "Slag Pile", 
+              "Type": "Gs", 
+              "Weight": "76"
+            }
+          ], 
+          "length": 1, 
+          "locos": [], 
+          "trackName": "Slag Pile"
+        }
+      ]
+    }
+  ], 
+  "railroad": "O2O Pittsburgh 1915", 
+  "trainComment": "Switch List for One Track", 
+  "trainDescription": "Pattern Report - Switch List", 
+  "trainName": "Local Switch Job"
+}

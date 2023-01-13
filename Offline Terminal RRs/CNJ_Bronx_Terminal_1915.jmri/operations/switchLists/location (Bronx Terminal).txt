@@ -1,0 +1,118 @@
+CNJ Bronx Terminal 1915
+ 
+Switch List for Bronx Terminal
+Valid 11/15/2022 11:08 AM
+ 
+Scheduled work for train (Business Switch)
+ [ ] Move P&R 4750 XM empty Empty
+ [ ] Move AT&SF 2678 XM empty Empty
+ [ ] Move ER 0537 XM empty Empty
+ [ ] Move NYC 5679 XM empty Empty
+ [ ] Move AT&SF 7634 XM empty Empty
+ [ ] Move PRR 7100 XM empty Empty
+ [ ] Move NYC 2312 XM empty Empty
+ [ ] Move LV 0355 XM empty Empty
+ [ ] Move NYNH&H 6062 XM empty Empty
+ [ ] Move DL&W 4699 XM empty Empty
+ [ ] Move CNJ 2706 XM empty Empty
+ [ ] Move P&R 0754 XM empty Empty
+ [ ] Move AT&SF 4816 XM empty Empty
+ [ ] Move PRR 4721 XM empty Empty
+ [ ] Move NYNH&H 1703 XM empty Empty
+ [ ] Move B&A 3160 XM empty Empty
+ [ ] Move M&P 7278 XM empty Empty
+ [ ] Move CNJ 9969 XM empty Empty
+ [ ] Move NYC 9190 FM load steel beams
+ [ ] Move PRR 2519 XM empty Empty
+ [ ] Move ACL 2883 GA empty Empty
+ [ ] Move TCX 0140 TG empty Empty
+ [ ] Move WJ&S 1190 XM empty Empty
+ 
+ 
+Switch List by Track
+ 
+Freight House
+Hold ACL 9091 XM
+Hold AT&SF 3644 XM
+Hold CNJ 9987 XM
+Hold P&R 7002 XM
+Hold WJ&S 7229 XM
+Scheduled work for train (Business Switch)
+ [ ] Move AT&SF 2678 XM empty Empty
+ [ ] Move AT&SF 7634 XM empty Empty
+ [ ] Move ER 0537 XM empty Empty
+ [ ] Move NYC 5679 XM empty Empty
+ [ ] Move P&R 4750 XM empty Empty
+ [ ] Move PRR 7100 XM empty Empty
+ [ ] Move NYC 2312 XM empty Empty
+ 
+Gantry
+Hold M&P 0672 FM
+Hold P&R 5062 FM
+Hold PRR 2418 GA
+Scheduled work for train (Business Switch)
+ 
+Loco Shed
+ 
+Team Tracks
+Hold AT&SF 6441 XM
+Hold AT&SF 7893 XM
+Hold B&A 1528 XM
+Hold B&A 4347 XM
+Hold B&O 7335 HK
+Hold B&O 8291 HK
+Hold ER 3459 XM
+Hold FGEX 3056 RS
+Hold HKH 0857 RS
+Hold NYNH&H 3928 XM
+Hold NYNH&H 5402 XM
+Hold P&R 9460 HK
+Hold PFEX 3360 RS
+Hold PRR 0602 XM
+Hold PRR 2372 XM
+Hold PRR 2921 XM
+Hold SP 1184 XM
+Hold SP 3047 XM
+Hold TELX 0709 TG
+Hold TELX 4411 TG
+Hold TELX 9183 TG
+Hold UTLX 0457 TG
+Hold WCC 4421 HK
+Hold WCC 7970 HK
+Hold WJ&S 2162 XM
+Scheduled work for train (Business Switch)
+ [ ] Move AT&SF 4816 XM empty Empty
+ [ ] Move CNJ 2706 XM empty Empty
+ [ ] Move DL&W 4699 XM empty Empty
+ [ ] Move LV 0355 XM empty Empty
+ [ ] Move NYNH&H 6062 XM empty Empty
+ [ ] Move P&R 0754 XM empty Empty
+ [ ] Move B&A 3160 XM empty Empty
+ [ ] Move CNJ 9969 XM empty Empty
+ [ ] Move M&P 7278 XM empty Empty
+ [ ] Move NYNH&H 1703 XM empty Empty
+ [ ] Move PRR 4721 XM empty Empty
+ 
+Yard
+Hold FGEX 0410 RS
+Hold FGEX 2705 RS
+Hold HKH 9208 RS
+Hold LV 0084 FM
+Hold M&P 6908 GA
+Hold P&R 6526 HK
+Hold P&R 7399 HK
+Hold P&R 7832 HK
+Hold PFEX 1938 RS
+Hold PFEX 4885 RS
+Hold PRR 3384 HK
+Hold SFRD 4626 RS
+Hold SP 3152 GA
+Hold TELX 5799 TG
+Hold WCC 1042 HK
+Hold WJ&S 0229 FM
+Scheduled work for train (Business Switch)
+ [ ] Move NYC 9190 FM load steel beams
+ [ ] Move ACL 2883 GA empty Empty
+ [ ] Move PRR 2519 XM empty Empty
+ [ ] Move TCX 0140 TG empty Empty
+ [ ] Move WJ&S 1190 XM empty Empty

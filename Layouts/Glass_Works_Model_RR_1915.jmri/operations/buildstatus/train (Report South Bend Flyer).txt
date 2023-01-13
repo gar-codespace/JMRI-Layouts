@@ -1,0 +1,1112 @@
+ Build Report for train (South Bend Flyer) built on 4/3/20 10:59 AM 
+ JMRI version r27674 
+  Build report detail level: Normal 
+   Build report detail level: Detailed 
+    Build report detail level: Very Detailed 
+   
+   Train Build Options: 
+   Build option is set to aggressive 
+   WARNING car routing is disabled 
+   Allow local moves if car has a custom load or FD 
+ 
+  Train (South Bend Flyer) route (South Bend Branch): 
+  Location (Salem Yard) requests 11 pick ups, maximum train length 2,000 feet 
+  Location (South Bend Branch) requests 55 moves, maximum train length 2,000 feet 
+  Location (South Bend Branch) requests 55 moves, maximum train length 2,000 feet 
+  Location (Salem Yard) requests 11 set outs, maximum train length 2,000 feet 
+ Route (South Bend Branch) requests 66 cars and 132 moves 
+ 
+ Train requirements: 
+ Train does not require any locomotives 
+ 
+  
+ Train terminates into staging at (Salem Yard), there are 1 tracks 
+ Train will return to staging (Salem Yard) reuse departure track 
+  
+ Train will depart staging (Salem Yard), there are 1 tracks 
+  Staging track (Yard) has 0 loco(s) and 15 cars 
+    Train (South Bend Flyer) can depart from staging track (Yard) 
+    Done assigning locomotives from staging 
+   
+   Train (South Bend Flyer) services car types: 
+   Boxcar, Flatcar, Hopper Gon, Long Gondola, Refrigerator, Tankcar 
+    
+    Remove cars not serviced by this train: 
+ ERROR Exclude rs (PRR RS17) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR RS25) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H9) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H6) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H4) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H3) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR RS41) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR RS55) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR RS4) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H7) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR H5) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR F3) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR G8) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR G3) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR G2) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR X24) at location (Salem Yard) no track assignment 
+ ERROR Exclude rs (PRR X18) at location (Salem Yard) no track assignment 
+   
+   Departing staging (Salem Yard, Yard) with 15 cars 
+    Staging car (PRR F2) type (Flatcar) load (E) 
+    Staging car (PRR T3) type (Tankcar) load (E) 
+    Staging car (PRR X46) type (Boxcar) load (E) 
+    Staging car (PRR F1) type (Flatcar) load (E) 
+    Staging car (PRR T1) type (Tankcar) load (E) 
+    Staging car (PRR X26) type (Boxcar) load (E) 
+    Staging car (PRR G15) type (Long Gondola) load (E) 
+    Staging car (PRR G11) type (Long Gondola) load (E) 
+    Staging car (PRR G10) type (Long Gondola) load (E) 
+    Staging car (PRR X34) type (Boxcar) load (E) 
+    Staging car (PRR X32) type (Boxcar) load (E) 
+    Staging car (PRR X47) type (Boxcar) load (E) 
+    Staging car (PRR X11) type (Boxcar) load (E) 
+    Staging car (PRR X29) type (Boxcar) load (E) 
+    Staging car (PRR X41) type (Boxcar) load (E) 
+   
+ Found 27 cars for train (South Bend Flyer) 
+    Car (PRR F2) type (Flatcar) at (Salem Yard, Yard) 23 moves 
+    Car (PRR T3) type (Tankcar) at (Salem Yard, Yard) 66 moves 
+    Car (PRR X46) type (Boxcar) at (Salem Yard, Yard) 73 moves 
+    Car (PRR X7) type (Boxcar) at (South Bend Branch, S&PSNCo.) 73 moves 
+    Car (PRR G4) type (Long Gondola) at (South Bend Branch, W.H. Harris Boat Shop) 74 moves 
+    Car (PRR G13) type (Long Gondola) at (South Bend Branch, Gayner - Sand House) 74 moves 
+    Car (PRR G7) type (Long Gondola) at (South Bend Branch, Gayner - Sand House) 75 moves 
+    Car (PRR G6) type (Long Gondola) at (South Bend Branch, Gayner - Sand House) 75 moves 
+    Car (PRR F1) type (Flatcar) at (Salem Yard, Yard) 76 moves 
+    Car (PRR X37) type (Boxcar) at (South Bend Branch, American Oilcloth - Ship) 77 moves 
+    Car (PRR X12) type (Boxcar) at (South Bend Branch, S&PSNCo.) 77 moves 
+    Car (PRR X43) type (Boxcar) at (South Bend Branch, Gayner - Storage) 77 moves 
+    Car (PRR T1) type (Tankcar) at (Salem Yard, Yard) 78 moves 
+    Car (PRR X26) type (Boxcar) at (Salem Yard, Yard) 78 moves 
+    Car (PRR G15) type (Long Gondola) at (Salem Yard, Yard) 78 moves 
+    Car (PRR X15) type (Boxcar) at (South Bend Branch, F.H.Lloyd Flour Mill) 78 moves 
+    Car (PRR G11) type (Long Gondola) at (Salem Yard, Yard) 78 moves 
+    Car (PRR G10) type (Long Gondola) at (Salem Yard, Yard) 78 moves 
+    Car (PRR X34) type (Boxcar) at (Salem Yard, Yard) 80 moves 
+    Car (PRR X32) type (Boxcar) at (Salem Yard, Yard) 80 moves 
+    Car (PRR T4) type (Tankcar) at (South Bend Branch, American Oilcloth - Chem) 80 moves 
+    Car (PRR T2) type (Tankcar) at (South Bend Branch, American Oilcloth - Chem) 80 moves 
+    Car (PRR X47) type (Boxcar) at (Salem Yard, Yard) 80 moves 
+    Car (PRR X11) type (Boxcar) at (Salem Yard, Yard) 80 moves 
+    Car (PRR X29) type (Boxcar) at (Salem Yard, Yard) 81 moves 
+    Car (PRR X13) type (Boxcar) at (South Bend Branch, Gayner - Ware Shed) 81 moves 
+    Car (PRR X41) type (Boxcar) at (Salem Yard, Yard) 81 moves 
+   
+   Train does not require caboose when departing (Salem Yard) 
+   Train does not require car with FRED 
+    
+    Remove cars not needed by this train: 
+  
+  Requested cars (66) for train (South Bend Flyer) the number available (27) building 
+  train! 
+  Multiple pass build (Aggressive Mode), begin pass 25% pick ups. 
+  Departing staging in aggressive mode, find destinations from (Salem Yard) in next pass 
+ Route location (Salem Yard) id (9r16) requests 0 pick ups, 3/11 moves are available 
+   
+ Partial 0/3 cars at location (Salem Yard) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r14) requests 13 pick ups, 13/55 moves are 
+ available 
+   
+   Can't pick up (PRR X7) using Eastbound train, track (S&PSNCo.) 
+   at location (South Bend Branch) does not service this train's direction 
+   
+   Find spur for car (PRR G4) type (Long Gondola) custom load (Empty) at (South Bend 
+   Branch, W.H. Harris Boat Shop) 
+    Could not find a spur for car (PRR G4) custom load (Empty) 
+   Try to send car (PRR G4) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR G4) to (Salem Yard, ) 
+    Car (PRR G4) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR G4) using Westbound train, track (W.H. Harris Boat Shop) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR G4) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR G4) doesn't have an assigned destination track 
+   Car (PRR G4) assigned to staging track (Yard) 
+  Car (PRR G4) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR G13) type (Long Gondola) custom load (Empty) at (South Bend 
+   Branch, Gayner - Sand House) 
+    Could not find a spur for car (PRR G13) custom load (Empty) 
+   Try to send car (PRR G13) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR G13) to (Salem Yard, ) 
+    Car (PRR G13) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR G13) using Westbound train, track (Gayner - Sand House) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR G13) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR G13) doesn't have an assigned destination track 
+   Car (PRR G13) assigned to staging track (Yard) 
+  Car (PRR G13) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR G7) type (Long Gondola) custom load (Empty) at (South Bend 
+   Branch, Gayner - Sand House) 
+    Could not find a spur for car (PRR G7) custom load (Empty) 
+   Try to send car (PRR G7) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR G7) to (Salem Yard, ) 
+    Car (PRR G7) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR G7) using Westbound train, track (Gayner - Sand House) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR G7) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR G7) doesn't have an assigned destination track 
+   Car (PRR G7) assigned to staging track (Yard) 
+  Car (PRR G7) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR G6) type (Long Gondola) custom load (Empty) at (South Bend 
+   Branch, Gayner - Sand House) 
+    Could not find a spur for car (PRR G6) custom load (Empty) 
+   Try to send car (PRR G6) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR G6) to (Salem Yard, ) 
+    Car (PRR G6) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR G6) using Westbound train, track (Gayner - Sand House) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR G6) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR G6) doesn't have an assigned destination track 
+   Car (PRR G6) assigned to staging track (Yard) 
+  Car (PRR G6) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR X37) type (Boxcar) custom load (Flooring) at (South Bend 
+   Branch, American Oilcloth - Ship) 
+    Could not find a spur for car (PRR X37) custom load (Flooring) 
+   Try to send car (PRR X37) custom load (Flooring) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Flooring) 
+    Train (South Bend Flyer) can transport car (PRR X37) to (Salem Yard, ) 
+    Car (PRR X37) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR X37) using Westbound train, track (American Oilcloth - Ship) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR X37) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR X37) doesn't have an assigned destination track 
+   Car (PRR X37) assigned to staging track (Yard) 
+  Car (PRR X37) assigned to train, destination (Salem Yard, Yard) 
+  
+   Can't pick up (PRR X12) using Eastbound train, track (S&PSNCo.) 
+   at location (South Bend Branch) does not service this train's direction 
+   
+   Find spur for car (PRR X43) type (Boxcar) custom load (Glass Goods) at (South Bend 
+   Branch, Gayner - Storage) 
+    Could not find a spur for car (PRR X43) custom load (Glass Goods) 
+   Try to send car (PRR X43) custom load (Glass Goods) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Glass Goods) 
+    Train (South Bend Flyer) can transport car (PRR X43) to (Salem Yard, ) 
+    Car (PRR X43) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR X43) using Westbound train, track (Gayner - Storage) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR X43) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR X43) doesn't have an assigned destination track 
+   Car (PRR X43) assigned to staging track (Yard) 
+  Car (PRR X43) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR X15) type (Boxcar) custom load (Empty) at (South Bend Branch, 
+   F.H.Lloyd Flour Mill) 
+    Spur at (Salem Glass Works 4th St., Ware House) is full, no alternate track 
+    Try destination (South Bend Branch, Gayner - Storage) for car (PRR X15) with load 
+    (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X15) to (South Bend Branch, Gayner - 
+    Storage) 
+    Car (PRR X15) has assigned destination (South Bend Branch, Gayner - Storage) 
+  Car (PRR X15) assigned to train, destination (South Bend Branch, Gayner - Storage) 
+  
+   Can't pick up (PRR T4) using Eastbound train, track (American Oilcloth - Chem) 
+   at location (South Bend Branch) does not service this train's direction 
+   
+   Can't pick up (PRR T2) using Eastbound train, track (American Oilcloth - Chem) 
+   at location (South Bend Branch) does not service this train's direction 
+   
+   Find spur for car (PRR X13) type (Boxcar) custom load (Glass Goods) at (South Bend 
+   Branch, Gayner - Ware Shed) 
+    Could not find a spur for car (PRR X13) custom load (Glass Goods) 
+   Try to send car (PRR X13) custom load (Glass Goods) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Glass Goods) 
+    Train (South Bend Flyer) can transport car (PRR X13) to (Salem Yard, ) 
+    Car (PRR X13) has assigned destination (Salem Yard, ) 
+   Can't pick up (PRR X13) using Westbound train, track (Gayner - Ware Shed) 
+   at location (South Bend Branch) does not service this train's direction 
+    Later pick up for car (PRR X13) from route location (South Bend Branch) id (9r15) not 
+    possible due to train direction 
+   Car (PRR X13) doesn't have an assigned destination track 
+   Car (PRR X13) assigned to staging track (Yard) 
+  Car (PRR X13) assigned to train, destination (Salem Yard, Yard) 
+  
+ Partial 8/13 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r15) requests 13 pick ups, 13/55 moves are 
+ available 
+   
+   Find spur for car (PRR X7) type (Boxcar) custom load (LCL) at (South Bend Branch, 
+   S&PSNCo.) 
+    Could not find a spur for car (PRR X7) custom load (LCL) 
+   Try to send car (PRR X7) custom load (LCL) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (LCL) 
+    Train (South Bend Flyer) can transport car (PRR X7) to (Salem Yard, ) 
+    Car (PRR X7) has assigned destination (Salem Yard, ) 
+   Car (PRR X7) doesn't have an assigned destination track 
+   Car (PRR X7) assigned to staging track (Yard) 
+  Car (PRR X7) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR X12) type (Boxcar) custom load (LCL) at (South Bend Branch, 
+   S&PSNCo.) 
+    Could not find a spur for car (PRR X12) custom load (LCL) 
+   Try to send car (PRR X12) custom load (LCL) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (LCL) 
+    Train (South Bend Flyer) can transport car (PRR X12) to (Salem Yard, ) 
+    Car (PRR X12) has assigned destination (Salem Yard, ) 
+   Car (PRR X12) doesn't have an assigned destination track 
+   Car (PRR X12) assigned to staging track (Yard) 
+  Car (PRR X12) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR T4) type (Tankcar) custom load (Empty) at (South Bend Branch, 
+   American Oilcloth - Chem) 
+    Could not find a spur for car (PRR T4) custom load (Empty) 
+   Try to send car (PRR T4) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR T4) to (Salem Yard, ) 
+    Car (PRR T4) has assigned destination (Salem Yard, ) 
+   Car (PRR T4) doesn't have an assigned destination track 
+   Car (PRR T4) assigned to staging track (Yard) 
+  Car (PRR T4) assigned to train, destination (Salem Yard, Yard) 
+  
+   Find spur for car (PRR T2) type (Tankcar) custom load (Empty) at (South Bend Branch, 
+   American Oilcloth - Chem) 
+    Could not find a spur for car (PRR T2) custom load (Empty) 
+   Try to send car (PRR T2) custom load (Empty) to staging 
+    Staging (Salem Yard, Yard) can accept car's load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR T2) to (Salem Yard, ) 
+    Car (PRR T2) has assigned destination (Salem Yard, ) 
+   Car (PRR T2) doesn't have an assigned destination track 
+   Car (PRR T2) assigned to staging track (Yard) 
+  Car (PRR T2) assigned to train, destination (Salem Yard, Yard) 
+  
+ Partial 4/13 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route (South Bend Branch) id (9r17) no pick ups at location (Salem Yard) 
+  Multiple pass build (Aggressive Mode), begin pass 50% pick ups. 
+ Route location (Salem Yard) id (9r16) requests 7 pick ups, 7/11 moves are available 
+   
+   Generate load for (PRR F2) type (Flatcar) load (E) at (Salem Yard, Yard) 
+    Destination (South Bend Branch, Gayner - Storage) can't service car (PRR F2) with load 
+    (Lumber) due to type (Flatcar) 
+    Try spur (South Bend Branch, Gayner - Shop) load (Lumber) 
+    Train (South Bend Flyer) can transport car (PRR F2) to (South Bend Branch, Gayner - 
+    Shop) 
+   Car (PRR F2) custom load (Lumber) final destination (South Bend Branch, Gayner - Shop) 
+    Car (PRR F2) has assigned destination (South Bend Branch, Gayner - Shop) 
+  Car (PRR F2) assigned to train, destination (South Bend Branch, Gayner - Shop) 
+  
+   Generate load for (PRR T3) type (Tankcar) load (E) at (Salem Yard, Yard) 
+    Try spur (H.J. Heinz & Co. No.12, Vinegar) load (Vinegar) 
+    Train (South Bend Flyer) can't transport car (PRR T3) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Vinegar) 
+    Can't route car (PRR T3) with load (Vinegar) to (H.J. Heinz & Co. No.12, Vinegar) 
+    Destination (South Bend Branch, American Oilcloth - Ship) can't service car (PRR T3) 
+    with load (Chemicals) due to type (Tankcar) 
+    Try spur (South Bend Branch, American Oilcloth - Chem) load (Chemicals) 
+    Train (South Bend Flyer) can transport car (PRR T3) to (South Bend Branch, American 
+    Oilcloth - Chem) 
+   Car (PRR T3) custom load (Chemicals) final destination (South Bend Branch, American 
+   Oilcloth - Chem) 
+    Car (PRR T3) has assigned destination (South Bend Branch, American Oilcloth - Chem) 
+    Can't set out rolling stock (PRR T3) using Eastbound train, 
+    destination track (American Oilcloth - Chem) does not service this direction 
+   Car (PRR T3) can't be delivered to (South Bend Branch) id (9r14) stop 1 
+  Car (PRR T3) assigned to train, destination (South Bend Branch, American Oilcloth - 
+  Chem) 
+  
+   Generate load for (PRR X46) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X46) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X46) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X46) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X46) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X46) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X46) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X46) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X46) 
+    Can't route car (PRR X46) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X46) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X46) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X46) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X46) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X46) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X46) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X46) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X46) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+   Car (PRR X46) custom load (Flour) final destination (South Bend Branch, F.H.Lloyd 
+   Flour Mill) 
+    Car (PRR X46) has assigned destination (South Bend Branch, F.H.Lloyd Flour Mill) 
+  Car (PRR X46) assigned to train, destination (South Bend Branch, F.H.Lloyd Flour Mill) 
+  
+   Generate load for (PRR F1) type (Flatcar) load (E) at (Salem Yard, Yard) 
+    Destination (South Bend Branch, Gayner - Storage) can't service car (PRR F1) with load 
+    (Lumber) due to type (Flatcar) 
+    Try spur (South Bend Branch, W.H. Harris Boat Shop) load (Lumber) 
+    Train (South Bend Flyer) can transport car (PRR F1) to (South Bend Branch, W.H. Harris 
+    Boat Shop) 
+   Car (PRR F1) custom load (Lumber) final destination (South Bend Branch, W.H. Harris 
+   Boat Shop) 
+    Car (PRR F1) has assigned destination (South Bend Branch, W.H. Harris Boat Shop) 
+  Car (PRR F1) assigned to train, destination (South Bend Branch, W.H. Harris Boat Shop) 
+  
+   Generate load for (PRR T1) type (Tankcar) load (E) at (Salem Yard, Yard) 
+    Try spur (H.J. Heinz & Co. No.12, Vinegar) load (Vinegar) 
+    Train (South Bend Flyer) can't transport car (PRR T1) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Vinegar) 
+    Can't route car (PRR T1) with load (Vinegar) to (H.J. Heinz & Co. No.12, Vinegar) 
+    Destination (South Bend Branch, American Oilcloth - Ship) can't service car (PRR T1) 
+    with load (Chemicals) due to type (Tankcar) 
+    Try spur (South Bend Branch, American Oilcloth - Chem) load (Chemicals) 
+    Train (South Bend Flyer) can transport car (PRR T1) to (South Bend Branch, American 
+    Oilcloth - Chem) 
+   Car (PRR T1) custom load (Chemicals) final destination (South Bend Branch, American 
+   Oilcloth - Chem) 
+    Car (PRR T1) has assigned destination (South Bend Branch, American Oilcloth - Chem) 
+    Can't set out rolling stock (PRR T1) using Eastbound train, 
+    destination track (American Oilcloth - Chem) does not service this direction 
+   Car (PRR T1) can't be delivered to (South Bend Branch) id (9r14) stop 1 
+  Car (PRR T1) assigned to train, destination (South Bend Branch, American Oilcloth - 
+  Chem) 
+  
+   Generate load for (PRR X26) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X26) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X26) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X26) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X26) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X26) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X26) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X26) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X26) 
+    Can't route car (PRR X26) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X26) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X26) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X26) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X26) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X26) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X26) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X26) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X26) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+   Car (PRR X26) custom load (Empty) final destination (South Bend Branch, American 
+   Oilcloth - Ship) 
+    Car (PRR X26) has assigned destination (South Bend Branch, American Oilcloth - Ship) 
+  Car (PRR X26) assigned to train, destination (South Bend Branch, American Oilcloth - 
+  Ship) 
+  
+   Generate load for (PRR G15) type (Long Gondola) load (E) at (Salem Yard, Yard) 
+    Try spur (Salem Glass Works 3rd St., Sand House) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G15) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand House) 
+    Can't route car (PRR G15) with load (Sand) to (Salem Glass Works 3rd St., Sand House) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 3rd St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G15) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand Storage) 
+    Can't route car (PRR G15) with load (Sand) to (Salem Glass Works 3rd St., Sand Storage) 
+    Destination (Salem Glass Works 4th St., Ware House) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G15) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Sand Storage) 
+    Can't route car (PRR G15) with load (Sand) to (Salem Glass Works 4th St., Sand Storage) 
+    Destination (South Bend Branch, Gayner - Storage) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 4th St., Ware Shed) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Packing) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Ware House) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Storage) can't service car (PRR G15) with load 
+    (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR G15) with load 
+    (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, W.H. Harris Boat Shop) load (Lumber) 
+    Train (South Bend Flyer) can transport car (PRR G15) to (South Bend Branch, W.H. 
+    Harris Boat Shop) 
+    Can't use spur (South Bend Branch, W.H. Harris Boat Shop) for (PRR G15) due to rolling 
+    stock length 40 feet 
+    Track (W.H. Harris Boat Shop) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR G15) 
+    Can't route car (PRR G15) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+    Shop) 
+    Destination (South Bend Branch, Gayner - Ware Shed) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Ware House) can't service car (PRR G15) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, Gayner - Sand House) load (Sand) 
+    Train (South Bend Flyer) can transport car (PRR G15) to (South Bend Branch, Gayner - 
+    Sand House) 
+   Car (PRR G15) custom load (Sand) final destination (South Bend Branch, Gayner - Sand 
+   House) 
+    Car (PRR G15) has assigned destination (South Bend Branch, Gayner - Sand House) 
+  Car (PRR G15) assigned to train, destination (South Bend Branch, Gayner - Sand House) 
+  
+ Partial 7/7 cars at location (Salem Yard) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r14) requests 21 pick ups, 21/55 moves are 
+ available 
+   
+ Partial 0/21 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r15) requests 24 pick ups, 24/55 moves are 
+ available 
+   
+ Partial 0/24 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route (South Bend Branch) id (9r17) no pick ups at location (Salem Yard) 
+  Multiple pass build (Aggressive Mode), begin pass 75% pick ups. 
+ Route location (Salem Yard) id (9r16) requests 6 pick ups, 6/11 moves are available 
+   
+   Generate load for (PRR G11) type (Long Gondola) load (E) at (Salem Yard, Yard) 
+    Try spur (Salem Glass Works 3rd St., Sand House) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand House) 
+    Can't route car (PRR G11) with load (Sand) to (Salem Glass Works 3rd St., Sand House) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 3rd St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand Storage) 
+    Can't route car (PRR G11) with load (Sand) to (Salem Glass Works 3rd St., Sand Storage) 
+    Destination (Salem Glass Works 4th St., Ware House) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Sand Storage) 
+    Can't route car (PRR G11) with load (Sand) to (Salem Glass Works 4th St., Sand Storage) 
+    Destination (South Bend Branch, Gayner - Storage) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 4th St., Ware Shed) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Packing) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Ware House) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Storage) can't service car (PRR G11) with load 
+    (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR G11) with load 
+    (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, W.H. Harris Boat Shop) load (Lumber) 
+    Train (South Bend Flyer) can transport car (PRR G11) to (South Bend Branch, W.H. 
+    Harris Boat Shop) 
+    Can't use spur (South Bend Branch, W.H. Harris Boat Shop) for (PRR G11) due to rolling 
+    stock length 40 feet 
+    Track (W.H. Harris Boat Shop) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR G11) 
+    Can't route car (PRR G11) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+    Shop) 
+    Destination (South Bend Branch, Gayner - Ware Shed) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Ware House) can't service car (PRR G11) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, Gayner - Sand House) load (Sand) 
+    Train (South Bend Flyer) can transport car (PRR G11) to (South Bend Branch, Gayner - 
+    Sand House) 
+   Car (PRR G11) custom load (Sand) final destination (South Bend Branch, Gayner - Sand 
+   House) 
+    Car (PRR G11) has assigned destination (South Bend Branch, Gayner - Sand House) 
+  Car (PRR G11) assigned to train, destination (South Bend Branch, Gayner - Sand House) 
+  
+   Generate load for (PRR G10) type (Long Gondola) load (E) at (Salem Yard, Yard) 
+    Try spur (Salem Glass Works 3rd St., Sand House) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand House) 
+    Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 3rd St., Sand House) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 3rd St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Sand Storage) 
+    Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 3rd St., Sand Storage) 
+    Destination (Salem Glass Works 4th St., Ware House) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (Salem Glass Works 4th St., Sand Storage) load (Sand) 
+    Train (South Bend Flyer) can't transport car (PRR G10) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Sand Storage) 
+    Can't route car (PRR G10) with load (Sand) to (Salem Glass Works 4th St., Sand Storage) 
+    Destination (South Bend Branch, Gayner - Storage) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 4th St., Ware Shed) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Packing) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Ware House) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (Salem Glass Works 3rd St., Storage) can't service car (PRR G10) with load 
+    (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR G10) with load 
+    (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, W.H. Harris Boat Shop) load (Lumber) 
+    Train (South Bend Flyer) can transport car (PRR G10) to (South Bend Branch, W.H. 
+    Harris Boat Shop) 
+    Can't use spur (South Bend Branch, W.H. Harris Boat Shop) for (PRR G10) due to rolling 
+    stock length 40 feet 
+    Track (W.H. Harris Boat Shop) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR G10) 
+    Can't route car (PRR G10) with load (Lumber) to (South Bend Branch, W.H. Harris Boat 
+    Shop) 
+    Destination (South Bend Branch, Gayner - Ware Shed) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Destination (South Bend Branch, Gayner - Ware House) can't service car (PRR G10) with 
+    load (Sand) due to type (Long Gondola) 
+    Try spur (South Bend Branch, Gayner - Sand House) load (Sand) 
+    Train (South Bend Flyer) can transport car (PRR G10) to (South Bend Branch, Gayner - 
+    Sand House) 
+   Car (PRR G10) custom load (Sand) final destination (South Bend Branch, Gayner - Sand 
+   House) 
+    Car (PRR G10) has assigned destination (South Bend Branch, Gayner - Sand House) 
+  Car (PRR G10) assigned to train, destination (South Bend Branch, Gayner - Sand House) 
+  
+   Generate load for (PRR X34) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X34) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X34) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X34) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X34) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X34) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X34) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X34) due to rolling 
+    stock length 44 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X34) 
+    Can't route car (PRR X34) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X34) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X34) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X34) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X34) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X34) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X34) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X34) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X34) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X34) due to rolling 
+    stock length 44 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X34) 
+    Can't route car (PRR X34) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X34) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X34) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X34) due to 
+    rolling stock length 44 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X34) 
+    Can't route car (PRR X34) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, Gayner - Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X34) to (South Bend Branch, Gayner - 
+    Ware Shed) 
+   Car (PRR X34) custom load (Empty) final destination (South Bend Branch, Gayner - Ware 
+   Shed) 
+    Car (PRR X34) has assigned destination (South Bend Branch, Gayner - Ware Shed) 
+  Car (PRR X34) assigned to train, destination (South Bend Branch, Gayner - Ware Shed) 
+  
+   Generate load for (PRR X32) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X32) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X32) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X32) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X32) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X32) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X32) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X32) 
+    Can't route car (PRR X32) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X32) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X32) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X32) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X32) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X32) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X32) due to rolling 
+    stock length 40 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X32) 
+    Can't route car (PRR X32) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X32) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X32) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X32) due to 
+    rolling stock length 40 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X32) 
+    Can't route car (PRR X32) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, S&PSNCo.) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X32) to (South Bend Branch, S&PSNCo.) 
+   Car (PRR X32) custom load (Empty) final destination (South Bend Branch, S&PSNCo.) 
+    Car (PRR X32) has assigned destination (South Bend Branch, S&PSNCo.) 
+    Can't set out rolling stock (PRR X32) using Eastbound train, 
+    destination track (S&PSNCo.) does not service this direction 
+   Car (PRR X32) can't be delivered to (South Bend Branch) id (9r14) stop 1 
+  Car (PRR X32) assigned to train, destination (South Bend Branch, S&PSNCo.) 
+  
+   Generate load for (PRR X47) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X47) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X47) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X47) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X47) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X47) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X47) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X47) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X47) 
+    Can't route car (PRR X47) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X47) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X47) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X47) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X47) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X47) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X47) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X47) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X47) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X47) due to rolling 
+    stock length 40 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X47) 
+    Can't route car (PRR X47) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X47) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X47) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X47) due to 
+    rolling stock length 40 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X47) 
+    Can't route car (PRR X47) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, Gayner - Ware House) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X47) to (South Bend Branch, Gayner - 
+    Ware House) 
+   Car (PRR X47) custom load (Empty) final destination (South Bend Branch, Gayner - Ware 
+   House) 
+    Car (PRR X47) has assigned destination (South Bend Branch, Gayner - Ware House) 
+  Car (PRR X47) assigned to train, destination (South Bend Branch, Gayner - Ware House) 
+  
+   Generate load for (PRR X11) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X11) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X11) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X11) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X11) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X11) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X11) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X11) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X11) 
+    Can't route car (PRR X11) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X11) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X11) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X11) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X11) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X11) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X11) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X11) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X11) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X11) due to rolling 
+    stock length 40 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X11) 
+    Can't route car (PRR X11) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X11) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X11) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X11) due to 
+    rolling stock length 40 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X11) 
+    Can't route car (PRR X11) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, Gayner - Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X11) to (South Bend Branch, Gayner - 
+    Ware Shed) 
+   Car (PRR X11) custom load (Empty) final destination (South Bend Branch, Gayner - Ware 
+   Shed) 
+    Car (PRR X11) has assigned destination (South Bend Branch, Gayner - Ware Shed) 
+  Car (PRR X11) assigned to train, destination (South Bend Branch, Gayner - Ware Shed) 
+  
+ Partial 6/6 cars at location (Salem Yard) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r14) requests 27 pick ups, 27/55 moves are 
+ available 
+   
+ Partial 0/27 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r15) requests 36 pick ups, 36/55 moves are 
+ available 
+   
+ Partial 0/36 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route (South Bend Branch) id (9r17) no pick ups at location (Salem Yard) 
+    
+  Multiple pass build (Aggressive Mode), begin final pass. 
+ Route location (Salem Yard) id (9r16) requests 2 pick ups, 2/11 moves are available 
+   
+   Generate load for (PRR X29) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X29) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X29) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X29) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X29) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X29) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X29) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X29) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X29) 
+    Can't route car (PRR X29) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X29) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X29) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X29) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X29) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X29) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X29) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X29) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X29) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X29) due to rolling 
+    stock length 40 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X29) 
+    Can't route car (PRR X29) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X29) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X29) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X29) due to 
+    rolling stock length 40 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X29) 
+    Can't route car (PRR X29) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, S&PSNCo.) load (LCL) 
+    Train (South Bend Flyer) can transport car (PRR X29) to (South Bend Branch, S&PSNCo.) 
+   Car (PRR X29) custom load (LCL) final destination (South Bend Branch, S&PSNCo.) 
+    Car (PRR X29) has assigned destination (South Bend Branch, S&PSNCo.) 
+    Can't set out rolling stock (PRR X29) using Eastbound train, 
+    destination track (S&PSNCo.) does not service this direction 
+   Car (PRR X29) can't be delivered to (South Bend Branch) id (9r14) stop 1 
+  Car (PRR X29) assigned to train, destination (South Bend Branch, S&PSNCo.) 
+  
+   Generate load for (PRR X41) type (Boxcar) load (E) at (Salem Yard, Yard) 
+    Destination (Salem Glass Works 3rd St., Sand House) can't service car (PRR X41) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Coal Gas) can't service car (PRR X41) with 
+    load (Empty) due to type (Boxcar) 
+    Destination (Salem Glass Works 3rd St., Sand Storage) can't service car (PRR X41) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (Salem Glass Works 4th St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware House) 
+    Can't route car (PRR X41) with load (Empty) to (Salem Glass Works 4th St., Ware House) 
+    Destination (Salem Glass Works 4th St., Sand Storage) can't service car (PRR X41) with 
+    load (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, Gayner - Storage) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X41) to (South Bend Branch, Gayner - 
+    Storage) 
+    Can't use spur (South Bend Branch, Gayner - Storage) for (PRR X41) due to rolling 
+    stock length 40 feet 
+    Track (Gayner - Storage) full, searching for a yard at destination (South Bend Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X41) 
+    Can't route car (PRR X41) with load (Empty) to (South Bend Branch, Gayner - Storage) 
+    Try spur (Salem Glass Works 4th St., Ware Shed) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 4th St., Ware Shed) 
+    Can't route car (PRR X41) with load (Empty) to (Salem Glass Works 4th St., Ware Shed) 
+    Try spur (Salem Glass Works 3rd St., Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Packing) 
+    Can't route car (PRR X41) with load (Empty) to (Salem Glass Works 3rd St., Packing) 
+    Try spur (Salem Glass Works 3rd St., Ware House) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Ware House) 
+    Can't route car (PRR X41) with load (Empty) to (Salem Glass Works 3rd St., Ware House) 
+    Try spur (Salem Glass Works 3rd St., Storage) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (Salem Glass Works 3rd St., Storage) 
+    Can't route car (PRR X41) with load (Empty) to (Salem Glass Works 3rd St., Storage) 
+    Try spur (H.J. Heinz & Co. No.12, Can House) load (Goods) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Can House) 
+    Can't route car (PRR X41) with load (Goods) to (H.J. Heinz & Co. No.12, Can House) 
+    Try spur (H.J. Heinz & Co. No.12, Bottling & Packing) load (Empty) 
+    Train (South Bend Flyer) can't transport car (PRR X41) out of staging (Salem Yard) 
+    directly to (H.J. Heinz & Co. No.12, Bottling & Packing) 
+    Can't route car (PRR X41) with load (Empty) to (H.J. Heinz & Co. No.12, Bottling & 
+    Packing) 
+    Try spur (South Bend Branch, F.H.Lloyd Flour Mill) load (Flour) 
+    Train (South Bend Flyer) can transport car (PRR X41) to (South Bend Branch, F.H.Lloyd 
+    Flour Mill) 
+    Can't use spur (South Bend Branch, F.H.Lloyd Flour Mill) for (PRR X41) due to rolling 
+    stock length 40 feet 
+    Track (F.H.Lloyd Flour Mill) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X41) 
+    Can't route car (PRR X41) with load (Flour) to (South Bend Branch, F.H.Lloyd Flour 
+    Mill) 
+    Destination (South Bend Branch, Gayner - Shop) can't service car (PRR X41) with load 
+    (Empty) due to type (Boxcar) 
+    Try spur (South Bend Branch, American Oilcloth - Ship) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X41) to (South Bend Branch, American 
+    Oilcloth - Ship) 
+    Can't use spur (South Bend Branch, American Oilcloth - Ship) for (PRR X41) due to 
+    rolling stock length 40 feet 
+    Track (American Oilcloth - Ship) full, searching for a yard at destination (South Bend 
+    Branch) 
+    Could not find a yard at (South Bend Branch) for car (PRR X41) 
+    Can't route car (PRR X41) with load (Empty) to (South Bend Branch, American Oilcloth - 
+    Ship) 
+    Try spur (South Bend Branch, Gayner - Ware House) load (Empty) 
+    Train (South Bend Flyer) can transport car (PRR X41) to (South Bend Branch, Gayner - 
+    Ware House) 
+   Car (PRR X41) custom load (Empty) final destination (South Bend Branch, Gayner - Ware 
+   House) 
+    Car (PRR X41) has assigned destination (South Bend Branch, Gayner - Ware House) 
+  Car (PRR X41) assigned to train, destination (South Bend Branch, Gayner - Ware House) 
+  
+ Success 2/2 cars at location (Salem Yard) assigned to train (South Bend Flyer) 
+    
+ Route location (South Bend Branch) id (9r14) requests 36 pick ups, 36/55 moves are 
+ available 
+   
+ Partial 0/36 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route location (South Bend Branch) id (9r15) requests 47 pick ups, 47/55 moves are 
+ available 
+   
+ Partial 0/47 cars at location (South Bend Branch) assigned to train (South Bend Flyer) 
+ Route (South Bend Branch) id (9r17) no pick ups at location (Salem Yard) 
+ Partial 27/66 cars 
+   Build for train (South Bend Flyer) took 78 mSec 

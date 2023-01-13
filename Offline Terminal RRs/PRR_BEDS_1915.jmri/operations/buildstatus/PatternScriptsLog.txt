@@ -1,0 +1,39 @@
+2023-01-12 16:59:35,585 - OPS.Main.Controller - DEBUG - Initialize log file - DEBUG level test message
+2023-01-12 16:59:35,598 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2023-01-12 16:59:35,599 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2023-01-12 16:59:35,601 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2023-01-12 16:59:35,601 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2023-01-12 16:59:35,609 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2023-01-12 16:59:35,612 - OPS.OE.PSE - INFO - Destination folders check OK
+2023-01-12 16:59:35,615 - OPS.OB.Bundle - WARNING - FAIL: default plugin bundle file missing. New file created.
+2023-01-12 16:59:35,615 - OPS.OB.Bundle - DEBUG - getAllTextBundles
+2023-01-12 16:59:35,667 - OPS.OB.Bundle - DEBUG - getAllTextBundles
+2023-01-12 16:59:35,700 - OPS.OE.PSE - INFO - Stub location already exists
+2023-01-12 16:59:35,703 - OPS.OE.PSE - DEBUG - CreateStubFile.writeStubFile
+2023-01-12 16:59:36,398 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2023-01-12 16:59:36,407 - OPS.Main.Controller - INFO - Main script run time (sec): 0.823
+2023-01-12 16:59:37,492 - OPS.Main.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Pattern Scripts,when=1673571577491,modifiers=Button1] on psButton
+2023-01-12 16:59:37,505 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-12 16:59:37,519 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-12 16:59:37,536 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2023-01-12 16:59:37,540 - OPS.TB.View - DEBUG - ThrowbackSubroutine.View.makeSubroutinePanel
+2023-01-12 16:59:37,546 - OPS.TB.Controller - INFO - ThrowbackSubroutine makeFrame completed
+2023-01-12 16:59:37,552 - OPS.Main.View - DEBUG - makePatternScriptsWindow
+2023-01-12 16:59:37,602 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.util.JmriJFrame[frame0,1856,31,493x312,invalid,layout=java.awt.BorderLayout,title=PanelPro,resizable,normal,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,477x273,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-12 16:59:37,602 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_OPENED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-12 16:59:39,976 - OPS.PT.Model - DEBUG - updatePatternTracks
+2023-01-12 16:59:39,976 - OPS.PT.Model - WARNING - There are no tracks for this selection
+2023-01-12 16:59:39,984 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-12 16:59:39,990 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-12 16:59:41,176 - OPS.PT.Model - DEBUG - updatePatternTracks
+2023-01-12 16:59:41,177 - OPS.PT.Model - WARNING - The track list for this location has changed
+2023-01-12 16:59:41,183 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-12 16:59:41,188 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-12 16:59:41,918 - OPS.PT.Model - DEBUG - updatePatternTracks
+2023-01-12 16:59:41,918 - OPS.PT.Model - WARNING - There are no tracks for this selection
+2023-01-12 16:59:41,924 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-12 16:59:41,930 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-12 16:59:42,542 - OPS.PT.Model - DEBUG - updatePatternTracks
+2023-01-12 16:59:42,542 - OPS.PT.Model - WARNING - The track list for this location has changed
+2023-01-12 16:59:42,549 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-12 16:59:42,553 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel

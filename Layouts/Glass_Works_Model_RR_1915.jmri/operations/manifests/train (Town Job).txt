@@ -1,0 +1,92 @@
+o2o - Glass Works Model - 1915;;;;;
+ 
+Manifest for train (Town Job) Switch Salem Glass Works & Heinz
+Valid 11/08/2022 07:35
+ 
+Scheduled work at Salem, departure time 01:00
+ [ ] Pick up SP 7385 X empty Empty destination Salem Township
+ [ ] Pick up ER 7553 X load goods destination Salem Township
+ [ ] Pick up ER 4841 X load goods destination Salem Township
+ [ ] Pick up ACL 3300 R load Produce destination Salem Township
+ [ ] Pick up SP 7876 R load Produce destination Salem Township
+ [ ] Pick up AT&SF 4700 H load coal destination Salem Township
+ [ ] Pick up M&P 6336 H load coal destination Salem Township
+ [ ] Pick up WJ&S 1090 X empty Empty destination Salem Township
+ [ ] Pick up LV 4868 X empty Empty destination Salem Township
+ [ ] Pick up AT&SF 6513 G load sand destination Salem Township
+ [ ] Pick up ER 0930 X empty Empty destination Salem Township
+ [ ] Pick up DL&W 7274 X empty Empty destination Salem Township
+ [ ] Pick up LV 0817 X empty Empty destination Salem Township
+ [ ] Pick up LV 0186 X empty Empty destination Salem Township
+ [ ] Pick up B&A 2320 F Empty E destination Salem
+ [ ] Pick up WJ&S 6966 TV Empty E destination Salem
+ [ ] Pick up NYNH&H 8387 G Empty E destination Salem
+ [ ] Pick up CNJ 3094 TO Empty E destination Salem
+ [ ] Pick up P&R 2028 F Empty E destination Salem
+ [ ] Pick up ER 4387 TO Empty E destination Salem
+ [ ] Pick up CNJ 3907 G Empty E destination Salem
+ [ ] Pick up DL&W 1592 G Empty E destination Salem
+ [ ] Pick up DL&W 7996 H Empty E destination Salem
+ [ ] Pick up P&R 5560 H Empty E destination Salem
+Train departs Salem Eastbound with 24 cars, 1,056 feet, 690 tons
+ 
+Scheduled work at Salem Township, arrival time 01:04
+ [ ] Pick up WJ&S 1977 X Load Merchandise destination Salem
+ [ ] Pick up WJ&S 3463 X Load Merchandise destination Salem
+ [ ] Pick up M&P 3784 R empty Empty destination Salem
+ [ ] Pick up AT&SF 4502 H empty Empty destination Salem
+ [ ] Pick up B&A 5919 H empty Empty destination Salem
+ [ ] Pick up LV 8912 G empty Empty destination Salem
+ [ ] Move PRR 8234 X empty Empty
+ [ ] Move DL&W 4017 X empty Empty
+ [ ] Set out SP 7385 X empty Empty to Heinz Bottling
+ [ ] Set out ER 7553 X load goods to Heinz Can House
+ [ ] Set out ER 4841 X load goods to Heinz Can House
+ [ ] Set out ACL 3300 R load Produce to Heinz Ketchen
+ [ ] Set out SP 7876 R load Produce to Heinz Ketchen
+ [ ] Set out AT&SF 4700 H load coal to Salem 3 Coal Gas
+ [ ] Set out M&P 6336 H load coal to Salem 3 Coal Gas
+Train departs Salem Township Eastbound with 23 cars, 1,012 feet, 650 tons
+ 
+No work at Unknown
+ 
+Scheduled work at Salem Township, arrival time 02:03
+ [ ] Pick up B&A 0773 X load Glassware destination Salem
+ [ ] Pick up ER 4184 X load Glassware destination Salem
+ [ ] Pick up ACL 9119 G empty Empty destination Salem
+ [ ] Pick up DL&W 5222 X load Glassware destination Salem
+ [ ] Pick up NYC 0781 X load Glassware destination Salem
+ [ ] Pick up WJ&S 1933 X load Glassware destination Salem
+ [ ] Set out WJ&S 1090 X empty Empty to Salem 3 Packing
+ [ ] Set out LV 4868 X empty Empty to Salem 3 Packing
+ [ ] Set out AT&SF 6513 G load sand to Salem 3 Sand House
+ [ ] Set out ER 0930 X empty Empty to Salem 3 Ware House
+ [ ] Set out DL&W 7274 X empty Empty to Salem 3 Ware House
+ [ ] Set out LV 0817 X empty Empty to Salem 3 Ware House
+ [ ] Set out LV 0186 X empty Empty to Salem 3 Ware House
+Train departs Salem Township Westbound with 22 cars, 968 feet, 610 tons
+ 
+Scheduled work at Salem, arrival time 02:46
+ [ ] Set out WJ&S 1977 X Load Merchandise to Yard
+ [ ] Set out WJ&S 3463 X Load Merchandise to Yard
+ [ ] Set out M&P 3784 R empty Empty to Yard
+ [ ] Set out AT&SF 4502 H empty Empty to Yard
+ [ ] Set out B&A 5919 H empty Empty to Yard
+ [ ] Set out B&A 0773 X load Glassware to Yard
+ [ ] Set out ER 4184 X load Glassware to Yard
+ [ ] Set out ACL 9119 G empty Empty to Yard
+ [ ] Set out LV 8912 G empty Empty to Yard
+ [ ] Set out DL&W 5222 X load Glassware to Yard
+ [ ] Set out NYC 0781 X load Glassware to Yard
+ [ ] Set out WJ&S 1933 X load Glassware to Yard
+ [ ] Set out B&A 2320 F Empty E to Yard
+ [ ] Set out WJ&S 6966 TV Empty E to Yard
+ [ ] Set out NYNH&H 8387 G Empty E to Yard
+ [ ] Set out CNJ 3094 TO Empty E to Yard
+ [ ] Set out P&R 2028 F Empty E to Yard
+ [ ] Set out ER 4387 TO Empty E to Yard
+ [ ] Set out CNJ 3907 G Empty E to Yard
+ [ ] Set out DL&W 1592 G Empty E to Yard
+ [ ] Set out DL&W 7996 H Empty E to Yard
+ [ ] Set out P&R 5560 H Empty E to Yard
+Train terminates in Salem

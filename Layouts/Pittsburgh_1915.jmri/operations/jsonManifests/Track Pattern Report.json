@@ -1,0 +1,50 @@
+{
+  "date": "Mon Jun 06 2022 08:37 AM PST", 
+  "locations": [
+    {
+      "locationName": "AS&WCo", 
+      "tracks": [
+        {
+          "cars": [
+            {
+              " ": " ", 
+              "Color": "Oxide Red", 
+              "Comment": "", 
+              "Dest&Track": "*Any Line", 
+              "Destination": "*No Waybill", 
+              "FD Track": "*Any Line", 
+              "FD&Track": "*Any Line", 
+              "Final Dest": "*Via Staging", 
+              "Hazardous": false, 
+              "Kernel": "", 
+              "Kernel Size": "1", 
+              "Length": "36", 
+              "Load": "Wire", 
+              "Load Type": "Load", 
+              "Location": "AS&WCo", 
+              "Number": "101465", 
+              "On Train": false, 
+              "Owner": "", 
+              "PUSO": "SC", 
+              "PickUp Msg": "", 
+              "RWE": "", 
+              "Road": "Penna", 
+              "Set to": "[  ] ", 
+              "SetOut Msg": "", 
+              "Track": "Cable", 
+              "Type": "Boxcar", 
+              "Weight": "70"
+            }
+          ], 
+          "length": 135, 
+          "locos": [], 
+          "trackName": "Cable"
+        }
+      ]
+    }
+  ], 
+  "railroad": "O2O Pittsburgh 1915", 
+  "trainComment": "Train Comment Placeholder", 
+  "trainDescription": "Track Pattern Report", 
+  "trainName": "Track Pattern Report"
+}

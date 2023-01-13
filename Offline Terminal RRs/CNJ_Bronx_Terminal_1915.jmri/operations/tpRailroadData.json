@@ -1,0 +1,326 @@
+{
+  "buildDate": "01/10/2023-10:36:12", 
+  "carAAR": [
+    "RS", 
+    "HK", 
+    "FM", 
+    "M", 
+    "TG", 
+    "XM", 
+    "GA"
+  ], 
+  "carKernel": [
+    ""
+  ], 
+  "carLoads": {
+    "FM": [
+      "steel beams", 
+      "Tarp3", 
+      "Tarp"
+    ], 
+    "GA": [
+      "steel beams"
+    ], 
+    "HK": [
+      "coal"
+    ], 
+    "M": [], 
+    "RS": [
+      "produce"
+    ], 
+    "TG": [
+      "fuel oil"
+    ], 
+    "XM": [
+      "goods", 
+      "empty", 
+      "merchandise", 
+      "lcl"
+    ]
+  }, 
+  "divisions": [
+    "Harlem Division"
+  ], 
+  "industries": {
+    "1": {
+      "label": "H", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "H", 
+        "XM", 
+        "lcl", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Freight House", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "10": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "RS", 
+        "produce", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "11": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "XM", 
+        "Empty", 
+        "empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "12": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "XM", 
+        "merchandise", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "16": {
+      "label": "H", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "H", 
+        "XM", 
+        "Empty", 
+        "merchandise"
+      ], 
+      "staging": "", 
+      "track": "Freight House", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "3": {
+      "label": "G", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "G", 
+        "FM", 
+        "steel beams", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "4": {
+      "label": "G", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "G", 
+        "GA", 
+        "steel beams", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry", 
+      "type": "GA", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "5": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "HK", 
+        "coal", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "HK", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "6": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "FM", 
+        "Tarp", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "7": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "FM", 
+        "Tarp3", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "8": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "TG", 
+        "fuel oil", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "TG", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "9": {
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "schedule": [
+        "T", 
+        "XM", 
+        "Empty", 
+        "goods"
+      ], 
+      "staging": "", 
+      "track": "Team Tracks", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }
+  }, 
+  "layoutName": "CNJ Bronx Terminal 1915", 
+  "locales": {
+    "00": {
+      "capacity": "100", 
+      "label": "~", 
+      "location": "Unreported", 
+      "track": "~", 
+      "type": "class yard"
+    }, 
+    "1": {
+      "capacity": "4", 
+      "label": "G", 
+      "location": "Bronx Terminal", 
+      "track": "Gantry", 
+      "type": "industry"
+    }, 
+    "2": {
+      "capacity": "60", 
+      "label": "T", 
+      "location": "Bronx Terminal", 
+      "track": "Team Tracks", 
+      "type": "industry"
+    }, 
+    "3": {
+      "capacity": "20", 
+      "label": "F", 
+      "location": "Harlem River", 
+      "track": "Car Float", 
+      "type": "staging"
+    }, 
+    "4": {
+      "capacity": "12", 
+      "label": "H", 
+      "location": "Bronx Terminal", 
+      "track": "Freight House", 
+      "type": "industry"
+    }, 
+    "5": {
+      "capacity": "21", 
+      "label": "Y", 
+      "location": "Bronx Terminal", 
+      "track": "Yard", 
+      "type": "class yard"
+    }, 
+    "6": {
+      "capacity": "1", 
+      "label": "S", 
+      "location": "Bronx Terminal", 
+      "track": "Loco Shed", 
+      "type": "industry"
+    }
+  }, 
+  "location": "Mott Haven, the Bronx, New York", 
+  "locations": [
+    "Bronx Terminal", 
+    "Harlem River", 
+    "Unreported"
+  ], 
+  "locoConsists": [
+    ""
+  ], 
+  "locoModels": [
+    [
+      "0-4-0t", 
+      "ES"
+    ]
+  ], 
+  "locoTypes": [
+    "ES"
+  ], 
+  "operatingRoad": "Central Railroad of New Jersey", 
+  "roads": [
+    "NYNH&H", 
+    "TCX", 
+    "LV", 
+    "UTLX", 
+    "PRR", 
+    "FGEX", 
+    "DL&W", 
+    "NYC", 
+    "TELX", 
+    "AT&SF", 
+    "B&A", 
+    "SP", 
+    "MDX", 
+    "WJ&S", 
+    "ACL", 
+    "B&O", 
+    "ER", 
+    "PGCC", 
+    "CNJMoW", 
+    "WCC", 
+    "M&P", 
+    "PL", 
+    "P&R", 
+    "CNJ"
+  ], 
+  "scale": "HO", 
+  "territory": "Bronx Terminal", 
+  "year": "1915"
+}

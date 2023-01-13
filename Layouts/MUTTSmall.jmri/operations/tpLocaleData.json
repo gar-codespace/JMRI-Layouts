@@ -1,0 +1,66 @@
+{
+  "locations": {
+    "Harbor Drive": [
+      "6"
+    ], 
+    "Unreported": [
+      "00"
+    ], 
+    "West Harbor": [
+      "1", 
+      "2", 
+      "3", 
+      "4", 
+      "7", 
+      "8", 
+      "9"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "West Harbor", 
+      "4th Street Pier", 
+      "industry"
+    ], 
+    "2": [
+      "West Harbor", 
+      "Coffee Roasters", 
+      "industry"
+    ], 
+    "3": [
+      "West Harbor", 
+      "Bulk Material Wharf", 
+      "industry"
+    ], 
+    "4": [
+      "West Harbor", 
+      "Gantry Crane", 
+      "industry"
+    ], 
+    "6": [
+      "Harbor Drive", 
+      "Street Tracks", 
+      "staging"
+    ], 
+    "7": [
+      "West Harbor", 
+      "Foodstuffs", 
+      "industry"
+    ], 
+    "8": [
+      "West Harbor", 
+      "Mother Schuckers", 
+      "industry"
+    ], 
+    "9": [
+      "West Harbor", 
+      "Produce", 
+      "industry"
+    ]
+  }
+}

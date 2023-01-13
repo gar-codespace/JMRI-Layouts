@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+4786,B&O,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+4786,B&O,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+4786,B&O,XM,goods,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+4786,B&O,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+4786,B&O,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+4786,B&O,XM,Empty,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52

@@ -1,0 +1,96 @@
+DL&W Railroad - Harlem Division
+Harlem Transfer Co.
+Mott Haven, the Bronx, New York
+ 
+Manifest for train (Terminal Switch)
+Valid 12/01/1915 13:07
+ 
+Scheduled work at Harlem River, departure time 00:00
+ [ ] Pick up SP 1666 XM load cement destination HTC
+ [ ] Pick up CNJ 6141 XM load cement destination HTC
+ [ ] Pick up AT&SF 6123 XM load feed grains destination HTC
+ [ ] Pick up WJ&S 7219 XM load lcl destination HTC
+ [ ] Pick up LV 9182 XM load grain destination HTC
+ [ ] Pick up SP 3921 GA load steel beams destination HTC
+ [ ] Pick up NYNH&H 3334 FM load stone destination HTC
+ [ ] Pick up NYC 8106 FM load bricks destination HTC
+ [ ] Pick up LV 8472 FM load stone destination HTC
+ [ ] Pick up NYC 3548 GA load tarp destination HTC
+ [ ] Pick up TCX 3279 TG load heating oil destination HTC
+ [ ] Pick up NYNH&H 4963 FM load tarp destination HTC
+ [ ] Pick up CNJ 5535 FM load tarp destination HTC
+ [ ] Pick up ACL 3059 XM load goods destination HTC
+ [ ] Pick up B&A 9619 XM empty Empty destination HTC
+ [ ] Pick up B&O 3492 FM load tarp destination HTC
+ [ ] Pick up M&P 2122 GA load tarp destination HTC
+Train departs Harlem River Eastbound with 17 cars, 748 feet, 680 tons
+ 
+Scheduled work at HTC, arrival time 00:04
+ [ ] Pick up M&P 2709 XM load cement destination Harlem River
+ [ ] Pick up CNJMW 297 M empty Empty destination Harlem River
+ [ ] Pick up B&O 4649 XM load feed grains destination Harlem River
+ [ ] Pick up NYC 5745 XM load grain destination Harlem River
+ [ ] Pick up AT&SF 3050 GA load steel beams destination Harlem River
+ [ ] Pick up B&O 4366 HK load coal destination Harlem River
+ [ ] Pick up B&A 3531 XM load merchandise destination Harlem River
+ [ ] Pick up PRR 9939 TG load heating oil destination Harlem River
+ [ ] Pick up TCX 6986 TG load heating oil destination Harlem River
+ [ ] Pick up PRR 3532 TG load heating oil destination Harlem River
+ [ ] Pick up SP 2678 XM load merchandise destination Harlem River
+ [ ] Pick up LV 3153 XM load merchandise destination Harlem River
+ [ ] Pick up M&P 2906 XM load merchandise destination Harlem River
+ [ ] Pick up ER 4923 XM load merchandise destination Harlem River
+ [ ] Pick up UTLX 3565 TG empty Empty destination Harlem River
+ [ ] Pick up UTLX 2306 TG empty Empty destination Harlem River
+ [ ] Pick up PRR 1071 HK load coal destination Harlem River
+ [ ] Pick up ER 6430 XM load merchandise destination Harlem River
+ [ ] Pick up CNJ 9828 XM load merchandise destination Harlem River
+ [ ] Set out SP 1666 XM load cement to Cement House
+ [ ] Set out CNJ 6141 XM load cement to Cement House
+ [ ] Set out AT&SF 6123 XM load feed grains to Feed
+ [ ] Set out WJ&S 7219 XM load lcl to Freight House
+ [ ] Move WJ&S 6883 XM empty Empty
+ [ ] Move DL&W 1282 XM empty Empty
+ [ ] Move NYNH&H 3388 XM empty Empty
+ [ ] Move CNJ 0237 XM empty Empty
+ [ ] Move PRR 7121 XM empty Empty
+ [ ] Move ACL 7621 XM empty Empty
+ [ ] Set out LV 9182 XM load grain to Grain
+ [ ] Set out SP 3921 GA load steel beams to Overhead Crane
+ [ ] Set out NYNH&H 3334 FM load stone to Railroad Avenue
+ [ ] Set out NYC 8106 FM load bricks to Railroad Avenue
+ [ ] Set out LV 8472 FM load stone to Railroad Avenue
+ [ ] Set out NYC 3548 GA load tarp to Team Tracks
+ [ ] Set out TCX 3279 TG load heating oil to Team Tracks
+ [ ] Set out NYNH&H 4963 FM load tarp to Team Tracks
+ [ ] Set out CNJ 5535 FM load tarp to Team Tracks
+ [ ] Set out ACL 3059 XM load goods to Team Tracks
+ [ ] Set out B&A 9619 XM empty Empty to Team Tracks
+ [ ] Set out B&O 3492 FM load tarp to Team Tracks
+ [ ] Set out M&P 2122 GA load tarp to Team Tracks
+ [ ] Move WJ&S 1570 XM empty Empty
+ [ ] Move NYC 0339 XM empty Empty
+ [ ] Move LV 5032 XM empty Empty
+Train departs HTC Eastbound with 19 cars, 836 feet, 760 tons
+ 
+Scheduled work at Harlem River, arrival time 02:50
+ [ ] Set out M&P 2709 XM load cement to Car Barge
+ [ ] Set out CNJMW 297 M empty Empty to Car Barge
+ [ ] Set out B&O 4649 XM load feed grains to Car Barge
+ [ ] Set out NYC 5745 XM load grain to Car Barge
+ [ ] Set out AT&SF 3050 GA load steel beams to Car Barge
+ [ ] Set out B&O 4366 HK load coal to Car Barge
+ [ ] Set out B&A 3531 XM load merchandise to Car Barge
+ [ ] Set out PRR 9939 TG load heating oil to Car Barge
+ [ ] Set out TCX 6986 TG load heating oil to Car Barge
+ [ ] Set out PRR 3532 TG load heating oil to Car Barge
+ [ ] Set out SP 2678 XM load merchandise to Car Barge
+ [ ] Set out LV 3153 XM load merchandise to Car Barge
+ [ ] Set out M&P 2906 XM load merchandise to Car Barge
+ [ ] Set out ER 4923 XM load merchandise to Car Barge
+ [ ] Set out UTLX 3565 TG empty Empty to Car Barge
+ [ ] Set out UTLX 2306 TG empty Empty to Car Barge
+ [ ] Set out PRR 1071 HK load coal to Car Barge
+ [ ] Set out ER 6430 XM load merchandise to Car Barge
+ [ ] Set out CNJ 9828 XM load merchandise to Car Barge
+Train terminates in Harlem River

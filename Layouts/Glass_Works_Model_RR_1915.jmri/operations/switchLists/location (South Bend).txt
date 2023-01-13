@@ -1,0 +1,14 @@
+Glass Works 1915 Model RR
+ 
+Switch List for South Bend
+ 
+Scheduled work for train <South Bend Flyer> Switch Along Salem Creek
+Departs Salem Yard at 02:00 expected arrival 02:20, arrives Westbound
+ [ ] Pick up G14    PRR  Empty       from W.H. Harris Boat Shop -> Salem Yard               
+ [ ] Set out F2     PRR  Lumber      from Salem Yard                to W.H. Harris Boat Shop
+ [ ] Pick up X47    PRR  Empty       from F.H.Lloyd Flour Mill  -> Gayner Glass Works       
+ [ ] Set out X30    PRR  Flour       from Salem Yard                to F.H.Lloyd Flour Mill 
+ 
+Visit number 2 for train (South Bend Flyer) expected arrival 03:44, arrives Eastbound
+ [ ] Pick up X2     PRR  LCL         from S&PSNCo.              -> Salem Yard               
+ [ ] Set out X33    PRR  LCL         from Salem Yard                to S&PSNCo.             

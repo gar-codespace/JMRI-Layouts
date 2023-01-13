@@ -1,0 +1,91 @@
+PRR BEDS 1914
+ 
+Manifest for train (Float Switch)
+Gültig 12/08/1914 21:52
+ 
+Scheduled work at Pier Float, departure time 00:00
+ [ ] Pick up PRR 0353 HK load coal destination North 4th St
+ [ ] Pick up SP 4496 GA load lumber stack destination North 4th St
+ [ ] Pick up PGCC 7366 HK load coal destination North 4th St
+ [ ] Pick up WCC 9545 HK load coal destination North 4th St
+ [ ] Pick up B&O 4786 XM empty Empty destination North 4th St
+ [ ] Pick up DL&W 0224 XM load merchandise destination North 4th St
+ [ ] Pick up WJ&S 9104 XM empty Empty destination North 4th St
+ [ ] Pick up ER 3512 GA load lumber stack destination North 4th St
+ [ ] Pick up PGCC 1248 HK load coal destination North 4th St
+ [ ] Pick up WJ&S 1927 XM empty Empty destination North 4th St
+ [ ] Pick up M&P 4095 XM load merchandise destination North 4th St
+ [ ] Pick up CNJ 4520 XM empty Empty destination North 4th St
+ [ ] Pick up LV 1781 GA load lumber stack destination North 4th St
+ [ ] Pick up B&A 0298 XM empty Empty destination North 4th St
+ [ ] Pick up B&O 1444 FM load Tarp destination North 4th St
+ [ ] Pick up FGEX 7875 RS load Produce destination North 4th St
+ [ ] Pick up HKH 1953 RS load Produce destination North 4th St
+Zug fährt ab von Pier Float ostwärts mit 17 Wagen, 697 feet, 680 Tonne
+ 
+Scheduled work at North 4th St, arrival time 00:04
+ [ ] Pick up CNJ 1657 XM load lcl destination Pier Float
+ [ ] Pick up P&R 4925 XM load lcl destination Pier Float
+ [ ] Pick up CNJ 3450 XM load lcl destination Pier Float
+ [ ] Pick up NYNH&H 1016 XM load lcl destination Pier Float
+ [ ] Pick up PRR 7851 XM load lcl destination Pier Float
+ [ ] Pick up LV 0814 XM load lcl destination Pier Float
+ [ ] Pick up PRR 2731 TG empty Empty destination Pier Float
+ [ ] Pick up PFEX 4401 RS empty Empty destination Pier Float
+ [ ] Pick up FGEX 9669 RS empty Empty destination Pier Float
+ [ ] Pick up M&P 7277 GA empty Empty destination Pier Float
+ [ ] Pick up NYNH&H 1433 GA empty Empty destination Pier Float
+ [ ] Pick up PGCC 3950 HK empty Empty destination Pier Float
+ [ ] Pick up FGEX 9506 RS empty Empty destination Pier Float
+ [ ] Pick up B&A 9815 XM empty Empty destination Pier Float
+ [ ] Pick up B&A 1097 FM empty Empty destination Pier Float
+ [ ] Pick up CNJ 8705 GA empty Empty destination Pier Float
+ [ ] Pick up PRR 7941 XM empty Empty destination Pier Float
+ [ ] Move LV 7785 XM empty Empty
+ [ ] Move M&P 3995 XM empty Empty
+ [ ] Move ER 5935 XM empty Empty
+ [ ] Move NYC 9526 XM empty Empty
+ [ ] Move CNJ 9508 XM empty Empty
+ [ ] Move ACL 9075 XM empty Empty
+ [ ] Move P&R 5481 XM empty Empty
+ [ ] Move M&P 0530 XM empty Empty
+ [ ] Move CNJ 3352 XM empty Empty
+ [ ] Move CNJ 7887 XM empty Empty
+ [ ] Set out PRR 0353 HK load coal nach Team Tracks
+ [ ] Set out SP 4496 GA load lumber stack nach Team Tracks
+ [ ] Set out PGCC 7366 HK load coal nach Team Tracks
+ [ ] Set out WCC 9545 HK load coal nach Team Tracks
+ [ ] Set out B&O 4786 XM empty Empty nach Team Tracks
+ [ ] Set out DL&W 0224 XM load merchandise nach Team Tracks
+ [ ] Set out WJ&S 9104 XM empty Empty nach Team Tracks
+ [ ] Set out ER 3512 GA load lumber stack nach Team Tracks
+ [ ] Set out PGCC 1248 HK load coal nach Team Tracks
+ [ ] Set out WJ&S 1927 XM empty Empty nach Team Tracks
+ [ ] Set out M&P 4095 XM load merchandise nach Team Tracks
+ [ ] Set out CNJ 4520 XM empty Empty nach Team Tracks
+ [ ] Set out LV 1781 GA load lumber stack nach Team Tracks
+ [ ] Set out B&A 0298 XM empty Empty nach Team Tracks
+ [ ] Set out B&O 1444 FM load Tarp nach Team Tracks
+ [ ] Set out FGEX 7875 RS load Produce nach Team Tracks
+ [ ] Set out HKH 1953 RS load Produce nach Team Tracks
+Zug fährt ab von North 4th St ostwärts mit 17 Wagen, 697 feet, 680 Tonne
+ 
+Scheduled work at Pier Float, arrival time 02:50
+ [ ] Set out CNJ 1657 XM load lcl nach Float Tracks
+ [ ] Set out P&R 4925 XM load lcl nach Float Tracks
+ [ ] Set out CNJ 3450 XM load lcl nach Float Tracks
+ [ ] Set out NYNH&H 1016 XM load lcl nach Float Tracks
+ [ ] Set out PRR 7851 XM load lcl nach Float Tracks
+ [ ] Set out LV 0814 XM load lcl nach Float Tracks
+ [ ] Set out PRR 2731 TG empty Empty nach Float Tracks
+ [ ] Set out PFEX 4401 RS empty Empty nach Float Tracks
+ [ ] Set out FGEX 9669 RS empty Empty nach Float Tracks
+ [ ] Set out M&P 7277 GA empty Empty nach Float Tracks
+ [ ] Set out NYNH&H 1433 GA empty Empty nach Float Tracks
+ [ ] Set out PGCC 3950 HK empty Empty nach Float Tracks
+ [ ] Set out FGEX 9506 RS empty Empty nach Float Tracks
+ [ ] Set out B&A 9815 XM empty Empty nach Float Tracks
+ [ ] Set out B&A 1097 FM empty Empty nach Float Tracks
+ [ ] Set out CNJ 8705 GA empty Empty nach Float Tracks
+ [ ] Set out PRR 7941 XM empty Empty nach Float Tracks
+Zug endet in Pier Float

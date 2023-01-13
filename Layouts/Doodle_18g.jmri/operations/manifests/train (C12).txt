@@ -1,0 +1,150 @@
+Pennsylvania Railroad
+Allegheny Region
+Western Pennsylvania
+ 
+Manifest for train (C12) Coal Train
+Valid 1/08/1938 09:48
+ 
+Scheduled work at Weston, departure time 00:10
+ [ ] Pick up PRR 049 2-10-0 prr  destination Train Service
+ [ ] Pick up PRR 122 2-10-0 prr  destination Train Service
+ [ ] Pick up WCC 1429 HT Load Coal destination Easton
+ [ ] Pick up PRR 2914 HT Load Coal destination Easton
+ [ ] Pick up PGCC 0813 HT Load Coal destination Easton
+ [ ] Pick up PRR 3145 HT Load Coal destination Easton
+ [ ] Pick up P&R 3094 HT Load Coal destination Easton
+ [ ] Pick up PRR 4975 HT Load Coal destination Easton
+ [ ] Pick up PRR 1021 HT Load Coal destination Easton
+ [ ] Pick up WCC 2799 HT Load Coal destination Easton
+ [ ] Pick up B&O 8449 HT Load Coal destination Easton
+ [ ] Pick up B&O 7404 HT Load Coal destination Easton
+ [ ] Pick up WCC 0712 HT Load Coal destination Easton
+ [ ] Pick up B&O 8830 HT Load Coal destination Easton
+ [ ] Pick up P&R 1350 HT Load Coal destination Easton
+ [ ] Pick up PRR 9469 HT Load Coal destination Easton
+ [ ] Pick up WCC 6259 HT Load Coal destination Easton
+ [ ] Pick up PGCC 2450 HT Load Coal destination Easton
+ [ ] Pick up WCC 9844 HT Load Coal destination Easton
+ [ ] Pick up PGCC 1803 HT Load Coal destination Easton
+ [ ] Pick up PRR 2787 HT Load Coal destination Easton
+ [ ] Pick up B&O 4147 HT Load Coal destination Easton
+ [ ] Pick up P&R 1676 HT Load Coal destination Easton
+ [ ] Pick up WCC 0198 HT Load Coal destination Easton
+ [ ] Pick up PGCC 9445 HT Load Coal destination Easton
+ [ ] Pick up PGCC 6240 HT Load Coal destination Easton
+ [ ] Pick up WCC 6567 HT Load Coal destination Easton
+ [ ] Pick up PRR 6184 HT Load Coal destination Easton
+ [ ] Pick up PRR 6977 HT Load Coal destination Easton
+ [ ] Pick up PGCC 9026 HT Load Coal destination Easton
+ [ ] Pick up WCC 4799 HT Load Coal destination Easton
+ [ ] Pick up PRR 5883 HT Load Coal destination Easton
+ [ ] Pick up P&R 8657 HT Load Coal destination Easton
+ [ ] Pick up P&R 4380 HT Load Coal destination Easton
+ [ ] Pick up P&R 6896 HT Load Coal destination Easton
+ [ ] Pick up PRR 8302 HT Load Coal destination Easton
+ [ ] Pick up PGCC 3804 HT Load Coal destination Easton
+ [ ] Pick up PGCC 0178 HT Load Coal destination Easton
+ [ ] Pick up PGCC 0567 HT Load Coal destination Easton
+ [ ] Pick up WCC 3688 HT Load Coal destination Easton
+ [ ] Pick up B&O 4780 HT Load Coal destination Easton
+ [ ] Pick up PRR 4410 HT Load Coal destination Easton
+ [ ] Pick up PGCC 5466 HT Load Coal destination Easton
+ [ ] Pick up B&O 1610 HT Load Coal destination Easton
+ [ ] Pick up PRR 6086 HT Load Coal destination Easton
+ [ ] Pick up PGCC 3697 HT Load Coal destination Easton
+ [ ] Pick up P&R 8614 HT Load Coal destination Easton
+ [ ] Pick up WCC 0107 HT Load Coal destination Easton
+ [ ] Pick up WCC 3258 HT Load Coal destination Easton
+ [ ] Pick up PRR 3700 HT Load Coal destination Easton
+ [ ] Pick up PRR 2972 HT Load Coal destination Easton
+ [ ] Pick up B&O 2184 HT Load Coal destination Easton
+ [ ] Pick up P&R 6035 HT Load Coal destination Easton
+ [ ] Pick up P&R 0049 HT Load Coal destination Easton
+ [ ] Pick up WCC 7460 HT Load Coal destination Easton
+ [ ] Pick up PRR 0844 HT Load Coal destination Easton
+ [ ] Pick up PGCC 3659 HT Load Coal destination Easton
+ [ ] Pick up WCC 8498 HT Load Coal destination Easton
+ [ ] Pick up PGCC 1932 HT Load Coal destination Easton
+ [ ] Pick up PGCC 6434 HT Load Coal destination Easton
+ [ ] Pick up WCC 2528 HT Load Coal destination Easton
+ [ ] Pick up PRR 8089 HT Load Coal destination Easton
+ [ ] Pick up PGCC 4664 HT Load Coal destination Easton
+ [ ] Pick up WCC 8065 HT Load Coal destination Easton
+ [ ] Pick up PRR 376 NE Load destination Easton
+Train departs Weston Eastbound with 63 cars, 2,860 feet, 2,516 tons
+ 
+Scheduled work at Train Service, arrival time 00:14
+Locomotive change at Train Service
+ [ ] Pick up PRR 105 2-10-0 prr  destination Easton
+ [ ] Pick up PRR 900 2-10-0 prr  destination Easton
+ [ ] Set out PRR 049 2-10-0 prr  to Roundhouse
+ [ ] Set out PRR 122 2-10-0 prr  to Roundhouse
+Train departs Train Service Eastbound with 63 cars, 2,860 feet, 2,516 tons
+ 
+Scheduled work at Easton, arrival time 00:18
+ [ ] Set out PRR 105 2-10-0 prr  to E3
+ [ ] Set out PRR 900 2-10-0 prr  to E3
+ [ ] Set out WCC 1429 HT Load Coal to E3
+ [ ] Set out PRR 2914 HT Load Coal to E3
+ [ ] Set out PGCC 0813 HT Load Coal to E3
+ [ ] Set out PRR 3145 HT Load Coal to E3
+ [ ] Set out P&R 3094 HT Load Coal to E3
+ [ ] Set out PRR 4975 HT Load Coal to E3
+ [ ] Set out PRR 1021 HT Load Coal to E3
+ [ ] Set out WCC 2799 HT Load Coal to E3
+ [ ] Set out B&O 8449 HT Load Coal to E3
+ [ ] Set out B&O 7404 HT Load Coal to E3
+ [ ] Set out WCC 0712 HT Load Coal to E3
+ [ ] Set out B&O 8830 HT Load Coal to E3
+ [ ] Set out P&R 1350 HT Load Coal to E3
+ [ ] Set out PRR 9469 HT Load Coal to E3
+ [ ] Set out WCC 6259 HT Load Coal to E3
+ [ ] Set out PGCC 2450 HT Load Coal to E3
+ [ ] Set out WCC 9844 HT Load Coal to E3
+ [ ] Set out PGCC 1803 HT Load Coal to E3
+ [ ] Set out PRR 2787 HT Load Coal to E3
+ [ ] Set out B&O 4147 HT Load Coal to E3
+ [ ] Set out P&R 1676 HT Load Coal to E3
+ [ ] Set out WCC 0198 HT Load Coal to E3
+ [ ] Set out PGCC 9445 HT Load Coal to E3
+ [ ] Set out PGCC 6240 HT Load Coal to E3
+ [ ] Set out WCC 6567 HT Load Coal to E3
+ [ ] Set out PRR 6184 HT Load Coal to E3
+ [ ] Set out PRR 6977 HT Load Coal to E3
+ [ ] Set out PGCC 9026 HT Load Coal to E3
+ [ ] Set out WCC 4799 HT Load Coal to E3
+ [ ] Set out PRR 5883 HT Load Coal to E3
+ [ ] Set out P&R 8657 HT Load Coal to E3
+ [ ] Set out P&R 4380 HT Load Coal to E3
+ [ ] Set out P&R 6896 HT Load Coal to E3
+ [ ] Set out PRR 8302 HT Load Coal to E3
+ [ ] Set out PGCC 3804 HT Load Coal to E3
+ [ ] Set out PGCC 0178 HT Load Coal to E3
+ [ ] Set out PGCC 0567 HT Load Coal to E3
+ [ ] Set out WCC 3688 HT Load Coal to E3
+ [ ] Set out B&O 4780 HT Load Coal to E3
+ [ ] Set out PRR 4410 HT Load Coal to E3
+ [ ] Set out PGCC 5466 HT Load Coal to E3
+ [ ] Set out B&O 1610 HT Load Coal to E3
+ [ ] Set out PRR 6086 HT Load Coal to E3
+ [ ] Set out PGCC 3697 HT Load Coal to E3
+ [ ] Set out P&R 8614 HT Load Coal to E3
+ [ ] Set out WCC 0107 HT Load Coal to E3
+ [ ] Set out WCC 3258 HT Load Coal to E3
+ [ ] Set out PRR 3700 HT Load Coal to E3
+ [ ] Set out PRR 2972 HT Load Coal to E3
+ [ ] Set out B&O 2184 HT Load Coal to E3
+ [ ] Set out P&R 6035 HT Load Coal to E3
+ [ ] Set out P&R 0049 HT Load Coal to E3
+ [ ] Set out WCC 7460 HT Load Coal to E3
+ [ ] Set out PRR 0844 HT Load Coal to E3
+ [ ] Set out PGCC 3659 HT Load Coal to E3
+ [ ] Set out WCC 8498 HT Load Coal to E3
+ [ ] Set out PGCC 1932 HT Load Coal to E3
+ [ ] Set out PGCC 6434 HT Load Coal to E3
+ [ ] Set out WCC 2528 HT Load Coal to E3
+ [ ] Set out PRR 8089 HT Load Coal to E3
+ [ ] Set out PGCC 4664 HT Load Coal to E3
+ [ ] Set out WCC 8065 HT Load Coal to E3
+ [ ] Set out PRR 376 NE Load to E3
+Train terminates in Easton

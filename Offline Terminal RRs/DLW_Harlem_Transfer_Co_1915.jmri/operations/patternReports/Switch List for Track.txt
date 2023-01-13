@@ -1,0 +1,18 @@
+DL&W RR - Harlem Division
+Harlem Transfer Co.
+Mott Haven, the Bronx, New York
+
+Work Location: HTC
+Valid Nov 25, 1915, 16:28
+
+Switch List for Track
+
+Track: Freight House
+[Freight House]   ACL   7621    XM     E Empty  Any Line    
+[Freight House]   AT&SF 5241    XM     E Empty  Any Line    
+[Feed]            B&O   2812    XM     E Empty  Any Line    
+[Freight House]   DL&W  1282    XM     E Empty  Any Line    
+[Freight House]   LV    1789    XM     E Empty  Any Line    
+[Freight House]   NYNH& 3388    XM     E Empty  Any Line    
+[Freight House]   PRR   7121    XM     E Empty  Any Line    
+

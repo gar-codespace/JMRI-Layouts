@@ -1,0 +1,51 @@
+O2O Pittsburgh 1915
+Local Switch Job
+Pattern Report - Track Pattern
+Comment: Track Pattern for Selected Tracks
+Valid time: Sat Apr 09 2022 10:28 AM PST
+
+Location: AS&WCo
+Track: Horse Shoes
+[  ] PRR   102627  Xl     Horse  *No Waybill                    *Via Staging          
+[  ] PRR   106250  X25    Horse  *No Waybill                    *Via Staging          
+[  ] PRR   11730   Xh Ven Horse  *No Waybill                    *Via Staging          
+[  ] PRRAL 10184   Xl     Horse  *No Waybill                    *Via Staging          
+Total Cars: 4 Track Length: 180 Eqpt. Length: 164 Available: 16
+
+Track Totals for Cars:
+ *Via Staging - 4
+
+Track: Yard
+[  ] PCGCo 3029    Gd     Empty  *No Waybill                    *Via Staging          
+[  ] PRR   30379   Gd     Empty  *No Waybill                    *Via Staging          
+[  ] GR&I  101115  X25    Steel  *No Waybill                    *Via Staging          
+[  ] PRR   10703   X25    Steel  *No Waybill                    *Via Staging          
+[  ] Penna 10249   Boxcar Steel  *No Waybill                    *Via Staging          
+[  ] PRR   411402  Gk     Alloys *No Waybill                    AS&WCo, Alloys        
+[  ] Penna 101465  Boxcar Empty  *No Waybill                    AS&WCo, Cable         
+[  ] PRR   301246  Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   301247  Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   301248  Gl     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   301256  Gl     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   30384   Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   30385   Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   30387   Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   30388   Gd     Ore    *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   413790  Gs Cok Coke   *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   413793  Gs Cok Coke   *No Waybill                    AS&WCo, Charge Tracks 
+[  ] PRR   11117   Xl Ven Empty  *No Waybill                    AS&WCo, Horse Shoes   
+[  ] PRR   11726   Xl Ven Empty  *No Waybill                    AS&WCo, Horse Shoes   
+[  ] Penna 10260   Boxcar Empty  *No Waybill                    AS&WCo, Horse Shoes   
+[  ] GR&I  101114  X25    Mercha *No Waybill                    AS&WCo, Store         
+[  ] PCC&S 1080    X23    Mercha *No Waybill                    AS&WCo, Store         
+[  ] PRR   105559  X23    Mercha *No Waybill                    AS&WCo, Store         
+Total Cars: 23 Track Length: 3333 Eqpt. Length: 936 Available: 2397
+
+Track Totals for Cars:
+ *Via Staging - 5
+ AS&WCo - 18
+
+
+Report Totals for Cars:
+ *Via Staging - 9
+ AS&WCo - 18

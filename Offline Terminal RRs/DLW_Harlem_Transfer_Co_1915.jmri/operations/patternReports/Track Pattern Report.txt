@@ -1,0 +1,26 @@
+DL&W Railroad
+Harlem Transfer Co.
+Mott Haven, the Bronx, New York
+
+Work Location: HTC
+Valid Dec 16, 1915, 22:11
+
+Pattern Report for Tracks
+
+Track: Engine Shed
+[  ] CNJMW 297     M      E Empty  Any Line    
+Total Cars: 1 Track Length: 44 Eqpt. Length: 44 Available: 0
+
+Track Totals for Cars:
+ Any Line - 1
+
+Track: Feed
+[  ] B&O   4649    XM     E Empty  Any Line    
+Total Cars: 1 Track Length: 44 Eqpt. Length: 44 Available: 0
+
+Track Totals for Cars:
+ Any Line - 1
+
+
+Report Totals for Cars:
+ Any Line - 2

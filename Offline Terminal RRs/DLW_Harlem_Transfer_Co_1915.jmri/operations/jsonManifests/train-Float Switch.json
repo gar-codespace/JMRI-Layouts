@@ -1,0 +1,4183 @@
+{
+  "railroad" : "DL&amp;W Harlem Transfer Co 1915",
+  "userName" : "Float Switch",
+  "description" : "Set industry from pier float",
+  "locations" : [ {
+    "userName" : "Harlem River",
+    "name" : "1r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "2s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 748,
+      "unit" : "Feet"
+    },
+    "weight" : 680,
+    "cars" : {
+      "add" : [ {
+        "name" : "WJ&S7219",
+        "number" : "7219",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "load" : "cement",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP1666",
+        "number" : "1666",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "load" : "cement",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6123",
+        "number" : "6123",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Feed",
+            "name" : "1s2"
+          }
+        },
+        "load" : "feed grains",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV9182",
+        "number" : "9182",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Grain",
+            "name" : "1s3"
+          }
+        },
+        "load" : "grain",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP3921",
+        "number" : "3921",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Overhead Crane",
+            "name" : "1s7"
+          }
+        },
+        "load" : "steel beams",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H3334",
+        "number" : "3334",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "stone",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC8106",
+        "number" : "8106",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "bricks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV8472",
+        "number" : "8472",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "stone",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC3548",
+        "number" : "3548",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX3279",
+        "number" : "3279",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H4963",
+        "number" : "4963",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ5535",
+        "number" : "5535",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ6141",
+        "number" : "6141",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3059",
+        "number" : "3059",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A9619",
+        "number" : "9619",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O3492",
+        "number" : "3492",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2122",
+        "number" : "2122",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 17,
+      "loads" : 17,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "HTC",
+    "name" : "1r3",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "02:52",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "1s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s8" : {
+        "add" : "",
+        "comment" : ""
+      },
+      "1s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s5" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 748,
+      "unit" : "Feet"
+    },
+    "weight" : 680,
+    "cars" : {
+      "add" : [ {
+        "name" : "B&O4649",
+        "number" : "4649",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Feed",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6883",
+        "number" : "6883",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1282",
+        "number" : "1282",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A3531",
+        "number" : "3531",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP2678",
+        "number" : "2678",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ0237",
+        "number" : "0237",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2709",
+        "number" : "2709",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0778",
+        "number" : "0778",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1570",
+        "number" : "1570",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0339",
+        "number" : "0339",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC5745",
+        "number" : "5745",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Grain",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJMW297",
+        "number" : "297",
+        "road" : "CNJMW",
+        "rfid" : "",
+        "carType" : "M",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Engine Shed",
+            "name" : "1s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF3050",
+        "number" : "3050",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Overhead Crane",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER1584",
+        "number" : "1584",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4366",
+        "number" : "4366",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9939",
+        "number" : "9939",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX6986",
+        "number" : "6986",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3532",
+        "number" : "3532",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H3388",
+        "number" : "3388",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV3153",
+        "number" : "3153",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR7121",
+        "number" : "7121",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2906",
+        "number" : "2906",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4923",
+        "number" : "4923",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "UTLX3565",
+        "number" : "3565",
+        "road" : "UTLX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "UTLX2306",
+        "number" : "2306",
+        "road" : "UTLX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1071",
+        "number" : "1071",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9828",
+        "number" : "9828",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER6430",
+        "number" : "6430",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "WJ&S7219",
+        "number" : "7219",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "load" : "cement",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP1666",
+        "number" : "1666",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "load" : "cement",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6123",
+        "number" : "6123",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Feed",
+            "name" : "1s2"
+          }
+        },
+        "load" : "feed grains",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4649",
+        "number" : "4649",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Feed",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6883",
+        "number" : "6883",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1282",
+        "number" : "1282",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A3531",
+        "number" : "3531",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP2678",
+        "number" : "2678",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ0237",
+        "number" : "0237",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV9182",
+        "number" : "9182",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Grain",
+            "name" : "1s3"
+          }
+        },
+        "load" : "grain",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP3921",
+        "number" : "3921",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Overhead Crane",
+            "name" : "1s7"
+          }
+        },
+        "load" : "steel beams",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H3334",
+        "number" : "3334",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "stone",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC8106",
+        "number" : "8106",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "bricks",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV8472",
+        "number" : "8472",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "load" : "stone",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC3548",
+        "number" : "3548",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX3279",
+        "number" : "3279",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "heating oil",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H4963",
+        "number" : "4963",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ5535",
+        "number" : "5535",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ6141",
+        "number" : "6141",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3059",
+        "number" : "3059",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A9619",
+        "number" : "9619",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O3492",
+        "number" : "3492",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2122",
+        "number" : "2122",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r1",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "tarp",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2709",
+        "number" : "2709",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0778",
+        "number" : "0778",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Cement House",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1570",
+        "number" : "1570",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0339",
+        "number" : "0339",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Freight House",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC5745",
+        "number" : "5745",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Grain",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 17,
+      "loads" : 17,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Harlem River",
+    "name" : "1r2",
+    "arrivalTime" : "02:56",
+    "expectedDepartureTime" : "03:47",
+    "location" : {
+      "comment" : "",
+      "name" : "2"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Harlem River",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "CNJMW297",
+        "number" : "297",
+        "road" : "CNJMW",
+        "rfid" : "",
+        "carType" : "M",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Engine Shed",
+            "name" : "1s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF3050",
+        "number" : "3050",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "GA",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Overhead Crane",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER1584",
+        "number" : "1584",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "FM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Railroad Avenue",
+            "name" : "1s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4366",
+        "number" : "4366",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9939",
+        "number" : "9939",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "TCX6986",
+        "number" : "6986",
+        "road" : "TCX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3532",
+        "number" : "3532",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H3388",
+        "number" : "3388",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV3153",
+        "number" : "3153",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR7121",
+        "number" : "7121",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P2906",
+        "number" : "2906",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4923",
+        "number" : "4923",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "UTLX3565",
+        "number" : "3565",
+        "road" : "UTLX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "UTLX2306",
+        "number" : "2306",
+        "road" : "UTLX",
+        "rfid" : "",
+        "carType" : "TG",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1071",
+        "number" : "1071",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HK",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ9828",
+        "number" : "9828",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER6430",
+        "number" : "6430",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "XM",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "HTC",
+          "name" : "1",
+          "route" : "1r3",
+          "track" : {
+            "userName" : "Team Tracks",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Harlem River",
+          "name" : "2",
+          "route" : "1r2",
+          "track" : {
+            "userName" : "Car Barge",
+            "name" : "2s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "1915-12-17T05:24:40.562+0000"
+}

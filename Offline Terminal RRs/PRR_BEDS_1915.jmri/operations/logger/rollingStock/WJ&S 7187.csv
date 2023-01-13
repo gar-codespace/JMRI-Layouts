@@ -1,0 +1,4 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+7187,WJ&S,XM,Empty,North 4th St,Freight Station,,,Float Switch,0,2023/01/04 14:04:40
+7187,WJ&S,XM,lcl,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+7187,WJ&S,XM,Empty,North 4th St,Freight Station,,,Float Switch,0,2023/01/04 14:14:01

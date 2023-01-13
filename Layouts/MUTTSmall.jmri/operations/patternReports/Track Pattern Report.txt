@@ -1,0 +1,33 @@
+Metropolitian Union Transfer Terminal
+West Pier District
+J Dot Bay
+
+Work Location: Seaside Division - West Harbor
+Valid Jan 03, 1915, 13:09
+
+Pattern Report for Tracks
+
+Track: 4th Street Pier
+[  ] B&A   1831    XM     L foodst Any Line    
+[  ] B&O   4801    FM     L lumber Any Line    
+[  ] DL&W  5887    XM     L foodst Any Line    
+[  ] ER    0973    XI     L break  Any Line    
+[  ] LV    2693    FM     L lumber Any Line    
+[  ] LV    7198    XM     L break  Any Line    
+[  ] PRR   1574    TM     L heatin Any Line    
+Total Cars: 7 Track Length: 880 Eqpt. Length: 308 Available: 572
+
+Track Totals for Cars:
+ Any Line - 7
+
+Track: Foodstuffs
+[  ] AT&SF 8233    XM     L foodst Any Line    
+[  ] WJ&S  3861    XI     L foodst Any Line    
+Total Cars: 2 Track Length: 176 Eqpt. Length: 88 Available: 88
+
+Track Totals for Cars:
+ Any Line - 2
+
+
+Report Totals for Cars:
+ Any Line - 9

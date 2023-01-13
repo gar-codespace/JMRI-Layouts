@@ -1,0 +1,1658 @@
+Build Report for train (Town Job) built on 11/6/20 12:48 PM 
+JMRI version 4.18+R37ad3d0 
+Build report detail level: Normal 
+Build report detail level: Detailed 
+Build report detail level: Very Detailed 
+ 
+Train Build Options: 
+Build option is set to aggressive 
+Perform 4 passes 
+Make departure track available after train is built 
+ 
+Staging build options: 
+Make departure track available after train is built 
+Prompt for Departure Track from Staging 
+Prompt for Arrival Track into Staging 
+ 
+Car routing options: 
+Car routing via yards is enabled 
+Car routing through staging is enabled 
+ 
+Specific build options for train (Town Job): 
+Allow local moves if car has a custom load or FD 
+Allow cars to travel from origin to terminal 
+ 
+Train (Town Job) route (Salem Township): 
+16r1 Staging (Salem1) request 50 pick ups, maximum train length 2,000 feet 
+16r5 Location (Salem Township) requests 20 moves, maximum train length 2,000 feet 
+16r12 Location (Dummy) is skipped by train (Town Job), maximum train length 2,000 feet 
+16r6 Location (Salem Township) requests 20 moves, maximum train length 2,000 feet 
+16r11 Staging (Salem) requests 50 set outs 
+Route location (Salem Township) id (16r5) has random control of 10% reducing number of 
+moves from 20 to 20 
+Route location (Salem Township) id (16r6) has random control of 10% reducing number of 
+moves from 20 to 20 
+Route (Salem Township) requests 70 cars and 140 moves 
+ 
+Train requirements: 
+Train does not require any locomotives 
+ 
+ 
+Train terminates into staging at (Salem), there are 1 tracks 
+Train (Town Job) can terminate to staging track (Yard) 
+Staging track (Yard) is available at destination (Salem) 
+ 
+Train will depart staging (Salem1), there are 1 tracks 
+Staging track (Yard) has 0 loco(s) and 22 cars 
+Train (Town Job) can depart from staging track (Yard) 
+Done assigning locomotives from staging 
+ 
+Train (Town Job) services car types: 
+Boxcar, Flatcar, Hopper Gon, Long Gondola, Produce, Refrigerator, Tankcar, Ventilated, 
+Vinegar 
+ 
+Remove cars not serviced by this train: 
+ 
+Remove cars from the other staging tracks: 
+ 
+Departing staging (Salem1, Yard) with 22 cars 
+Staging car (WJSRR 012) type (Boxcar) load (E) 
+Staging car (WJSRR 206) type (Long Gondola) load (E) 
+Staging car (WJSRR 502) type (Ventilated) load (E) 
+Staging car (WJSRR 501) type (Ventilated) load (E) 
+Staging car (WJSRR 308) type (Hopper Gon) load (E) 
+Staging car (WJSRR 039) type (Boxcar) load (E) 
+Staging car (WJSRR 48) type (Tankcar) load (E) 
+Staging car (WJSRR 212) type (Long Gondola) load (E) 
+Staging car (WJSRR 12) type (Flatcar) load (E) 
+Staging car (WJSRR 203) type (Long Gondola) load (E) 
+Staging car (WJSRR 210) type (Long Gondola) load (E) 
+Staging car (WJSRR 46) type (Tankcar) load (E) 
+Staging car (WJSRR 307) type (Hopper Gon) load (E) 
+Staging car (WJSRR 007) type (Boxcar) load (E) 
+Staging car (WJSRR 014) type (Boxcar) load (E) 
+Staging car (WJSRR 047) type (Produce) load (E) 
+Staging car (WJSRR 306) type (Hopper Gon) load (E) 
+Staging car (WJSRR 305) type (Hopper Gon) load (E) 
+Staging car (WJSRR 45) type (Vinegar) load (E) 
+Staging car (WJSRR 301) type (Hopper Gon) load (E) 
+Staging car (WJSRR 42) type (Vinegar) load (E) 
+Staging car (WJSRR 44) type (Tankcar) load (E) 
+ 
+Found 41 cars for train (Town Job) 
+Cars available from staging (Salem1): 
+Car (WJSRR 012) type (Boxcar) at (Salem1, Yard) 79 moves 
+Car (WJSRR 206) type (Long Gondola) at (Salem1, Yard) 79 moves 
+Car (WJSRR 502) type (Ventilated) at (Salem1, Yard) 80 moves 
+Car (WJSRR 501) type (Ventilated) at (Salem1, Yard) 80 moves 
+Car (WJSRR 308) type (Hopper Gon) at (Salem1, Yard) 86 moves 
+Car (WJSRR 039) type (Boxcar) at (Salem1, Yard) 86 moves 
+Car (WJSRR 48) type (Tankcar) at (Salem1, Yard) 96 moves 
+Car (WJSRR 212) type (Long Gondola) at (Salem1, Yard) 97 moves 
+Car (WJSRR 12) type (Flatcar) at (Salem1, Yard) 97 moves 
+Car (WJSRR 203) type (Long Gondola) at (Salem1, Yard) 99 moves 
+Car (WJSRR 210) type (Long Gondola) at (Salem1, Yard) 106 moves 
+Car (WJSRR 46) type (Tankcar) at (Salem1, Yard) 108 moves 
+Car (WJSRR 307) type (Hopper Gon) at (Salem1, Yard) 108 moves 
+Car (WJSRR 007) type (Boxcar) at (Salem1, Yard) 108 moves 
+Car (WJSRR 014) type (Boxcar) at (Salem1, Yard) 115 moves 
+Car (WJSRR 047) type (Produce) at (Salem1, Yard) 117 moves 
+Car (WJSRR 306) type (Hopper Gon) at (Salem1, Yard) 119 moves 
+Car (WJSRR 305) type (Hopper Gon) at (Salem1, Yard) 119 moves 
+Car (WJSRR 45) type (Vinegar) at (Salem1, Yard) 120 moves 
+Car (WJSRR 301) type (Hopper Gon) at (Salem1, Yard) 120 moves 
+Car (WJSRR 42) type (Vinegar) at (Salem1, Yard) 122 moves 
+Car (WJSRR 44) type (Tankcar) at (Salem1, Yard) 130 moves 
+ 
+Cars at location (Salem Township): 
+Car (WJSRR 310) type (Hopper Gon) at (Salem Township, SGW 3rd Coal Gas) 51 moves 
+Car (WJSRR 213) type (Long Gondola) at (Salem Township, SGW 3rd Sand House) 57 moves 
+Car (WJSRR 018) type (Boxcar) at (Salem Township, Heinz Can House) 57 moves 
+Car (WJSRR 008) type (Boxcar) at (Salem Township, Heinz Bottling) 57 moves 
+Car (WJSRR 033) type (Boxcar) at (Salem Township, Heinz Bottling) 58 moves 
+Car (WJSRR 517) type (Refrigerator) at (Salem Township, Heinz Kitchen) 59 moves 
+Car (WJSRR 309) type (Hopper Gon) at (Salem Township, SGW 3rd Coal Gas) 59 moves 
+Car (WJSRR 553) type (Refrigerator) at (Salem Township, Heinz Kitchen) 59 moves 
+Car (WJSRR 214) type (Long Gondola) at (Salem Township, SGW 3rd Sand Storage) 61 moves 
+Car (WJSRR 010) type (Boxcar) at (Salem Township, SGW 3rd Packing) 61 moves 
+Car (WJSRR 202) type (Long Gondola) at (Salem Township, SGW 3rd Sand Storage) 61 moves 
+Car (WJSRR 001) type (Boxcar) at (Salem Township, SGW 3rd Packing) 61 moves 
+Car (WJSRR 038) type (Boxcar) at (Salem Township, Heinz Bottling) 61 moves 
+Car (WJSRR 016) type (Boxcar) at (Salem Township, SGW 3rd Ware House) 64 moves 
+Car (HJHCo 552) type (Refrigerator) at (Salem Township, Heinz Kitchen) 68 moves 
+Car (HJHCo 541) type (Refrigerator) at (Salem Township, Heinz Kitchen) 68 moves 
+Car (HJHCo 525) type (Refrigerator) at (Salem Township, Heinz Kitchen) 68 moves 
+Car (WJSRR 504) type (Refrigerator) at (Salem Township, Heinz Kitchen) 69 moves 
+Car (WJSRR 004) type (Boxcar) at (Salem Township, SGW 3rd Ware House) 71 moves 
+ 
+Cars at location (Dummy): 
+ 
+Cars available from staging (Salem): 
+ 
+Train does not require caboose when departing (Salem1) 
+Train does not require car with FRED 
+ 
+Remove cars not needed by this train: 
+ 
+Requested cars (70) for train (Town Job) the number available (41) building train! 
+ 
+Multiple pass build (Aggressive Mode), begin pass 25% pick ups 
+Departing staging in aggressive mode, find destinations from (Salem1) in next pass 
+Route location (Salem1) id (16r1) requests 0 pick ups, 50/50 moves are available 
+ 
+Success 0/0 cars at location (Salem1) assigned to train (Town Job) 
+Route location (Salem Township) id (16r5) requests 5 pick ups, 20/20 moves are available 
+ 
+Find spur for car (WJSRR 310) type (Hopper Gon) custom load (Empty) at (Salem Township, 
+SGW 3rd Coal Gas) 
+Could not find a reachable spur for car (WJSRR 310) custom load (Empty) 
+Try to send car (WJSRR 310) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 310) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 310) from spur (Salem Township, SGW 3rd Coal 
+Gas) to (Salem, ) 
+Car (WJSRR 310) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 310) using Westbound train, track (SGW 3rd Coal Gas) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 310) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 310) doesn't have an assigned destination track 
+Car (WJSRR 310) assigned to staging track (Yard) 
+Car (WJSRR 310) assigned to train, destination (Salem, Yard) 
+ 
+Can't pick up (WJSRR 213) using Eastbound train, track (SGW 3rd Sand House) 
+at location (Salem Township) does not service this train's direction 
+ 
+Find spur for car (WJSRR 018) type (Boxcar) custom load (Empty) at (Salem Township, 
+Heinz Can House) 
+Spur at (Salem Creek, Gayner Ware House) is full, no alternate track 
+Spur at (Salem Creek, Am Oilcloth Ship) is full, no alternate track 
+Spur at (Salem Creek, Gayner Ware Shed) is full, no alternate track 
+Spur at (Salem Township, Heinz Bottling) is full, no alternate track 
+Spur at (Salem Township, SGW 3rd Packing) is full, no alternate track 
+Spur at (Fenwick Creek, SGW 4th - Ware House) is full, no alternate track 
+Try destination (Salem Township, SGW 3rd Ware House) for car (WJSRR 018) with load 
+(Empty) 
+Train (Town Job) can transport car (WJSRR 018) from spur (Salem Township, Heinz Can 
+House) to (Salem Township, SGW 3rd Ware House) 
+Car (WJSRR 018) has assigned destination (Salem Township, SGW 3rd Ware House) 
+Can't set out rolling stock (WJSRR 018) using Eastbound train, 
+destination track (SGW 3rd Ware House) does not service this direction 
+Car (WJSRR 018) can't be delivered to (Salem Township) id (16r5) stop 1 
+Can't pick up (WJSRR 018) using Westbound train, track (Heinz Can House) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 018) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 018) assigned to train, destination (Salem Township, SGW 3rd Ware House) 
+ 
+Find spur for car (WJSRR 008) type (Boxcar) custom load (Merchandise) at (Salem 
+Township, Heinz Bottling) 
+Could not find a reachable spur for car (WJSRR 008) custom load (Merchandise) 
+Try to send car (WJSRR 008) custom load (Merchandise) to staging 
+Staging (Salem1, Yard) can accept car's load (Merchandise) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 008) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Merchandise) 
+Train (Town Job) can transport car (WJSRR 008) from spur (Salem Township, Heinz 
+Bottling) to (Salem, ) 
+Car (WJSRR 008) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 008) using Westbound train, track (Heinz Bottling) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 008) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 008) doesn't have an assigned destination track 
+Car (WJSRR 008) assigned to staging track (Yard) 
+Car (WJSRR 008) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 033) type (Boxcar) custom load (Merchandise) at (Salem 
+Township, Heinz Bottling) 
+Could not find a reachable spur for car (WJSRR 033) custom load (Merchandise) 
+Try to send car (WJSRR 033) custom load (Merchandise) to staging 
+Staging (Salem, Yard) can accept car's load (Merchandise) 
+Train (Town Job) can transport car (WJSRR 033) from spur (Salem Township, Heinz 
+Bottling) to (Salem, ) 
+Car (WJSRR 033) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 033) using Westbound train, track (Heinz Bottling) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 033) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 033) doesn't have an assigned destination track 
+Car (WJSRR 033) assigned to staging track (Yard) 
+Car (WJSRR 033) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 517) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (WJSRR 517) custom load (Empty) 
+Try to send car (WJSRR 517) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 517) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 517) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (WJSRR 517) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 517) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 517) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 517) doesn't have an assigned destination track 
+Car (WJSRR 517) assigned to staging track (Yard) 
+Car (WJSRR 517) assigned to train, destination (Salem, Yard) 
+ 
+Success 5/5 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Dummy) id (16r12) is skipped by train (Town Job) 
+Route location (Salem Township) id (16r6) requests 5 pick ups, 19/20 moves are available 
+ 
+Find spur for car (WJSRR 213) type (Long Gondola) custom load (Empty) at (Salem 
+Township, SGW 3rd Sand House) 
+Spur at (Salem Creek, S&PSNCo) is full, no alternate track 
+Could not find a reachable spur for car (WJSRR 213) custom load (Empty) 
+Try to send car (WJSRR 213) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 213) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 213) from spur (Salem Township, SGW 3rd Sand 
+House) to (Salem, ) 
+Car (WJSRR 213) has assigned destination (Salem, ) 
+Car (WJSRR 213) doesn't have an assigned destination track 
+Car (WJSRR 213) assigned to staging track (Yard) 
+Car (WJSRR 213) assigned to train, destination (Salem, Yard) 
+ 
+Can't pick up (WJSRR 309) using Westbound train, track (SGW 3rd Coal Gas) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (WJSRR 553) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (WJSRR 214) using Westbound train, track (SGW 3rd Sand Storage) 
+at location (Salem Township) does not service this train's direction 
+ 
+Find spur for car (WJSRR 010) type (Boxcar) custom load (Glassware) at (Salem Township, 
+SGW 3rd Packing) 
+Could not find a reachable spur for car (WJSRR 010) custom load (Glassware) 
+Try to send car (WJSRR 010) custom load (Glassware) to staging 
+Staging (Salem1, Yard) can accept car's load (Glassware) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 010) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Glassware) 
+Train (Town Job) can transport car (WJSRR 010) from spur (Salem Township, SGW 3rd 
+Packing) to (Salem, ) 
+Car (WJSRR 010) has assigned destination (Salem, ) 
+Car (WJSRR 010) doesn't have an assigned destination track 
+Car (WJSRR 010) assigned to staging track (Yard) 
+Car (WJSRR 010) assigned to train, destination (Salem, Yard) 
+ 
+Can't pick up (WJSRR 202) using Westbound train, track (SGW 3rd Sand Storage) 
+at location (Salem Township) does not service this train's direction 
+ 
+Find spur for car (WJSRR 001) type (Boxcar) custom load (Glassware) at (Salem Township, 
+SGW 3rd Packing) 
+Could not find a reachable spur for car (WJSRR 001) custom load (Glassware) 
+Try to send car (WJSRR 001) custom load (Glassware) to staging 
+Staging (Salem1, Yard) can accept car's load (Glassware) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 001) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Glassware) 
+Train (Town Job) can transport car (WJSRR 001) from spur (Salem Township, SGW 3rd 
+Packing) to (Salem, ) 
+Car (WJSRR 001) has assigned destination (Salem, ) 
+Car (WJSRR 001) doesn't have an assigned destination track 
+Car (WJSRR 001) assigned to staging track (Yard) 
+Car (WJSRR 001) assigned to train, destination (Salem, Yard) 
+ 
+Can't pick up (WJSRR 038) using Westbound train, track (Heinz Bottling) 
+at location (Salem Township) does not service this train's direction 
+ 
+Find spur for car (WJSRR 016) type (Boxcar) custom load (Glassware) at (Salem Township, 
+SGW 3rd Ware House) 
+Could not find a reachable spur for car (WJSRR 016) custom load (Glassware) 
+Try to send car (WJSRR 016) custom load (Glassware) to staging 
+Staging (Salem1, Yard) can accept car's load (Glassware) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 016) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Glassware) 
+Train (Town Job) can transport car (WJSRR 016) from spur (Salem Township, SGW 3rd Ware 
+House) to (Salem, ) 
+Car (WJSRR 016) has assigned destination (Salem, ) 
+Car (WJSRR 016) doesn't have an assigned destination track 
+Car (WJSRR 016) assigned to staging track (Yard) 
+Car (WJSRR 016) assigned to train, destination (Salem, Yard) 
+ 
+Can't pick up (HJHCo 552) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (HJHCo 541) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (HJHCo 525) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (WJSRR 504) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Find spur for car (WJSRR 004) type (Boxcar) custom load (Glassware) at (Salem Township, 
+SGW 3rd Ware House) 
+Could not find a reachable spur for car (WJSRR 004) custom load (Glassware) 
+Try to send car (WJSRR 004) custom load (Glassware) to staging 
+Staging (Salem1, Yard) can accept car's load (Glassware) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 004) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Glassware) 
+Train (Town Job) can transport car (WJSRR 004) from spur (Salem Township, SGW 3rd Ware 
+House) to (Salem, ) 
+Car (WJSRR 004) has assigned destination (Salem, ) 
+Car (WJSRR 004) doesn't have an assigned destination track 
+Car (WJSRR 004) assigned to staging track (Yard) 
+Car (WJSRR 004) assigned to train, destination (Salem, Yard) 
+ 
+Success 5/5 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Salem) id (16r11) no pick ups 
+ 
+Multiple pass build (Aggressive Mode), begin pass 50% pick ups 
+Route location (Salem1) id (16r1) requests 25 pick ups, 50/50 moves are available 
+ 
+Staging track (Yard) has the following options selected: 
+Generate custom loads for any spur (multiple trains) 
+Generate custom loads for any staging track 
+ 
+Generate load for (WJSRR 012) type (Boxcar) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 012) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 012) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 012) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Spur (Salem Creek, Am Oilcloth Ship) schedule (Oilcloth Ship) id (5c2) load (Empty) 
+random value 50 is less than generated 96.266, skipping this line item 
+Spur (Salem Township, Heinz Can House) schedule (Heinz Nº 12 - Cans) id (23c1) load 
+(Goods) random value 50 is less than generated 87.169, skipping this line item 
+Try spur (Salem Creek, F.H.Lloyd Flour Mill) custom load (Flour) 
+Train (Town Job) can't transport car (WJSRR 012) out of staging (Salem1) directly to 
+(Salem Creek, F.H.Lloyd Flour Mill) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 012) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 012) with load (Flour) to (Salem Creek, F.H.Lloyd Flour Mill) 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 012) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 012) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 012) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Spur (Salem Township, Heinz Bottling) schedule (Heinz Nº 12 - Shipping) id (24c1) load 
+(Empty) random value 50 is less than generated 93.571, skipping this line item 
+Try spur (Salem Township, SGW 3rd Packing) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 012) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Packing) 
+Car (WJSRR 012) custom load (Empty) final destination (Salem Township, SGW 3rd Packing) 
+Car (WJSRR 012) has assigned destination (Salem Township, SGW 3rd Packing) 
+Can't set out rolling stock (WJSRR 012) using Eastbound train, 
+destination track (SGW 3rd Packing) does not service this direction 
+Car (WJSRR 012) can't be delivered to (Salem Township) id (16r5) stop 1 
+Car (WJSRR 012) assigned to train, destination (Salem Township, SGW 3rd Packing) 
+ 
+Generate load for (WJSRR 206) type (Long Gondola) load (E) at (Salem1, Yard) 
+Spur (Salem Creek, Gayner Box Shop) schedule (Lumber) id (8c2) load (Lumber) random 
+value 50 is less than generated 69.807, skipping this line item 
+Try spur (Salem Township, SGW 3rd Sand House) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 206) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand House) 
+Car (WJSRR 206) custom load (Sand) final destination (Salem Township, SGW 3rd Sand 
+House) 
+Car (WJSRR 206) has assigned destination (Salem Township, SGW 3rd Sand House) 
+Can't set out rolling stock (WJSRR 206) using Eastbound train, 
+destination track (SGW 3rd Sand House) does not service this direction 
+Car (WJSRR 206) can't be delivered to (Salem Township) id (16r5) stop 1 
+Car (WJSRR 206) assigned to train, destination (Salem Township, SGW 3rd Sand House) 
+ 
+Generate load for (WJSRR 502) type (Ventilated) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 502) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 502) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 502) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 502) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 502) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 502) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Try spur (Salem Township, Heinz Bottling) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 502) from staging (Salem1, Yard) to (Salem 
+Township, Heinz Bottling) 
+Car (WJSRR 502) custom load (Empty) final destination (Salem Township, Heinz Bottling) 
+Car (WJSRR 502) has assigned destination (Salem Township, Heinz Bottling) 
+Car (WJSRR 502) assigned to train, destination (Salem Township, Heinz Bottling) 
+ 
+Generate load for (WJSRR 501) type (Ventilated) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 501) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 501) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 501) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 501) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 501) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 501) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Try spur (Salem Township, Heinz Bottling) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 501) from staging (Salem1, Yard) to (Salem 
+Township, Heinz Bottling) 
+Car (WJSRR 501) custom load (Empty) final destination (Salem Township, Heinz Bottling) 
+Car (WJSRR 501) has assigned destination (Salem Township, Heinz Bottling) 
+Car (WJSRR 501) assigned to train, destination (Salem Township, Heinz Bottling) 
+ 
+Generate load for (WJSRR 308) type (Hopper Gon) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Coal Bin) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 308) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Coal Bin) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 308) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 308) with load (Coal) to (Salem Creek, Gayner Coal Bin) 
+Try spur (Salem Township, SGW 3rd Coal Gas) custom load (Coal) 
+Train (Town Job) can transport car (WJSRR 308) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Coal Gas) 
+Car (WJSRR 308) custom load (Coal) final destination (Salem Township, SGW 3rd Coal Gas) 
+Car (WJSRR 308) has assigned destination (Salem Township, SGW 3rd Coal Gas) 
+Car (WJSRR 308) assigned to train, destination (Salem Township, SGW 3rd Coal Gas) 
+ 
+Generate load for (WJSRR 039) type (Boxcar) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 039) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 039) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 039) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Spur (Salem Creek, Am Oilcloth Ship) schedule (Oilcloth Ship) id (5c2) load (Empty) 
+random value 50 is less than generated 78.665, skipping this line item 
+Spur (Salem Township, Heinz Can House) schedule (Heinz Nº 12 - Cans) id (23c1) load 
+(Goods) random value 50 is less than generated 64.744, skipping this line item 
+Spur (Salem Creek, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load (Flour) 
+random value 50 is less than generated 52.759, skipping this line item 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 039) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 039) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 039) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Spur (Salem Township, Heinz Bottling) schedule (Heinz Nº 12 - Shipping) id (24c1) load 
+(Empty) random value 50 is less than generated 66.946, skipping this line item 
+Try spur (Salem Township, SGW 3rd Packing) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 039) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Packing) 
+Car (WJSRR 039) custom load (Empty) final destination (Salem Township, SGW 3rd Packing) 
+Car (WJSRR 039) has assigned destination (Salem Township, SGW 3rd Packing) 
+Can't set out rolling stock (WJSRR 039) using Eastbound train, 
+destination track (SGW 3rd Packing) does not service this direction 
+Car (WJSRR 039) can't be delivered to (Salem Township) id (16r5) stop 1 
+Car (WJSRR 039) assigned to train, destination (Salem Township, SGW 3rd Packing) 
+ 
+Generate load for (WJSRR 48) type (Tankcar) load (E) at (Salem1, Yard) 
+Spur (Salem Creek, Am Oilcloth Chem) schedule (Oilcloth Chemical) id (21c1) load 
+(Chemicals) random value 50 is less than generated 79.668, skipping this line item 
+Try spur (Fenwick Creek, Fenwick Oil Co) custom load (Oil) 
+Train (Town Job) can't transport car (WJSRR 48) out of staging (Salem1) directly to 
+(Fenwick Creek, Fenwick Oil Co) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 48) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 48) with load (Oil) to (Fenwick Creek, Fenwick Oil Co) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 48) 
+Try to send car (WJSRR 48) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 48) type (Tankcar) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 48) at (Salem1, Yard) load (Oil) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 48) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 48) at (Salem1, Yard) load (Empty) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 48) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 48) at (Salem1, Yard) load (Chemicals) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 48) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Chemicals) to car (WJSRR 48) 
+Car (WJSRR 48) type (Tankcar) load (Chemicals) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 48) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 48) has assigned destination (Salem, Yard) 
+Car (WJSRR 48) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 212) type (Long Gondola) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Box Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 212) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Box Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 212) with load (Lumber) to (Salem Creek, Gayner Box Shop) 
+Try spur (Salem Township, SGW 3rd Sand House) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand House) 
+Can't use spur (Salem Township, SGW 3rd Sand House) for (WJSRR 212) due to rolling 
+stock length 38 feet, available track space 7 feet 
+Track (SGW 3rd Sand House) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 212) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 212) with load (Sand) to (Salem Township, SGW 3rd Sand House) 
+Try spur (Salem Township, SGW 3rd Sand Storage) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand Storage) 
+Can't use spur (Salem Township, SGW 3rd Sand Storage) for (WJSRR 212) due to rolling 
+stock length 38 feet, available track space 10 feet 
+Track (SGW 3rd Sand Storage) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 212) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 212) with load (Sand) to (Salem Township, SGW 3rd Sand Storage) 
+Try spur (Salem Creek, W.H. Harris Boat Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 212) out of staging (Salem1) directly to 
+(Salem Creek, W.H. Harris Boat Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 212) with load (Lumber) to (Salem Creek, W.H. Harris Boat Shop) 
+Try spur (Fenwick Creek, SGW 4th - Sand Stg) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 212) out of staging (Salem1) directly to 
+(Fenwick Creek, SGW 4th - Sand Stg) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 212) with load (Sand) to (Fenwick Creek, SGW 4th - Sand Stg) 
+Try spur (Salem Creek, Gayner Sand House) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 212) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Sand House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 212) with load (Sand) to (Salem Creek, Gayner Sand House) 
+Try spur (Salem Creek, S&PSNCo) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 212) out of staging (Salem1) directly to 
+(Salem Creek, S&PSNCo) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 212) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 212) with load (Empty) to (Salem Creek, S&PSNCo) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 212) 
+Try to send car (WJSRR 212) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 212) type (Long Gondola) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 212) at (Salem1, Yard) load (Sand) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 212) at (Salem1, Yard) load (Manifest) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 212) at (Salem1, Yard) load (Lumber) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 212) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 212) at (Salem1, Yard) load (Breakbulk) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 212) 
+Car (WJSRR 212) type (Long Gondola) load (Empty) at (Salem1, Yard) has final 
+destination (Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 212) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 212) has assigned destination (Salem, Yard) 
+Car (WJSRR 212) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 12) type (Flatcar) load (E) at (Salem1, Yard) 
+Spur (Salem Creek, Gayner Box Shop) schedule (Lumber) id (8c1) load (Lumber) random 
+value 50 is less than generated 52.96, skipping this line item 
+Try spur (Salem Creek, W.H. Harris Boat Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 12) out of staging (Salem1) directly to 
+(Salem Creek, W.H. Harris Boat Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 12) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 12) with load (Lumber) to (Salem Creek, W.H. Harris Boat Shop) 
+Try spur (Salem Creek, S&PSNCo) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 12) out of staging (Salem1) directly to 
+(Salem Creek, S&PSNCo) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 12) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 12) with load (Empty) to (Salem Creek, S&PSNCo) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 12) 
+Try to send car (WJSRR 12) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 12) type (Flatcar) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 12) at (Salem1, Yard) load (Manifest) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 12) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 12) at (Salem1, Yard) load (Lumber) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 12) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 12) at (Salem1, Yard) load (Empty) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 12) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Manifest) to car (WJSRR 12) 
+Car (WJSRR 12) type (Flatcar) load (Manifest) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 12) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 12) has assigned destination (Salem, Yard) 
+Car (WJSRR 12) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 203) type (Long Gondola) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Box Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 203) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Box Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 203) with load (Lumber) to (Salem Creek, Gayner Box Shop) 
+Try spur (Salem Township, SGW 3rd Sand House) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand House) 
+Can't use spur (Salem Township, SGW 3rd Sand House) for (WJSRR 203) due to rolling 
+stock length 38 feet, available track space 7 feet 
+Track (SGW 3rd Sand House) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 203) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 203) with load (Sand) to (Salem Township, SGW 3rd Sand House) 
+Try spur (Salem Township, SGW 3rd Sand Storage) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand Storage) 
+Can't use spur (Salem Township, SGW 3rd Sand Storage) for (WJSRR 203) due to rolling 
+stock length 38 feet, available track space 10 feet 
+Track (SGW 3rd Sand Storage) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 203) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 203) with load (Sand) to (Salem Township, SGW 3rd Sand Storage) 
+Try spur (Salem Creek, W.H. Harris Boat Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 203) out of staging (Salem1) directly to 
+(Salem Creek, W.H. Harris Boat Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 203) with load (Lumber) to (Salem Creek, W.H. Harris Boat Shop) 
+Try spur (Fenwick Creek, SGW 4th - Sand Stg) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 203) out of staging (Salem1) directly to 
+(Fenwick Creek, SGW 4th - Sand Stg) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 203) with load (Sand) to (Fenwick Creek, SGW 4th - Sand Stg) 
+Try spur (Salem Creek, Gayner Sand House) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 203) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Sand House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 203) with load (Sand) to (Salem Creek, Gayner Sand House) 
+Try spur (Salem Creek, S&PSNCo) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 203) out of staging (Salem1) directly to 
+(Salem Creek, S&PSNCo) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 203) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 203) with load (Empty) to (Salem Creek, S&PSNCo) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 203) 
+Try to send car (WJSRR 203) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 203) type (Long Gondola) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 203) at (Salem1, Yard) load (Sand) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 203) at (Salem1, Yard) load (Manifest) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 203) at (Salem1, Yard) load (Lumber) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 203) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 203) at (Salem1, Yard) load (Breakbulk) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Lumber) to car (WJSRR 203) 
+Car (WJSRR 203) type (Long Gondola) load (Lumber) at (Salem1, Yard) has final 
+destination (Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 203) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 203) has assigned destination (Salem, Yard) 
+Car (WJSRR 203) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 210) type (Long Gondola) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Box Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 210) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Box Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 210) with load (Lumber) to (Salem Creek, Gayner Box Shop) 
+Try spur (Salem Township, SGW 3rd Sand House) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand House) 
+Can't use spur (Salem Township, SGW 3rd Sand House) for (WJSRR 210) due to rolling 
+stock length 40 feet, available track space 7 feet 
+Track (SGW 3rd Sand House) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 210) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 210) with load (Sand) to (Salem Township, SGW 3rd Sand House) 
+Try spur (Salem Township, SGW 3rd Sand Storage) custom load (Sand) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Sand Storage) 
+Can't use spur (Salem Township, SGW 3rd Sand Storage) for (WJSRR 210) due to rolling 
+stock length 40 feet, available track space 10 feet 
+Track (SGW 3rd Sand Storage) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 210) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 210) with load (Sand) to (Salem Township, SGW 3rd Sand Storage) 
+Try spur (Salem Creek, W.H. Harris Boat Shop) custom load (Lumber) 
+Train (Town Job) can't transport car (WJSRR 210) out of staging (Salem1) directly to 
+(Salem Creek, W.H. Harris Boat Shop) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 210) with load (Lumber) to (Salem Creek, W.H. Harris Boat Shop) 
+Try spur (Fenwick Creek, SGW 4th - Sand Stg) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 210) out of staging (Salem1) directly to 
+(Fenwick Creek, SGW 4th - Sand Stg) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 210) with load (Sand) to (Fenwick Creek, SGW 4th - Sand Stg) 
+Try spur (Salem Creek, Gayner Sand House) custom load (Sand) 
+Train (Town Job) can't transport car (WJSRR 210) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Sand House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 210) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 210) with load (Sand) to (Salem Creek, Gayner Sand House) 
+Spur (Salem Creek, S&PSNCo) schedule (S&PSNCo) id (15c4) load (Empty) random value 50 
+is less than generated 96.604, skipping this line item 
+Could not find a route to a spur that needs a custom load for car (WJSRR 210) 
+Try to send car (WJSRR 210) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 210) type (Long Gondola) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 210) at (Salem1, Yard) load (Sand) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 210) at (Salem1, Yard) load (Manifest) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 210) at (Salem1, Yard) load (Lumber) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 210) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 210) at (Salem1, Yard) load (Breakbulk) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 210) 
+Car (WJSRR 210) type (Long Gondola) load (Empty) at (Salem1, Yard) has final 
+destination (Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 210) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 210) has assigned destination (Salem, Yard) 
+Car (WJSRR 210) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 46) type (Tankcar) load (E) at (Salem1, Yard) 
+Spur (Salem Creek, Am Oilcloth Chem) schedule (Oilcloth Chemical) id (21c1) load 
+(Chemicals) random value 50 is less than generated 51.152, skipping this line item 
+Try spur (Fenwick Creek, Fenwick Oil Co) custom load (Oil) 
+Train (Town Job) can't transport car (WJSRR 46) out of staging (Salem1) directly to 
+(Fenwick Creek, Fenwick Oil Co) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 46) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 46) with load (Oil) to (Fenwick Creek, Fenwick Oil Co) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 46) 
+Try to send car (WJSRR 46) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 46) type (Tankcar) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 46) at (Salem1, Yard) load (Oil) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 46) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 46) at (Salem1, Yard) load (Empty) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 46) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 46) at (Salem1, Yard) load (Chemicals) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 46) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Chemicals) to car (WJSRR 46) 
+Car (WJSRR 46) type (Tankcar) load (Chemicals) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 46) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 46) has assigned destination (Salem, Yard) 
+Car (WJSRR 46) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 307) type (Hopper Gon) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Coal Bin) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 307) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Coal Bin) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 307) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 307) with load (Coal) to (Salem Creek, Gayner Coal Bin) 
+Try spur (Salem Township, SGW 3rd Coal Gas) custom load (Coal) 
+Train (Town Job) can transport car (WJSRR 307) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Coal Gas) 
+Can't use spur (Salem Township, SGW 3rd Coal Gas) for (WJSRR 307) due to rolling stock 
+length 36 feet, available track space 18 feet 
+Track (SGW 3rd Coal Gas) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 307) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 307) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 307) with load (Coal) to (Salem Township, SGW 3rd Coal Gas) 
+Try spur (Fenwick Creek, SGLCo - Coal Gas) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 307) out of staging (Salem1) directly to 
+(Fenwick Creek, SGLCo - Coal Gas) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 307) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 307) with load (Coal) to (Fenwick Creek, SGLCo - Coal Gas) 
+Try spur (Fenwick Creek, E Co of NJ) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 307) out of staging (Salem1) directly to 
+(Fenwick Creek, E Co of NJ) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 307) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 307) with load (Coal) to (Fenwick Creek, E Co of NJ) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 307) 
+Try to send car (WJSRR 307) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 307) type (Hopper Gon) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 307) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 307) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 307) at (Salem1, Yard) load (Coal) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 307) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 307) 
+Car (WJSRR 307) type (Hopper Gon) load (Empty) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 307) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 307) has assigned destination (Salem, Yard) 
+Car (WJSRR 307) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 007) type (Boxcar) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 007) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 007) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 007) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Spur (Salem Creek, Am Oilcloth Ship) schedule (Oilcloth Ship) id (5c2) load (Empty) 
+random value 50 is less than generated 93.297, skipping this line item 
+Spur (Salem Township, Heinz Can House) schedule (Heinz Nº 12 - Cans) id (23c1) load 
+(Goods) random value 50 is less than generated 62.761, skipping this line item 
+Try spur (Salem Creek, F.H.Lloyd Flour Mill) custom load (Flour) 
+Train (Town Job) can't transport car (WJSRR 007) out of staging (Salem1) directly to 
+(Salem Creek, F.H.Lloyd Flour Mill) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 007) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 007) with load (Flour) to (Salem Creek, F.H.Lloyd Flour Mill) 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 007) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 007) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 007) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Spur (Salem Township, Heinz Bottling) schedule (Heinz Nº 12 - Shipping) id (24c1) load 
+(Empty) random value 50 is less than generated 77.075, skipping this line item 
+Try spur (Salem Township, SGW 3rd Packing) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 007) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Packing) 
+Can't use spur (Salem Township, SGW 3rd Packing) for (WJSRR 007) due to rolling stock 
+length 40 feet, available track space 10 feet 
+Track (SGW 3rd Packing) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 007) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 007) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 007) with load (Empty) to (Salem Township, SGW 3rd Packing) 
+Try spur (Fenwick Creek, SGW 4th - Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 007) out of staging (Salem1) directly to 
+(Fenwick Creek, SGW 4th - Ware House) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 007) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 007) with load (Empty) to (Fenwick Creek, SGW 4th - Ware House) 
+Try spur (Salem Township, SGW 3rd Ware House) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 007) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Ware House) 
+Car (WJSRR 007) custom load (Empty) final destination (Salem Township, SGW 3rd Ware 
+House) 
+Car (WJSRR 007) has assigned destination (Salem Township, SGW 3rd Ware House) 
+Can't set out rolling stock (WJSRR 007) using Eastbound train, 
+destination track (SGW 3rd Ware House) does not service this direction 
+Car (WJSRR 007) can't be delivered to (Salem Township) id (16r5) stop 1 
+Car (WJSRR 007) assigned to train, destination (Salem Township, SGW 3rd Ware House) 
+ 
+Generate load for (WJSRR 014) type (Boxcar) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 014) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware House) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 014) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 014) with load (Empty) to (Salem Creek, Gayner Ware House) 
+Try spur (Salem Creek, Am Oilcloth Ship) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 014) out of staging (Salem1) directly to 
+(Salem Creek, Am Oilcloth Ship) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 014) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 014) with load (Empty) to (Salem Creek, Am Oilcloth Ship) 
+Spur (Salem Township, Heinz Can House) schedule (Heinz Nº 12 - Cans) id (23c1) load 
+(Goods) random value 50 is less than generated 93.318, skipping this line item 
+Spur (Salem Creek, F.H.Lloyd Flour Mill) schedule (FH Lloyd) id (9c1) load (Flour) 
+random value 50 is less than generated 75.824, skipping this line item 
+Try spur (Salem Creek, Gayner Ware Shed) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 014) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Ware Shed) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 014) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 014) with load (Empty) to (Salem Creek, Gayner Ware Shed) 
+Spur (Salem Township, Heinz Bottling) schedule (Heinz Nº 12 - Shipping) id (24c1) load 
+(Empty) random value 50 is less than generated 55.133, skipping this line item 
+Try spur (Salem Township, SGW 3rd Packing) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 014) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Packing) 
+Can't use spur (Salem Township, SGW 3rd Packing) for (WJSRR 014) due to rolling stock 
+length 40 feet, available track space 10 feet 
+Track (SGW 3rd Packing) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 014) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 014) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 014) with load (Empty) to (Salem Township, SGW 3rd Packing) 
+Try spur (Fenwick Creek, SGW 4th - Ware House) custom load (Empty) 
+Train (Town Job) can't transport car (WJSRR 014) out of staging (Salem1) directly to 
+(Fenwick Creek, SGW 4th - Ware House) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 014) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 014) with load (Empty) to (Fenwick Creek, SGW 4th - Ware House) 
+Try spur (Salem Township, SGW 3rd Ware House) custom load (Empty) 
+Train (Town Job) can transport car (WJSRR 014) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Ware House) 
+Car (WJSRR 014) custom load (Empty) final destination (Salem Township, SGW 3rd Ware 
+House) 
+Car (WJSRR 014) has assigned destination (Salem Township, SGW 3rd Ware House) 
+Can't set out rolling stock (WJSRR 014) using Eastbound train, 
+destination track (SGW 3rd Ware House) does not service this direction 
+Car (WJSRR 014) can't be delivered to (Salem Township) id (16r5) stop 1 
+Car (WJSRR 014) assigned to train, destination (Salem Township, SGW 3rd Ware House) 
+ 
+Generate load for (WJSRR 047) type (Produce) load (E) at (Salem1, Yard) 
+Try spur (Salem Township, Heinz Kitchen) custom load (Produce) 
+Train (Town Job) can transport car (WJSRR 047) from staging (Salem1, Yard) to (Salem 
+Township, Heinz Kitchen) 
+Car (WJSRR 047) custom load (Produce) final destination (Salem Township, Heinz Kitchen) 
+Car (WJSRR 047) has assigned destination (Salem Township, Heinz Kitchen) 
+Car (WJSRR 047) assigned to train, destination (Salem Township, Heinz Kitchen) 
+ 
+Generate load for (WJSRR 306) type (Hopper Gon) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Coal Bin) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 306) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Coal Bin) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 306) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 306) with load (Coal) to (Salem Creek, Gayner Coal Bin) 
+Try spur (Salem Township, SGW 3rd Coal Gas) custom load (Coal) 
+Train (Town Job) can transport car (WJSRR 306) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Coal Gas) 
+Can't use spur (Salem Township, SGW 3rd Coal Gas) for (WJSRR 306) due to rolling stock 
+length 36 feet, available track space 18 feet 
+Track (SGW 3rd Coal Gas) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 306) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 306) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 306) with load (Coal) to (Salem Township, SGW 3rd Coal Gas) 
+Try spur (Fenwick Creek, SGLCo - Coal Gas) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 306) out of staging (Salem1) directly to 
+(Fenwick Creek, SGLCo - Coal Gas) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 306) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 306) with load (Coal) to (Fenwick Creek, SGLCo - Coal Gas) 
+Try spur (Fenwick Creek, E Co of NJ) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 306) out of staging (Salem1) directly to 
+(Fenwick Creek, E Co of NJ) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 306) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 306) with load (Coal) to (Fenwick Creek, E Co of NJ) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 306) 
+Try to send car (WJSRR 306) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 306) type (Hopper Gon) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 306) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 306) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 306) at (Salem1, Yard) load (Coal) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 306) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 306) 
+Car (WJSRR 306) type (Hopper Gon) load (Empty) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 306) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 306) has assigned destination (Salem, Yard) 
+Car (WJSRR 306) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 305) type (Hopper Gon) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Coal Bin) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 305) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Coal Bin) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 305) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 305) with load (Coal) to (Salem Creek, Gayner Coal Bin) 
+Try spur (Salem Township, SGW 3rd Coal Gas) custom load (Coal) 
+Train (Town Job) can transport car (WJSRR 305) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Coal Gas) 
+Can't use spur (Salem Township, SGW 3rd Coal Gas) for (WJSRR 305) due to rolling stock 
+length 36 feet, available track space 18 feet 
+Track (SGW 3rd Coal Gas) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 305) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 305) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 305) with load (Coal) to (Salem Township, SGW 3rd Coal Gas) 
+Try spur (Fenwick Creek, SGLCo - Coal Gas) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 305) out of staging (Salem1) directly to 
+(Fenwick Creek, SGLCo - Coal Gas) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 305) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 305) with load (Coal) to (Fenwick Creek, SGLCo - Coal Gas) 
+Try spur (Fenwick Creek, E Co of NJ) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 305) out of staging (Salem1) directly to 
+(Fenwick Creek, E Co of NJ) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 305) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 305) with load (Coal) to (Fenwick Creek, E Co of NJ) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 305) 
+Try to send car (WJSRR 305) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 305) type (Hopper Gon) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 305) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 305) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 305) at (Salem1, Yard) load (Coal) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 305) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 305) 
+Car (WJSRR 305) type (Hopper Gon) load (Empty) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 305) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 305) has assigned destination (Salem, Yard) 
+Car (WJSRR 305) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 45) type (Vinegar) load (E) at (Salem1, Yard) 
+Try spur (Salem Township, Heinz Vinegar) custom load (Vinegar) 
+Train (Town Job) can transport car (WJSRR 45) from staging (Salem1, Yard) to (Salem 
+Township, Heinz Vinegar) 
+Car (WJSRR 45) custom load (Vinegar) final destination (Salem Township, Heinz Vinegar) 
+Car (WJSRR 45) has assigned destination (Salem Township, Heinz Vinegar) 
+Car (WJSRR 45) assigned to train, destination (Salem Township, Heinz Vinegar) 
+ 
+Generate load for (WJSRR 301) type (Hopper Gon) load (E) at (Salem1, Yard) 
+Try spur (Salem Creek, Gayner Coal Bin) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 301) out of staging (Salem1) directly to 
+(Salem Creek, Gayner Coal Bin) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Creek) 
+Try to find a route for car (WJSRR 301) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Creek) 
+Can't route car (WJSRR 301) with load (Coal) to (Salem Creek, Gayner Coal Bin) 
+Try spur (Salem Township, SGW 3rd Coal Gas) custom load (Coal) 
+Train (Town Job) can transport car (WJSRR 301) from staging (Salem1, Yard) to (Salem 
+Township, SGW 3rd Coal Gas) 
+Can't use spur (Salem Township, SGW 3rd Coal Gas) for (WJSRR 301) due to rolling stock 
+length 38 feet, available track space 18 feet 
+Track (SGW 3rd Coal Gas) full, searching for a yard at destination (Salem Township) 
+Could not find a yard at (Salem Township) for car (WJSRR 301) 
+Could not find an interim C/I or yard track that can service car to destination (Salem 
+Township) 
+Try to find a route for car (WJSRR 301) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem Township) 
+Can't route car (WJSRR 301) with load (Coal) to (Salem Township, SGW 3rd Coal Gas) 
+Try spur (Fenwick Creek, SGLCo - Coal Gas) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 301) out of staging (Salem1) directly to 
+(Fenwick Creek, SGLCo - Coal Gas) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 301) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 301) with load (Coal) to (Fenwick Creek, SGLCo - Coal Gas) 
+Try spur (Fenwick Creek, E Co of NJ) custom load (Coal) 
+Train (Town Job) can't transport car (WJSRR 301) out of staging (Salem1) directly to 
+(Fenwick Creek, E Co of NJ) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 301) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 301) with load (Coal) to (Fenwick Creek, E Co of NJ) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 301) 
+Try to send car (WJSRR 301) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 301) type (Hopper Gon) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 301) at (Salem1, Yard) load (Empty) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 301) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 301) at (Salem1, Yard) load (Coal) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 301) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Coal) to car (WJSRR 301) 
+Car (WJSRR 301) type (Hopper Gon) load (Coal) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 301) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 301) has assigned destination (Salem, Yard) 
+Car (WJSRR 301) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 42) type (Vinegar) load (E) at (Salem1, Yard) 
+Spur (Salem Township, Heinz Vinegar) schedule (Heinz Nº 12 - Vinegar) id (25c3) load 
+(Vinegar) random value 50 is less than generated 84.037, skipping this line item 
+Could not find a route to a spur that needs a custom load for car (WJSRR 42) 
+Try to send car (WJSRR 42) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 42) type (Vinegar) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 42) at (Salem1, Yard) load (Vinegar) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 42) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 42) at (Salem1, Yard) load (Empty) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 42) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Vinegar) to car (WJSRR 42) 
+Car (WJSRR 42) type (Vinegar) load (Vinegar) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 42) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 42) has assigned destination (Salem, Yard) 
+Car (WJSRR 42) assigned to train, destination (Salem, Yard) 
+ 
+Generate load for (WJSRR 44) type (Tankcar) load (E) at (Salem1, Yard) 
+Spur (Salem Creek, Am Oilcloth Chem) schedule (Oilcloth Chemical) id (21c1) load 
+(Chemicals) random value 50 is less than generated 86.33, skipping this line item 
+Try spur (Fenwick Creek, Fenwick Oil Co) custom load (Oil) 
+Train (Town Job) can't transport car (WJSRR 44) out of staging (Salem1) directly to 
+(Fenwick Creek, Fenwick Oil Co) 
+Could not find an interim C/I or yard track that can service car to destination 
+(Fenwick Creek) 
+Try to find a route for car (WJSRR 44) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Fenwick Creek) 
+Can't route car (WJSRR 44) with load (Oil) to (Fenwick Creek, Fenwick Oil Co) 
+Could not find a route to a spur that needs a custom load for car (WJSRR 44) 
+Try to send car (WJSRR 44) to staging, found 2 tracks 
+Ignoring terminal staging tracks (Salem) on first pass 
+Generate load for (WJSRR 44) type (Tankcar) load (E) at (Salem1, Yard) to staging 
+(Salem, Yard) 
+Check route for car (WJSRR 44) at (Salem1, Yard) load (Oil) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 44) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 44) at (Salem1, Yard) load (Empty) final destination (Salem, 
+Yard) 
+Train (Town Job) can transport car (WJSRR 44) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Check route for car (WJSRR 44) at (Salem1, Yard) load (Chemicals) final destination 
+(Salem, Yard) 
+Train (Town Job) can transport car (WJSRR 44) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Adding custom load (Empty) to car (WJSRR 44) 
+Car (WJSRR 44) type (Tankcar) load (Empty) at (Salem1, Yard) has final destination 
+(Salem, Yard) routing begins 
+Train (Town Job) can transport car (WJSRR 44) from staging (Salem1, Yard) to (Salem, 
+Yard) 
+Car (WJSRR 44) has assigned destination (Salem, Yard) 
+Car (WJSRR 44) assigned to train, destination (Salem, Yard) 
+ 
+Partial 22/25 cars at location (Salem1) assigned to train (Town Job) 
+Route location (Salem Township) id (16r5) requests 5 pick ups, 10/20 moves are available 
+ 
+Find spur for car (WJSRR 309) type (Hopper Gon) custom load (Empty) at (Salem Township, 
+SGW 3rd Coal Gas) 
+Could not find a reachable spur for car (WJSRR 309) custom load (Empty) 
+Try to send car (WJSRR 309) custom load (Empty) to staging 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 309) from spur (Salem Township, SGW 3rd Coal 
+Gas) to (Salem, ) 
+Car (WJSRR 309) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 309) using Westbound train, track (SGW 3rd Coal Gas) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 309) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 309) doesn't have an assigned destination track 
+Car (WJSRR 309) assigned to staging track (Yard) 
+Car (WJSRR 309) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 553) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (WJSRR 553) custom load (Empty) 
+Try to send car (WJSRR 553) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 553) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 553) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (WJSRR 553) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 553) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 553) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 553) doesn't have an assigned destination track 
+Car (WJSRR 553) assigned to staging track (Yard) 
+Car (WJSRR 553) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 214) type (Long Gondola) custom load (Empty) at (Salem 
+Township, SGW 3rd Sand Storage) 
+Spur at (Salem Creek, S&PSNCo) is full, no alternate track 
+Could not find a reachable spur for car (WJSRR 214) custom load (Empty) 
+Try to send car (WJSRR 214) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 214) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 214) from spur (Salem Township, SGW 3rd Sand 
+Storage) to (Salem, ) 
+Car (WJSRR 214) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 214) using Westbound train, track (SGW 3rd Sand Storage) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 214) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 214) doesn't have an assigned destination track 
+Car (WJSRR 214) assigned to staging track (Yard) 
+Car (WJSRR 214) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 202) type (Long Gondola) custom load (Empty) at (Salem 
+Township, SGW 3rd Sand Storage) 
+Could not find a reachable spur for car (WJSRR 202) custom load (Empty) 
+Try to send car (WJSRR 202) custom load (Empty) to staging 
+Staging (Salem1, Yard) can accept car's load (Empty) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 202) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 202) from spur (Salem Township, SGW 3rd Sand 
+Storage) to (Salem, ) 
+Car (WJSRR 202) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 202) using Westbound train, track (SGW 3rd Sand Storage) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 202) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 202) doesn't have an assigned destination track 
+Car (WJSRR 202) assigned to staging track (Yard) 
+Car (WJSRR 202) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (WJSRR 038) type (Boxcar) custom load (Merchandise) at (Salem 
+Township, Heinz Bottling) 
+Could not find a reachable spur for car (WJSRR 038) custom load (Merchandise) 
+Try to send car (WJSRR 038) custom load (Merchandise) to staging 
+Staging (Salem1, Yard) can accept car's load (Merchandise) 
+Could not find an interim C/I or yard track that can service car to destination (Salem1) 
+Try to find a route for car (WJSRR 038) through staging 
+Could not find an interim C/I, yard, or staging track that can service car to 
+destination (Salem1) 
+Staging (Salem, Yard) can accept car's load (Merchandise) 
+Train (Town Job) can transport car (WJSRR 038) from spur (Salem Township, Heinz 
+Bottling) to (Salem, ) 
+Car (WJSRR 038) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 038) using Westbound train, track (Heinz Bottling) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 038) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 038) doesn't have an assigned destination track 
+Car (WJSRR 038) assigned to staging track (Yard) 
+Car (WJSRR 038) assigned to train, destination (Salem, Yard) 
+ 
+Success 5/5 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Dummy) id (16r12) is skipped by train (Town Job) 
+Route location (Salem Township) id (16r6) requests 5 pick ups, 9/20 moves are available 
+ 
+Can't pick up (HJHCo 552) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (HJHCo 541) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (HJHCo 525) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Can't pick up (WJSRR 504) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Partial 0/5 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Salem) id (16r11) no pick ups 
+ 
+Multiple pass build (Aggressive Mode), begin pass 75% pick ups 
+Route location (Salem1) id (16r1) requests 21 pick ups, 28/50 moves are available 
+ 
+Staging track (Yard) has the following options selected: 
+Generate custom loads for any spur (multiple trains) 
+Generate custom loads for any staging track 
+ 
+No cars available for pick up at location (Salem1) 
+ 
+Partial 0/21 cars at location (Salem1) assigned to train (Town Job) 
+Route location (Salem Township) id (16r5) requests 3 pick ups, 5/20 moves are available 
+ 
+Find spur for car (HJHCo 552) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (HJHCo 552) custom load (Empty) 
+Try to send car (HJHCo 552) custom load (Empty) to staging 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (HJHCo 552) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (HJHCo 552) has assigned destination (Salem, ) 
+Can't pick up (HJHCo 552) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (HJHCo 552) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (HJHCo 552) doesn't have an assigned destination track 
+Car (HJHCo 552) assigned to staging track (Yard) 
+Car (HJHCo 552) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (HJHCo 541) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (HJHCo 541) custom load (Empty) 
+Try to send car (HJHCo 541) custom load (Empty) to staging 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (HJHCo 541) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (HJHCo 541) has assigned destination (Salem, ) 
+Can't pick up (HJHCo 541) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (HJHCo 541) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (HJHCo 541) doesn't have an assigned destination track 
+Car (HJHCo 541) assigned to staging track (Yard) 
+Car (HJHCo 541) assigned to train, destination (Salem, Yard) 
+ 
+Find spur for car (HJHCo 525) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (HJHCo 525) custom load (Empty) 
+Try to send car (HJHCo 525) custom load (Empty) to staging 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (HJHCo 525) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (HJHCo 525) has assigned destination (Salem, ) 
+Can't pick up (HJHCo 525) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (HJHCo 525) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (HJHCo 525) doesn't have an assigned destination track 
+Car (HJHCo 525) assigned to staging track (Yard) 
+Car (HJHCo 525) assigned to train, destination (Salem, Yard) 
+ 
+Success 3/3 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Dummy) id (16r12) is skipped by train (Town Job) 
+Route location (Salem Township) id (16r6) requests 6 pick ups, 9/20 moves are available 
+ 
+Can't pick up (WJSRR 504) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+ 
+Partial 0/6 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Salem) id (16r11) no pick ups 
+ 
+Multiple pass build (Aggressive Mode), begin final pass 
+Route location (Salem1) id (16r1) requests 28 pick ups, 28/50 moves are available 
+ 
+Staging track (Yard) has the following options selected: 
+Generate custom loads for any spur (multiple trains) 
+Generate custom loads for any staging track 
+ 
+No cars available for pick up at location (Salem1) 
+ 
+Partial 0/28 cars at location (Salem1) assigned to train (Town Job) 
+Route location (Salem Township) id (16r5) requests 2 pick ups, 2/20 moves are available 
+ 
+Find spur for car (WJSRR 504) type (Refrigerator) custom load (Empty) at (Salem 
+Township, Heinz Kitchen) 
+Could not find a reachable spur for car (WJSRR 504) custom load (Empty) 
+Try to send car (WJSRR 504) custom load (Empty) to staging 
+Staging (Salem, Yard) can accept car's load (Empty) 
+Train (Town Job) can transport car (WJSRR 504) from spur (Salem Township, Heinz 
+Kitchen) to (Salem, ) 
+Car (WJSRR 504) has assigned destination (Salem, ) 
+Can't pick up (WJSRR 504) using Westbound train, track (Heinz Kitchen) 
+at location (Salem Township) does not service this train's direction 
+Later pick up for car (WJSRR 504) from location (Salem Township) route id (16r6) not 
+possible due to train direction 
+Car (WJSRR 504) doesn't have an assigned destination track 
+Car (WJSRR 504) assigned to staging track (Yard) 
+Car (WJSRR 504) assigned to train, destination (Salem, Yard) 
+ 
+Partial 1/2 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Dummy) id (16r12) is skipped by train (Town Job) 
+Route location (Salem Township) id (16r6) requests 9 pick ups, 9/20 moves are available 
+ 
+No cars available for pick up at location (Salem Township) 
+ 
+Partial 0/9 cars at location (Salem Township) assigned to train (Town Job) 
+Route location (Salem) id (16r11) no pick ups 
+Partial 41/70 cars 
+Build for train (Town Job) took 156 mSec 

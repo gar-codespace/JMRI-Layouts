@@ -1,0 +1,1395 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "Fenwick Flyer",
+  "description" : "Switch Along Fenwick Creek",
+  "locations" : [ {
+    "name" : "Salem Yard",
+    "id" : "9r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 454,
+      "unit" : "Feet"
+    },
+    "weight" : 688,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 11,
+      "loads" : 9,
+      "empties" : 2
+    }
+  }, {
+    "name" : "Salem Gas Light Co.",
+    "id" : "9r2",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "00:16",
+    "location" : {
+      "comment" : "",
+      "id" : "9"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "9s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 454,
+      "unit" : "Feet"
+    },
+    "weight" : 600,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRH6",
+        "number" : "H6",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH4",
+        "number" : "H4",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRH2",
+        "number" : "H2",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH11",
+        "number" : "H11",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 11,
+      "loads" : 7,
+      "empties" : 4
+    }
+  }, {
+    "name" : "Salem Glass Works 4th St.",
+    "id" : "9r3",
+    "arrivalTime" : "00:20",
+    "expectedDepartureTime" : "00:20",
+    "location" : {
+      "comment" : "",
+      "id" : "11"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Glass Works 3rd St.",
+    "id" : "9r4",
+    "arrivalTime" : "00:24",
+    "expectedDepartureTime" : "00:24",
+    "location" : {
+      "comment" : "",
+      "id" : "10"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "H.J. Heinz & Co. No.12",
+    "id" : "9r5",
+    "arrivalTime" : "00:28",
+    "expectedDepartureTime" : "01:22",
+    "location" : {
+      "comment" : "",
+      "id" : "17"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "17s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "17s4" : {
+        "remove" : "",
+        "comment" : ""
+      },
+      "17s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "17s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 456,
+      "unit" : "Feet"
+    },
+    "weight" : 353,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRX46",
+        "number" : "X46",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Can House",
+            "id" : "17s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX7",
+        "number" : "X7",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Can House",
+            "id" : "17s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS25",
+        "number" : "RS25",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS55",
+        "number" : "RS55",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS4",
+        "number" : "RS4",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS17",
+        "number" : "RS17",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS41",
+        "number" : "RS41",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX11",
+        "number" : "X11",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX42",
+        "number" : "X42",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRX30",
+        "number" : "X30",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Can House",
+            "id" : "17s3"
+          }
+        },
+        "load" : "Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRT5",
+        "number" : "T5",
+        "road" : "PRR",
+        "type" : "Tankcar",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Vinegar",
+            "id" : "17s4"
+          }
+        },
+        "load" : "Vinegar",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS56",
+        "number" : "RS56",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS53",
+        "number" : "RS53",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS52",
+        "number" : "RS52",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS8",
+        "number" : "RS8",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS5",
+        "number" : "RS5",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX1",
+        "number" : "X1",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX9",
+        "number" : "X9",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 11,
+      "loads" : 2,
+      "empties" : 9
+    }
+  }, {
+    "name" : "South Bend",
+    "id" : "9r6",
+    "arrivalTime" : "01:26",
+    "expectedDepartureTime" : "01:26",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Gayner Glass Works",
+    "id" : "9r7",
+    "arrivalTime" : "01:30",
+    "expectedDepartureTime" : "01:30",
+    "location" : {
+      "comment" : "",
+      "id" : "12"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "American Oilcloth Co.",
+    "id" : "9r8",
+    "arrivalTime" : "01:34",
+    "expectedDepartureTime" : "01:34",
+    "location" : {
+      "comment" : "",
+      "id" : "15"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "American Oilcloth Co.",
+    "id" : "9r8",
+    "arrivalTime" : "01:34",
+    "expectedDepartureTime" : "01:34",
+    "location" : {
+      "comment" : "",
+      "id" : "15"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "South Bend",
+    "id" : "9r10",
+    "arrivalTime" : "01:38",
+    "expectedDepartureTime" : "01:38",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Glass Works 3rd St.",
+    "id" : "9r11",
+    "arrivalTime" : "01:42",
+    "expectedDepartureTime" : "01:42",
+    "location" : {
+      "comment" : "",
+      "id" : "10"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Electric Co. of NJ",
+    "id" : "9r12",
+    "arrivalTime" : "01:46",
+    "expectedDepartureTime" : "01:46",
+    "location" : {
+      "comment" : "",
+      "id" : "8"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Yard",
+    "id" : "9r13",
+    "arrivalTime" : "01:50",
+    "expectedDepartureTime" : "02:23",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem Yard",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRX46",
+        "number" : "X46",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Can House",
+            "id" : "17s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX7",
+        "number" : "X7",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "  Can House",
+            "id" : "17s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS25",
+        "number" : "RS25",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS55",
+        "number" : "RS55",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS4",
+        "number" : "RS4",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS17",
+        "number" : "RS17",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRRS41",
+        "number" : "RS41",
+        "road" : "PRR",
+        "type" : "Refrigerator",
+        "length" : "40",
+        "color" : "Yellow",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : " Kitchen",
+            "id" : "17s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX11",
+        "number" : "X11",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX42",
+        "number" : "X42",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "H.J. Heinz & Co. No.12",
+          "id" : "17",
+          "route" : "9r5",
+          "track" : {
+            "name" : "Bottling & Packing",
+            "id" : "17s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH6",
+        "number" : "H6",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH4",
+        "number" : "H4",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Gas Light Co.",
+          "id" : "9",
+          "route" : "9r2",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "9s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ]
+    }
+  } ],
+  "date" : "2015-12-07T20:37:59Z"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "Nov 15, 2022 11:53 AM PST", 
+  "locations": [
+    {
+      "locationName": "Bronx Terminal", 
+      "tracks": [
+        {
+          "cars": [], 
+          "length": 44, 
+          "locos": [
+            {
+              " ": " ", 
+              "Color": "Black", 
+              "Comment": "", 
+              "Consist": "Single", 
+              "Destination": "", 
+              "Length": "40", 
+              "Location": "Bronx Terminal", 
+              "Model": "0-4-0t", 
+              "Number": "743", 
+              "On_Train": false, 
+              "Owner": "", 
+              "PUSO": " ", 
+              "Road": "CNJ", 
+              "Set_To": "[  ] ", 
+              "Track": "Loco Shed", 
+              "Type": "ES", 
+              "Weight": ""
+            }
+          ], 
+          "trackName": "Loco Shed"
+        }
+      ]
+    }
+  ], 
+  "railroadName": "CNJ Bronx Terminal 1915"
+}

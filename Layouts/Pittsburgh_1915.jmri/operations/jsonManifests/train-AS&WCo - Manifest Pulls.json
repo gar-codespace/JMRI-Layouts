@@ -1,0 +1,346 @@
+{
+  "railroad" : "O2O Pittsburgh 1915",
+  "userName" : "AS&amp;WCo - Manifest Pulls",
+  "description" : "Plant Switch - Manifest",
+  "locations" : [ {
+    "userName" : "AS&amp;WCo",
+    "name" : "3r20",
+    "departureTime" : "00:15",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "1s22" : {
+        "add" : "",
+        "comment" : "AAL"
+      },
+      "1s11" : {
+        "remove" : "",
+        "comment" : "ACA"
+      },
+      "1s19" : {
+        "remove" : "",
+        "comment" : "ASP"
+      },
+      "1s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : "ASH"
+      },
+      "1s14" : {
+        "add" : "",
+        "comment" : "AY"
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 0,
+      "unit" : "Feet"
+    },
+    "weight" : 0,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRR105559",
+        "number" : "105559",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411402",
+        "number" : "411402",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Alloys",
+            "name" : "1s22"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Slag Pile",
+            "name" : "1s19"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "GR&I101114",
+        "number" : "101114",
+        "road" : "GR&I",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s14"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "PRR105559",
+        "number" : "105559",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X23",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Cable",
+            "name" : "1s11"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR411402",
+        "number" : "411402",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "Gk",
+        "carSubType" : null,
+        "length" : 36,
+        "weight" : 3.5,
+        "weightTons" : 70.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Alloys",
+            "name" : "1s22"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Slag Pile",
+            "name" : "1s19"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "GR&I101114",
+        "number" : "101114",
+        "road" : "GR&I",
+        "rfid" : "",
+        "carType" : "X25",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 3.8,
+        "weightTons" : 76.0,
+        "color" : "FCC",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "1s14"
+          }
+        },
+        "destination" : {
+          "userName" : "AS&WCo",
+          "name" : "1",
+          "route" : "3r20",
+          "track" : {
+            "userName" : "Store",
+            "name" : "1s4"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 0,
+      "loads" : 0,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "AVRR(PRR)",
+    "name" : "3r25",
+    "arrivalTime" : "00:19",
+    "expectedDepartureTime" : "00:19",
+    "location" : {
+      "comment" : "",
+      "name" : "33"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "AVRR(PRR)",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  } ],
+  "date" : "1915-05-07T02:12:17.803+0000"
+}

@@ -1,0 +1,235 @@
+1- Build Report for train (South Bend Switcher) built on 4/3/20 11:12 AM
+1- JMRI version r27674
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+5-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Car routing via yards is enabled
+5- Track destination restrictions when routing is enabled
+5- Allow local moves if car has a custom load or FD
+5- Allow cars to travel from origin to terminal
+1-  
+3- Train (South Bend Switcher) route (South Bend Switcher):
+3- Location (Salem Yard) requests 55 pick ups, maximum train length 2,000 feet
+3- Location (Salem Ready Tracks) requests 55 set outs, maximum train length 2,000 feet
+1- Route (South Bend Switcher) requests 55 cars and 110 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Salem Ready Tracks), there are 1 tracks
+7- Train (South Bend Switcher) can terminate to staging track (South Bend)
+1- Staging track (South Bend) is available at destination (Salem Ready Tracks)
+5-  
+5- Train (South Bend Switcher) services car types:
+5- Boxcar, Flatcar, Hopper Gon, Long Gondola, Refrigerator, Tankcar
+7-  
+7- Remove cars not serviced by this train:
+1- ERROR Exclude rs (PRR RS17) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS25) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H9) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H6) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS41) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS55) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR RS4) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H7) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR H5) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR F3) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G8) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G3) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR G2) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X24) at location (Salem Yard) no track assignment
+1- ERROR Exclude rs (PRR X18) at location (Salem Yard) no track assignment
+5-  
+1- Found 16 cars for train (South Bend Switcher)
+7- Car (PRR F2) type (Flatcar) at (Salem Yard, Yard) 35 moves
+7- Car (PRR H3) type (Hopper Gon) at (Salem Yard, Yard) 54 moves
+7- Car (PRR T3) type (Tankcar) at (Salem Yard, Yard) 78 moves
+7- Car (PRR X46) type (Boxcar) at (Salem Yard, Yard) 85 moves
+7- Car (PRR F1) type (Flatcar) at (Salem Yard, Yard) 88 moves
+7- Car (PRR T1) type (Tankcar) at (Salem Yard, Yard) 90 moves
+7- Car (PRR X26) type (Boxcar) at (Salem Yard, Yard) 90 moves
+7- Car (PRR G15) type (Long Gondola) at (Salem Yard, Yard) 90 moves
+7- Car (PRR G11) type (Long Gondola) at (Salem Yard, Yard) 90 moves
+7- Car (PRR G10) type (Long Gondola) at (Salem Yard, Yard) 90 moves
+7- Car (PRR X34) type (Boxcar) at (Salem Yard, Yard) 91 moves
+7- Car (PRR X32) type (Boxcar) at (Salem Yard, Yard) 91 moves
+7- Car (PRR X29) type (Boxcar) at (Salem Yard, Yard) 91 moves
+7- Car (PRR X47) type (Boxcar) at (Salem Yard, Yard) 91 moves
+7- Car (PRR X11) type (Boxcar) at (Salem Yard, Yard) 91 moves
+7- Car (PRR X41) type (Boxcar) at (Salem Yard, Yard) 91 moves
+5-  
+5- Train does not require caboose when departing (Salem Yard)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (55) for train (South Bend Switcher) the number available (16) building 
+3- train! 
+3- Multiple pass build (Aggressive Mode), begin pass 25% pick ups.
+1- Route location (Salem Yard) id (10r1) requests 13 pick ups, 13/55 moves are available
+5-  
+5- Find destinations for (PRR F2) type (Flatcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR F2) can go to staging (Salem Ready Tracks, South Bend) 0/55 moves used
+3- Car (PRR F2) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR H3) type (Hopper Gon) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR H3) can go to staging (Salem Ready Tracks, South Bend) 1/55 moves used
+3- Car (PRR H3) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR T3) type (Tankcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR T3) can go to staging (Salem Ready Tracks, South Bend) 2/55 moves used
+3- Car (PRR T3) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR X46) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR X46) can go to staging (Salem Ready Tracks, South Bend) 3/55 moves used
+3- Car (PRR X46) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR F1) type (Flatcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR F1) can go to staging (Salem Ready Tracks, South Bend) 4/55 moves used
+3- Car (PRR F1) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR T1) type (Tankcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR T1) can go to staging (Salem Ready Tracks, South Bend) 5/55 moves used
+3- Car (PRR T1) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR X26) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR X26) can go to staging (Salem Ready Tracks, South Bend) 6/55 moves used
+3- Car (PRR X26) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR G15) type (Long Gondola) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR G15) can go to staging (Salem Ready Tracks, South Bend) 7/55 moves used
+3- Car (PRR G15) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR G11) type (Long Gondola) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR G11) can go to staging (Salem Ready Tracks, South Bend) 8/55 moves used
+3- Car (PRR G11) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR G10) type (Long Gondola) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR G10) can go to staging (Salem Ready Tracks, South Bend) 9/55 moves used
+3- Car (PRR G10) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR X34) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR X34) can go to staging (Salem Ready Tracks, South Bend) 10/55 moves used
+3- Car (PRR X34) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR X32) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+5- Car (PRR X32) can go to staging (Salem Ready Tracks, South Bend) 11/55 moves used
+3- Car (PRR X32) assigned to train, destination (Salem Ready Tracks, South Bend)
+3-  
+5- Find destinations for (PRR X29) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X29) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X29)
+5-  
+5- Find destinations for (PRR X47) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X47) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X47)
+5-  
+5- Find destinations for (PRR X11) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X11) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X11)
+5-  
+5- Find destinations for (PRR X41) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X41) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X41)
+5-  
+1- Partial 12/13 cars at location (Salem Yard) assigned to train (South Bend Switcher)
+1- Route (South Bend Switcher) id (10r2) no pick ups at location (Salem Ready Tracks)
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups.
+1- Route location (Salem Yard) id (10r1) requests 21 pick ups, 21/55 moves are available
+5-  
+5- Find destinations for (PRR X29) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X29) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X29)
+5-  
+5- Find destinations for (PRR X47) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X47) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X47)
+5-  
+5- Find destinations for (PRR X11) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X11) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X11)
+5-  
+5- Find destinations for (PRR X41) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X41) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X41)
+5-  
+1- Partial 0/21 cars at location (Salem Yard) assigned to train (South Bend Switcher)
+1- Route (South Bend Switcher) id (10r2) no pick ups at location (Salem Ready Tracks)
+3- Multiple pass build (Aggressive Mode), begin pass 75% pick ups.
+1- Route location (Salem Yard) id (10r1) requests 32 pick ups, 32/55 moves are available
+5-  
+5- Find destinations for (PRR X29) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X29) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X29)
+5-  
+5- Find destinations for (PRR X47) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X47) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X47)
+5-  
+5- Find destinations for (PRR X11) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X11) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X11)
+5-  
+5- Find destinations for (PRR X41) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X41) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X41)
+5-  
+1- Partial 0/32 cars at location (Salem Yard) assigned to train (South Bend Switcher)
+1- Route (South Bend Switcher) id (10r2) no pick ups at location (Salem Ready Tracks)
+7-  
+3- Multiple pass build (Aggressive Mode), begin final pass.
+1- Route location (Salem Yard) id (10r1) requests 43 pick ups, 43/55 moves are available
+5-  
+5- Find destinations for (PRR X29) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X29) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X29)
+5-  
+5- Find destinations for (PRR X47) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X47) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X47)
+5-  
+5- Find destinations for (PRR X11) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X11) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X11)
+5-  
+5- Find destinations for (PRR X41) type (Boxcar) load (E) at (Salem Yard, Yard)
+7- Searching location (Salem Ready Tracks) for possible destination
+7- Can't send (PRR X41) to staging (South Bend) due to rolling stock length 40 feet
+5- Did not assign a destination for car (PRR X41)
+5-  
+1- Partial 0/43 cars at location (Salem Yard) assigned to train (South Bend Switcher)
+1- Route (South Bend Switcher) id (10r2) no pick ups at location (Salem Ready Tracks)
+1- Partial 12/55 cars
+5- Build for train (South Bend Switcher) took 15 mSec

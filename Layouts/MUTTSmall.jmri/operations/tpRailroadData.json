@@ -1,0 +1,393 @@
+{
+  "buildDate": "01/10/2023-10:44:10", 
+  "carAAR": [
+    "RS", 
+    "FM", 
+    "XI", 
+    "XM", 
+    "TM", 
+    "GB"
+  ], 
+  "carKernel": [
+    ""
+  ], 
+  "carLoads": {
+    "FM": [
+      "lumber", 
+      "heavy eqpt"
+    ], 
+    "GB": [
+      "cobbles", 
+      "barrels", 
+      "machinery"
+    ], 
+    "RS": [
+      "produce", 
+      "live oysters"
+    ], 
+    "TM": [
+      "heating oil"
+    ], 
+    "XI": [
+      "can oysters", 
+      "break bulk", 
+      "coffee sacks", 
+      "foodstuffs"
+    ], 
+    "XM": [
+      "can oysters", 
+      "break bulk", 
+      "coffee sacks", 
+      "foodstuffs"
+    ]
+  }, 
+  "divisions": [
+    "Seaside Division"
+  ], 
+  "industries": {
+    "1": {
+      "label": "CR", 
+      "location": "West Harbor", 
+      "schedule": [
+        "CR", 
+        "XM", 
+        "Empty", 
+        "coffee sacks"
+      ], 
+      "staging": "", 
+      "track": "Coffee Roasters", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "10": {
+      "label": "P4", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P4", 
+        "XI", 
+        "Empty", 
+        "break bulk"
+      ], 
+      "staging": "", 
+      "track": "4th Street Pier", 
+      "type": "XI", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "11": {
+      "label": "P4", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P4", 
+        "XM", 
+        "Empty", 
+        "break bulk"
+      ], 
+      "staging": "", 
+      "track": "4th Street Pier", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "12": {
+      "label": "P4", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P4", 
+        "GB", 
+        "Empty", 
+        "barrels"
+      ], 
+      "staging": "", 
+      "track": "4th Street Pier", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "13": {
+      "label": "P4", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P4", 
+        "FM", 
+        "Empty", 
+        "lumber"
+      ], 
+      "staging": "", 
+      "track": "4th Street Pier", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "14": {
+      "label": "F", 
+      "location": "West Harbor", 
+      "schedule": [
+        "F", 
+        "XM", 
+        "Empty", 
+        "foodstuffs"
+      ], 
+      "staging": "", 
+      "track": "Foodstuffs", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "15": {
+      "label": "F", 
+      "location": "West Harbor", 
+      "schedule": [
+        "F", 
+        "XI", 
+        "Empty", 
+        "foodstuffs"
+      ], 
+      "staging": "", 
+      "track": "Foodstuffs", 
+      "type": "XI", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "16": {
+      "label": "MS", 
+      "location": "West Harbor", 
+      "schedule": [
+        "MS", 
+        "XI", 
+        "Empty", 
+        "can oysters"
+      ], 
+      "staging": "", 
+      "track": "Mother Schuckers", 
+      "type": "XI", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "2": {
+      "label": "CR", 
+      "location": "West Harbor", 
+      "schedule": [
+        "CR", 
+        "XI", 
+        "Empty", 
+        "coffee sacks"
+      ], 
+      "staging": "", 
+      "track": "Coffee Roasters", 
+      "type": "XI", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "3": {
+      "label": "BMW", 
+      "location": "West Harbor", 
+      "schedule": [
+        "BMW", 
+        "GB", 
+        "Empty", 
+        "cobbles"
+      ], 
+      "staging": "", 
+      "track": "Bulk Material Wharf", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "4": {
+      "label": "MS", 
+      "location": "West Harbor", 
+      "schedule": [
+        "MS", 
+        "RS", 
+        "Empty", 
+        "live oysters"
+      ], 
+      "staging": "", 
+      "track": "Mother Schuckers", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "5": {
+      "label": "G", 
+      "location": "West Harbor", 
+      "schedule": [
+        "G", 
+        "FM", 
+        "heavy eqpt", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry Crane", 
+      "type": "FM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "6": {
+      "label": "G", 
+      "location": "West Harbor", 
+      "schedule": [
+        "G", 
+        "GB", 
+        "machinery", 
+        "Empty"
+      ], 
+      "staging": "", 
+      "track": "Gantry Crane", 
+      "type": "GB", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "7": {
+      "label": "MS", 
+      "location": "West Harbor", 
+      "schedule": [
+        "MS", 
+        "XM", 
+        "Empty", 
+        "can oysters"
+      ], 
+      "staging": "", 
+      "track": "Mother Schuckers", 
+      "type": "XM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "8": {
+      "label": "P", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P", 
+        "RS", 
+        "Empty", 
+        "produce"
+      ], 
+      "staging": "", 
+      "track": "Produce", 
+      "type": "RS", 
+      "viaIn": "", 
+      "viaOut": ""
+    }, 
+    "9": {
+      "label": "P4", 
+      "location": "West Harbor", 
+      "schedule": [
+        "P4", 
+        "TM", 
+        "Empty", 
+        "heating oil"
+      ], 
+      "staging": "", 
+      "track": "4th Street Pier", 
+      "type": "TM", 
+      "viaIn": "", 
+      "viaOut": ""
+    }
+  }, 
+  "layoutName": "Metropolitan Union Transfer Terminal", 
+  "locales": {
+    "00": {
+      "capacity": "100", 
+      "label": "~", 
+      "location": "Unreported", 
+      "track": "~", 
+      "type": "class yard"
+    }, 
+    "1": {
+      "capacity": "20", 
+      "label": "P4", 
+      "location": "West Harbor", 
+      "track": "4th Street Pier", 
+      "type": "industry"
+    }, 
+    "2": {
+      "capacity": "2", 
+      "label": "CR", 
+      "location": "West Harbor", 
+      "track": "Coffee Roasters", 
+      "type": "industry"
+    }, 
+    "3": {
+      "capacity": "3", 
+      "label": "BMW", 
+      "location": "West Harbor", 
+      "track": "Bulk Material Wharf", 
+      "type": "industry"
+    }, 
+    "4": {
+      "capacity": "2", 
+      "label": "G", 
+      "location": "West Harbor", 
+      "track": "Gantry Crane", 
+      "type": "industry"
+    }, 
+    "6": {
+      "capacity": "21", 
+      "label": "ST", 
+      "location": "Harbor Drive", 
+      "track": "Street Tracks", 
+      "type": "staging"
+    }, 
+    "7": {
+      "capacity": "4", 
+      "label": "F", 
+      "location": "West Harbor", 
+      "track": "Foodstuffs", 
+      "type": "industry"
+    }, 
+    "8": {
+      "capacity": "3", 
+      "label": "MS", 
+      "location": "West Harbor", 
+      "track": "Mother Schuckers", 
+      "type": "industry"
+    }, 
+    "9": {
+      "capacity": "6", 
+      "label": "P", 
+      "location": "West Harbor", 
+      "track": "Produce", 
+      "type": "industry"
+    }
+  }, 
+  "location": "J Dot Bay", 
+  "locations": [
+    "Harbor Drive", 
+    "West Harbor", 
+    "Unreported"
+  ], 
+  "locoConsists": [
+    ""
+  ], 
+  "locoModels": [
+    [
+      "0-4-0t", 
+      "ES"
+    ]
+  ], 
+  "locoTypes": [
+    "ES"
+  ], 
+  "operatingRoad": "Metropolitian Union Transfer Terminal", 
+  "roads": [
+    "NYNH&H", 
+    "WJ&S", 
+    "ACL", 
+    "B&O", 
+    "MUTT", 
+    "ER", 
+    "PRR", 
+    "FGEX", 
+    "M&P", 
+    "NYC", 
+    "PL", 
+    "AT&SF", 
+    "P&R", 
+    "SP"
+  ], 
+  "scale": "HO", 
+  "territory": "West Pier District", 
+  "year": "1915"
+}

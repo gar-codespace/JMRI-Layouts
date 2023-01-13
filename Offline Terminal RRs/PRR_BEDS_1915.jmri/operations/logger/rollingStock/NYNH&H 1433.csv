@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+1433,NYNH&H,GA,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:02:59
+1433,NYNH&H,GA,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:31
+1433,NYNH&H,GA,lumber stack,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:35
+1433,NYNH&H,GA,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:52
+1433,NYNH&H,GA,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:53
+1433,NYNH&H,GA,lumber stack,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:13:56

@@ -1,0 +1,4 @@
+#JMRI Preferences version 4.26+R381c8dfc32
+#Sun Apr 17 09:16:24 PDT 2022
+jmri-implementation.scripts=preference\:
+jmri-implementation.user-files=profile\:

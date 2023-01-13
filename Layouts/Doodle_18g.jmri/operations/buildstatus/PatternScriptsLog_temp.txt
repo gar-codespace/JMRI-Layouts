@@ -1,0 +1,301 @@
+2023-01-08 09:01:09,141 - OPS.Main.Controller - DEBUG - Initialize log file - DEBUG level test message
+2023-01-08 09:01:09,141 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2023-01-08 09:01:09,141 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2023-01-08 09:01:09,141 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2023-01-08 09:01:09,141 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2023-01-08 09:01:09,155 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2023-01-08 09:01:09,155 - OPS.OE.PSE - INFO - Destination folders check OK
+2023-01-08 09:01:09,155 - OPS.OB.Bundle - DEBUG - getAllTextBundles
+2023-01-08 09:01:09,171 - OPS.OE.PSE - INFO - Stub location already exists
+2023-01-08 09:01:09,171 - OPS.OE.PSE - DEBUG - CreateStubFile.writeStubFile
+2023-01-08 09:01:09,874 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2023-01-08 09:01:09,874 - OPS.Main.Controller - INFO - Main script run time (sec): 0.749
+2023-01-08 09:01:14,289 - OPS.Main.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Pattern Scripts,when=1673197274290,modifiers=Button1] on psButton
+2023-01-08 09:01:14,305 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:01:14,328 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:14,328 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:01:14,328 - OPS.JP.Controller - INFO - jPlusSubroutine makeFrame completed
+2023-01-08 09:01:14,328 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:01:14,358 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-08 09:01:14,358 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:14,374 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2023-01-08 09:01:14,374 - OPS.o2o.View - DEBUG - o2oSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:14,374 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2023-01-08 09:01:14,390 - OPS.TB.View - DEBUG - ThrowbackSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:14,390 - OPS.TB.Controller - INFO - ThrowbackSubroutine makeFrame completed
+2023-01-08 09:01:14,390 - OPS.Main.View - DEBUG - makePatternScriptsWindow
+2023-01-08 09:01:14,459 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.util.JmriJFrame[frame0,2044,26,452x287,invalid,layout=java.awt.BorderLayout,title=PanelPro,resizable,normal,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,436x248,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:01:14,474 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:01:14,490 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:14,490 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:01:14,490 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:01:14,506 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_OPENED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:01:32,795 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.locations.LocationEditFrame[frame1,466,248,1090x939,invalid,layout=java.awt.BorderLayout,title=Edit Location,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1074x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:01:32,842 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:01:32,857 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:32,857 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:01:32,857 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:01:44,552 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.setup.OptionFrame[frame2,31,31,500x841,invalid,hidden,layout=java.awt.BorderLayout,title=Options,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,484x802,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:01:44,569 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:01:44,584 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:44,584 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:01:44,584 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:01:46,073 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.locations.LocationEditFrame[frame1,466,248,1090x939,invalid,hidden,layout=java.awt.BorderLayout,title=Edit Location,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1074x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:01:46,088 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:01:46,088 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:01:46,105 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:01:46,105 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:01:56,780 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:01:56,796 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:01:56,796 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:01:56,858 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:01:56,865 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:01:56,865 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:01:56,865 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:01:56,881 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:01:56,881 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:03:13,709 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainsTableFrame[frame3,162,381,1301x939,invalid,layout=java.awt.BorderLayout,title=Trains,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1285x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:03:13,762 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:03:13,778 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:03:13,778 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:03:13,778 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:03:36,128 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame[frame4,31,31,1210x615,invalid,hidden,layout=java.awt.BorderLayout,title=Locomotives,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1194x576,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:03:36,144 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:03:36,160 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:03:36,160 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:03:36,160 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:04:26,091 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.locations.LocationsTableFrame[frame5,61,548,1235x537,invalid,hidden,layout=java.awt.BorderLayout,title=Locations,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1219x498,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:04:26,091 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:04:26,107 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:04:26,107 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:04:26,107 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:05:01,411 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:05:01,443 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:05:01,464 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:05:01,464 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:05:01,480 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:06:49,145 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:06:49,145 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:06:49,161 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:06:49,161 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:06:49,177 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:06:49,177 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:06:49,177 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:06:49,177 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:06:49,177 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:09:40,994 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:09:40,994 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:09:41,010 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:09:41,010 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:09:41,026 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:09:41,026 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:09:41,026 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:09:41,026 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:09:41,026 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:11:36,270 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:11:36,270 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:11:36,286 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:11:36,286 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:11:36,302 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:11:36,302 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:11:36,302 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:11:36,302 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:11:36,318 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:16:52,148 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainEditFrame[frame6,1512,146,729x624,invalid,layout=java.awt.BorderLayout,title=Edit Train,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,713x585,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:16:52,196 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:16:52,226 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:16:52,226 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:16:52,226 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:17:10,417 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame[frame7,1238,222,1210x615,invalid,hidden,layout=java.awt.BorderLayout,title=Locomotives,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1194x576,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:17:10,417 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:17:10,433 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:17:10,433 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:17:10,433 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:17:59,075 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainEditFrame[frame6,1512,146,729x746,invalid,hidden,layout=java.awt.BorderLayout,title=Edit Train,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,713x707,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:17:59,075 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:17:59,089 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:17:59,096 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:17:59,096 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:18:28,022 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:18:28,022 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:18:28,036 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:18:28,052 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:18:28,059 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:18:28,059 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:18:28,059 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:18:28,075 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:18:28,075 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:22:56,913 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainLoadOptionsFrame[frame8,1098,120,600x400,invalid,layout=java.awt.BorderLayout,title=Train Load Options,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,584x361,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:22:56,966 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:22:56,982 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:22:56,982 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:22:56,982 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:23:32,252 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.rollingstock.cars.CarsTableFrame[frame9,62,62,1189x615,invalid,hidden,layout=java.awt.BorderLayout,title=Cars,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1173x576,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:23:32,252 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:23:32,267 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:23:32,273 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:23:32,273 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:23:33,880 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainLoadOptionsFrame[frame8,1098,120,600x400,invalid,hidden,layout=java.awt.BorderLayout,title=Train Load Options,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,584x361,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:23:33,880 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:23:33,895 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:23:33,895 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:23:33,911 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:26:25,753 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:26:25,753 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:26:25,776 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:26:25,776 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:26:25,792 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:26:25,792 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:26:25,792 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:26:25,792 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:26:25,792 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:27:00,078 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainEditFrame[frame10,1512,146,729x746,layout=java.awt.BorderLayout,title=Edit Train,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,713x707,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:27:00,115 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:27:00,131 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:27:00,147 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:27:00,147 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:27:47,269 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:27:47,285 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:27:47,285 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:27:47,285 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:27:47,301 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:27:47,301 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:27:47,301 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:27:47,301 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:27:47,301 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:46:41,852 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainsTableFrame[frame3,1103,400,1301x939,invalid,layout=java.awt.BorderLayout,title=Trains,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1285x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:46:41,898 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:46:41,914 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:46:41,930 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:46:41,930 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:47:18,545 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.locations.LocationsTableFrame[frame11,-4,539,1235x537,invalid,layout=java.awt.BorderLayout,title=Locations,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1219x498,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:47:18,598 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:47:18,630 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:47:18,630 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:47:18,630 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:47:50,059 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame[frame12,1238,222,1210x615,invalid,hidden,layout=java.awt.BorderLayout,title=Locomotives,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1194x576,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 09:47:50,081 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 09:47:50,096 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 09:47:50,096 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 09:47:50,096 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 09:48:01,019 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 09:48:01,019 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.jmriManifestGetter
+2023-01-08 09:48:01,035 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertHeader
+2023-01-08 09:48:01,035 - OPS.o2o.ModelWorkEvents - DEBUG - jmriManifestConversion.convertBody
+2023-01-08 09:48:01,051 - OPS.OE.PSE - INFO - tpRollingStockData.json: OK
+2023-01-08 09:48:01,051 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oHeader
+2023-01-08 09:48:01,051 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.o2oLocations
+2023-01-08 09:48:01,051 - OPS.o2o.ModelWorkEvents - DEBUG - o2oWorkEvents.saveList
+2023-01-08 09:48:01,065 - OPS.o2o.ModelEntities - INFO - TrainPlayer destination directory OK
+2023-01-08 10:03:29,476 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainsTableFrame[frame3,1103,400,1301x939,invalid,layout=java.awt.BorderLayout,title=Trains,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1285x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 10:03:29,506 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 10:03:29,523 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 10:03:29,523 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:03:29,523 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 10:04:05,875 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.util.JmriJFrame[frame13,1681,695,878x587,invalid,layout=java.awt.BorderLayout,title=JMRI System Console,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,862x548,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 10:04:05,913 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 10:04:05,927 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 10:04:05,927 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:04:05,927 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 10:04:06,043 - OPS.o2o.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Update Rolling Stock,when=1673201046044,modifiers=Button1] on updateJmriRollingingStock
+2023-01-08 10:04:06,043 - OPS.o2o.ModelImport - DEBUG - getTpReportFiles
+2023-01-08 10:04:06,043 - OPS.o2o.ModelImport - INFO - TrainPlayer Locations file OK
+2023-01-08 10:04:06,043 - OPS.o2o.ModelImport - INFO - TrainPlayer Industries file OK
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - INFO - TrainPlayer Inventory file OK
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - DEBUG - processFileHeaders
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - DEBUG - getRrLocations
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - DEBUG - getRrLocales
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - DEBUG - getAllTpRoads
+2023-01-08 10:04:06,059 - OPS.o2o.ModelImport - DEBUG - getAllTpIndustry
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpCarAar
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpCarLoads
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpCarKernels
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoTypes
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoModels
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoConsists
+2023-01-08 10:04:06,075 - OPS.o2o.ModelImport - DEBUG - writeTPLayoutData
+2023-01-08 10:04:06,091 - OPS.o2o.Controller - INFO - TrainPlayer railroad data imported OK
+2023-01-08 10:04:06,259 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addRoads
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addCarAar
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addCarLoads
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addCarKernels
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addLocoModels
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addLocoTypes
+2023-01-08 10:04:06,259 - OPS.o2o.Model - DEBUG - addLocoConsist
+2023-01-08 10:04:06,276 - OPS.o2o.Model - INFO - TrainPlayer Inventory file OK
+2023-01-08 10:04:06,276 - OPS.o2o.Model - DEBUG - splitTpList
+2023-01-08 10:04:06,276 - OPS.o2o.Model - DEBUG - makeTpRollingStockData
+2023-01-08 10:04:06,276 - OPS.o2o.Model - DEBUG - newCars
+2023-01-08 10:04:06,345 - OPS.o2o.Model - DEBUG - newLocos
+2023-01-08 10:04:06,391 - OPS.o2o.Controller - INFO - JMRI rolling stock updated
+2023-01-08 10:04:33,190 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.rollingstock.engines.EnginesTableFrame[frame14,1238,222,1210x615,invalid,hidden,layout=java.awt.BorderLayout,title=Locomotives,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1194x576,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 10:04:33,213 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 10:04:33,229 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 10:04:33,229 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:04:33,229 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 10:07:07,121 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.jmrit.operations.trains.TrainsTableFrame[frame3,1103,400,1301x939,invalid,layout=java.awt.BorderLayout,title=Trains,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,1285x900,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 10:07:07,153 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 10:07:07,168 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 10:07:07,168 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:07:07,168 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 10:07:17,645 - OPS.PT.Model - DEBUG - jDivision
+2023-01-08 10:07:17,661 - OPS.PT.Model - INFO - The track list for division Weston Division has been created
+2023-01-08 10:07:17,693 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-08 10:07:17,693 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-08 10:07:20,085 - OPS.PT.Model - DEBUG - jLocations
+2023-01-08 10:07:20,101 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-08 10:07:20,101 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-08 10:52:17,028 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 10:52:17,049 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 10:52:17,084 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 10:52:17,089 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 10:52:17,092 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 11:00:09,839 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 11:00:09,859 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 11:00:09,868 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 11:00:09,871 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 11:00:09,875 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 11:31:32,709 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 11:31:32,730 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 11:31:32,746 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 11:31:32,763 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 11:31:32,763 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 11:31:38,566 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.util.JmriJFrame[frame13,1681,695,878x587,invalid,layout=java.awt.BorderLayout,title=JMRI System Console,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,862x548,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-08 11:31:38,598 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-08 11:31:38,614 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-08 11:31:38,628 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 11:31:38,628 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-08 11:31:38,644 - OPS.o2o.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Update Rolling Stock,when=1673206298629,modifiers=Button1] on updateJmriRollingingStock
+2023-01-08 11:31:38,644 - OPS.o2o.ModelImport - DEBUG - getTpReportFiles
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - INFO - TrainPlayer Locations file OK
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - INFO - TrainPlayer Industries file OK
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - INFO - TrainPlayer Inventory file OK
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - DEBUG - processFileHeaders
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - DEBUG - getRrLocations
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - DEBUG - getRrLocales
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - DEBUG - getAllTpRoads
+2023-01-08 11:31:38,651 - OPS.o2o.ModelImport - DEBUG - getAllTpIndustry
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpCarAar
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpCarLoads
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpCarKernels
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoTypes
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoModels
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoConsists
+2023-01-08 11:31:38,667 - OPS.o2o.ModelImport - DEBUG - writeTPLayoutData
+2023-01-08 11:31:38,697 - OPS.o2o.Controller - INFO - TrainPlayer railroad data imported OK
+2023-01-08 11:31:38,766 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-08 11:31:38,766 - OPS.o2o.Model - DEBUG - addRoads
+2023-01-08 11:31:38,766 - OPS.o2o.Model - DEBUG - addCarAar
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - addCarLoads
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - addCarKernels
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - addLocoModels
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - addLocoTypes
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - addLocoConsist
+2023-01-08 11:31:38,782 - OPS.o2o.Model - INFO - TrainPlayer Inventory file OK
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - splitTpList
+2023-01-08 11:31:38,782 - OPS.o2o.Model - DEBUG - makeTpRollingStockData
+2023-01-08 11:31:38,799 - OPS.o2o.Model - DEBUG - newCars
+2023-01-08 11:31:38,868 - OPS.o2o.Model - DEBUG - newLocos
+2023-01-08 11:31:38,930 - OPS.o2o.Controller - INFO - JMRI rolling stock updated
+2023-01-08 11:31:53,506 - OPS.OE.Listeners - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=View Log File,when=1673206313506,modifiers=Button1] on logItemSelected

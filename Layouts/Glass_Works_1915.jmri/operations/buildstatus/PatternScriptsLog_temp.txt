@@ -1,0 +1,41 @@
+2022-12-12 13:03:57,229 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2022-12-12 13:03:57,229 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2022-12-12 13:03:57,229 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2022-12-12 13:03:57,229 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2022-12-12 13:03:57,243 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2022-12-12 13:03:57,306 - OPS.OE.PSE - INFO - Stub location already exists
+2022-12-12 13:03:57,354 - OPS.OE.PSE - INFO - Destination folders check OK
+2022-12-12 13:03:58,556 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-12 13:03:58,588 - OPS.Main.Controller - INFO - Main script run time (sec): 1.391
+2022-12-12 13:04:27,061 - OPS.OE.PSE - INFO - Stub location already exists
+2022-12-12 13:04:27,197 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:04:27,229 - OPS.JP.Controller - INFO - jPlusSubroutine makeFrame completed
+2022-12-12 13:04:27,229 - OPS.Main.View - INFO - jPlusSubroutine subroutine added to control panel
+2022-12-12 13:04:27,463 - OPS.PT.Controller - INFO - pattern tracks panel completed
+2022-12-12 13:04:27,463 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2022-12-12 13:04:27,463 - OPS.Main.View - INFO - PatternTracksSubroutine subroutine added to control panel
+2022-12-12 13:04:27,477 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2022-12-12 13:04:27,477 - OPS.Main.View - INFO - o2oSubroutine subroutine added to control panel
+2022-12-12 13:09:29,628 - OPS.o2o.ModelImport - INFO - TrainPlayer Locations file OK
+2022-12-12 13:09:29,628 - OPS.o2o.ModelImport - INFO - TrainPlayer Industries file OK
+2022-12-12 13:09:29,628 - OPS.o2o.ModelImport - INFO - TrainPlayer Inventory file OK
+2022-12-12 13:09:29,644 - OPS.o2o.Controller - INFO - TrainPlayer railroad data imported OK
+2022-12-12 13:09:29,660 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,660 - OPS.o2o.Model - INFO - tpLocaleData file OK, no location/track conflicts
+2022-12-12 13:09:29,660 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,676 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,676 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,691 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,723 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,723 - OPS.o2o.Model - INFO - Old keys: []
+2022-12-12 13:09:29,723 - OPS.o2o.Model - INFO - New keys: []
+2022-12-12 13:09:29,723 - OPS.o2o.Model - INFO - Continuing keys: [u'00', u'22', u'23', u'24', u'25', u'26', u'27', u'28', u'29', u'30', u'31', u'10', u'32', u'11', u'33', u'12', u'34', u'13', u'35', u'14', u'36', u'15', u'37', u'16', u'38', u'17', u'39', u'18', u'19', u'1', u'2', u'3', u'4', u'5', u'6', u'7', u'8', u'9', u'40', u'41', u'42', u'21']
+2022-12-12 13:09:29,737 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,737 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,737 - OPS.o2o.Model - INFO - TrainPlayer Inventory file OK
+2022-12-12 13:09:29,941 - OPS.PT.Model - INFO - Set initial division in config file
+2022-12-12 13:09:29,941 - OPS.PT.Model - INFO - Set initial location and tracks in config file
+2022-12-12 13:09:29,973 - OPS.PT.Controller - INFO - pattern tracks panel completed
+2022-12-12 13:09:29,973 - OPS.OE.PSE - INFO - tpRailroadData.json.json: OK
+2022-12-12 13:09:29,973 - OPS.o2o.Controller - INFO - JMRI railroad updated from TrainPlayer data
+2022-12-12 13:09:44,596 - OPS.PT.Model - INFO - Controls settings for configuration file updated

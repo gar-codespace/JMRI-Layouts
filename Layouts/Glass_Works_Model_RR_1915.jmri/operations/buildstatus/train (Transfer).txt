@@ -1,0 +1,27 @@
+1- Build Report for train (Transfer) built on 11/17/15 8:38 AM
+1- JMRI version r27674
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+5-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Car routing via yards is enabled
+5- Track destination restrictions when routing is enabled
+5- Send all car pick ups to terminal (Storage Yard)
+1-  
+3- Train (Transfer) route (Transfer to Storage):
+3- Location (Transfer) requests 50 pick ups, maximum train length 2,000 feet
+3- Location (Storage Yard) requests 50 set outs, maximum train length 2,000 feet
+1- Route (Transfer to Storage) requests 50 cars and 100 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Storage Yard), there are 1 tracks
+5- Staging track (Storage Tracks) is occupied, found 0 locomotive(s) and 1 cars
+1- Note that the program requires an empty staging track for each train!
+1- All staging tracks at Storage Yard are occupied, reserved, or can not service the 
+1- train. 
+1- Build failed for train (Transfer)

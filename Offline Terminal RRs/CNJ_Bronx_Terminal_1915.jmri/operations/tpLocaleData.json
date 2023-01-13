@@ -1,0 +1,54 @@
+{
+  "locations": {
+    "Bronx Terminal": [
+      "1", 
+      "2", 
+      "4", 
+      "5", 
+      "6"
+    ], 
+    "Harlem River": [
+      "3"
+    ], 
+    "Unreported": [
+      "00"
+    ]
+  }, 
+  "tracks": {
+    "00": [
+      "Unreported", 
+      "~", 
+      "class yard"
+    ], 
+    "1": [
+      "Bronx Terminal", 
+      "Gantry", 
+      "industry"
+    ], 
+    "2": [
+      "Bronx Terminal", 
+      "Team Tracks", 
+      "industry"
+    ], 
+    "3": [
+      "Harlem River", 
+      "Car Float", 
+      "staging"
+    ], 
+    "4": [
+      "Bronx Terminal", 
+      "Freight House", 
+      "industry"
+    ], 
+    "5": [
+      "Bronx Terminal", 
+      "Yard", 
+      "class yard"
+    ], 
+    "6": [
+      "Bronx Terminal", 
+      "Loco Shed", 
+      "industry"
+    ]
+  }
+}

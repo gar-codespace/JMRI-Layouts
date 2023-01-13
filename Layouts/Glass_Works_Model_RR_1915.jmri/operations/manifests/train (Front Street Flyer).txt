@@ -1,0 +1,101 @@
+Glass Works 1915 J_Ops
+ 
+Manifest for train (Front Street Flyer) Switch Salem Glass Works & Heinz
+ 
+Scheduled work at Salem Yard 1, departure time 01:00
+ [ ] Pick Up V02    Empty       from Yard                     -> Glass Works Branch, Heinz - Bottling        
+ [ ] Pick Up V01    Empty       from Yard                     -> Glass Works Branch, Heinz - Bottling        
+ [ ] Pick Up X26    Goods       from Yard                     -> Glass Works Branch, Heinz - Can House       
+ [ ] Pick Up X47    Produce     from Yard                     -> Glass Works Branch, Heinz - Kitchen         
+ [ ] Pick Up T5     Vinegar     from Yard                     -> Glass Works Branch, Heinz - Vinegar         
+ [ ] Pick Up T2     Vinegar     from Yard                     -> Glass Works Branch, Heinz - Vinegar         
+ [ ] Pick Up H08    Coal        from Yard                     -> Glass Works Branch, SGW 3rd - Coal Gas      
+ [ ] Pick Up X06    Empty       from Yard                     -> Glass Works Branch, SGW 3rd - Packing       
+ [ ] Pick Up X39    Empty       from Yard                     -> Glass Works Branch, SGW 3rd - Packing       
+ [ ] Pick Up G06    Sand        from Yard                     -> Glass Works Branch, SGW 3rd - Sand House    
+ [ ] Pick Up X14    Empty       from Yard                     -> Glass Works Branch, SGW 3rd - Ware House    
+ [ ] Pick Up G12    Sand        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up G10    Lumber      from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up T8     Oil         from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up T6     Empty       from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up H07    Coal        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up H06    Coal        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up T4     Chemicals   from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up H05    Coal        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up H04    Coal        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up H01    Coal        from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up G04    Lumber      from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up G03    Lumber      from Yard                     -> Salem Yard 2, Yard                          
+ [ ] Pick Up F2     Lumber      from Yard                     -> Salem Yard 2, Yard                          
+Train departs Salem Yard 1 Eastbound with 24 cars, 928 feet, 1,338 tons
+ 
+Scheduled work at Glass Works Branch, arrival time 01:04
+ [ ] Pick Up X18    Empty       from Heinz - Can House        -> Glass Works Branch, SGW 3rd - Ware House    
+ [ ] Pick Up X08    Merchandise from Heinz - Bottling         -> Salem Yard 2, Yard                          
+ [ ] Pick Up X38    Merchandise from Heinz - Bottling         -> Salem Yard 2, Yard                          
+ [ ] Pick Up X33    Merchandise from Heinz - Bottling         -> Salem Yard 2, Yard                          
+ [ ] Pick Up R17    Empty       from Heinz - Kitchen          -> Salem Yard 2, Yard                          
+ [ ] Pick Up R04    Empty       from Heinz - Kitchen          -> Salem Yard 2, Yard                          
+ [ ] Pick Up R53    Empty       from Heinz - Kitchen          -> Salem Yard 2, Yard                          
+ [ ] Pick Up R52    Empty       from Heinz - Kitchen          -> Salem Yard 2, Yard                          
+ [ ] Pick Up R41    Empty       from Heinz - Kitchen          -> Salem Yard 2, Yard                          
+ [ ] Pick Up H10    Empty       from SGW 3rd - Coal Gas       -> Salem Yard 2, Yard                          
+ [ ] Pick Up H09    Empty       from SGW 3rd - Coal Gas       -> Salem Yard 2, Yard                          
+ [ ] Pick Up G14    Empty       from SGW 3rd - Sand Storage   -> Salem Yard 2, Yard                          
+ [ ] Pick Up G02    Empty       from SGW 3rd - Sand Storage   -> Salem Yard 2, Yard                          
+ [ ] Set Out V02    Empty       from Salem Yard 1         -> Glass Works Branch, Heinz - Bottling        
+ [ ] Set Out V01    Empty       from Salem Yard 1         -> Glass Works Branch, Heinz - Bottling        
+ [ ] Set Out X26    Goods       from Salem Yard 1         -> Glass Works Branch, Heinz - Can House       
+ [ ] Set Out X47    Produce     from Salem Yard 1         -> Glass Works Branch, Heinz - Kitchen         
+ [ ] Set Out T5     Vinegar     from Salem Yard 1         -> Glass Works Branch, Heinz - Vinegar         
+ [ ] Set Out T2     Vinegar     from Salem Yard 1         -> Glass Works Branch, Heinz - Vinegar         
+ [ ] Set Out H08    Coal        from Salem Yard 1         -> Glass Works Branch, SGW 3rd - Coal Gas      
+Train departs Glass Works Branch Eastbound with 30 cars, 1,194 feet, 1,404 tons
+ 
+No work at Dummy
+ 
+Scheduled work at Glass Works Branch, arrival time 02:12
+ [ ] Pick Up X01    Glassware   from SGW 3rd - Packing        -> Salem Yard 2, Yard                          
+ [ ] Pick Up X10    Glassware   from SGW 3rd - Packing        -> Salem Yard 2, Yard                          
+ [ ] Pick Up G13    Empty       from SGW 3rd - Sand House     -> Salem Yard 2, Yard                          
+ [ ] Pick Up X04    Glassware   from SGW 3rd - Ware House     -> Salem Yard 2, Yard                          
+ [ ] Pick Up X16    Glassware   from SGW 3rd - Ware House     -> Salem Yard 2, Yard                          
+ [ ] Set Out X06    Empty       from Salem Yard 1         -> Glass Works Branch, SGW 3rd - Packing       
+ [ ] Set Out X39    Empty       from Salem Yard 1         -> Glass Works Branch, SGW 3rd - Packing       
+ [ ] Set Out G06    Sand        from Salem Yard 1         -> Glass Works Branch, SGW 3rd - Sand House    
+ [ ] Set Out X18    Empty       from Glass Works Branch   -> Glass Works Branch, SGW 3rd - Ware House    
+ [ ] Set Out X14    Empty       from Salem Yard 1         -> Glass Works Branch, SGW 3rd - Ware House    
+Train departs Glass Works Branch Westbound with 30 cars, 1,192 feet, 1,543 tons
+ 
+Scheduled work at Salem Yard 2, arrival time 02:46
+ [ ] Set Out X08    Merchandise from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X38    Merchandise from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X33    Merchandise from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out R17    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out R04    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out R53    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out R52    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out R41    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out H10    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out H09    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X01    Glassware   from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X10    Glassware   from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out G13    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out G14    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out G02    Empty       from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X04    Glassware   from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out X16    Glassware   from Glass Works Branch   -> Salem Yard 2, Yard                          
+ [ ] Set Out G12    Sand        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out G10    Lumber      from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out T8     Oil         from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out T6     Empty       from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out H07    Coal        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out H06    Coal        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out T4     Chemicals   from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out H05    Coal        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out H04    Coal        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out H01    Coal        from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out G04    Lumber      from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out G03    Lumber      from Salem Yard 1         -> Salem Yard 2, Yard                          
+ [ ] Set Out F2     Lumber      from Salem Yard 1         -> Salem Yard 2, Yard                          
+Train terminates in Salem Yard 2

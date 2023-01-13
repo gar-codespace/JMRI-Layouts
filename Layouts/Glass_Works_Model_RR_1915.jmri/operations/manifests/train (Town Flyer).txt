@@ -1,0 +1,53 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (Town Flyer)
+ 
+Scheduled work at Salem Yard, departure time 00:00
+ [ ] Pick up H4     PRR  Coal        from Yard                  -> Salem Gas Light Co.      
+ [ ] Pick up H3     PRR  Coal        from Yard                  -> Salem Gas Light Co.      
+ [ ] Pick up X15    PRR  Empty       from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up RS56   PRR  Produce     from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up RS53   PRR  Produce     from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up RS52   PRR  Produce     from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up RS5    PRR  Produce     from Yard                  -> H.J. Heinz & Co. No.12   
+ [ ] Pick up H9     PRR  Coal        from Yard                  -> Electric Co. of NJ       
+ [ ] Pick up H6     PRR  Coal        from Yard                  -> Electric Co. of NJ       
+Train departs Salem Yard Westbound with 9 cars, 372 feet, 589 tons
+ 
+Scheduled work at Salem Gas Light Co., arrival time 00:04
+ [ ] Pick up H5     PRR  Empty       from Coal Gas              -> Salem Yard               
+ [ ] Pick up H2     PRR  Empty       from Coal Gas              -> Salem Yard               
+ [ ] Set out H4     PRR  Coal        from Salem Yard                to Coal Gas             
+ [ ] Set out H3     PRR  Coal        from Salem Yard                to Coal Gas             
+Train departs Salem Gas Light Co. Westbound with 9 cars, 372 feet, 501 tons
+ 
+Scheduled work at H.J. Heinz & Co. No.12, arrival time 00:20
+ [ ] Pick up X2     PRR  Merchandise from Bottling & Packing    -> Salem Yard               
+ [ ] Pick up RS55   PRR  Empty       from Kitchen               -> Salem Yard               
+ [ ] Pick up RS8    PRR  Empty       from Kitchen               -> Salem Yard               
+ [ ] Pick up RS41   PRR  Empty       from Kitchen               -> Salem Yard               
+ [ ] Move    X12    PRR  Empty       from Can House             to Bottling & Packing   
+ [ ] Set out X15    PRR  Empty       from Salem Yard                to Bottling & Packing   
+ [ ] Set out RS56   PRR  Produce     from Salem Yard                to Kitchen              
+ [ ] Set out RS53   PRR  Produce     from Salem Yard                to Kitchen              
+ [ ] Set out RS52   PRR  Produce     from Salem Yard                to Kitchen              
+ [ ] Set out RS5    PRR  Produce     from Salem Yard                to Kitchen              
+Train departs H.J. Heinz & Co. No.12 Westbound with 8 cars, 324 feet, 320 tons
+ 
+Scheduled work at Electric Co. of NJ, arrival time 00:57
+ [ ] Pick up H8     PRR  Empty       from Coal Bin              -> Salem Yard               
+ [ ] Pick up H7     PRR  Empty       from Coal Bin              -> Salem Yard               
+ [ ] Set out H9     PRR  Coal        from Salem Yard                to Coal Bin             
+ [ ] Set out H6     PRR  Coal        from Salem Yard                to Coal Bin             
+Train departs Electric Co. of NJ Eastbound with 8 cars, 324 feet, 232 tons
+ 
+Scheduled work at Salem Yard, arrival time 01:13
+ [ ] Set out H8     PRR  Empty       from Electric Co. of NJ        to 10 Car Track         
+ [ ] Set out H7     PRR  Empty       from Electric Co. of NJ        to 10 Car Track         
+ [ ] Set out X2     PRR  Merchandise from H.J. Heinz & Co. No.12    to 10 Car Track         
+ [ ] Set out RS55   PRR  Empty       from H.J. Heinz & Co. No.12    to 10 Car Track         
+ [ ] Set out RS8    PRR  Empty       from H.J. Heinz & Co. No.12    to 10 Car Track         
+ [ ] Set out RS41   PRR  Empty       from H.J. Heinz & Co. No.12    to 10 Car Track         
+ [ ] Set out H5     PRR  Empty       from Salem Gas Light Co.       to 10 Car Track         
+ [ ] Set out H2     PRR  Empty       from Salem Gas Light Co.       to 10 Car Track         
+Train terminates in (Salem Yard)

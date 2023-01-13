@@ -1,0 +1,37 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (Transfer)
+ 
+Scheduled work at Storage Yard, departure time 00:00
+ [ ] Pick up X21    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X16    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up H7     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G14    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G6     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G12    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G4     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G3     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up G2     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X33    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X31    PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X9     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X6     PRR  E          from Storage Tracks     -> Transfer                 
+ [ ] Pick up X29    PRR  E          from Storage Tracks     -> Transfer                 
+Train departs Storage Yard Eastbound with 14 cars, 574 feet, 329 tons
+ 
+Scheduled work at Transfer, arrival time 00:04
+ [ ] Set out X21    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X16    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out H7     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G14    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G6     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G12    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G4     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G3     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out G2     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X33    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X31    PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X9     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X6     PRR  E          from Storage Yard              to Transfer Tracks   
+ [ ] Set out X29    PRR  E          from Storage Yard              to Transfer Tracks   
+Train terminates in (Transfer)

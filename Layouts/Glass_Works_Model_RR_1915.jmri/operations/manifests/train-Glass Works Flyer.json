@@ -1,0 +1,1463 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "Glass Works Flyer",
+  "description" : "Switch Salem Glass Works",
+  "locations" : [ {
+    "name" : "Salem Yard",
+    "id" : "9r1",
+    "departureTime" : "01:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 482,
+      "unit" : "Feet"
+    },
+    "weight" : 413,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 12,
+      "loads" : 3,
+      "empties" : 9
+    }
+  }, {
+    "name" : "Salem Gas Light Co.",
+    "id" : "9r2",
+    "arrivalTime" : "01:04",
+    "expectedDepartureTime" : "01:04",
+    "location" : {
+      "comment" : "",
+      "id" : "9"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Glass Works 4th St.",
+    "id" : "9r3",
+    "arrivalTime" : "01:08",
+    "expectedDepartureTime" : "01:35",
+    "location" : {
+      "comment" : "",
+      "id" : "11"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "11s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "11s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "11s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 530,
+      "unit" : "Feet"
+    },
+    "weight" : 536,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRX37",
+        "number" : "X37",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "11s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG7",
+        "number" : "G7",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "11s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG6",
+        "number" : "G6",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "11s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX26",
+        "number" : "X26",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRX2",
+        "number" : "X2",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "11s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG12",
+        "number" : "G12",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "11s3"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX3",
+        "number" : "X3",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX36",
+        "number" : "X36",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 13,
+      "loads" : 5,
+      "empties" : 8
+    }
+  }, {
+    "name" : "Salem Glass Works 3rd St.",
+    "id" : "9r4",
+    "arrivalTime" : "01:39",
+    "expectedDepartureTime" : "01:51",
+    "location" : {
+      "comment" : "",
+      "id" : "10"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "10s4" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "10s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 530,
+      "unit" : "Feet"
+    },
+    "weight" : 446,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "10s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG13",
+        "number" : "G13",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "10s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRH1",
+        "number" : "H1",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "10s4"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG14",
+        "number" : "G14",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "10s1"
+          }
+        },
+        "load" : "Sand",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 13,
+      "loads" : 3,
+      "empties" : 10
+    }
+  }, {
+    "name" : "H.J. Heinz & Co. No.12",
+    "id" : "9r5",
+    "arrivalTime" : "01:55",
+    "expectedDepartureTime" : "01:55",
+    "location" : {
+      "comment" : "",
+      "id" : "17"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "South Bend",
+    "id" : "9r6",
+    "arrivalTime" : "01:59",
+    "expectedDepartureTime" : "01:59",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Gayner Glass Works",
+    "id" : "9r7",
+    "arrivalTime" : "02:03",
+    "expectedDepartureTime" : "02:03",
+    "location" : {
+      "comment" : "",
+      "id" : "12"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "American Oilcloth Co.",
+    "id" : "9r8",
+    "arrivalTime" : "02:07",
+    "expectedDepartureTime" : "02:07",
+    "location" : {
+      "comment" : "",
+      "id" : "15"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "American Oilcloth Co.",
+    "id" : "9r8",
+    "arrivalTime" : "02:07",
+    "expectedDepartureTime" : "02:07",
+    "location" : {
+      "comment" : "",
+      "id" : "15"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "South Bend",
+    "id" : "9r10",
+    "arrivalTime" : "02:11",
+    "expectedDepartureTime" : "02:11",
+    "location" : {
+      "comment" : "",
+      "id" : "13"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Glass Works 3rd St.",
+    "id" : "9r11",
+    "arrivalTime" : "02:15",
+    "expectedDepartureTime" : "02:45",
+    "location" : {
+      "comment" : "",
+      "id" : "10"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "10s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "10s2" : {
+        "add" : "",
+        "comment" : ""
+      },
+      "10s5" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "10s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 454,
+      "unit" : "Feet"
+    },
+    "weight" : 540,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRX13",
+        "number" : "X13",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Packing",
+            "id" : "10s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG4",
+        "number" : "G4",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Sand House",
+            "id" : "10s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX43",
+        "number" : "X43",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "10s5"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : "Storage",
+            "id" : "10s6"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ {
+        "id" : "PRRX33",
+        "number" : "X33",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Packing",
+            "id" : "10s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX8",
+        "number" : "X8",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Packing",
+            "id" : "10s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX4",
+        "number" : "X4",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "10s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX45",
+        "number" : "X45",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "10s5"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX39",
+        "number" : "X39",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : "Storage",
+            "id" : "10s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX38",
+        "number" : "X38",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r1",
+          "track" : {
+            "name" : "Yard",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : "Storage",
+            "id" : "10s6"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 11,
+      "loads" : 6,
+      "empties" : 5
+    }
+  }, {
+    "name" : "Electric Co. of NJ",
+    "id" : "9r12",
+    "arrivalTime" : "02:49",
+    "expectedDepartureTime" : "02:49",
+    "location" : {
+      "comment" : "",
+      "id" : "8"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  }, {
+    "name" : "Salem Yard",
+    "id" : "9r13",
+    "arrivalTime" : "02:53",
+    "expectedDepartureTime" : "03:26",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem Yard",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRX13",
+        "number" : "X13",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Packing",
+            "id" : "10s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG4",
+        "number" : "G4",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Sand House",
+            "id" : "10s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX43",
+        "number" : "X43",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "10s5"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH3",
+        "number" : "H3",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Coal Gas",
+            "id" : "10s4"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG13",
+        "number" : "G13",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r4",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "10s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "route" : "9r11",
+          "track" : {
+            "name" : "Storage",
+            "id" : "10s6"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX37",
+        "number" : "X37",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : " Ware House",
+            "id" : "11s1"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG7",
+        "number" : "G7",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "11s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG6",
+        "number" : "G6",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Sand Storage",
+            "id" : "11s3"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX26",
+        "number" : "X26",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Salem Glass Works 4th St.",
+          "id" : "11",
+          "route" : "9r3",
+          "track" : {
+            "name" : "Ware Shed",
+            "id" : "11s2"
+          }
+        },
+        "destination" : {
+          "name" : "Salem Yard",
+          "id" : "7",
+          "route" : "9r13",
+          "track" : {
+            "name" : "11 Car Track",
+            "id" : "7s3"
+          }
+        },
+        "load" : "Glass Goods",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ]
+    }
+  } ],
+  "date" : "2015-12-14T15:40:26Z"
+}

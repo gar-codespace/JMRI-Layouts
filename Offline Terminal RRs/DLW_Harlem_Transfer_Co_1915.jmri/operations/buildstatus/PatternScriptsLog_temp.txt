@@ -1,0 +1,20 @@
+2022-12-16 23:29:52,759 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2022-12-16 23:29:52,760 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2022-12-16 23:29:52,762 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2022-12-16 23:29:52,763 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2022-12-16 23:29:52,773 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2022-12-16 23:29:52,776 - OPS.OE.PSE - INFO - Destination folders check OK
+2022-12-16 23:29:52,795 - OPS.OE.PSE - INFO - Stub location already exists
+2022-12-16 23:29:53,480 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-12-16 23:29:53,486 - OPS.Main.Controller - INFO - Main script run time (sec): 0.735
+2022-12-16 23:29:54,562 - OPS.PT.Controller - INFO - pattern tracks panel completed
+2022-12-16 23:29:54,562 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2022-12-16 23:29:54,562 - OPS.Main.View - INFO - PatternTracksSubroutine added to pattern scripts frame
+2022-12-16 23:29:54,562 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2022-12-16 23:29:54,562 - OPS.Main.View - INFO - o2oSubroutine added to pattern scripts frame
+2022-12-16 23:30:00,796 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2022-12-16 23:30:00,803 - OPS.PT.Listeners - INFO - PatternTracksSubroutine removed from pattern scripts frame
+2022-12-16 23:30:02,661 - OPS.o2o.Listeners - INFO - o2oSubroutine removed from pattern scripts frame
+2022-12-16 23:30:14,651 - OPS.JP.Controller - INFO - jPlusSubroutine makeFrame completed
+2022-12-16 23:30:14,651 - OPS.JP.Listeners - INFO - jPlusSubroutine added to pattern scripts frame
+2022-12-16 23:30:18,279 - OPS.JP.Listeners - INFO - jPlusSubroutine removed from pattern scripts frame

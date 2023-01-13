@@ -1,0 +1,88 @@
+o2o - Glass Works Model - 1915;;;;;
+ 
+Manifest for train (South Bend Flyer) Switch Along Salem Creek
+Valid 11/08/2022 07:26
+ 
+Scheduled work at Salem
+ [ ] Pick up WJ&S 1090 X load flour destination South Bend Spur
+ [ ] Pick up AT&SF 4700 H load coal destination South Bend Spur
+ [ ] Pick up M&P 6336 H load coal destination South Bend Spur
+ [ ] Pick up NYNH&H 8387 G load sand destination South Bend Spur
+ [ ] Pick up CNJ 3907 G load sand destination South Bend Spur
+ [ ] Pick up DL&W 1592 G load sand destination South Bend Spur
+ [ ] Pick up B&A 2320 F load lumber stack destination South Bend Spur
+ [ ] Pick up LV 4868 X empty Empty destination South Bend Spur
+ [ ] Pick up AT&SF 6513 G load Lumber destination South Bend Spur
+ [ ] Pick up CNJ 3094 TO load chemicals destination South Bend Spur
+ [ ] Pick up ER 4387 TO load chemicals destination South Bend Spur
+ [ ] Pick up ER 7553 X load break bulk destination South Bend Spur
+ [ ] Pick up ER 4841 X load break bulk destination South Bend Spur
+ [ ] Pick up SP 7385 X load break bulk destination South Bend Spur
+ [ ] Pick up ER 0930 X load break bulk destination South Bend Spur
+ [ ] Pick up ACL 3300 R Empty E destination Salem
+ [ ] Pick up SP 7876 R Empty E destination Salem
+ [ ] Pick up WJ&S 6966 TV Empty E destination Salem
+ [ ] Pick up DL&W 7274 X Empty E destination Salem
+ [ ] Pick up P&R 2028 F Empty E destination Salem
+ [ ] Pick up DL&W 7996 H Empty E destination Salem
+ [ ] Pick up LV 0817 X Empty E destination Salem
+ [ ] Pick up P&R 5560 H Empty E destination Salem
+ [ ] Pick up LV 0186 X Empty E destination Salem
+Train departs Salem Eastbound with 24 cars, 1,056 feet, 717 tons
+ 
+Scheduled work at South Bend Spur
+ [ ] Pick up DL&W 1635 X Load Merchandise destination Salem
+ [ ] Pick up CNJ 4345 G empty Empty destination Salem
+ [ ] Pick up CNJ 9229 G empty Empty destination Salem
+ [ ] Pick up ACL 4041 G empty Empty destination Salem
+ [ ] Pick up P&R 3991 X load Glassware destination Salem
+ [ ] Pick up AT&SF 4992 G empty Empty destination Salem
+ [ ] Move WJ&S 6732 X empty Empty
+ [ ] Set out WJ&S 1090 X load flour to FH Lloyd
+ [ ] Set out AT&SF 4700 H load coal to Gaynor Coal
+ [ ] Set out M&P 6336 H load coal to Gaynor Coal
+ [ ] Set out NYNH&H 8387 G load sand to Gaynor Sand
+ [ ] Set out CNJ 3907 G load sand to Gaynor Sand
+ [ ] Set out DL&W 1592 G load sand to Gaynor Sand
+ [ ] Set out B&A 2320 F load lumber stack to Gaynor Shop
+ [ ] Set out LV 4868 X empty Empty to Gaynor Ware House
+ [ ] Move B&O 5748 X empty Empty
+ [ ] Set out AT&SF 6513 G load Lumber to WH Harris
+Train departs South Bend Spur Eastbound with 21 cars, 924 feet, 597 tons
+ 
+No work at Unknown
+ 
+Scheduled work at South Bend Spur
+ [ ] Pick up B&A 6192 TO empty Empty destination Salem
+ [ ] Pick up P&R 4787 X Load LCL destination Salem
+ [ ] Pick up LV 7443 F load Lumber destination Salem
+ [ ] Pick up LV 9693 X Load LCL destination Salem
+ [ ] Set out CNJ 3094 TO load chemicals to Am Oilcloth Chem
+ [ ] Set out ER 4387 TO load chemicals to Am Oilcloth Chem
+ [ ] Set out ER 7553 X load break bulk to S&PSNCo Dock
+ [ ] Set out ER 4841 X load break bulk to S&PSNCo Dock
+ [ ] Set out SP 7385 X load break bulk to S&PSNCo Dock
+ [ ] Set out ER 0930 X load break bulk to S&PSNCo Dock
+Train departs South Bend Spur Westbound with 19 cars, 836 feet, 517 tons
+ 
+Scheduled work at Salem
+ [ ] Set out ACL 3300 R Empty E to Yard
+ [ ] Set out SP 7876 R Empty E to Yard
+ [ ] Set out WJ&S 6966 TV Empty E to Yard
+ [ ] Set out DL&W 7274 X Empty E to Yard
+ [ ] Set out P&R 2028 F Empty E to Yard
+ [ ] Set out DL&W 7996 H Empty E to Yard
+ [ ] Set out LV 0817 X Empty E to Yard
+ [ ] Set out P&R 5560 H Empty E to Yard
+ [ ] Set out LV 0186 X Empty E to Yard
+ [ ] Set out B&A 6192 TO empty Empty to Yard
+ [ ] Set out DL&W 1635 X Load Merchandise to Yard
+ [ ] Set out CNJ 4345 G empty Empty to Yard
+ [ ] Set out CNJ 9229 G empty Empty to Yard
+ [ ] Set out ACL 4041 G empty Empty to Yard
+ [ ] Set out P&R 3991 X load Glassware to Yard
+ [ ] Set out P&R 4787 X Load LCL to Yard
+ [ ] Set out LV 7443 F load Lumber to Yard
+ [ ] Set out LV 9693 X Load LCL to Yard
+ [ ] Set out AT&SF 4992 G empty Empty to Yard
+Train terminates in Salem

@@ -1,0 +1,19 @@
+{
+  "date": "Valid Dec 16, 1915, 22:11", 
+  "locations": [
+    {
+      "locationName": "HTC", 
+      "tracks": [
+        {
+          "cars": [], 
+          "locos": []
+        }
+      ]
+    }
+  ], 
+  "railroadDescription": "", 
+  "railroadName": "DL&W Railroad;Harlem Transfer Co.;Mott Haven, the Bronx, New York", 
+  "trainComment": "", 
+  "trainDescription": "", 
+  "trainName": ""
+}

@@ -1,0 +1,649 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "Ready",
+  "description" : "",
+  "locations" : [ {
+    "name" : "Storage Yard",
+    "id" : "6r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 558,
+      "unit" : "Feet"
+    },
+    "weight" : 633,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 14,
+      "loads" : 7,
+      "empties" : 7
+    }
+  }, {
+    "name" : "Ready",
+    "id" : "6r4",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "00:46",
+    "location" : {
+      "comment" : "",
+      "id" : "18"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "18s1" : {
+        "remove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 0,
+      "unit" : "Feet"
+    },
+    "weight" : 0,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRX21",
+        "number" : "X21",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "American Oilcloth Co.",
+          "id" : "15",
+          "track" : {
+            "name" : "Shipping",
+            "id" : "15s1"
+          }
+        }
+      }, {
+        "id" : "PRRX17",
+        "number" : "X17",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "track" : {
+            "name" : "Ware House",
+            "id" : "10s5"
+          }
+        }
+      }, {
+        "id" : "PRRX16",
+        "number" : "X16",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "track" : {
+            "name" : "Ware House",
+            "id" : "10s5"
+          }
+        }
+      }, {
+        "id" : "PRRX15",
+        "number" : "X15",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "track" : {
+            "name" : "Packing",
+            "id" : "10s3"
+          }
+        }
+      }, {
+        "id" : "PRRX13",
+        "number" : "X13",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "track" : {
+            "name" : "Packing",
+            "id" : "10s3"
+          }
+        }
+      }, {
+        "id" : "PRRX12",
+        "number" : "X12",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Flour",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "F.H.Lloyd",
+          "id" : "13",
+          "track" : {
+            "name" : "Flour Mill",
+            "id" : "13s1"
+          }
+        }
+      }, {
+        "id" : "PRRX11",
+        "number" : "X11",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "LCL",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "S&PSNCo.",
+          "id" : "16",
+          "track" : {
+            "name" : "Wharf",
+            "id" : "16s1"
+          }
+        }
+      }, {
+        "id" : "PRRH9",
+        "number" : "H9",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Electric Co. of NJ",
+          "id" : "8",
+          "track" : {
+            "name" : "Coal",
+            "id" : "8s1"
+          }
+        }
+      }, {
+        "id" : "PRRH8",
+        "number" : "H8",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Electric Co. of NJ",
+          "id" : "8",
+          "track" : {
+            "name" : "Coal",
+            "id" : "8s1"
+          }
+        }
+      }, {
+        "id" : "PRRH7",
+        "number" : "H7",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Glass Works 3rd St.",
+          "id" : "10",
+          "track" : {
+            "name" : "Power House",
+            "id" : "10s4"
+          }
+        }
+      }, {
+        "id" : "PRRH6",
+        "number" : "H6",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Gass Light Co.",
+          "id" : "9",
+          "track" : {
+            "name" : "Coal",
+            "id" : "9s1"
+          }
+        }
+      }, {
+        "id" : "PRRH5",
+        "number" : "H5",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false,
+        "finalDestination" : {
+          "name" : "Salem Gass Light Co.",
+          "id" : "9",
+          "track" : {
+            "name" : "Coal",
+            "id" : "9s1"
+          }
+        }
+      }, {
+        "id" : "PRRH4",
+        "number" : "H4",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH2",
+        "number" : "H2",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Ready",
+          "id" : "18",
+          "route" : "6r4",
+          "track" : {
+            "name" : "To Industry",
+            "id" : "18s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "total" : 0,
+      "loads" : 0,
+      "empties" : 0
+    }
+  }, {
+    "name" : "Storage Yard",
+    "id" : "6r2",
+    "arrivalTime" : "00:50",
+    "expectedDepartureTime" : "00:50",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Storage Yard",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ]
+    }
+  } ],
+  "date" : "2015-11-17T04:46:58Z"
+}

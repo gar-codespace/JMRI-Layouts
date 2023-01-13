@@ -1,0 +1,18 @@
+2022-06-05 22:35:36,036 - TP.StandAlone - DEBUG - Initialize log file - DEBUG level test message
+2022-06-05 22:35:36,036 - TP.StandAlone - INFO - Initialize log file - INFO level test message
+2022-06-05 22:35:36,036 - TP.StandAlone - WARNING - Initialize log file - WARNING level test message
+2022-06-05 22:35:36,036 - TP.StandAlone - ERROR - Initialize log file - ERROR level test message
+2022-06-05 22:35:36,036 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2022-06-05 22:35:36,036 - TP.ManifestForTrainPlayer - DEBUG - Model.JmriTranslationToTp
+2022-06-05 22:35:36,052 - TP.ManifestForTrainPlayer - DEBUG - Model.ProcessWorkEventList
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - DEBUG - Model.WriteWorkEventListToTp
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Export JMRI manifest to TrainPlyer: AS&WCo - Manifest Spots
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Manifest export (sec): 0.2030
+36,036 - TP.StandAlone - CRITICAL - Initialize log file - CRITICAL level test message
+2022-06-05 22:35:36,036 - TP.ManifestForTrainPlayer - DEBUG - Model.JmriTranslationToTp
+2022-06-05 22:35:36,052 - TP.ManifestForTrainPlayer - DEBUG - Model.ProcessWorkEventList
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - DEBUG - Model.WriteWorkEventListToTp
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Export JMRI manifest to TrainPlyer: AS&WCo - Manifest Spots
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Export to TrainPlayer script location: C:\Users\Greg\JMRI\OperationsPatternScripts
+2022-06-05 22:35:36,239 - TP.ManifestForTrainPlayer - INFO - Manifest export (sec): 0.2030

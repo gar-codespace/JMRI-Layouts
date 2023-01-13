@@ -1,0 +1,9 @@
+Operator,Description,Parameters
+RT,Report Type,Track Pattern Report
+RN,Railroad Name,O2O Pittsburgh 1915
+LN,Location Name,AS&WCo
+PRNTR,Printer Name,
+YPC,Yard Pattern Comment,Train Comment Placeholder
+VT,Valid,Mon Jun 06 2022 08:37 AM PST
+TN,Track name,Cable
+[  ] ,SC,Penna,101465,Boxcar,36,70,Wire,Cable,*Any Line,Load,False,Oxide Red,,1,,AS&WCo,*No Waybill,*Any Line,*Via Staging,,,,

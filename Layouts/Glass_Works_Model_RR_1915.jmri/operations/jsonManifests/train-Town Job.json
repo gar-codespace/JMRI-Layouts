@@ -1,0 +1,3610 @@
+{
+  "railroad" : "o2o - Glass Works Model - 1915;;;;;",
+  "userName" : "Town Job",
+  "description" : "Switch Salem Glass Works &amp; Heinz",
+  "locations" : [ {
+    "userName" : "Salem",
+    "name" : "16r14",
+    "departureTime" : "01:00",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "5s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1056,
+      "unit" : "Feet"
+    },
+    "weight" : 690,
+    "cars" : {
+      "add" : [ {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Sand House",
+            "name" : "1s8"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 24,
+      "loads" : 14,
+      "empties" : 10
+    }
+  }, {
+    "userName" : "Salem Township",
+    "name" : "16r16",
+    "arrivalTime" : "01:04",
+    "expectedDepartureTime" : "01:55",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "1s1" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s2" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s3" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s6" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s5" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1012,
+      "unit" : "Feet"
+    },
+    "weight" : 650,
+    "cars" : {
+      "add" : [ {
+        "name" : "PRR8234",
+        "number" : "8234",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W4017",
+        "number" : "4017",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1977",
+        "number" : "1977",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S3463",
+        "number" : "3463",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P3784",
+        "number" : "3784",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4502",
+        "number" : "4502",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A5919",
+        "number" : "5919",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV8912",
+        "number" : "8912",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Sand Storage",
+            "name" : "1s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "PRR8234",
+        "number" : "8234",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W4017",
+        "number" : "4017",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7385",
+        "number" : "7385",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER7553",
+        "number" : "7553",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4841",
+        "number" : "4841",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Can House",
+            "name" : "1s2"
+          }
+        },
+        "load" : "goods",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL3300",
+        "number" : "3300",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "SP7876",
+        "number" : "7876",
+        "road" : "SP",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "load" : "Produce",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4700",
+        "number" : "4700",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P6336",
+        "number" : "6336",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "load" : "coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 23,
+      "loads" : 13,
+      "empties" : 10
+    }
+  }, {
+    "userName" : "Unknown",
+    "name" : "16r18",
+    "arrivalTime" : "01:59",
+    "expectedDepartureTime" : "01:59",
+    "location" : {
+      "comment" : "",
+      "name" : "3"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : { },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 1012,
+      "unit" : "Feet"
+    },
+    "weight" : 650,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 23,
+      "loads" : 13,
+      "empties" : 10
+    }
+  }, {
+    "userName" : "Salem Township",
+    "name" : "16r17",
+    "arrivalTime" : "02:03",
+    "expectedDepartureTime" : "02:42",
+    "location" : {
+      "comment" : "",
+      "name" : "1"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "1s7" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s8" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      },
+      "1s9" : {
+        "add" : "",
+        "remove" : "",
+        "addAndRemove" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 2,
+    "length" : {
+      "length" : 968,
+      "unit" : "Feet"
+    },
+    "weight" : 610,
+    "cars" : {
+      "add" : [ {
+        "name" : "B&A0773",
+        "number" : "0773",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4184",
+        "number" : "4184",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL9119",
+        "number" : "9119",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Sand House",
+            "name" : "1s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W5222",
+        "number" : "5222",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0781",
+        "number" : "0781",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1933",
+        "number" : "1933",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ {
+        "name" : "WJ&S1090",
+        "number" : "1090",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV4868",
+        "number" : "4868",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF6513",
+        "number" : "6513",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Sand House",
+            "name" : "1s8"
+          }
+        },
+        "load" : "sand",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER0930",
+        "number" : "0930",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7274",
+        "number" : "7274",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0817",
+        "number" : "0817",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV0186",
+        "number" : "0186",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "total" : 22,
+      "loads" : 12,
+      "empties" : 10
+    }
+  }, {
+    "userName" : "Salem",
+    "name" : "16r15",
+    "arrivalTime" : "02:46",
+    "expectedDepartureTime" : "03:52",
+    "location" : {
+      "comment" : "",
+      "name" : "5"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Salem",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "WJ&S1977",
+        "number" : "1977",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S3463",
+        "number" : "3463",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Bottling",
+            "name" : "1s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Merchandise",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "M&P3784",
+        "number" : "3784",
+        "road" : "M&P",
+        "rfid" : "",
+        "carType" : "R",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Heinz Ketchen",
+            "name" : "1s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "AT&SF4502",
+        "number" : "4502",
+        "road" : "AT&SF",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A5919",
+        "number" : "5919",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Coal Gas",
+            "name" : "1s6"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A0773",
+        "number" : "0773",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4184",
+        "number" : "4184",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Packing",
+            "name" : "1s7"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ACL9119",
+        "number" : "9119",
+        "road" : "ACL",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Sand House",
+            "name" : "1s8"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "LV8912",
+        "number" : "8912",
+        "road" : "LV",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r16",
+          "track" : {
+            "userName" : "Salem 3 Sand Storage",
+            "name" : "1s5"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Empty",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W5222",
+        "number" : "5222",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYC0781",
+        "number" : "0781",
+        "road" : "NYC",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S1933",
+        "number" : "1933",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "X",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem Township",
+          "name" : "1",
+          "route" : "16r17",
+          "track" : {
+            "userName" : "Salem 3 Ware House",
+            "name" : "1s9"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "Glassware",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&A2320",
+        "number" : "2320",
+        "road" : "B&A",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WJ&S6966",
+        "number" : "6966",
+        "road" : "WJ&S",
+        "rfid" : "",
+        "carType" : "TV",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "NYNH&H8387",
+        "number" : "8387",
+        "road" : "NYNH&H",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3094",
+        "number" : "3094",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R2028",
+        "number" : "2028",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "F",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "ER4387",
+        "number" : "4387",
+        "road" : "ER",
+        "rfid" : "",
+        "carType" : "TO",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "CNJ3907",
+        "number" : "3907",
+        "road" : "CNJ",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W1592",
+        "number" : "1592",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "G",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "DL&W7996",
+        "number" : "7996",
+        "road" : "DL&W",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R5560",
+        "number" : "5560",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "H",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r14",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "destination" : {
+          "userName" : "Salem",
+          "name" : "5",
+          "route" : "16r15",
+          "track" : {
+            "userName" : "Yard",
+            "name" : "5s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "2022-11-08T15:35:54.116+0000"
+}

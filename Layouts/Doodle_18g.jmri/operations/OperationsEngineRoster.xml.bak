@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xml/XSLT/operations-engines.xsl" type="text/xsl"?>
+<!DOCTYPE operations-config SYSTEM "/xml/DTD/operations-engines.dtd">
+<operations-config>
+  <!--Written by JMRI version 4.26+R381c8dfc32 on Tue Jan 10 08:14:35 PST 2023-->
+  <models>
+    <model name="0-6-0 prr" />
+    <model name="2-10-0 prr" />
+    <model name="2-10-4 j1a " />
+    <model name="2-8-0 h9 co" />
+    <model name="4-4-0 prr" />
+    <model name="4-4-2 prr" />
+    <model name="4-4-4-4 t1 " />
+    <model name="4-6-2 k4 pr" />
+    <model name="4-6-2 k4s s" />
+    <model name="PRR MP54e1" />
+    <model name="f 3a sal" />
+    <model name="f 3b sal" />
+    <model name="gg1 prr" />
+    <model name="p5b prr" />
+    <model name="prr_rs11so0" />
+  </models>
+  <types>
+    <type name="ED" />
+    <type name="EE" />
+    <type name="EEI" />
+    <type name="ES" />
+    <type name="ESS" />
+  </types>
+  <lengths>
+    <length value="32" />
+    <length value="34" />
+    <length value="36" />
+    <length value="38" />
+    <length value="40" />
+    <length value="42" />
+    <length value="44" />
+    <length value="45" />
+    <length value="46" />
+    <length value="48" />
+    <length value="50" />
+    <length value="51" />
+    <length value="52" />
+    <length value="53" />
+    <length value="54" />
+    <length value="55" />
+    <length value="56" />
+    <length value="57" />
+    <length value="58" />
+    <length value="59" />
+    <length value="60" />
+    <length value="61" />
+    <length value="65" />
+    <length value="66" />
+    <length value="70" />
+    <length value="75" />
+    <length value="80" />
+    <length value="85" />
+    <length value="90" />
+  </lengths>
+  <newConsists>
+    <consist name="C1" />
+    <consist name="F1" />
+  </newConsists>
+  <engines>
+    <engine id="PRR016" roadName="PRR" roadNumber="016" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="2-10-4 j1a " hp="" bUnit="false" />
+    <engine id="PRR028" roadName="PRR" roadNumber="028" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR046" roadName="PRR" roadNumber="046" type="ES" length="40" color="Black" weight="2" locationId="11" secLocationId="11s1" moves="0" date="" selected="false" model="2-10-0 prr" hp="" bUnit="false" />
+    <engine id="PRR058" roadName="PRR" roadNumber="058" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="2-8-0 h9 co" hp="" bUnit="false" />
+    <engine id="PRR063" roadName="PRR" roadNumber="063" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-6-2 k4 pr" hp="" bUnit="false" />
+    <engine id="PRR119" roadName="PRR" roadNumber="119" type="ES" length="40" color="Black" weight="2" locationId="8" secLocationId="8s6" moves="0" date="" selected="false" model="4-6-2 k4 pr" hp="" bUnit="false" />
+    <engine id="PRR184" roadName="PRR" roadNumber="184" type="EE" length="40" color="Black" weight="2" locationId="9" secLocationId="9s9" moves="0" date="" selected="false" model="gg1 prr" hp="" bUnit="false" />
+    <engine id="PRR221" roadName="PRR" roadNumber="221" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" leadConsist="true" />
+    <engine id="PRR234" roadName="PRR" roadNumber="234" type="EE" length="40" color="Black" weight="2" locationId="9" secLocationId="9s9" moves="0" date="" selected="false" model="p5b prr" hp="" bUnit="false" />
+    <engine id="PRR336" roadName="PRR" roadNumber="336" type="ES" length="40" color="Black" weight="2" locationId="8" secLocationId="8s7" moves="0" date="" selected="false" model="4-6-2 k4 pr" hp="" bUnit="false" />
+    <engine id="PRR348" roadName="PRR" roadNumber="348" type="ED" length="40" color="Black" weight="2" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" model="f 3b sal" hp="" bUnit="false" consist="F1" leadConsist="true" />
+    <engine id="PRR376" roadName="PRR" roadNumber="376" type="ESS" length="40" color="Black" weight="2" locationId="11" secLocationId="11s1" moves="0" date="" selected="false" model="0-6-0 prr" hp="" bUnit="false" />
+    <engine id="PRR409" roadName="PRR" roadNumber="409" type="ED" length="40" color="Black" weight="2" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" model="f 3a sal" hp="" bUnit="false" consist="F1" />
+    <engine id="PRR423" roadName="PRR" roadNumber="423" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-4-2 prr" hp="" bUnit="false" />
+    <engine id="PRR450" roadName="PRR" roadNumber="450" type="ES" length="40" color="Black" weight="2" locationId="11" secLocationId="11s1" moves="0" date="" selected="false" model="2-8-0 h9 co" hp="" bUnit="false" />
+    <engine id="PRR451" roadName="PRR" roadNumber="451" type="EE" length="40" color="Black" weight="2" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" model="gg1 prr" hp="" bUnit="false" />
+    <engine id="PRR475" roadName="PRR" roadNumber="475" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="2-8-0 h9 co" hp="" bUnit="false" />
+    <engine id="PRR478" roadName="PRR" roadNumber="478" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-6-2 k4s s" hp="" bUnit="false" />
+    <engine id="PRR550" roadName="PRR" roadNumber="550" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR587" roadName="PRR" roadNumber="587" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="2-10-0 prr" hp="" bUnit="false" />
+    <engine id="PRR613" roadName="PRR" roadNumber="613" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR684" roadName="PRR" roadNumber="684" type="ES" length="40" color="Black" weight="2" locationId="8" secLocationId="8s8" moves="0" date="" selected="false" model="2-10-0 prr" hp="" bUnit="false" />
+    <engine id="PRR710" roadName="PRR" roadNumber="710" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR714" roadName="PRR" roadNumber="714" type="EE" length="40" color="Black" weight="2" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" model="p5b prr" hp="" bUnit="false" />
+    <engine id="PRR738" roadName="PRR" roadNumber="738" type="EE" length="40" color="Black" weight="2" locationId="1" secLocationId="1s2" moves="0" date="" selected="false" model="p5b prr" hp="" bUnit="false" />
+    <engine id="PRR760" roadName="PRR" roadNumber="760" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-4-0 prr" hp="" bUnit="false" />
+    <engine id="PRR772" roadName="PRR" roadNumber="772" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-6-2 k4 pr" hp="" bUnit="false" />
+    <engine id="PRR773" roadName="PRR" roadNumber="773" type="ED" length="40" color="Black" weight="2" locationId="1" secLocationId="1s3" moves="0" date="" selected="false" model="f 3a sal" hp="" bUnit="false" consist="F1" />
+    <engine id="PRR804" roadName="PRR" roadNumber="804" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR825" roadName="PRR" roadNumber="825" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="2-10-0 prr" hp="" bUnit="false" />
+    <engine id="PRR826" roadName="PRR" roadNumber="826" type="ES" length="40" color="Black" weight="2" locationId="9" secLocationId="9s4" moves="0" date="" selected="false" model="4-4-4-4 t1 " hp="" bUnit="false" />
+    <engine id="PRR837" roadName="PRR" roadNumber="837" type="ES" length="40" color="Black" weight="2" locationId="8" secLocationId="8s7" moves="0" date="" selected="false" model="4-6-2 k4 pr" hp="" bUnit="false" />
+    <engine id="PRR845" roadName="PRR" roadNumber="845" type="ESS" length="40" color="Black" weight="2" locationId="3" secLocationId="3s10" moves="0" date="" selected="false" model="0-6-0 prr" hp="" bUnit="false" />
+    <engine id="PRR860" roadName="PRR" roadNumber="860" type="EE" length="40" color="Black" weight="2" locationId="9" secLocationId="9s9" moves="0" date="" selected="false" model="p5b prr" hp="" bUnit="false" />
+    <engine id="PRR886" roadName="PRR" roadNumber="886" type="EEI" length="40" color="Black" weight="2" locationId="1" secLocationId="1s4" moves="0" date="" selected="false" model="PRR MP54e1" hp="" bUnit="false" consist="C1" />
+    <engine id="PRR894" roadName="PRR" roadNumber="894" type="ES" length="40" color="Black" weight="2" locationId="6" secLocationId="6s7" moves="0" date="" selected="false" model="2-10-0 prr" hp="" bUnit="false" />
+  </engines>
+</operations-config>

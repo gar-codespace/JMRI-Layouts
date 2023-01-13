@@ -1,0 +1,20 @@
+{
+  "date": "Sat Apr 09 2022 11:06 AM PST", 
+  "locations": [
+    {
+      "locationName": "Location Name", 
+      "tracks": [
+        {
+          "cars": [], 
+          "length": 1, 
+          "locos": [], 
+          "trackName": "Track Name"
+        }
+      ]
+    }
+  ], 
+  "railroad": "O2O Pittsburgh 1915", 
+  "trainComment": "Switch List for Selected Tracks", 
+  "trainDescription": "Pattern Report - TrainPlayer Work Events", 
+  "trainName": "Local Switch Job"
+}

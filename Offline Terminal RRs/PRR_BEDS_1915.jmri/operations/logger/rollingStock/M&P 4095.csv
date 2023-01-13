@@ -1,0 +1,8 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+4095,M&P,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+4095,M&P,XM,merchandise,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+4095,M&P,XM,Empty,North 4th St,Freight Station,,,Float Switch,1,2023/01/04 14:04:40
+4095,M&P,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+4095,M&P,XM,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+4095,M&P,XM,merchandise,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52
+4095,M&P,XM,Empty,North 4th St,Freight Station,,,Float Switch,1,2023/01/04 14:14:01

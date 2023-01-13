@@ -1,0 +1,982 @@
+{
+  "railroad" : "Glass Works 1915 Model RR",
+  "name" : "Transfer",
+  "description" : "",
+  "locations" : [ {
+    "name" : "Storage Yard",
+    "id" : "6r1",
+    "departureTime" : "00:00",
+    "location" : {
+      "comment" : "",
+      "id" : "7"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "7s1" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 574,
+      "unit" : "Feet"
+    },
+    "weight" : 329,
+    "cars" : {
+      "add" : [ {
+        "id" : "PRRX21",
+        "number" : "X21",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX16",
+        "number" : "X16",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH7",
+        "number" : "H7",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG14",
+        "number" : "G14",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG6",
+        "number" : "G6",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG12",
+        "number" : "G12",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG4",
+        "number" : "G4",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG3",
+        "number" : "G3",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG2",
+        "number" : "G2",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX33",
+        "number" : "X33",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX31",
+        "number" : "X31",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX9",
+        "number" : "X9",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX6",
+        "number" : "X6",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ],
+      "remove" : [ ],
+      "total" : 14,
+      "loads" : 0,
+      "empties" : 14
+    }
+  }, {
+    "name" : "Transfer",
+    "id" : "6r5",
+    "arrivalTime" : "00:04",
+    "expectedDepartureTime" : "00:46",
+    "location" : {
+      "comment" : "",
+      "id" : "19"
+    },
+    "comment" : "",
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ ]
+    },
+    "TrainTerminatesIn" : "Transfer",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "id" : "PRRX21",
+        "number" : "X21",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX16",
+        "number" : "X16",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRH7",
+        "number" : "H7",
+        "road" : "PRR",
+        "type" : "Hopper Gon",
+        "length" : "34",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG14",
+        "number" : "G14",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG6",
+        "number" : "G6",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG12",
+        "number" : "G12",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG4",
+        "number" : "G4",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "40",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG3",
+        "number" : "G3",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRG2",
+        "number" : "G2",
+        "road" : "PRR",
+        "type" : "Long Gondola",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX33",
+        "number" : "X33",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX31",
+        "number" : "X31",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX9",
+        "number" : "X9",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX6",
+        "number" : "X6",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      }, {
+        "id" : "PRRX29",
+        "number" : "X29",
+        "road" : "PRR",
+        "type" : "Boxcar",
+        "length" : "36",
+        "color" : "FCC",
+        "owner" : "",
+        "comment" : "",
+        "location" : {
+          "name" : "Storage Yard",
+          "id" : "7",
+          "route" : "6r1",
+          "track" : {
+            "name" : "Storage Tracks",
+            "id" : "7s1"
+          }
+        },
+        "destination" : {
+          "name" : "Transfer",
+          "id" : "19",
+          "route" : "6r5",
+          "track" : {
+            "name" : "Transfer Tracks",
+            "id" : "19s1"
+          }
+        },
+        "load" : "E",
+        "hazardous" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : "",
+        "utility" : false
+      } ]
+    }
+  } ],
+  "date" : "2015-11-17T05:58:08Z"
+}

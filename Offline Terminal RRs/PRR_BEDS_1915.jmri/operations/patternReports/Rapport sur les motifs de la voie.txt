@@ -1,0 +1,25 @@
+Pennsylvania Railroad
+Brooklyn Eastern District Station
+Williamsburg, Brooklyn, New York
+
+Lieu de travail : North 4th St
+Valid déc. 04, 1914, 11:32
+
+Rapport sur les motifs pour les pistes
+
+Piste : Freight Station
+[  ] CNJ   1657    XM     C lcl    Any Line    
+[  ] CNJ   3450    XM     C lcl    Any Line    
+[  ] LV    0814    XM     C lcl    Any Line    
+[  ] M&P   4374    XM     C lcl    Any Line    
+[  ] NYNH& 1016    XM     C lcl    Any Line    
+[  ] P&R   4925    XM     C lcl    Any Line    
+[  ] PRR   7851    XM     C lcl    Any Line    
+Total des voitures : 7 Longueur de la piste : 484 Longueur de l'équipement : 308 Disponible : 176
+
+Suivre les totaux pour les voitures :
+ Any Line - 7
+
+
+Rapport sur les totaux pour les voitures :
+ Any Line - 7

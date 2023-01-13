@@ -1,0 +1,13 @@
+Pennsylvania Railroad
+Brooklyn Eastern District Station
+Williamsburg, Brooklyn, New York
+
+Work Location: Harlem Division - North 4th St
+Valid Jan 10, 1914, 07:52
+
+Switch List for Track
+
+Track: Crane
+[Crane]           P&R   9600    FM     E Empty  Any Line    
+[Crane]           PL    1471    GA     E Empty  Any Line    
+

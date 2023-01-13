@@ -1,0 +1,6039 @@
+{
+  "railroad" : "Pennsylvania Railroad\nAllegheny Region\nWestern Pennsylvania",
+  "userName" : "C12",
+  "description" : "Coal Train",
+  "locations" : [ {
+    "userName" : "Weston",
+    "name" : "57r1",
+    "departureTime" : "00:10",
+    "location" : {
+      "comment" : "",
+      "name" : "6"
+    },
+    "comment" : "",
+    "options" : [ ],
+    "engines" : {
+      "add" : [ {
+        "name" : "PRR049",
+        "number" : "049",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      }, {
+        "name" : "PRR122",
+        "number" : "122",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      } ],
+      "remove" : [ ]
+    },
+    "track" : {
+      "6s3" : {
+        "add" : "",
+        "comment" : ""
+      }
+    },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 2860,
+      "unit" : "Feet"
+    },
+    "weight" : 2516,
+    "cars" : {
+      "add" : [ {
+        "name" : "WCC1429",
+        "number" : "1429",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2914",
+        "number" : "2914",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0813",
+        "number" : "0813",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3145",
+        "number" : "3145",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R3094",
+        "number" : "3094",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4975",
+        "number" : "4975",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1021",
+        "number" : "1021",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC2799",
+        "number" : "2799",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O8449",
+        "number" : "8449",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O7404",
+        "number" : "7404",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0712",
+        "number" : "0712",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O8830",
+        "number" : "8830",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R1350",
+        "number" : "1350",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9469",
+        "number" : "9469",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC6259",
+        "number" : "6259",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC2450",
+        "number" : "2450",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC9844",
+        "number" : "9844",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1803",
+        "number" : "1803",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2787",
+        "number" : "2787",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4147",
+        "number" : "4147",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R1676",
+        "number" : "1676",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0198",
+        "number" : "0198",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC9445",
+        "number" : "9445",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6240",
+        "number" : "6240",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC6567",
+        "number" : "6567",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6184",
+        "number" : "6184",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6977",
+        "number" : "6977",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC9026",
+        "number" : "9026",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC4799",
+        "number" : "4799",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR5883",
+        "number" : "5883",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8657",
+        "number" : "8657",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R4380",
+        "number" : "4380",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R6896",
+        "number" : "6896",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR8302",
+        "number" : "8302",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3804",
+        "number" : "3804",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0178",
+        "number" : "0178",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0567",
+        "number" : "0567",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC3688",
+        "number" : "3688",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4780",
+        "number" : "4780",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4410",
+        "number" : "4410",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC5466",
+        "number" : "5466",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O1610",
+        "number" : "1610",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6086",
+        "number" : "6086",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3697",
+        "number" : "3697",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8614",
+        "number" : "8614",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0107",
+        "number" : "0107",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC3258",
+        "number" : "3258",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3700",
+        "number" : "3700",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2972",
+        "number" : "2972",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O2184",
+        "number" : "2184",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R6035",
+        "number" : "6035",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R0049",
+        "number" : "0049",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC7460",
+        "number" : "7460",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR0844",
+        "number" : "0844",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3659",
+        "number" : "3659",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC8498",
+        "number" : "8498",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1932",
+        "number" : "1932",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6434",
+        "number" : "6434",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC2528",
+        "number" : "2528",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR8089",
+        "number" : "8089",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC4664",
+        "number" : "4664",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC8065",
+        "number" : "8065",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR376",
+        "number" : "376",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "NE",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 36.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "L",
+        "hazardous" : false,
+        "caboose" : true,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ],
+      "remove" : [ ],
+      "total" : 63,
+      "loads" : 63,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Train Service",
+    "name" : "57r2",
+    "arrivalTime" : "00:14",
+    "expectedDepartureTime" : "00:14",
+    "location" : {
+      "comment" : "",
+      "name" : "9"
+    },
+    "comment" : "",
+    "options" : [ "changeEngines" ],
+    "engines" : {
+      "add" : [ {
+        "name" : "PRR105",
+        "number" : "105",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      }, {
+        "name" : "PRR900",
+        "number" : "900",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      } ],
+      "remove" : [ {
+        "name" : "PRR049",
+        "number" : "049",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      }, {
+        "name" : "PRR122",
+        "number" : "122",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      } ]
+    },
+    "track" : { },
+    "trainDirection" : 1,
+    "length" : {
+      "length" : 2860,
+      "unit" : "Feet"
+    },
+    "weight" : 2516,
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ ],
+      "total" : 63,
+      "loads" : 63,
+      "empties" : 0
+    }
+  }, {
+    "userName" : "Easton",
+    "name" : "57r3",
+    "arrivalTime" : "00:18",
+    "expectedDepartureTime" : "03:27",
+    "location" : {
+      "comment" : "",
+      "name" : "8"
+    },
+    "comment" : "",
+    "options" : [ ],
+    "engines" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "PRR105",
+        "number" : "105",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      }, {
+        "name" : "PRR900",
+        "number" : "900",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "ES",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 0.0,
+        "color" : "Black",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Train Service",
+          "name" : "9",
+          "route" : "57r2",
+          "track" : {
+            "userName" : "Roundhouse",
+            "name" : "9s4"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "model" : "2-10-0 prr",
+        "consist" : null
+      } ]
+    },
+    "TrainTerminatesIn" : "Easton",
+    "cars" : {
+      "add" : [ ],
+      "remove" : [ {
+        "name" : "WCC1429",
+        "number" : "1429",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2914",
+        "number" : "2914",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0813",
+        "number" : "0813",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3145",
+        "number" : "3145",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R3094",
+        "number" : "3094",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4975",
+        "number" : "4975",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR1021",
+        "number" : "1021",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC2799",
+        "number" : "2799",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O8449",
+        "number" : "8449",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O7404",
+        "number" : "7404",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0712",
+        "number" : "0712",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O8830",
+        "number" : "8830",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R1350",
+        "number" : "1350",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR9469",
+        "number" : "9469",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC6259",
+        "number" : "6259",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC2450",
+        "number" : "2450",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC9844",
+        "number" : "9844",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1803",
+        "number" : "1803",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2787",
+        "number" : "2787",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4147",
+        "number" : "4147",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R1676",
+        "number" : "1676",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0198",
+        "number" : "0198",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC9445",
+        "number" : "9445",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6240",
+        "number" : "6240",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC6567",
+        "number" : "6567",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6184",
+        "number" : "6184",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6977",
+        "number" : "6977",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC9026",
+        "number" : "9026",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC4799",
+        "number" : "4799",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR5883",
+        "number" : "5883",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8657",
+        "number" : "8657",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R4380",
+        "number" : "4380",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R6896",
+        "number" : "6896",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR8302",
+        "number" : "8302",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3804",
+        "number" : "3804",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0178",
+        "number" : "0178",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC0567",
+        "number" : "0567",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC3688",
+        "number" : "3688",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O4780",
+        "number" : "4780",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR4410",
+        "number" : "4410",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC5466",
+        "number" : "5466",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O1610",
+        "number" : "1610",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR6086",
+        "number" : "6086",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3697",
+        "number" : "3697",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R8614",
+        "number" : "8614",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC0107",
+        "number" : "0107",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC3258",
+        "number" : "3258",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR3700",
+        "number" : "3700",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR2972",
+        "number" : "2972",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "B&O2184",
+        "number" : "2184",
+        "road" : "B&O",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R6035",
+        "number" : "6035",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "P&R0049",
+        "number" : "0049",
+        "road" : "P&R",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC7460",
+        "number" : "7460",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR0844",
+        "number" : "0844",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC3659",
+        "number" : "3659",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC8498",
+        "number" : "8498",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC1932",
+        "number" : "1932",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC6434",
+        "number" : "6434",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC2528",
+        "number" : "2528",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR8089",
+        "number" : "8089",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PGCC4664",
+        "number" : "4664",
+        "road" : "PGCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "WCC8065",
+        "number" : "8065",
+        "road" : "WCC",
+        "rfid" : "",
+        "carType" : "HT",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 40.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "Coal",
+        "hazardous" : false,
+        "caboose" : false,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      }, {
+        "name" : "PRR376",
+        "number" : "376",
+        "road" : "PRR",
+        "rfid" : "",
+        "carType" : "NE",
+        "carSubType" : null,
+        "length" : 40,
+        "weight" : 2.0,
+        "weightTons" : 36.0,
+        "color" : "Red",
+        "owner" : "",
+        "built" : "",
+        "comment" : "",
+        "outOfService" : false,
+        "location" : {
+          "userName" : "Weston",
+          "name" : "6",
+          "route" : "57r1",
+          "track" : {
+            "userName" : "W3",
+            "name" : "6s3"
+          }
+        },
+        "destination" : {
+          "userName" : "Easton",
+          "name" : "8",
+          "route" : "57r3",
+          "track" : {
+            "userName" : "E3",
+            "name" : "8s3"
+          }
+        },
+        "load" : "L",
+        "hazardous" : false,
+        "caboose" : true,
+        "passenger" : false,
+        "fred" : false,
+        "removeComment" : "",
+        "addComment" : "",
+        "kernel" : null,
+        "utility" : false,
+        "finalDestination" : null,
+        "returnWhenEmpty" : null,
+        "status" : ""
+      } ]
+    }
+  } ],
+  "date" : "1938-01-08T17:48:00.997+0000"
+}

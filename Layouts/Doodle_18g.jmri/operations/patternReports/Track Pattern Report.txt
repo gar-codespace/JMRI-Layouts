@@ -1,0 +1,23 @@
+Doodle 18g
+
+Work Location: City
+Valid Dec 22, 1938, 14:26
+
+Pattern Report for Tracks
+
+Track: 705
+[  ] B&A   1326    XM     E Empty  Any Line    
+[  ] B&A   9658    XM     E Empty  Any Line    
+[  ] PL    2716    XM     E Empty  Any Line    
+[  ] PRR   2539    FM     E Empty  Any Line    
+[  ] PRR   4594    TM     E Empty  Any Line    
+[  ] PRR   7316    FM     E Empty  Any Line    
+[  ] TELX  6664    TM     E Empty  Any Line    
+Total Cars: 7 Track Length: 528 Eqpt. Length: 308 Available: 220
+
+Track Totals for Cars:
+ Any Line - 7
+
+
+Report Totals for Cars:
+ Any Line - 7

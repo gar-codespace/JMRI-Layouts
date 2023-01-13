@@ -1,0 +1,33 @@
+Glass Works 1915 Model RR
+ 
+Manifest for train (South Bend Switcher)
+ 
+Scheduled work at Salem Yard, departure time 00:00
+ [ ] Pick up X34    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up X32    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up H3     PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up T3     PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up T1     PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up X26    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up G15    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up X46    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up G11    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up G10    PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up F2     PRR  E           from Yard                     -> Salem Ready Tracks       
+ [ ] Pick up F1     PRR  E           from Yard                     -> Salem Ready Tracks       
+Train departs Salem Yard Eastbound with 12 cars, 478 feet, 275 tons
+ 
+Scheduled work at Salem Ready Tracks, arrival time 00:04
+ [ ] Set out X34    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out X32    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out H3     PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out T3     PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out T1     PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out X26    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out G15    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out X46    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out G11    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out G10    PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out F2     PRR  E           from Salem Yard                to South Bend              
+ [ ] Set out F1     PRR  E           from Salem Yard                to South Bend              
+Train terminates in (Salem Ready Tracks)

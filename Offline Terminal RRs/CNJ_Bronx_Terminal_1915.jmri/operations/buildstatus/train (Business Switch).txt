@@ -1,0 +1,8 @@
+1- Build Report for train (Business Switch) built on 11/20/22 4:49 PM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+1- ERROR Route departure location missing for train (Business Switch)
+1- Build failed for train (Business Switch)

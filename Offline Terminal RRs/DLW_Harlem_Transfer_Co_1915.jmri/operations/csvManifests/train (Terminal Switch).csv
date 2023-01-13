@@ -1,0 +1,105 @@
+Operator,Description,Parameters
+RN,Railroad Name,"DL&W RR - Harlem Division
+RN	Harlem Transfer Co.
+RN	Mott Haven, the Bronx, New York"
+TN,Train Name,Terminal Switch
+TM,Train Manifest Description,
+PRNTR,Printer Name,
+VT,Valid,11/28/1915 14:34
+LN,Location Name,Harlem River
+DT,Departure Time,00:00
+PC,Pick up car,WJ&S,7219,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+PC,Pick up car,SP,1666,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+PC,Pick up car,CNJ,6141,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+PC,Pick up car,ACL,3059,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+PC,Pick up car,AT&SF,6123,XM,40,feed grains,Red,Harlem River,Car Barge,HTC,Feed,,,,,,,,,,,,,0,,,load
+PC,Pick up car,LV,9182,XM,40,grain,Red,Harlem River,Car Barge,HTC,Grain,,,,,,,,,,,,,0,,,load
+PC,Pick up car,SP,3921,GA,40,steel beams,Red,Harlem River,Car Barge,HTC,Overhead Crane,,,,,,,,,,,,,0,,,load
+PC,Pick up car,NYNH&H,3334,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,NYC,8106,FM,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,LV,8472,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,NYC,3548,GA,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,NYNH&H,4963,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,CNJ,5535,FM,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,B&O,3492,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,M&P,2122,GA,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+PC,Pick up car,TCX,3279,TG,40,heating oil,Red,Harlem River,Car Barge,HTC,Team Tracks,,,,,,,,,,,,,0,,,load
+PC,Pick up car,B&A,9619,XM,40,goods,Red,Harlem River,Car Barge,HTC,Team Tracks,,,,,,,,,,,,,0,,,load
+TD,Train Departs,Harlem River,East
+TL,Train Length Empties Cars,748,0,17
+TW,Train Weight,680
+LN,Location Name,HTC
+AT,Arrival Time,00:04
+EDT,Estimated Departure Time,02:28
+PC,Pick up car,B&O,4649,XM,40,Empty,Red,HTC,Feed,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,NYC,5745,XM,40,Empty,Red,HTC,Grain,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,B&A,3531,XM,40,Empty,Red,HTC,Team Tracks,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,SP,2678,XM,40,Empty,Red,HTC,Team Tracks,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,M&P,2709,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,NYC,0778,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,NYC,7803,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,P&R,3867,FM,40,Empty,Red,HTC,Overhead Crane,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ER,1584,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ER,7338,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,LV,1048,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PRR,2303,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,PRR,1269,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ER,2382,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,ER,4327,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,LV,3153,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,M&P,2906,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,ER,4923,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,UTLX,3565,TG,40,Empty,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,UTLX,2306,TG,40,Empty,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+PC,Pick up car,CNJ,9828,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,ER,6430,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,AT&SF,5639,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+PC,Pick up car,M&P,7801,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,WJ&S,7219,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+SC,Set out car,SP,1666,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+SC,Set out car,CNJ,6141,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+SC,Set out car,ACL,3059,XM,40,cement,Red,Harlem River,Car Barge,HTC,Cement House,,,,,,,,,,,,,0,,,load
+SC,Set out car,AT&SF,6123,XM,40,feed grains,Red,Harlem River,Car Barge,HTC,Feed,,,,,,,,,,,,,0,,,load
+SC,Set out car,B&O,4649,XM,40,Empty,Red,HTC,Feed,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+SC,Set out car,NYC,5745,XM,40,Empty,Red,HTC,Grain,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+SC,Set out car,B&A,3531,XM,40,Empty,Red,HTC,Team Tracks,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+SC,Set out car,SP,2678,XM,40,Empty,Red,HTC,Team Tracks,HTC,Freight House,,,,,,,,,,,,,0,,,empty
+SC,Set out car,LV,9182,XM,40,grain,Red,Harlem River,Car Barge,HTC,Grain,,,,,,,,,,,,,0,,,load
+SC,Set out car,SP,3921,GA,40,steel beams,Red,Harlem River,Car Barge,HTC,Overhead Crane,,,,,,,,,,,,,0,,,load
+SC,Set out car,NYNH&H,3334,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,NYC,8106,FM,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,LV,8472,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,NYC,3548,GA,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,NYNH&H,4963,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,CNJ,5535,FM,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,B&O,3492,FM,40,stone,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,M&P,2122,GA,40,bricks,Red,Harlem River,Car Barge,HTC,Railroad Avenue,,,,,,,,,,,,,0,,,load
+SC,Set out car,TCX,3279,TG,40,heating oil,Red,Harlem River,Car Barge,HTC,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,B&A,9619,XM,40,goods,Red,Harlem River,Car Barge,HTC,Team Tracks,,,,,,,,,,,,,0,,,load
+SC,Set out car,M&P,2709,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,NYC,0778,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+SC,Set out car,NYC,7803,XM,40,Empty,Red,HTC,Cement House,HTC,Team Tracks,,,,,,,,,,,,,0,,,empty
+TD,Train Departs,HTC,East
+TL,Train Length Empties Cars,748,0,17
+TW,Train Weight,680
+LN,Location Name,Harlem River
+AT,Arrival Time,02:32
+EDT,Estimated Departure Time,03:23
+SC,Set out car,P&R,3867,FM,40,Empty,Red,HTC,Overhead Crane,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ER,1584,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ER,7338,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,LV,1048,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PRR,2303,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,PRR,1269,GA,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ER,2382,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,ER,4327,FM,40,Empty,Red,HTC,Railroad Avenue,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,LV,3153,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,M&P,2906,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,ER,4923,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,UTLX,3565,TG,40,Empty,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,UTLX,2306,TG,40,Empty,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,empty
+SC,Set out car,CNJ,9828,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,ER,6430,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,AT&SF,5639,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+SC,Set out car,M&P,7801,XM,40,merchandise,Red,HTC,Team Tracks,Harlem River,Car Barge,,,,,,,,,,,,,0,,,load
+TT,Train Terminates,Harlem River

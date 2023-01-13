@@ -1,0 +1,19 @@
+O2O Pittsburgh 1915
+Local Switch Job
+Track Pattern for location
+Comment: Track Pattern for Selected Tracks
+Valid time: Sun May 01 2022 08:29 AM PST
+
+Location: AS&WCo
+Track: Horse Shoes
+[  ] PRR   11117   Xl Ven Horse  *No Waybill                    *Via Staging          
+[  ] PRR   11726   Xl Ven Horse  *No Waybill                    *Via Staging          
+[  ] Penna 10260   Boxcar Horse  *No Waybill                    *Via Staging          
+Total Cars: 3 Track Length: 180 Eqpt. Length: 124 Available: 56
+
+Track Totals for Cars:
+ *Via Staging - 3
+
+
+Report Totals for Cars:
+ *Via Staging - 3

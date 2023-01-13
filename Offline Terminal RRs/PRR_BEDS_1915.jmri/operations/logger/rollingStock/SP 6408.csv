@@ -1,0 +1,5 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+6408,SP,GA,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:04:40
+6408,SP,GA,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:42
+6408,SP,GA,lumber stack,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:46
+6408,SP,GA,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:14:02

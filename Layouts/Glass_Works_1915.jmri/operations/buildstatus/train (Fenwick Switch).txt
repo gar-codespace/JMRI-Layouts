@@ -1,0 +1,2668 @@
+1- Build Report for train (Fenwick Switch) built on 12/12/22 1:21 PM
+1- JMRI version 4.26+R381c8dfc32
+3- Build report detail level: Normal
+5- Build report detail level: Detailed
+7- Build report detail level: Very Detailed
+1-  
+5- Train Build Options:
+5- Build option is set to aggressive
+5- Perform 2 passes
+5- Make departure track available after train is built
+5-  
+5- Staging build options:
+5- Make departure track available after train is built
+5- Allow cars to return to staging
+5-  
+5- Car routing options:
+5- WARNING only selected trains used for routing:
+7- Train (Fenwick Switch) 
+7- Train (Terminal Switch) 
+5-  
+5- Enabled build options for train (Fenwick Switch):
+5- Allow cars to return to staging
+5- Allow local moves if car has a custom load or FD
+5-  
+5- Disabled build options for train (Fenwick Switch):
+5- Use normal mode when building this train
+5- Send all car pick ups to terminal (Salem)
+5- Service all cars with a final destination (FD)
+5- Send cars with custom loads to staging
+5- Build loco consist from single locos
+5-  
+3- Train (Fenwick Switch) route (Fenwick Switch):
+3- 2r1 Staging (Salem) request 50 pick ups, maximum train length 4,000 feet
+3- 2r3 Location (Fenwick Creek) requests 20 moves, maximum train length 4,000 feet
+3- 2r2 Staging (Salem) requests 50 set outs
+1- Route (Fenwick Switch) requests 60 cars and 120 moves
+1-  
+1- Train requirements:
+1- Train does not require any locomotives
+1-  
+3-  
+1- Train terminates into staging at (Salem), there are 1 tracks
+1- Train will return to staging (Salem) reuse departure track
+3-  
+1- Train will depart staging (Salem), there are 1 tracks
+3- Staging track (Terminal) has 0 loco(s) and 35 cars
+7- Train (Fenwick Switch) can depart from staging track (Terminal)
+7- Done assigning locomotives from staging
+3-  
+5-  
+5- Train (Fenwick Switch) services car types:
+5- F, G, H, N, R, RH, Rf, TO, TV, X
+7-  
+7- Remove cars not serviced by this train:
+7-  
+7- Remove cars from the other staging tracks:
+5-  
+5- Departing staging (Salem, Terminal) with 35 cars
+7- Staging car (SP 3336) type (G) load (E)
+7- Staging car (ER 7213) type (H) load (E)
+7- Staging car (WJ&S 7980) type (X) load (E)
+7- Staging car (DL&W 8032) type (X) load (E)
+7- Staging car (UTLX 6041) type (TO) load (E)
+7- Staging car (B&A 5982) type (H) load (E)
+7- Staging car (B&O 5357) type (X) load (E)
+7- Staging car (HKH 3059) type (TV) load (E)
+7- Staging car (WJ&S 2503) type (X) load (E)
+7- Staging car (AT&SF 0554) type (X) load (E)
+7- Staging car (M&P 6493) type (X) load (E)
+7- Staging car (NYNH&H 0117) type (X) load (E)
+7- Staging car (FGEX 5722) type (Rf) load (E)
+7- Staging car (UTLX 1411) type (TO) load (E)
+7- Staging car (P&R 0589) type (X) load (E)
+7- Staging car (B&A 1700) type (G) load (E)
+7- Staging car (HKH 2787) type (RH) load (E)
+7- Staging car (PRR 3219) type (X) load (E)
+7- Staging car (WJ&S 4000) type (G) load (E)
+7- Staging car (CNJ 4230) type (G) load (E)
+7- Staging car (PRR 3275) type (X) load (E)
+7- Staging car (NYC 7726) type (H) load (E)
+7- Staging car (B&A 2202) type (G) load (E)
+7- Staging car (CNJ 5327) type (X) load (E)
+7- Staging car (HKH 2773) type (TV) load (E)
+7- Staging car (M&P 7900) type (X) load (E)
+7- Staging car (HKH 2907) type (RH) load (E)
+7- Staging car (UTLX 0354) type (TO) load (E)
+7- Staging car (P&R 6907) type (X) load (E)
+7- Staging car (ER 7090) type (X) load (E)
+7- Staging car (AT&SF 3882) type (F) load (E)
+7- Staging car (NYC 3372) type (G) load (E)
+7- Staging car (HKH 3275) type (RH) load (E)
+7- Staging car (ACL 5780) type (F) load (E)
+7- Staging car (AT&SF 0775) type (X) load (E)
+5-  
+1- Found 53 cars for train (Fenwick Switch)
+7- Cars available from staging (Salem):
+7- Car (SP 3336) type (G) at (Salem, Terminal) 0 moves
+7- Car (ER 7213) type (H) at (Salem, Terminal) 0 moves
+7- Car (WJ&S 7980) type (X) at (Salem, Terminal) 0 moves
+7- Car (DL&W 8032) type (X) at (Salem, Terminal) 0 moves
+7- Car (UTLX 6041) type (TO) at (Salem, Terminal) 0 moves
+7- Car (B&A 5982) type (H) at (Salem, Terminal) 0 moves
+7- Car (B&O 5357) type (X) at (Salem, Terminal) 0 moves
+7- Car (HKH 3059) type (TV) at (Salem, Terminal) 0 moves
+7- Car (WJ&S 2503) type (X) at (Salem, Terminal) 0 moves
+7- Car (AT&SF 0554) type (X) at (Salem, Terminal) 0 moves
+7- Car (M&P 6493) type (X) at (Salem, Terminal) 0 moves
+7- Car (NYNH&H 0117) type (X) at (Salem, Terminal) 0 moves
+7- Car (FGEX 5722) type (Rf) at (Salem, Terminal) 0 moves
+7- Car (UTLX 1411) type (TO) at (Salem, Terminal) 0 moves
+7- Car (P&R 0589) type (X) at (Salem, Terminal) 0 moves
+7- Car (B&A 1700) type (G) at (Salem, Terminal) 0 moves
+7- Car (HKH 2787) type (RH) at (Salem, Terminal) 0 moves
+7- Car (PRR 3219) type (X) at (Salem, Terminal) 0 moves
+7- Car (WJ&S 4000) type (G) at (Salem, Terminal) 0 moves
+7- Car (CNJ 4230) type (G) at (Salem, Terminal) 0 moves
+7- Car (PRR 3275) type (X) at (Salem, Terminal) 0 moves
+7- Car (NYC 7726) type (H) at (Salem, Terminal) 0 moves
+7- Car (B&A 2202) type (G) at (Salem, Terminal) 0 moves
+7- Car (CNJ 5327) type (X) at (Salem, Terminal) 0 moves
+7- Car (HKH 2773) type (TV) at (Salem, Terminal) 0 moves
+7- Car (M&P 7900) type (X) at (Salem, Terminal) 0 moves
+7- Car (HKH 2907) type (RH) at (Salem, Terminal) 0 moves
+7- Car (UTLX 0354) type (TO) at (Salem, Terminal) 0 moves
+7- Car (P&R 6907) type (X) at (Salem, Terminal) 0 moves
+7- Car (ER 7090) type (X) at (Salem, Terminal) 0 moves
+7- Car (AT&SF 3882) type (F) at (Salem, Terminal) 0 moves
+7- Car (NYC 3372) type (G) at (Salem, Terminal) 0 moves
+7- Car (HKH 3275) type (RH) at (Salem, Terminal) 0 moves
+7- Car (ACL 5780) type (F) at (Salem, Terminal) 0 moves
+7- Car (AT&SF 0775) type (X) at (Salem, Terminal) 0 moves
+7-  
+7- Cars at location (Fenwick Creek):
+7- Car (WJ&S 1572) type (H) at (Fenwick Creek, Electric Co of NJ) 0 moves
+7- Car (ER 4555) type (X) at (Fenwick Creek, Glass Storage) 0 moves
+7- Car (WJ&S 0116) type (X) at (Fenwick Creek, Ware Shed) 0 moves
+7- Car (WJ&S 7908) type (H) at (Fenwick Creek, Salem Gas Light) 0 moves
+7- Car (NYNH&H 1963) type (G) at (Fenwick Creek, Sand Storage) 0 moves
+7- Car (UTLX 9780) type (TO) at (Fenwick Creek, Fuel Oil) 0 moves
+7- Car (SP 2013) type (H) at (Fenwick Creek, Coal Trestle) 0 moves
+7- Car (UTLX 6480) type (TO) at (Fenwick Creek, Fuel Oil) 0 moves
+7- Car (NYC 1399) type (X) at (Fenwick Creek, Glass Storage) 0 moves
+7- Car (ER 8837) type (X) at (Fenwick Creek, Ware House) 0 moves
+7- Car (NYC 7826) type (X) at (Fenwick Creek, Glass Storage) 0 moves
+7- Car (WJ&S 5454) type (X) at (Fenwick Creek, Ware Shed) 0 moves
+7- Car (B&A 0949) type (X) at (Fenwick Creek, Glassware) 0 moves
+7- Car (PRR 9500) type (X) at (Fenwick Creek, Glass Storage) 0 moves
+7- Car (PRR 7857) type (H) at (Fenwick Creek, Coal Trestle) 0 moves
+7- Car (NYC 7611) type (H) at (Fenwick Creek, Salem Gas Light) 0 moves
+7- Car (CNJ 3018) type (H) at (Fenwick Creek, Electric Co of NJ) 0 moves
+7- Car (WJ&S 2197) type (X) at (Fenwick Creek, Ware House) 0 moves
+7-  
+7- Sort cars on FIFO and LIFO tracks:
+7-  
+5- Train does not require caboose when departing (Salem)
+5- Train does not require car with FRED
+7-  
+7- Remove cars not needed by this train:
+3-  
+3- Requested cars (60) for train (Fenwick Switch) the number available (53) building 
+3- train! 
+3-  
+3- Multiple pass build (Aggressive Mode), begin pass 50% pick ups
+3-  
+3- Warning! Option to allow cars to return to staging enabled, program must assume that 
+3- all cars in staging (Salem) can return to the same departure track (Terminal). 
+3-  
+3- Departing staging in aggressive mode, find destinations from (Salem) in next pass
+1- Route location (Salem) id 2r1 requests 0 pick ups, 50/50 moves are available
+5-  
+1- Success 0/0 cars at location (Salem) assigned to train (Fenwick Switch)
+1- Route location (Fenwick Creek) id 2r3 requests 10 pick ups, 20/20 moves are available
+5-  
+5- Find spur for car (WJ&S 1572) type (H) custom empty (Empty) at (Fenwick Creek, 
+5- Electric Co of NJ) 
+7- Destination (Fenwick Creek, Glassware) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Township, Sand House) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township,  Ware House) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Bottling & Packing) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Township, Coal Gas) can't service car (WJ&S 1572) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Packing) can't service car (WJ&S 1572) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township, Sand Storage) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Vinegar) can't service car (WJ&S 1572) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township, Kitchen) can't service car (WJ&S 1572) with load (Empty) due 
+7- to type (H) 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (WJ&S 1572) with load 
+7- (Empty) due to schedule no match 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (WJ&S 1572) with load 
+7- (Empty) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Terminal, Smith Canning) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Luke F Smith) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Fenwick Creek, Ware House) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Ramp) can't service car (WJ&S 1572) with load (Empty) due to 
+7- type (H) 
+7- Destination (Terminal, SB&I Material) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, SB&I Scrap) can't service car (WJ&S 1572) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, Coal Bin) can't service car (WJ&S 1572) with load (Empty) due 
+7- to schedule no match 
+7- Destination (Terminal, JF Ayers) can't service car (WJ&S 1572) with load (Empty) due 
+7- to type (H) 
+7- Destination (Terminal, SB&I Ware House) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Salem Freight House) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, General Delivery) can't service car (WJ&S 1572) with load 
+7- (Empty) due to type (H) 
+7- Could not find a reachable spur for car (WJ&S 1572) load (Empty)
+5- Try to send car (WJ&S 1572) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 1572) from spur (Fenwick Creek, 
+7- Electric Co of NJ) to (Salem, ) 
+7- Route for car (WJ&S 1572): (Fenwick Creek, Electric Co of NJ)->(Salem, )
+7- Car (WJ&S 1572) load (Empty) has assigned destination (Salem, )
+5- Car (WJ&S 1572) doesn't have an assigned destination track
+5- Car (WJ&S 1572) assigned to staging track (Terminal)
+3- Car (WJ&S 1572) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (ER 4555) type (X) custom load (glassware) at (Fenwick Creek, Glass 
+5- Storage) 
+7- Destination (Fenwick Creek, Glassware) can't service car (ER 4555) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand House) can't service car (ER 4555) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township,  Ware House) can't service car (ER 4555) with load (glassware) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Bottling & Packing) can't service car (ER 4555) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Coal Gas) can't service car (ER 4555) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Packing) can't service car (ER 4555) with load (glassware) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand Storage) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Township, Vinegar) can't service car (ER 4555) with load (glassware) due 
+7- to type (X) 
+7- Destination (Township, Kitchen) can't service car (ER 4555) with load (glassware) due 
+7- to schedule no match 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Smith Canning) can't service car (ER 4555) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Luke F Smith) can't service car (ER 4555) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Ware House) can't service car (ER 4555) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (ER 4555) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Ramp) can't service car (ER 4555) with load (glassware) due to 
+7- type (X) 
+7- Destination (Terminal, SB&I Material) can't service car (ER 4555) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, SB&I Scrap) can't service car (ER 4555) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, Coal Bin) can't service car (ER 4555) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, JF Ayers) can't service car (ER 4555) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Terminal, SB&I Ware House) can't service car (ER 4555) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Salem Freight House) can't service car (ER 4555) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, General Delivery) can't service car (ER 4555) with load 
+7- (glassware) due to schedule no match 
+7- Could not find a reachable spur for car (ER 4555) load (glassware)
+5- Try to send car (ER 4555) custom load (glassware) to staging
+7- Staging (Salem, Terminal) can accept car's load (glassware)
+7- Train (Fenwick Switch) can transport car (ER 4555) from spur (Fenwick Creek, Glass 
+7- Storage) to (Salem, ) 
+7- Route for car (ER 4555): (Fenwick Creek, Glass Storage)->(Salem, )
+7- Car (ER 4555) load (glassware) has assigned destination (Salem, )
+5- Car (ER 4555) doesn't have an assigned destination track
+5- Car (ER 4555) assigned to staging track (Terminal)
+3- Car (ER 4555) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (WJ&S 0116) type (X) custom load (glassware) at (Fenwick Creek, 
+5- Ware Shed) 
+7- Destination (Fenwick Creek, Glassware) can't service car (WJ&S 0116) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand House) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Township,  Ware House) can't service car (WJ&S 0116) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Bottling & Packing) can't service car (WJ&S 0116) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Coal Gas) can't service car (WJ&S 0116) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Packing) can't service car (WJ&S 0116) with load (glassware) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand Storage) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Township, Vinegar) can't service car (WJ&S 0116) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Kitchen) can't service car (WJ&S 0116) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (WJ&S 0116) with 
+7- load (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Smith Canning) can't service car (WJ&S 0116) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Luke F Smith) can't service car (WJ&S 0116) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (WJ&S 0116) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Fenwick Creek, Ware House) can't service car (WJ&S 0116) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Ramp) can't service car (WJ&S 0116) with load (glassware) due 
+7- to type (X) 
+7- Destination (Terminal, SB&I Material) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, SB&I Scrap) can't service car (WJ&S 0116) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Coal Bin) can't service car (WJ&S 0116) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, JF Ayers) can't service car (WJ&S 0116) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Terminal, SB&I Ware House) can't service car (WJ&S 0116) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Salem Freight House) can't service car (WJ&S 0116) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, General Delivery) can't service car (WJ&S 0116) with load 
+7- (glassware) due to schedule no match 
+7- Could not find a reachable spur for car (WJ&S 0116) load (glassware)
+5- Try to send car (WJ&S 0116) custom load (glassware) to staging
+7- Staging (Salem, Terminal) can accept car's load (glassware)
+7- Train (Fenwick Switch) can transport car (WJ&S 0116) from spur (Fenwick Creek, Ware 
+7- Shed) to (Salem, ) 
+7- Route for car (WJ&S 0116): (Fenwick Creek, Ware Shed)->(Salem, )
+7- Car (WJ&S 0116) load (glassware) has assigned destination (Salem, )
+5- Car (WJ&S 0116) doesn't have an assigned destination track
+5- Car (WJ&S 0116) assigned to staging track (Terminal)
+3- Car (WJ&S 0116) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (WJ&S 7908) type (H) custom empty (Empty) at (Fenwick Creek, Salem 
+5- Gas Light) 
+7- Destination (Fenwick Creek, Glassware) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Township, Sand House) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township,  Ware House) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Bottling & Packing) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Township, Coal Gas) can't service car (WJ&S 7908) with load (Empty) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Packing) can't service car (WJ&S 7908) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township, Sand Storage) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Vinegar) can't service car (WJ&S 7908) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township, Kitchen) can't service car (WJ&S 7908) with load (Empty) due 
+7- to type (H) 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (WJ&S 7908) with load 
+7- (Empty) due to schedule no match 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (WJ&S 7908) with 
+7- load (Empty) due to schedule no match 
+7- Destination (Terminal, Smith Canning) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Luke F Smith) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Fenwick Creek, Ware House) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Ramp) can't service car (WJ&S 7908) with load (Empty) due to 
+7- type (H) 
+7- Destination (Terminal, SB&I Material) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, SB&I Scrap) can't service car (WJ&S 7908) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, Coal Bin) can't service car (WJ&S 7908) with load (Empty) due 
+7- to schedule no match 
+7- Destination (Terminal, JF Ayers) can't service car (WJ&S 7908) with load (Empty) due 
+7- to type (H) 
+7- Destination (Terminal, SB&I Ware House) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Salem Freight House) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, General Delivery) can't service car (WJ&S 7908) with load 
+7- (Empty) due to type (H) 
+7- Could not find a reachable spur for car (WJ&S 7908) load (Empty)
+5- Try to send car (WJ&S 7908) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 7908) from spur (Fenwick Creek, Salem 
+7- Gas Light) to (Salem, ) 
+7- Route for car (WJ&S 7908): (Fenwick Creek, Salem Gas Light)->(Salem, )
+7- Car (WJ&S 7908) load (Empty) has assigned destination (Salem, )
+5- Car (WJ&S 7908) doesn't have an assigned destination track
+5- Car (WJ&S 7908) assigned to staging track (Terminal)
+3- Car (WJ&S 7908) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (NYNH&H 1963) type (G) custom empty (Empty) at (Fenwick Creek, Sand 
+5- Storage) 
+7- Destination (Fenwick Creek, Glassware) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Township, Sand House) can't service car (NYNH&H 1963) with load (Empty) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township,  Ware House) can't service car (NYNH&H 1963) with load (Empty) 
+7- due to type (G) 
+7- Destination (Township, Bottling & Packing) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Township, Coal Gas) can't service car (NYNH&H 1963) with load (Empty) 
+7- due to type (G) 
+7- Destination (Township, Packing) can't service car (NYNH&H 1963) with load (Empty) due 
+7- to type (G) 
+7- Destination (Township, Sand Storage) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Vinegar) can't service car (NYNH&H 1963) with load (Empty) due 
+7- to type (G) 
+7- Destination (Township, Kitchen) can't service car (NYNH&H 1963) with load (Empty) due 
+7- to type (G) 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (NYNH&H 1963) with 
+7- load (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (NYNH&H 1963) with 
+7- load (Empty) due to type (G) 
+7- Destination (Terminal, Smith Canning) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Terminal, Luke F Smith) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Ware House) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Terminal, Ramp) can't service car (NYNH&H 1963) with load (Empty) due to 
+7- schedule no match 
+7- Destination (Terminal, SB&I Material) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to schedule no match 
+7- Try destination (Terminal, SB&I Scrap) for car (NYNH&H 1963) with load (Empty) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Not able to set destination for car (NYNH&H 1963) due to not able to route car
+7- Destination (Terminal, Coal Bin) can't service car (NYNH&H 1963) with load (Empty) 
+7- due to type (G) 
+7- Destination (Terminal, JF Ayers) can't service car (NYNH&H 1963) with load (Empty) 
+7- due to type (G) 
+7- Destination (Terminal, SB&I Ware House) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Terminal, Salem Freight House) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to type (G) 
+7- Destination (Terminal, General Delivery) can't service car (NYNH&H 1963) with load 
+7- (Empty) due to schedule no match 
+7- Could not find a reachable spur for car (NYNH&H 1963) load (Empty)
+5- Try to send car (NYNH&H 1963) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (NYNH&H 1963) from spur (Fenwick Creek, Sand 
+7- Storage) to (Salem, ) 
+7- Route for car (NYNH&H 1963): (Fenwick Creek, Sand Storage)->(Salem, )
+7- Car (NYNH&H 1963) load (Empty) has assigned destination (Salem, )
+5- Car (NYNH&H 1963) doesn't have an assigned destination track
+5- Car (NYNH&H 1963) assigned to staging track (Terminal)
+3- Car (NYNH&H 1963) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (UTLX 9780) type (TO) custom empty (Empty) at (Fenwick Creek, Fuel 
+5- Oil) 
+7- Destination (Fenwick Creek, Glassware) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Township, Sand House) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township,  Ware House) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township, Bottling & Packing) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Township, Coal Gas) can't service car (UTLX 9780) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Township, Packing) can't service car (UTLX 9780) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Township, Sand Storage) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township, Vinegar) can't service car (UTLX 9780) with load (Empty) due 
+7- to schedule no match 
+7- Destination (Township, Kitchen) can't service car (UTLX 9780) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (UTLX 9780) with 
+7- load (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Smith Canning) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Luke F Smith) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Ware House) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Ramp) can't service car (UTLX 9780) with load (Empty) due to 
+7- type (TO) 
+7- Destination (Terminal, SB&I Material) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Terminal, SB&I Scrap) can't service car (UTLX 9780) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Terminal, Coal Bin) can't service car (UTLX 9780) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Terminal, JF Ayers) can't service car (UTLX 9780) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Terminal, SB&I Ware House) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Salem Freight House) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, General Delivery) can't service car (UTLX 9780) with load 
+7- (Empty) due to type (TO) 
+7- Could not find a reachable spur for car (UTLX 9780) load (Empty)
+5- Try to send car (UTLX 9780) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (UTLX 9780) from spur (Fenwick Creek, Fuel 
+7- Oil) to (Salem, ) 
+7- Route for car (UTLX 9780): (Fenwick Creek, Fuel Oil)->(Salem, )
+7- Car (UTLX 9780) load (Empty) has assigned destination (Salem, )
+5- Car (UTLX 9780) doesn't have an assigned destination track
+5- Car (UTLX 9780) assigned to staging track (Terminal)
+3- Car (UTLX 9780) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (SP 2013) type (H) custom empty (Empty) at (Fenwick Creek, Coal 
+5- Trestle) 
+7- Destination (Fenwick Creek, Glassware) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Sand House) can't service car (SP 2013) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township,  Ware House) can't service car (SP 2013) with load (Empty) due 
+7- to type (H) 
+7- Destination (Township, Bottling & Packing) can't service car (SP 2013) with load 
+7- (Empty) due to type (H) 
+7- Destination (Township, Coal Gas) can't service car (SP 2013) with load (Empty) due to 
+7- rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Packing) can't service car (SP 2013) with load (Empty) due to 
+7- type (H) 
+7- Destination (Township, Sand Storage) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Township, Vinegar) can't service car (SP 2013) with load (Empty) due to 
+7- type (H) 
+7- Destination (Township, Kitchen) can't service car (SP 2013) with load (Empty) due to 
+7- type (H) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (SP 2013) with load 
+7- (Empty) due to schedule no match 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (SP 2013) with load 
+7- (Empty) due to schedule no match 
+7- Destination (Terminal, Smith Canning) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (SP 2013) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, Luke F Smith) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (SP 2013) with load 
+7- (Empty) due to type (H) 
+7- Destination (Fenwick Creek, Ware House) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, Ramp) can't service car (SP 2013) with load (Empty) due to 
+7- type (H) 
+7- Destination (Terminal, SB&I Material) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, SB&I Scrap) can't service car (SP 2013) with load (Empty) due 
+7- to type (H) 
+7- Destination (Terminal, Coal Bin) can't service car (SP 2013) with load (Empty) due to 
+7- schedule no match 
+7- Destination (Terminal, JF Ayers) can't service car (SP 2013) with load (Empty) due to 
+7- type (H) 
+7- Destination (Terminal, SB&I Ware House) can't service car (SP 2013) with load (Empty) 
+7- due to type (H) 
+7- Destination (Terminal, Salem Freight House) can't service car (SP 2013) with load 
+7- (Empty) due to type (H) 
+7- Destination (Terminal, General Delivery) can't service car (SP 2013) with load 
+7- (Empty) due to type (H) 
+7- Could not find a reachable spur for car (SP 2013) load (Empty)
+5- Try to send car (SP 2013) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (SP 2013) from spur (Fenwick Creek, Coal 
+7- Trestle) to (Salem, ) 
+7- Route for car (SP 2013): (Fenwick Creek, Coal Trestle)->(Salem, )
+7- Car (SP 2013) load (Empty) has assigned destination (Salem, )
+5- Car (SP 2013) doesn't have an assigned destination track
+5- Car (SP 2013) assigned to staging track (Terminal)
+3- Car (SP 2013) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (UTLX 6480) type (TO) custom empty (Empty) at (Fenwick Creek, Fuel 
+5- Oil) 
+7- Destination (Fenwick Creek, Glassware) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Township, Sand House) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township,  Ware House) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township, Bottling & Packing) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Township, Coal Gas) can't service car (UTLX 6480) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Township, Packing) can't service car (UTLX 6480) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Township, Sand Storage) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Township, Vinegar) can't service car (UTLX 6480) with load (Empty) due 
+7- to schedule no match 
+7- Destination (Township, Kitchen) can't service car (UTLX 6480) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (UTLX 6480) with 
+7- load (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Smith Canning) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Luke F Smith) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Ware House) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Ramp) can't service car (UTLX 6480) with load (Empty) due to 
+7- type (TO) 
+7- Destination (Terminal, SB&I Material) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Terminal, SB&I Scrap) can't service car (UTLX 6480) with load (Empty) 
+7- due to type (TO) 
+7- Destination (Terminal, Coal Bin) can't service car (UTLX 6480) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Terminal, JF Ayers) can't service car (UTLX 6480) with load (Empty) due 
+7- to type (TO) 
+7- Destination (Terminal, SB&I Ware House) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, Salem Freight House) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Destination (Terminal, General Delivery) can't service car (UTLX 6480) with load 
+7- (Empty) due to type (TO) 
+7- Could not find a reachable spur for car (UTLX 6480) load (Empty)
+5- Try to send car (UTLX 6480) custom load (Empty) to staging
+7- Staging (Salem, Terminal) can accept car's load (Empty)
+7- Train (Fenwick Switch) can transport car (UTLX 6480) from spur (Fenwick Creek, Fuel 
+7- Oil) to (Salem, ) 
+7- Route for car (UTLX 6480): (Fenwick Creek, Fuel Oil)->(Salem, )
+7- Car (UTLX 6480) load (Empty) has assigned destination (Salem, )
+5- Car (UTLX 6480) doesn't have an assigned destination track
+5- Car (UTLX 6480) assigned to staging track (Terminal)
+3- Car (UTLX 6480) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (NYC 1399) type (X) custom load (glassware) at (Fenwick Creek, 
+5- Glass Storage) 
+7- Destination (Fenwick Creek, Glassware) can't service car (NYC 1399) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand House) can't service car (NYC 1399) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township,  Ware House) can't service car (NYC 1399) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Bottling & Packing) can't service car (NYC 1399) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Coal Gas) can't service car (NYC 1399) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Packing) can't service car (NYC 1399) with load (glassware) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand Storage) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Township, Vinegar) can't service car (NYC 1399) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Kitchen) can't service car (NYC 1399) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Smith Canning) can't service car (NYC 1399) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Luke F Smith) can't service car (NYC 1399) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Ware House) can't service car (NYC 1399) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (NYC 1399) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Ramp) can't service car (NYC 1399) with load (glassware) due 
+7- to type (X) 
+7- Destination (Terminal, SB&I Material) can't service car (NYC 1399) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, SB&I Scrap) can't service car (NYC 1399) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, Coal Bin) can't service car (NYC 1399) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, JF Ayers) can't service car (NYC 1399) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Terminal, SB&I Ware House) can't service car (NYC 1399) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Salem Freight House) can't service car (NYC 1399) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, General Delivery) can't service car (NYC 1399) with load 
+7- (glassware) due to schedule no match 
+7- Could not find a reachable spur for car (NYC 1399) load (glassware)
+5- Try to send car (NYC 1399) custom load (glassware) to staging
+7- Staging (Salem, Terminal) can accept car's load (glassware)
+7- Train (Fenwick Switch) can transport car (NYC 1399) from spur (Fenwick Creek, Glass 
+7- Storage) to (Salem, ) 
+7- Route for car (NYC 1399): (Fenwick Creek, Glass Storage)->(Salem, )
+7- Car (NYC 1399) load (glassware) has assigned destination (Salem, )
+5- Car (NYC 1399) doesn't have an assigned destination track
+5- Car (NYC 1399) assigned to staging track (Terminal)
+3- Car (NYC 1399) assigned to train, destination (Salem, Terminal)
+3-  
+5- Find spur for car (ER 8837) type (X) custom load (glassware) at (Fenwick Creek, Ware 
+5- House) 
+7- Destination (Fenwick Creek, Glassware) can't service car (ER 8837) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand House) can't service car (ER 8837) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township,  Ware House) can't service car (ER 8837) with load (glassware) 
+7- due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Bottling & Packing) can't service car (ER 8837) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Coal Gas) can't service car (ER 8837) with load (glassware) 
+7- due to type (X) 
+7- Destination (Township, Packing) can't service car (ER 8837) with load (glassware) due 
+7- to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Township, Sand Storage) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Township, Vinegar) can't service car (ER 8837) with load (glassware) due 
+7- to type (X) 
+7- Destination (Township, Kitchen) can't service car (ER 8837) with load (glassware) due 
+7- to schedule no match 
+7- Destination (Fenwick Creek, Coal Trestle) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Electric Co of NJ) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Salem Gas Light) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Smith Canning) can't service car (ER 8837) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Fuel Oil) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Fenwick Creek, Sand Storage) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, Luke F Smith) can't service car (ER 8837) with load 
+7- (glassware) due to rolling stock length 44 feet, available track space 0 feet 
+7- Destination (Fenwick Creek, Glass Storage) can't service car (ER 8837) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Fenwick Creek, Ware Shed) can't service car (ER 8837) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Ramp) can't service car (ER 8837) with load (glassware) due to 
+7- type (X) 
+7- Destination (Terminal, SB&I Material) can't service car (ER 8837) with load 
+7- (glassware) due to type (X) 
+7- Destination (Terminal, SB&I Scrap) can't service car (ER 8837) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, Coal Bin) can't service car (ER 8837) with load (glassware) 
+7- due to type (X) 
+7- Destination (Terminal, JF Ayers) can't service car (ER 8837) with load (glassware) 
+7- due to schedule no match 
+7- Destination (Terminal, SB&I Ware House) can't service car (ER 8837) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, Salem Freight House) can't service car (ER 8837) with load 
+7- (glassware) due to schedule no match 
+7- Destination (Terminal, General Delivery) can't service car (ER 8837) with load 
+7- (glassware) due to schedule no match 
+7- Could not find a reachable spur for car (ER 8837) load (glassware)
+5- Try to send car (ER 8837) custom load (glassware) to staging
+7- Staging (Salem, Terminal) can accept car's load (glassware)
+7- Train (Fenwick Switch) can transport car (ER 8837) from spur (Fenwick Creek, Ware 
+7- House) to (Salem, ) 
+7- Route for car (ER 8837): (Fenwick Creek, Ware House)->(Salem, )
+7- Car (ER 8837) load (glassware) has assigned destination (Salem, )
+5- Car (ER 8837) doesn't have an assigned destination track
+5- Car (ER 8837) assigned to staging track (Terminal)
+3- Car (ER 8837) assigned to train, destination (Salem, Terminal)
+3-  
+1- Success 10/10 cars at location (Fenwick Creek) assigned to train (Fenwick Switch)
+1- Route location (Salem) id 2r2 no pick ups
+3-  
+3- Multiple pass build (Aggressive Mode), begin final pass
+1- Route location (Salem) id 2r1 requests 50 pick ups, 50/50 moves are available
+5-  
+5- Staging track (Terminal) has the following options selected:
+5- Generate custom loads for any spur (multiple trains)
+5-  
+5- Generate load for (SP 3336) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (SP 3336) out of staging (Salem) directly 
+7- to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (SP 3336) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (SP 3336) out of staging (Salem) directly 
+7- to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (SP 3336) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can transport car (SP 3336) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Sand Storage) 
+7- Route for car (SP 3336): (Salem, Terminal)->(Fenwick Creek, Sand Storage)
+5- Car (SP 3336) custom load (sand) final destination (Fenwick Creek, Sand Storage)
+7- Car (SP 3336) load (sand) has assigned destination (Fenwick Creek, Sand Storage)
+3- Car (SP 3336) assigned to train, destination (Fenwick Creek, Sand Storage)
+3-  
+5- Generate load for (ER 7213) type (H) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Coal Gas) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (ER 7213) out of staging (Salem) directly 
+7- to (Township, Coal Gas) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (ER 7213) with load (coal) to (Township, Coal Gas)
+7- Try spur (Fenwick Creek, Coal Trestle) custom load (coal)
+7- Train (Fenwick Switch) can transport car (ER 7213) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Coal Trestle) 
+7- Route for car (ER 7213): (Salem, Terminal)->(Fenwick Creek, Coal Trestle)
+5- Car (ER 7213) custom load (coal) final destination (Fenwick Creek, Coal Trestle)
+7- Car (ER 7213) load (coal) has assigned destination (Fenwick Creek, Coal Trestle)
+3- Car (ER 7213) assigned to train, destination (Fenwick Creek, Coal Trestle)
+3-  
+5- Generate load for (WJ&S 7980) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 7980) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glassware) 
+7- Route for car (WJ&S 7980): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (WJ&S 7980) due to rolling stock length 
+7- 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (WJ&S 7980)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 7980) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 7980) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 7980) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 7980) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glass Storage) 
+7- Route for car (WJ&S 7980): (Salem, Terminal)->(Fenwick Creek, Glass Storage)
+5- Car (WJ&S 7980) custom load (Empty) final destination (Fenwick Creek, Glass Storage)
+7- Car (WJ&S 7980) load (Empty) has assigned destination (Fenwick Creek, Glass Storage)
+3- Car (WJ&S 7980) assigned to train, destination (Fenwick Creek, Glass Storage)
+3-  
+5- Generate load for (DL&W 8032) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (DL&W 8032) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glassware) 
+7- Route for car (DL&W 8032): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (DL&W 8032) due to rolling stock length 
+7- 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (DL&W 8032)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (DL&W 8032) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (DL&W 8032) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (DL&W 8032) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (DL&W 8032) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Ware House) 
+7- Route for car (DL&W 8032): (Salem, Terminal)->(Fenwick Creek, Ware House)
+5- Car (DL&W 8032) custom load (Empty) final destination (Fenwick Creek, Ware House)
+7- Car (DL&W 8032) load (Empty) has assigned destination (Fenwick Creek, Ware House)
+3- Car (DL&W 8032) assigned to train, destination (Fenwick Creek, Ware House)
+3-  
+5- Generate load for (UTLX 6041) type (TO) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Vinegar) custom load (vinegar)
+7- Train (Fenwick Switch) can't transport car (UTLX 6041) out of staging (Salem) 
+7- directly to (Township, Vinegar) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (UTLX 6041) with load (vinegar) to (Township, Vinegar)
+7- Try spur (Fenwick Creek, Fuel Oil) custom load (fuel)
+7- Train (Fenwick Switch) can transport car (UTLX 6041) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Fuel Oil) 
+7- Route for car (UTLX 6041): (Salem, Terminal)->(Fenwick Creek, Fuel Oil)
+5- Car (UTLX 6041) custom load (fuel) final destination (Fenwick Creek, Fuel Oil)
+7- Car (UTLX 6041) load (fuel) has assigned destination (Fenwick Creek, Fuel Oil)
+3- Car (UTLX 6041) assigned to train, destination (Fenwick Creek, Fuel Oil)
+3-  
+5- Generate load for (B&A 5982) type (H) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Coal Gas) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (B&A 5982) out of staging (Salem) directly 
+7- to (Township, Coal Gas) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&A 5982) with load (coal) to (Township, Coal Gas)
+7- Try spur (Fenwick Creek, Electric Co of NJ) custom load (coal)
+7- Train (Fenwick Switch) can transport car (B&A 5982) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Electric Co of NJ) 
+7- Route for car (B&A 5982): (Salem, Terminal)->(Fenwick Creek, Electric Co of NJ)
+5- Car (B&A 5982) custom load (coal) final destination (Fenwick Creek, Electric Co of NJ)
+7- Car (B&A 5982) load (coal) has assigned destination (Fenwick Creek, Electric Co of NJ)
+3- Car (B&A 5982) assigned to train, destination (Fenwick Creek, Electric Co of NJ)
+3-  
+5- Generate load for (B&O 5357) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (B&O 5357) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Glassware) 
+7- Route for car (B&O 5357): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (B&O 5357) due to rolling stock length 
+7- 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (B&O 5357)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (B&O 5357) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&O 5357) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&O 5357) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&O 5357) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&O 5357) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&O 5357) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&O 5357) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&O 5357) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (B&O 5357) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Ware Shed) 
+7- Route for car (B&O 5357): (Salem, Terminal)->(Fenwick Creek, Ware Shed)
+5- Car (B&O 5357) custom load (Empty) final destination (Fenwick Creek, Ware Shed)
+7- Car (B&O 5357) load (Empty) has assigned destination (Fenwick Creek, Ware Shed)
+3- Car (B&O 5357) assigned to train, destination (Fenwick Creek, Ware Shed)
+3-  
+5- Generate load for (HKH 3059) type (TV) load (E) at (Salem, Terminal) destination ()
+7- Could not find a route to a spur that needs a custom load for car (HKH 3059)
+5- Find destinations for (HKH 3059) type (TV) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+7- Can't send (HKH 3059) to spur (Glassware) due to type (TV)
+7- Can't send (HKH 3059) to spur (Salem Gas Light) due to type (TV)
+7- Can't send (HKH 3059) to spur (Electric Co of NJ) due to type (TV)
+7- Can't send (HKH 3059) to spur (Coal Trestle) due to type (TV)
+7- Can't send (HKH 3059) to spur (Fuel Oil) due to type (TV)
+7- Can't send (HKH 3059) to spur (Sand Storage) due to type (TV)
+7- Can't send (HKH 3059) to spur (Ware Shed) due to type (TV)
+7- Can't send (HKH 3059) to spur (Glass Storage) due to type (TV)
+7- Can't send (HKH 3059) to spur (Ware House) due to type (TV)
+5- Could not find a track for (HKH 3059) at destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (HKH 3059) to staging (Salem), no other tracks available
+5- Car (HKH 3059) can go to staging (Salem, Terminal) 10/50 moves used
+3- Car (HKH 3059) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (WJ&S 2503) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 2503) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glassware) 
+7- Route for car (WJ&S 2503): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (WJ&S 2503) due to rolling stock length 
+7- 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (WJ&S 2503)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 2503) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 2503) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 2503) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (WJ&S 2503) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glass Storage) 
+7- Route for car (WJ&S 2503): (Salem, Terminal)->(Fenwick Creek, Glass Storage)
+5- Car (WJ&S 2503) custom load (Empty) final destination (Fenwick Creek, Glass Storage)
+7- Car (WJ&S 2503) load (Empty) has assigned destination (Fenwick Creek, Glass Storage)
+3- Car (WJ&S 2503) assigned to train, destination (Fenwick Creek, Glass Storage)
+3-  
+5- Generate load for (AT&SF 0554) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (AT&SF 0554) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Glassware) 
+7- Route for car (AT&SF 0554): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (AT&SF 0554) due to rolling stock 
+7- length 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (AT&SF 0554)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0554) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0554) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0554) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (AT&SF 0554) from staging (Salem, Terminal) 
+7- to (Fenwick Creek, Ware House) 
+7- Route for car (AT&SF 0554): (Salem, Terminal)->(Fenwick Creek, Ware House)
+5- Car (AT&SF 0554) custom load (Empty) final destination (Fenwick Creek, Ware House)
+7- Car (AT&SF 0554) load (Empty) has assigned destination (Fenwick Creek, Ware House)
+3- Car (AT&SF 0554) assigned to train, destination (Fenwick Creek, Ware House)
+3-  
+5- Generate load for (M&P 6493) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (M&P 6493) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Glassware) 
+7- Route for car (M&P 6493): (Salem, Terminal)->(Fenwick Creek, Glassware)
+7- Can't use spur (Fenwick Creek, Glassware) for (M&P 6493) due to rolling stock length 
+7- 44 feet, available track space 0 feet 
+7- Track (Glassware) full, searching for a yard at destination (Fenwick Creek)
+7- Could not find a yard at (Fenwick Creek) for car (M&P 6493)
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (M&P 6493) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 6493) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 6493) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 6493) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 6493) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 6493) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 6493) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 6493) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can transport car (M&P 6493) from staging (Salem, Terminal) to 
+7- (Fenwick Creek, Ware Shed) 
+7- Route for car (M&P 6493): (Salem, Terminal)->(Fenwick Creek, Ware Shed)
+5- Car (M&P 6493) custom load (Empty) final destination (Fenwick Creek, Ware Shed)
+7- Car (M&P 6493) load (Empty) has assigned destination (Fenwick Creek, Ware Shed)
+3- Car (M&P 6493) assigned to train, destination (Fenwick Creek, Ware Shed)
+3-  
+5- Generate load for (NYNH&H 0117) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYNH&H 0117) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (lcl)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (lcl) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYNH&H 0117) out of staging (Salem) 
+7- directly to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYNH&H 0117) with load (Empty) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (NYNH&H 0117)
+5- Find destinations for (NYNH&H 0117) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (NYNH&H 0117) to staging (Salem), no other tracks available
+5- Car (NYNH&H 0117) can go to staging (Salem, Terminal) 11/50 moves used
+3- Car (NYNH&H 0117) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (FGEX 5722) type (Rf) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Kitchen) custom load (produce)
+7- Train (Fenwick Switch) can't transport car (FGEX 5722) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (FGEX 5722) with load (produce) to (Township, Kitchen)
+7- Could not find a route to a spur that needs a custom load for car (FGEX 5722)
+5- Find destinations for (FGEX 5722) type (Rf) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (FGEX 5722) to staging (Salem), no other tracks available
+5- Car (FGEX 5722) can go to staging (Salem, Terminal) 12/50 moves used
+3- Car (FGEX 5722) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (UTLX 1411) type (TO) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Vinegar) custom load (vinegar)
+7- Train (Fenwick Switch) can't transport car (UTLX 1411) out of staging (Salem) 
+7- directly to (Township, Vinegar) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (UTLX 1411) with load (vinegar) to (Township, Vinegar)
+7- Try spur (Fenwick Creek, Fuel Oil) custom load (fuel)
+7- Train (Fenwick Switch) can't transport car (UTLX 1411) out of staging (Salem) 
+7- directly to (Fenwick Creek, Fuel Oil) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (UTLX 1411) with load (fuel) to (Fenwick Creek, Fuel Oil)
+7- Could not find a route to a spur that needs a custom load for car (UTLX 1411)
+5- Find destinations for (UTLX 1411) type (TO) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (UTLX 1411) to staging (Salem), no other tracks available
+5- Car (UTLX 1411) can go to staging (Salem, Terminal) 13/50 moves used
+3- Car (UTLX 1411) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (P&R 0589) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 0589) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 0589) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 0589) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 0589) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 0589) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 0589) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 0589) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 0589) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (Empty) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (P&R 0589) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 0589) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (P&R 0589)
+5- Find destinations for (P&R 0589) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (P&R 0589) to staging (Salem), no other tracks available
+5- Car (P&R 0589) can go to staging (Salem, Terminal) 14/50 moves used
+3- Car (P&R 0589) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (B&A 1700) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&A 1700) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&A 1700) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Fenwick Creek, Sand Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (B&A 1700) with load (sand) to (Fenwick Creek, Sand Storage)
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 1700) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 1700) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, SB&I Scrap) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Terminal, SB&I Scrap) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 1700) with load (Empty) to (Terminal, SB&I Scrap)
+7- Try spur (Terminal, General Delivery) custom load (barrels)
+7- Train (Fenwick Switch) can't transport car (B&A 1700) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 1700) with load (barrels) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (B&A 1700)
+5- Find destinations for (B&A 1700) type (G) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (B&A 1700) to staging (Salem), no other tracks available
+5- Car (B&A 1700) can go to staging (Salem, Terminal) 15/50 moves used
+3- Car (B&A 1700) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (HKH 2787) type (RH) load (E) at (Salem, Terminal) destination ()
+7- Could not find a route to a spur that needs a custom load for car (HKH 2787)
+5- Find destinations for (HKH 2787) type (RH) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (HKH 2787) to staging (Salem), no other tracks available
+5- Car (HKH 2787) can go to staging (Salem, Terminal) 16/50 moves used
+3- Car (HKH 2787) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (PRR 3219) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3219) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3219) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3219) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3219) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3219) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3219) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3219) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3219) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (lcl)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (lcl) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (PRR 3219) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3219) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (PRR 3219)
+5- Find destinations for (PRR 3219) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (PRR 3219) to staging (Salem), no other tracks available
+5- Car (PRR 3219) can go to staging (Salem, Terminal) 17/50 moves used
+3- Car (PRR 3219) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (WJ&S 4000) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 4000) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (WJ&S 4000) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Fenwick Creek, Sand Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (WJ&S 4000) with load (sand) to (Fenwick Creek, Sand Storage)
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 4000) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 4000) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, SB&I Scrap) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Terminal, SB&I Scrap) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 4000) with load (Empty) to (Terminal, SB&I Scrap)
+7- Try spur (Terminal, General Delivery) custom load (barrels)
+7- Train (Fenwick Switch) can't transport car (WJ&S 4000) out of staging (Salem) 
+7- directly to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (WJ&S 4000) with load (barrels) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (WJ&S 4000)
+5- Find destinations for (WJ&S 4000) type (G) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (WJ&S 4000) to staging (Salem), no other tracks available
+5- Car (WJ&S 4000) can go to staging (Salem, Terminal) 18/50 moves used
+3- Car (WJ&S 4000) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (CNJ 4230) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 4230) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 4230) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Fenwick Creek, Sand Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (CNJ 4230) with load (sand) to (Fenwick Creek, Sand Storage)
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 4230) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 4230) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, SB&I Scrap) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Terminal, SB&I Scrap) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 4230) with load (Empty) to (Terminal, SB&I Scrap)
+7- Try spur (Terminal, General Delivery) custom load (barrels)
+7- Train (Fenwick Switch) can't transport car (CNJ 4230) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 4230) with load (barrels) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (CNJ 4230)
+5- Find destinations for (CNJ 4230) type (G) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (CNJ 4230) to staging (Salem), no other tracks available
+5- Car (CNJ 4230) can go to staging (Salem, Terminal) 19/50 moves used
+3- Car (CNJ 4230) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (PRR 3275) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3275) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3275) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3275) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3275) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (PRR 3275) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3275) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3275) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (PRR 3275) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (Empty) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (PRR 3275) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (PRR 3275) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (PRR 3275)
+5- Find destinations for (PRR 3275) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (PRR 3275) to staging (Salem), no other tracks available
+5- Car (PRR 3275) can go to staging (Salem, Terminal) 20/50 moves used
+3- Car (PRR 3275) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (NYC 7726) type (H) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Coal Gas) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (NYC 7726) out of staging (Salem) directly 
+7- to (Township, Coal Gas) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYC 7726) with load (coal) to (Township, Coal Gas)
+7- Try spur (Fenwick Creek, Salem Gas Light) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (NYC 7726) out of staging (Salem) directly 
+7- to (Fenwick Creek, Salem Gas Light) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYC 7726) with load (coal) to (Fenwick Creek, Salem Gas Light)
+7- Try spur (Fenwick Creek, Coal Trestle) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (NYC 7726) out of staging (Salem) directly 
+7- to (Fenwick Creek, Coal Trestle) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYC 7726) with load (coal) to (Fenwick Creek, Coal Trestle)
+7- Try spur (Fenwick Creek, Electric Co of NJ) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (NYC 7726) out of staging (Salem) directly 
+7- to (Fenwick Creek, Electric Co of NJ) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYC 7726) with load (coal) to (Fenwick Creek, Electric Co of NJ)
+7- Try spur (Terminal, Coal Bin) custom load (coal)
+7- Train (Fenwick Switch) can't transport car (NYC 7726) out of staging (Salem) directly 
+7- to (Terminal, Coal Bin) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYC 7726) with load (coal) to (Terminal, Coal Bin)
+7- Could not find a route to a spur that needs a custom load for car (NYC 7726)
+5- Find destinations for (NYC 7726) type (H) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (NYC 7726) to staging (Salem), no other tracks available
+5- Car (NYC 7726) can go to staging (Salem, Terminal) 21/50 moves used
+3- Car (NYC 7726) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (B&A 2202) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&A 2202) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (B&A 2202) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Fenwick Creek, Sand Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (B&A 2202) with load (sand) to (Fenwick Creek, Sand Storage)
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 2202) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 2202) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, SB&I Scrap) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Terminal, SB&I Scrap) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 2202) with load (Empty) to (Terminal, SB&I Scrap)
+7- Try spur (Terminal, General Delivery) custom load (barrels)
+7- Train (Fenwick Switch) can't transport car (B&A 2202) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (B&A 2202) with load (barrels) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (B&A 2202)
+5- Find destinations for (B&A 2202) type (G) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (B&A 2202) to staging (Salem), no other tracks available
+5- Car (B&A 2202) can go to staging (Salem, Terminal) 22/50 moves used
+3- Car (B&A 2202) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (CNJ 5327) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (CNJ 5327) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (CNJ 5327) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (lcl)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (lcl) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (CNJ 5327) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (CNJ 5327) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (CNJ 5327)
+5- Find destinations for (CNJ 5327) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (CNJ 5327) to staging (Salem), no other tracks available
+5- Car (CNJ 5327) can go to staging (Salem, Terminal) 23/50 moves used
+3- Car (CNJ 5327) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (HKH 2773) type (TV) load (E) at (Salem, Terminal) destination ()
+7- Could not find a route to a spur that needs a custom load for car (HKH 2773)
+5- Find destinations for (HKH 2773) type (TV) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (HKH 2773) to staging (Salem), no other tracks available
+5- Car (HKH 2773) can go to staging (Salem, Terminal) 24/50 moves used
+3- Car (HKH 2773) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (M&P 7900) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (M&P 7900) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 7900) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 7900) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 7900) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (M&P 7900) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (M&P 7900) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (M&P 7900) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (M&P 7900) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (Empty) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (M&P 7900) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (M&P 7900) with load (Empty) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (M&P 7900)
+5- Find destinations for (M&P 7900) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (M&P 7900) to staging (Salem), no other tracks available
+5- Car (M&P 7900) can go to staging (Salem, Terminal) 25/50 moves used
+3- Car (M&P 7900) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (HKH 2907) type (RH) load (E) at (Salem, Terminal) destination ()
+7- Could not find a route to a spur that needs a custom load for car (HKH 2907)
+5- Find destinations for (HKH 2907) type (RH) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (HKH 2907) to staging (Salem), no other tracks available
+5- Car (HKH 2907) can go to staging (Salem, Terminal) 26/50 moves used
+3- Car (HKH 2907) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (UTLX 0354) type (TO) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Vinegar) custom load (vinegar)
+7- Train (Fenwick Switch) can't transport car (UTLX 0354) out of staging (Salem) 
+7- directly to (Township, Vinegar) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (UTLX 0354) with load (vinegar) to (Township, Vinegar)
+7- Try spur (Fenwick Creek, Fuel Oil) custom load (fuel)
+7- Train (Fenwick Switch) can't transport car (UTLX 0354) out of staging (Salem) 
+7- directly to (Fenwick Creek, Fuel Oil) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (UTLX 0354) with load (fuel) to (Fenwick Creek, Fuel Oil)
+7- Could not find a route to a spur that needs a custom load for car (UTLX 0354)
+5- Find destinations for (UTLX 0354) type (TO) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (UTLX 0354) to staging (Salem), no other tracks available
+5- Car (UTLX 0354) can go to staging (Salem, Terminal) 27/50 moves used
+3- Car (UTLX 0354) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (P&R 6907) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 6907) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 6907) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 6907) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 6907) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (P&R 6907) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 6907) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 6907) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (P&R 6907) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (lcl)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (lcl) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (P&R 6907) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (P&R 6907) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (P&R 6907)
+5- Find destinations for (P&R 6907) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (P&R 6907) to staging (Salem), no other tracks available
+5- Car (P&R 6907) can go to staging (Salem, Terminal) 28/50 moves used
+3- Car (P&R 6907) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (ER 7090) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (ER 7090) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (ER 7090) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (ER 7090) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (ER 7090) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (ER 7090) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (ER 7090) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (ER 7090) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (ER 7090) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (Empty) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (ER 7090) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ER 7090) with load (Empty) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (ER 7090)
+5- Find destinations for (ER 7090) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (ER 7090) to staging (Salem), no other tracks available
+5- Car (ER 7090) can go to staging (Salem, Terminal) 29/50 moves used
+3- Car (ER 7090) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (AT&SF 3882) type (F) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (AT&SF 3882) out of staging (Salem) 
+7- directly to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 3882) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (AT&SF 3882) out of staging (Salem) 
+7- directly to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 3882) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, General Delivery) custom load (tarp)
+7- Train (Fenwick Switch) can't transport car (AT&SF 3882) out of staging (Salem) 
+7- directly to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 3882) with load (tarp) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (AT&SF 3882)
+5- Find destinations for (AT&SF 3882) type (F) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (AT&SF 3882) to staging (Salem), no other tracks available
+5- Car (AT&SF 3882) can go to staging (Salem, Terminal) 30/50 moves used
+3- Car (AT&SF 3882) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (NYC 3372) type (G) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Township, Sand House) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Township, Sand House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYC 3372) with load (sand) to (Township, Sand House)
+7- Try spur (Township, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Township, Sand Storage) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (NYC 3372) with load (sand) to (Township, Sand Storage)
+7- Try spur (Fenwick Creek, Sand Storage) custom load (sand)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Fenwick Creek, Sand Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (NYC 3372) with load (sand) to (Fenwick Creek, Sand Storage)
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYC 3372) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYC 3372) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, SB&I Scrap) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Terminal, SB&I Scrap) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYC 3372) with load (Empty) to (Terminal, SB&I Scrap)
+7- Try spur (Terminal, General Delivery) custom load (barrels)
+7- Train (Fenwick Switch) can't transport car (NYC 3372) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (NYC 3372) with load (barrels) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (NYC 3372)
+5- Find destinations for (NYC 3372) type (G) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (NYC 3372) to staging (Salem), no other tracks available
+5- Car (NYC 3372) can go to staging (Salem, Terminal) 31/50 moves used
+3- Car (NYC 3372) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (HKH 3275) type (RH) load (E) at (Salem, Terminal) destination ()
+7- Could not find a route to a spur that needs a custom load for car (HKH 3275)
+5- Find destinations for (HKH 3275) type (RH) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (HKH 3275) to staging (Salem), no other tracks available
+5- Car (HKH 3275) can go to staging (Salem, Terminal) 32/50 moves used
+3- Car (HKH 3275) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (ACL 5780) type (F) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Terminal, Ramp) custom load (machinery)
+7- Train (Fenwick Switch) can't transport car (ACL 5780) out of staging (Salem) directly 
+7- to (Terminal, Ramp) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ACL 5780) with load (machinery) to (Terminal, Ramp)
+7- Try spur (Terminal, SB&I Material) custom load (material)
+7- Train (Fenwick Switch) can't transport car (ACL 5780) out of staging (Salem) directly 
+7- to (Terminal, SB&I Material) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ACL 5780) with load (material) to (Terminal, SB&I Material)
+7- Try spur (Terminal, General Delivery) custom load (tarp)
+7- Train (Fenwick Switch) can't transport car (ACL 5780) out of staging (Salem) directly 
+7- to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (ACL 5780) with load (tarp) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (ACL 5780)
+5- Find destinations for (ACL 5780) type (F) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (ACL 5780) to staging (Salem), no other tracks available
+5- Car (ACL 5780) can go to staging (Salem, Terminal) 33/50 moves used
+3- Car (ACL 5780) assigned to train, destination (Salem, Terminal)
+3-  
+5- Generate load for (AT&SF 0775) type (X) load (E) at (Salem, Terminal) destination ()
+7- Try spur (Fenwick Creek, Glassware) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Fenwick Creek, Glassware) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Fenwick Creek, Glassware)
+7- Try spur (Township,  Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Township,  Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Township,  Ware House)
+7- Try spur (Township, Bottling & Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Township, Bottling & Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Township, Bottling & Packing)
+7- Try spur (Township, Packing) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Township, Packing) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Township, Packing)
+7- Try spur (Township, Kitchen) custom load (goods)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Township, Kitchen) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Township) 
+7- Can't route car (AT&SF 0775) with load (goods) to (Township, Kitchen)
+7- Try spur (Terminal, Smith Canning) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, Smith Canning) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Terminal, Smith Canning)
+7- Try spur (Terminal, Luke F Smith) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, Luke F Smith) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Terminal, Luke F Smith)
+7- Try spur (Fenwick Creek, Glass Storage) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Fenwick Creek, Glass Storage) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Fenwick Creek, Glass Storage)
+7- Try spur (Fenwick Creek, Ware House) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Fenwick Creek, Ware House) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Fenwick Creek, Ware House)
+7- Try spur (Fenwick Creek, Ware Shed) custom load (Empty)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Fenwick Creek, Ware Shed) 
+7- Train (Fenwick Switch) no moves left for route (Fenwick Switch) id 2r3 destination 
+7- (Fenwick Creek) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Fenwick Creek) 
+7- Can't route car (AT&SF 0775) with load (Empty) to (Fenwick Creek, Ware Shed)
+7- Try spur (Terminal, JF Ayers) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, JF Ayers) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (merchandise) to (Terminal, JF Ayers)
+7- Try spur (Terminal, SB&I Ware House) custom load (wire)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, SB&I Ware House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (wire) to (Terminal, SB&I Ware House)
+7- Try spur (Terminal, Salem Freight House) custom load (lcl)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, Salem Freight House) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (lcl) to (Terminal, Salem Freight House)
+7- Try spur (Terminal, General Delivery) custom load (merchandise)
+7- Train (Fenwick Switch) can't transport car (AT&SF 0775) out of staging (Salem) 
+7- directly to (Terminal, General Delivery) 
+7- Could not find an interim C/I or yard track that can service car to destination 
+7- (Terminal) 
+7- Can't route car (AT&SF 0775) with load (merchandise) to (Terminal, General Delivery)
+7- Could not find a route to a spur that needs a custom load for car (AT&SF 0775)
+5- Find destinations for (AT&SF 0775) type (X) empty (E) at (Salem, Terminal)
+7- Searching location (Fenwick Creek) route id 2r3 for possible destination
+5- Used 20/20 moves for route (Fenwick Switch) id 2r3 destination (Fenwick Creek)
+7- Searching location (Salem) route id 2r2 for possible destination
+7- Returning car (AT&SF 0775) to staging (Salem), no other tracks available
+5- Car (AT&SF 0775) can go to staging (Salem, Terminal) 34/50 moves used
+3- Car (AT&SF 0775) assigned to train, destination (Salem, Terminal)
+3-  
+1- Partial 35/50 cars at location (Salem) assigned to train (Fenwick Switch)
+1- Route location (Fenwick Creek) id 2r3 requests 0 pick ups, 0/20 moves are available
+5-  
+1- Success 0/0 cars at location (Fenwick Creek) assigned to train (Fenwick Switch)
+7- The following cars were ignored, requested moves (20) for location (Fenwick Creek) 
+7- completed 
+7- Car (NYC 7826) type (X) load (glassware) at (Fenwick Creek, Glass Storage)
+7- Car (WJ&S 5454) type (X) load (glassware) at (Fenwick Creek, Ware Shed)
+7- Car (B&A 0949) type (X) load (glassware) at (Fenwick Creek, Glassware)
+7- Car (PRR 9500) type (X) load (glassware) at (Fenwick Creek, Glass Storage)
+7- Car (PRR 7857) type (H) load (Empty) at (Fenwick Creek, Coal Trestle)
+7- Car (NYC 7611) type (H) load (Empty) at (Fenwick Creek, Salem Gas Light)
+7- Car (CNJ 3018) type (H) load (Empty) at (Fenwick Creek, Electric Co of NJ)
+7- Car (WJ&S 2197) type (X) load (glassware) at (Fenwick Creek, Ware House)
+7-  
+1- Route location (Salem) id 2r2 no pick ups
+1- Partial 45/60 cars
+1- Build report for train (Fenwick Switch) has 1 warnings
+5- Build for train (Fenwick Switch) took 94 mSec

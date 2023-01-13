@@ -1,0 +1,103 @@
+West Jersey & Seashore RR
+Salem & Glass Works Branch
+Salem, New Jersey
+ 
+Manifest for train (Town Job)
+Valid 12/12/1915 13:25
+Industry switch at Salem Yard
+ 
+Scheduled work at Salem, departure time 00:00
+ [ ] Pick up ER 7213 H load coal destination Terminal
+ [ ] Pick up B&A 5982 H load coal destination Terminal
+ [ ] Pick up WJ&S 2503 X load merchandise destination Terminal
+ [ ] Pick up NYNH&H 0117 X empty Empty destination Terminal
+ [ ] Pick up DL&W 8032 X load merchandise destination Terminal
+ [ ] Pick up B&O 5357 X load merchandise destination Terminal
+ [ ] Pick up WJ&S 7980 X empty Empty destination Terminal
+ [ ] Pick up SP 3336 G load machinery destination Terminal
+ [ ] Pick up CNJ 4230 G load machinery destination Terminal
+ [ ] Pick up AT&SF 0554 X load lcl destination Terminal
+ [ ] Pick up P&R 0589 X empty Empty destination Terminal
+ [ ] Pick up B&A 1700 G load material destination Terminal
+ [ ] Pick up WJ&S 4000 G empty Empty destination Terminal
+ [ ] Pick up M&P 6493 X load wire destination Terminal
+ [ ] Pick up PRR 3219 X load wire destination Terminal
+ [ ] Pick up UTLX 6041 TO Empty E destination Salem
+ [ ] Pick up HKH 3059 TV Empty E destination Salem
+ [ ] Pick up FGEX 5722 Rf Empty E destination Salem
+ [ ] Pick up UTLX 1411 TO Empty E destination Salem
+ [ ] Pick up HKH 2787 RH Empty E destination Salem
+ [ ] Pick up PRR 3275 X Empty E destination Salem
+ [ ] Pick up NYC 7726 H Empty E destination Salem
+ [ ] Pick up B&A 2202 G Empty E destination Salem
+ [ ] Pick up CNJ 5327 X Empty E destination Salem
+ [ ] Pick up HKH 2773 TV Empty E destination Salem
+ [ ] Pick up M&P 7900 X Empty E destination Salem
+ [ ] Pick up HKH 2907 RH Empty E destination Salem
+ [ ] Pick up UTLX 0354 TO Empty E destination Salem
+ [ ] Pick up P&R 6907 X Empty E destination Salem
+ [ ] Pick up ER 7090 X Empty E destination Salem
+ [ ] Pick up AT&SF 3882 F Empty E destination Salem
+ [ ] Pick up NYC 3372 G Empty E destination Salem
+ [ ] Pick up HKH 3275 RH Empty E destination Salem
+ [ ] Pick up ACL 5780 F Empty E destination Salem
+ [ ] Pick up AT&SF 0775 X Empty E destination Salem
+Train departs Salem Eastbound with 35 cars, 1,540 feet, 860 tons
+ 
+Scheduled work at Terminal, arrival time 00:04
+ [ ] Pick up WJ&S 9455 X load foodstuffs destination Salem
+ [ ] Pick up LV 5812 X load lcl destination Salem
+ [ ] Pick up NYC 6542 X load lcl destination Salem
+ [ ] Pick up B&O 1568 X load lcl destination Salem
+ [ ] Pick up WJ&S 1719 F empty Empty destination Salem
+ [ ] Pick up LV 9655 G load scrap metal destination Salem
+ [ ] Pick up WJ&S 8364 X load foodstuffs destination Salem
+ [ ] Set out ER 7213 H load coal to Coal Bin
+ [ ] Set out B&A 5982 H load coal to Coal Bin
+ [ ] Set out WJ&S 2503 X load merchandise to General Delivery
+ [ ] Set out NYNH&H 0117 X empty Empty to General Delivery
+ [ ] Move M&P 0238 X empty Empty
+ [ ] Set out DL&W 8032 X load merchandise to JF Ayers
+ [ ] Set out B&O 5357 X load merchandise to JF Ayers
+ [ ] Set out WJ&S 7980 X empty Empty to Luke F Smith
+ [ ] Set out SP 3336 G load machinery to Ramp
+ [ ] Set out CNJ 4230 G load machinery to Ramp
+ [ ] Set out AT&SF 0554 X load lcl to Salem Freight House
+ [ ] Set out P&R 0589 X empty Empty to Salem Freight House
+ [ ] Set out B&A 1700 G load material to SB&I Material
+ [ ] Set out WJ&S 4000 G empty Empty to SB&I Scrap
+ [ ] Move M&P 9015 G empty Empty
+ [ ] Set out M&P 6493 X load wire to SB&I Ware House
+ [ ] Set out PRR 3219 X load wire to SB&I Ware House
+ [ ] Move P&R 0614 X empty Empty
+Train departs Terminal Eastbound with 27 cars, 1,188 feet, 540 tons
+ 
+Scheduled work at Salem, arrival time 01:32
+ [ ] Set out UTLX 6041 TO Empty E to Terminal
+ [ ] Set out HKH 3059 TV Empty E to Terminal
+ [ ] Set out FGEX 5722 Rf Empty E to Terminal
+ [ ] Set out UTLX 1411 TO Empty E to Terminal
+ [ ] Set out HKH 2787 RH Empty E to Terminal
+ [ ] Set out PRR 3275 X Empty E to Terminal
+ [ ] Set out NYC 7726 H Empty E to Terminal
+ [ ] Set out B&A 2202 G Empty E to Terminal
+ [ ] Set out CNJ 5327 X Empty E to Terminal
+ [ ] Set out HKH 2773 TV Empty E to Terminal
+ [ ] Set out M&P 7900 X Empty E to Terminal
+ [ ] Set out HKH 2907 RH Empty E to Terminal
+ [ ] Set out UTLX 0354 TO Empty E to Terminal
+ [ ] Set out P&R 6907 X Empty E to Terminal
+ [ ] Set out ER 7090 X Empty E to Terminal
+ [ ] Set out AT&SF 3882 F Empty E to Terminal
+ [ ] Set out NYC 3372 G Empty E to Terminal
+ [ ] Set out HKH 3275 RH Empty E to Terminal
+ [ ] Set out ACL 5780 F Empty E to Terminal
+ [ ] Set out AT&SF 0775 X Empty E to Terminal
+ [ ] Set out WJ&S 9455 X load foodstuffs to Terminal
+ [ ] Set out LV 5812 X load lcl to Terminal
+ [ ] Set out NYC 6542 X load lcl to Terminal
+ [ ] Set out B&O 1568 X load lcl to Terminal
+ [ ] Set out WJ&S 1719 F empty Empty to Terminal
+ [ ] Set out LV 9655 G load scrap metal to Terminal
+ [ ] Set out WJ&S 8364 X load foodstuffs to Terminal
+Train terminates in Salem

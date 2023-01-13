@@ -1,0 +1,12 @@
+O2O Pittsburgh 1915
+ 
+Manifest for train (AS&WCo - Manifest Pulls) Plant Switch - Manifest
+Pick up AS&WCo Transfer at AVRR
+ 
+Scheduled work at AS&WCo, departure time 00:15
+ [ ] Respot  PRR           105559 X23           Empty          -> AS&WCo, Cable                                            
+ [ ] Respot  PRR           411402 Gk            Empty          -> AS&WCo, Slag Pile                                        
+ [ ] Respot  GR&I          101114 X25           Merchandise    -> AS&WCo, Store                                            
+Train departs AS&WCo Eastbound with 0 cars, 0 feet, 0 tons
+ 
+Train terminates in AVRR(PRR)

@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+7679,UTLX,TG,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:04:35
+7679,UTLX,TG,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:37
+7679,UTLX,TG,fuel oil,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:04:40
+7679,UTLX,TG,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:56
+7679,UTLX,TG,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:58
+7679,UTLX,TG,fuel oil,North 4th St,Team Tracks,,,Float Switch,1,2023/01/04 14:14:01

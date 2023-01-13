@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+1953,HKH,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:02:53
+1953,HKH,RS,Produce,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:02:59
+1953,HKH,RS,Empty,Pier Float,Float Tracks,,,Float Switch,1,2023/01/04 14:04:46
+1953,HKH,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:06:56
+1953,HKH,RS,E,Pier Float,Float Tracks,,,,0,2023/01/04 14:13:48
+1953,HKH,RS,Produce,North 4th St,Team Tracks,,,Float Switch,0,2023/01/04 14:13:52

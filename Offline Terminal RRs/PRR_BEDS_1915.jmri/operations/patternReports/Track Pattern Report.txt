@@ -1,0 +1,74 @@
+PRR BEDS 1914
+
+Work Location: Harlem Division - North 4th St
+Valid Jan 12, 1914, 16:43
+
+Pattern Report for Tracks
+
+Track: Freight Station
+[  ] CNJ   8371    XM     L lcl    Any Line    
+[  ] NYNH& 8767    XM     L lcl    Any Line    
+[  ] PL    2291    XM     L lcl    Any Line    
+[  ] PL    3355    XM     L lcl    Any Line    
+[  ] PRR   0618    XM     L lcl    Any Line    
+[  ] SP    5437    XM     L lcl    Any Line    
+[  ] WJ&S  5836    XM     L lcl    Any Line    
+Total Cars: 7 Track Length: 484 Eqpt. Length: 308 Available: 176
+
+Track Totals for Cars:
+ Any Line - 7
+
+Track: Team Tracks
+[  ] PRR   414     0-4-0 Single   No Waybill      
+[  ] ACL   4177    XM     E Empty  Any Line    
+[  ] ACL   4434    XM     E Empty  Any Line    
+[  ] AT&SF 5288    XM     E Empty  Any Line    
+[  ] B&A   2876    GA     E Empty  Any Line    
+[  ] B&O   0226    XM     E Empty  Any Line    
+[  ] B&O   6144    GA     E Empty  Any Line    
+[  ] CNJ   4885    XM     E Empty  Any Line    
+[  ] DL&W  1035    GA     E Empty  Any Line    
+[  ] DL&W  5836    XM     E Empty  Any Line    
+[  ] ER    5377    XM     E Empty  Any Line    
+[  ] ER    9511    XM     E Empty  Any Line    
+[  ] FGEX  3698    RS     E Empty  Any Line    
+[  ] FGEX  5281    RS     E Empty  Any Line    
+[  ] FGEX  7499    RS     E Empty  Any Line    
+[  ] FGEX  7502    RS     E Empty  Any Line    
+[  ] FGEX  8711    RS     E Empty  Any Line    
+[  ] FGEX  9442    RS     E Empty  Any Line    
+[  ] M&P   2398    XM     E Empty  Any Line    
+[  ] MDX   3236    RS     E Empty  Any Line    
+[  ] MDX   9519    RS     E Empty  Any Line    
+[  ] MDX   9710    RS     E Empty  Any Line    
+[  ] NYC   0830    GA     E Empty  Any Line    
+[  ] NYC   6956    XM     E Empty  Any Line    
+[  ] NYNH& 5762    XM     E Empty  Any Line    
+[  ] P&R   7741    FM     E Empty  Any Line    
+[  ] PGCC  9514    HK     E Empty  Any Line    
+[  ] PL    3950    XM     E Empty  Any Line    
+[  ] PL    4239    XM     E Empty  Any Line    
+[  ] PL    5316    XM     E Empty  Any Line    
+[  ] PL    9032    XM     E Empty  Any Line    
+[  ] PRR   1240    GA     E Empty  Any Line    
+[  ] PRR   1431    TG     E Empty  Any Line    
+[  ] PRR   1789    XM     E Empty  Any Line    
+[  ] PRR   2673    XM     E Empty  Any Line    
+[  ] PRR   6084    XM     E Empty  Any Line    
+[  ] TCX   1747    TG     E Empty  Any Line    
+[  ] WCC   5507    HK     E Empty  Any Line    
+[  ] WJ&S  0771    XM     E Empty  Any Line    
+[  ] WJ&S  1455    GA     E Empty  Any Line    
+[  ] WJ&S  1505    FM     E Empty  Any Line    
+[  ] WJ&S  2279    XM     E Empty  Any Line    
+[  ] WJ&S  2497    XM     E Empty  Any Line    
+[  ] WJ&S  5974    XM     E Empty  Any Line    
+[  ] WJ&S  8214    XM     E Empty  Any Line    
+Total Cars: 44 Track Length: 2200 Eqpt. Length: 1980 Available: 220
+
+Track Totals for Cars:
+ Any Line - 44
+
+
+Report Totals for Cars:
+ Any Line - 51

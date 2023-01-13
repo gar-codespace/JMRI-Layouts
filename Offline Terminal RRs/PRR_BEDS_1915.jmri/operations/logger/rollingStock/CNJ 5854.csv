@@ -1,0 +1,7 @@
+Number,Road,Type,Load,Location,Track,Final Destination,Track,Train,Moves,Date and Time
+5854,CNJ,FM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:04:35
+5854,CNJ,FM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:04:37
+5854,CNJ,FM,machinery,North 4th St,Crane,,,Float Switch,1,2023/01/04 14:04:40
+5854,CNJ,FM,Empty,Pier Float,Float Tracks,,,Float Switch,0,2023/01/04 14:13:56
+5854,CNJ,FM,E,Pier Float,Float Tracks,,,,1,2023/01/04 14:13:58
+5854,CNJ,FM,machinery,North 4th St,Crane,,,Float Switch,1,2023/01/04 14:14:01

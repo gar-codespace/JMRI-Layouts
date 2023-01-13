@@ -1,0 +1,64 @@
+2023-01-10 10:37:49,494 - OPS.Main.Controller - DEBUG - Initialize log file - DEBUG level test message
+2023-01-10 10:37:49,494 - OPS.Main.Controller - INFO - Initialize log file - INFO level test message
+2023-01-10 10:37:49,494 - OPS.Main.Controller - WARNING - Initialize log file - WARNING level test message
+2023-01-10 10:37:49,494 - OPS.Main.Controller - ERROR - Initialize log file - ERROR level test message
+2023-01-10 10:37:49,494 - OPS.Main.Controller - CRITICAL - Initialize log file - CRITICAL level test message
+2023-01-10 10:37:49,510 - OPS.OE.PSE - INFO - The PatternConfig.json file is the correct version
+2023-01-10 10:37:49,510 - OPS.OE.PSE - INFO - Destination folders check OK
+2023-01-10 10:37:49,510 - OPS.OB.Bundle - DEBUG - getAllTextBundles
+2023-01-10 10:37:49,526 - OPS.OE.PSE - INFO - Stub location already exists
+2023-01-10 10:37:49,526 - OPS.OE.PSE - DEBUG - CreateStubFile.writeStubFile
+2023-01-10 10:37:50,197 - OPS.Main.Controller - INFO - Current Pattern Scripts directory: C:\Users\Greg\JMRI\OperationsPatternScripts
+2023-01-10 10:37:50,197 - OPS.Main.Controller - INFO - Main script run time (sec): 0.702
+2023-01-10 10:38:47,519 - OPS.Main.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Pattern Scripts,when=1673375927520,modifiers=Button1] on psButton
+2023-01-10 10:38:47,536 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-10 10:38:47,551 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-10 10:38:47,551 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-10 10:38:47,566 - OPS.JP.Controller - INFO - jPlusSubroutine makeFrame completed
+2023-01-10 10:38:47,566 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-10 10:38:47,566 - OPS.PT.Model - DEBUG - updateLocations
+2023-01-10 10:38:47,588 - OPS.PT.View - DEBUG - PatternTracksSubroutine.View.makeSubroutinePanel
+2023-01-10 10:38:47,605 - OPS.PT.Controller - INFO - pattern tracks makeFrame completed
+2023-01-10 10:38:47,605 - OPS.o2o.View - DEBUG - o2oSubroutine.View.makeSubroutinePanel
+2023-01-10 10:38:47,605 - OPS.o2o.Controller - INFO - o2o makeFrame completed
+2023-01-10 10:38:47,619 - OPS.TB.View - DEBUG - ThrowbackSubroutine.View.makeSubroutinePanel
+2023-01-10 10:38:47,619 - OPS.TB.Controller - INFO - ThrowbackSubroutine makeFrame completed
+2023-01-10 10:38:47,619 - OPS.Main.View - DEBUG - makePatternScriptsWindow
+2023-01-10 10:38:47,688 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=jmri.util.JmriJFrame[frame0,2044,26,452x287,invalid,layout=java.awt.BorderLayout,title=PanelPro,resizable,normal,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,436x248,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on patternScriptsWindow
+2023-01-10 10:38:47,720 - OPS.JP.Model - DEBUG - jPanelSetup
+2023-01-10 10:38:47,720 - OPS.JP.View - DEBUG - jPlusSubroutine.View.makeSubroutinePanel
+2023-01-10 10:38:47,736 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-10 10:38:47,736 - OPS.JP.Controller - DEBUG - Restart: OperationsPatternScripts.jPlusSubroutine.Controller.StartUp
+2023-01-10 10:38:47,736 - OPS.OE.Listeners - DEBUG - java.awt.event.WindowEvent[WINDOW_OPENED,opposite=null,oldState=0,newState=0] on patternScriptsWindow
+2023-01-10 10:38:49,394 - OPS.o2o.Controller - DEBUG - java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Update Rolling Stock,when=1673375929395,modifiers=Button1] on updateJmriRollingingStock
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - DEBUG - getTpReportFiles
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - INFO - TrainPlayer Locations file OK
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - INFO - TrainPlayer Industries file OK
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - INFO - TrainPlayer Inventory file OK
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - DEBUG - processFileHeaders
+2023-01-10 10:38:49,394 - OPS.o2o.ModelImport - DEBUG - getRrLocations
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getRrLocales
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getAllTpRoads
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getAllTpIndustry
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getAllTpCarAar
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getAllTpCarLoads
+2023-01-10 10:38:49,411 - OPS.o2o.ModelImport - DEBUG - getAllTpCarKernels
+2023-01-10 10:38:49,427 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoTypes
+2023-01-10 10:38:49,427 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoModels
+2023-01-10 10:38:49,427 - OPS.o2o.ModelImport - DEBUG - getAllTpLocoConsists
+2023-01-10 10:38:49,427 - OPS.o2o.ModelImport - DEBUG - writeTPLayoutData
+2023-01-10 10:38:49,457 - OPS.o2o.Controller - INFO - TrainPlayer railroad data imported OK
+2023-01-10 10:38:49,473 - OPS.OE.PSE - INFO - tpRailroadData.json: OK
+2023-01-10 10:38:49,473 - OPS.o2o.Model - DEBUG - addRoads
+2023-01-10 10:38:49,473 - OPS.o2o.Model - DEBUG - addCarAar
+2023-01-10 10:38:49,473 - OPS.o2o.Model - DEBUG - addCarLoads
+2023-01-10 10:38:49,473 - OPS.o2o.Model - DEBUG - addCarKernels
+2023-01-10 10:38:49,489 - OPS.o2o.Model - DEBUG - addLocoModels
+2023-01-10 10:38:49,489 - OPS.o2o.Model - DEBUG - addLocoTypes
+2023-01-10 10:38:49,489 - OPS.o2o.Model - DEBUG - addLocoConsist
+2023-01-10 10:38:49,489 - OPS.o2o.Model - INFO - TrainPlayer Inventory file OK
+2023-01-10 10:38:49,489 - OPS.o2o.Model - DEBUG - splitTpList
+2023-01-10 10:38:49,496 - OPS.o2o.Model - DEBUG - makeTpRollingStockData
+2023-01-10 10:38:49,496 - OPS.o2o.Model - DEBUG - newCars
+2023-01-10 10:38:49,558 - OPS.o2o.Model - DEBUG - newLocos
+2023-01-10 10:38:49,611 - OPS.o2o.Controller - INFO - JMRI rolling stock updated
